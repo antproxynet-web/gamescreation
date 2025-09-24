@@ -1,0 +1,610 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>SZXgames - Quizzes</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
+
+<style>
+body, html {
+  margin:0; padding:0;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color:#fff; background:#0a0a0a; overflow-x:hidden;
+}
+
+/* Fundo */
+.background-container {
+  position: fixed; top:0; left:0; width:100%; height:100%; z-index:0; overflow:hidden;
+}
+.background-container img,
+.background-container video {
+  width:100%; height:100%; object-fit:cover; display:none;
+}
+.overlay {
+  position: fixed; top:0; left:0; width:100%; height:100%;
+  background: rgba(0,0,0,0.7); z-index:0;
+}
+
+/* Logo */
+.logo-container {
+  position: absolute; top:20px; left:30px; z-index:3;
+  display:flex; align-items:center; gap:10px; cursor:pointer;
+}
+.logo-container img { width:70px; display:block; }
+.logo-text { font-weight:bold; font-size:1.2rem; }
+.logo-text span { color:#ff4b2b; }
+
+/* Menu lateral */
+.side-menu {
+  position: fixed; top:0; left:0; width:270px; height:100%;
+  background: rgba(0,0,0,0.97); box-shadow:2px 0 10px rgba(0,0,0,0.5);
+  z-index:6; transform:translateX(-100%); transition: transform 0.3s ease; overflow-y:auto;
+}
+.side-menu.active { transform:translateX(0); }
+.menu-banner { width:100%; height:140px; background:url('banner.jpg') center/cover no-repeat; display:flex; align-items:center; justify-content:center; color:#fff; font-weight:bold; }
+.menu-section { padding:10px 20px; font-size:0.9rem; font-weight:bold; text-transform:uppercase; color:#ff4b2b; margin-top:15px; border-top:1px solid rgba(255,255,255,0.08); }
+.side-menu a { display:block; color:#fff; text-decoration:none; font-size:1.05rem; margin:10px 20px; padding:8px 0; transition: color .15s; }
+.side-menu a i { width:20px; margin-right:10px; text-align:center; }
+.side-menu a:hover { color:#ff4b2b; }
+
+/* Floating */
+.floating-btn {
+  position: fixed; bottom:20px; right:20px; width:55px; height:55px; border-radius:100px; border:none;
+  background: linear-gradient(45deg,#6a11cb,#ff4b2b); display:flex; align-items:center; justify-content:center; cursor:pointer;
+  box-shadow:0 6px 18px rgba(0,0,0,0.45); z-index:10;
+}
+.floating-btn:hover { transform:scale(1.06); }
+.floating-btn svg { pointer-events:none; }
+
+/* Conteúdo principal */
+.main-content {
+  position:relative; z-index:1; padding:180px 8% 80px; max-width:1400px; margin:0 auto;
+}
+h2 { font-size:1.6rem; margin:18px 0; border-left:5px solid #ff4b2b; padding-left:12px; }
+
+/* Carrossel de quizzes */
+.cards-carousel { display:flex; overflow-x:auto; gap:18px; scroll-behavior:smooth; padding-bottom:10px; margin-bottom:50px; }
+.cards-carousel::-webkit-scrollbar { height:8px; }
+.cards-carousel::-webkit-scrollbar-thumb { background:#ff4b2b; border-radius:4px; }
+.card { flex:0 0 220px; background: rgba(255,255,255,0.04); border-radius:12px; padding:12px; text-align:center; transition: transform 0.18s, background 0.18s; }
+.card img { width:100%; height:120px; object-fit:cover; border-radius:8px; margin-bottom:8px; }
+.card h3 { margin:8px 0; font-size:1.05rem; }
+.card p { color:#ccc; font-size:0.95rem; }
+.card a.btn { display:inline-block; margin-top:8px; padding:8px 16px; border-radius:22px; background: linear-gradient(45deg,#6a11cb,#ff4b2b); color:#fff; text-decoration:none; font-weight:700; }
+.card:hover { transform: translateY(-6px); background: rgba(255,255,255,0.08); }
+
+/* Responsivo */
+@media (max-width:720px){
+  .logo-text { display:none; }
+  .main-content { padding-top:200px; }
+  .cards-carousel { left:20px; right:20px; flex-direction:row; gap:8px; overflow-x:auto; }
+}
+</style>
+</head>
+<body>
+
+<!-- Fundo -->
+<div class="background-container">
+  <img id="bgImage" src="fundoindex.jpg" alt="Fundo">
+  <video id="bgVideo" src="fundohome.mp4" autoplay muted loop></video>
+</div>
+<div class="overlay"></div>
+
+<!-- Topo: logo -->
+<div class="logo-container" id="logo">
+  <img src="logo.jpg" alt="Logo SZXgames">
+  <div class="logo-text">SZX<span>games</span></div>
+</div>
+
+<!-- Menu lateral -->
+  <div id="sideMenu" class="side-menu">
+    <div class="menu-banner"></div>
+
+    <div class="menu-section">Principal</div>
+    <a href="home.html"><i class="fa fa-house"></i> Início</a>
+    <a href="sobre.html"><i class="fa fa-circle-info"></i> Sobre nós</a>
+    <a href="contato.html"><i class="fa fa-envelope"></i> Contato</a>
+
+    <div class="menu-section">Jogos</div>
+    <a href="jogos.html"><i class="fa fa-gamepad"></i> Jogos em Alta</a>
+    <a href="lancamentos.html"><i class="fa fa-rocket"></i> Lançamentos</a>
+    <a href="reviews.html"><i class="fa fa-star"></i> Reviews</a>
+    <a href="tutoriais.html"><i class="fa fa-lightbulb"></i> Tutoriais & Dicas</a>
+    <a href="mods.html"><i class="fa fa-cubes"></i> Mods & Add-ons</a>
+    <a href="ranking.html"><i class="fa fa-trophy"></i> Ranking / Top Games</a>
+    <a href="classicos.html"><i class="fa fa-dice"></i> Classicos</a>
+
+    <div class="menu-section">Notícias</div>
+    <a href="noticias.html"><i class="fa fa-newspaper"></i> Notícias</a>
+    <a href="esports.html"><i class="fa fa-headset"></i> E-sports</a>
+    <a href="promocoes.html"><i class="fa fa-tags"></i> Promoções & Ofertas</a>
+    <a href="calendario.html"><i class="fa fa-calendar-days"></i> Calendário</a>
+
+    <div class="menu-section">Comunidade</div>
+    <a href="forum.html"><i class="fa fa-comments"></i> Fórum</a>
+    <a href="discord.html"><i class="fa-brands fa-discord"></i> Discord / Telegram</a>
+    <a href="enquetes.html"><i class="fa fa-poll"></i> Enquetes & Votações</a>
+    <a href="quiz.html"><i class="fa fa-question"></i> Quiz</a>
+
+    <div class="menu-section">Extras</div>
+    <a href="ferramentas.html"><i class="fa fa-tools"></i> Ferramentas</a>
+    <a href="downloads.html"><i class="fa fa-download"></i> Downloads</a>
+    <a href="loja.html"><i class="fa fa-store"></i> Loja</a>
+  </div>
+
+<!-- Botão alternar fundo -->
+<button id="toggleBtn" class="floating-btn" title="Alternar fundo">
+  <svg id="iconImage" xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill="#fff" viewBox="0 0 24 24">
+    <path d="M21 19V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2zM5 5h14v6.5l-3-3-4 4-3-3-4 4V5z"/>
+  </svg>
+  <svg id="iconVideo" xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill="#fff" viewBox="0 0 24 24" style="display:none;">
+    <path d="M17 10.5V7a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-3.5l4 4v-11l-4 4z"/>
+  </svg>
+</button>
+
+<!-- Conteúdo principal -->
+<main class="main-content">
+  <div id="quizzesContainer"></div>
+</main>
+
+<script>
+// Menu lateral toggle
+const logo = document.getElementById('logo');
+const sideMenu = document.getElementById('sideMenu');
+logo.addEventListener('click', e => { e.stopPropagation(); sideMenu.classList.toggle('active'); });
+document.addEventListener('click', e => {
+  if(sideMenu.classList.contains('active') && !sideMenu.contains(e.target) && !logo.contains(e.target)){
+    sideMenu.classList.remove('active');
+  }
+});
+
+// Alternar fundo
+const bgImage = document.getElementById('bgImage');
+const bgVideo = document.getElementById('bgVideo');
+const toggleBtn = document.getElementById('toggleBtn');
+const iconImage = document.getElementById('iconImage');
+const iconVideo = document.getElementById('iconVideo');
+let modo = 'imagem';
+function aplicarFundo(modoAtual){
+  if(modoAtual === 'video'){
+    bgImage.style.display = 'none';
+    bgVideo.style.display = 'block';
+    iconImage.style.display = 'none';
+    iconVideo.style.display = 'block';
+  } else {
+    bgVideo.style.display = 'none';
+    bgImage.style.display = 'block';
+    iconVideo.style.display = 'none';
+    iconImage.style.display = 'block';
+  }
+  modo = modoAtual;
+}
+aplicarFundo(modo);
+toggleBtn.addEventListener('click', ()=> aplicarFundo(modo==='imagem'?'video':'imagem'));
+
+// Dados dos quizzes
+const quizSections = [
+  { 
+    title: "Jogos", 
+    prefix: "jogos", 
+    img: "jogo", 
+    link: "quiz-jogo",
+    descs: [
+  "Teste seus conhecimentos sobre Minecraft e descubra se você domina construções, aventuras e criaturas do jogo.",
+  "Teste seus conhecimentos sobre Free Fire e descubra se você domina estratégias, armas e batalhas intensas.",
+  "Teste seus conhecimentos sobre World of Warships e veja se você domina navios, combates e estratégias navais.",
+  "Teste seus conhecimentos sobre Fortnite e descubra se você domina construções, armas e batalhas épicas.",
+  "Teste seus conhecimentos sobre GTA e veja se você domina missões, personagens e todos os cantos da cidade.",
+  "Teste seus conhecimentos sobre Final Fantasy XV e veja se você domina personagens, missões e aventuras épicas.",
+  "Teste seus conhecimentos sobre Apex Legends e descubra se você domina habilidades, personagens e estratégias.",
+  "Teste seus conhecimentos sobre Roblox e veja se você domina mundos, jogos criados e interações entre jogadores.",
+  "Teste seus conhecimentos sobre COD Mobile e descubra se você domina armas, mapas e modos de jogo intensos.",
+  "Teste seus conhecimentos sobre Mobile Legends e veja se você domina heróis, habilidades e estratégias de batalha.",
+  "Teste seus conhecimentos sobre Pou e descubra se você lembra de cuidados, minijogos e todas as travessuras.",
+  "Teste seus conhecimentos sobre FInAF e veja se você domina sustos, segredos e todos os detalhes do jogo.",
+  "Teste seus conhecimentos sobre Red Dead e descubra se você domina personagens, missões e o Velho Oeste.",
+  "Teste seus conhecimentos sobre Granny e veja se você domina estratégias, armadilhas e segredos do jogo.",
+  "Teste seus conhecimentos sobre Assassin's Creed e descubra  histórias, personagens e missões.",
+  "Teste seus conhecimentos sobre Tomb Raider e veja se você domina tumbas, enigmas e aventuras perigosas.",
+  "Teste seus conhecimentos sobre Subway Surfers e descubra se você domina corridas e obstáculos.",
+  "Teste seus conhecimentos sobre Clash Royale e veja se você domina cartas, estratégias e batalhas épicas.",
+  "Teste seus conhecimentos sobre The Legend of Zelda e descubra se você domina segredos, e aventuras.",
+  "Teste seus conhecimentos sobre PUBG Mobile e veja se você domina mapas, armas e estratégias de sobrevivência."
+]
+  },
+  { 
+    title: "Universo", 
+    prefix: "universo", 
+    img: "universo", 
+    link: "quiz-universo",
+    descs: [
+      "Descubra curiosidades sobre planetas.",
+      "Você conhece as estrelas mais famosas?",
+      "Perguntas sobre constelações.",
+      "Desafie-se com buracos negros.",
+      "Explore teorias do cosmos.",
+      "Você sabe tudo sobre o Sistema Solar?",
+      "Perguntas sobre planetas distantes.",
+      "Descubra segredos das galáxias.",
+      "Perguntas sobre viagens espaciais.",
+      "Você conhece a história da astronomia?",
+      "Teste seu conhecimento sobre satélites.",
+      "Fatos curiosos sobre asteroides.",
+      "Descubra informações sobre cometas.",
+      "Perguntas sobre telescópios famosos.",
+      "Você sabe tudo sobre o universo em expansão?",
+      "Curiosidades sobre exoplanetas.",
+      "Perguntas sobre estrelas e supernovas.",
+      "Descubra mistérios do espaço profundo.",
+      "Teste suas habilidades em física espacial.",
+      "Você conhece tudo sobre a Lua e Marte?"
+    ]
+  },
+  { 
+    title: "Geografia", 
+    prefix: "geo", 
+    img: "geo", 
+    link: "quiz-geo",
+    descs: [
+      "Descubra as capitais do mundo.",
+      "Perguntas sobre rios e lagos famosos.",
+      "Você conhece as maiores montanhas?",
+      "Teste seu conhecimento sobre continentes.",
+      "Perguntas sobre países e bandeiras.",
+      "Descubra curiosidades sobre climas.",
+      "Perguntas sobre fronteiras internacionais.",
+      "Você conhece as regiões do Brasil?",
+      "Teste seus conhecimentos em geopolítica.",
+      "Perguntas sobre ilhas e arquipélagos.",
+      "Descubra fatos sobre desertos e florestas.",
+      "Você sabe tudo sobre oceanos?",
+      "Perguntas sobre densidade populacional.",
+      "Curiosidades sobre cidades históricas.",
+      "Teste sua memória com mapas mundiais.",
+      "Perguntas sobre geografia física e humana.",
+      "Descubra fatos sobre vulcões.",
+      "Você conhece regiões polares?",
+      "Perguntas sobre terremotos e tsunamis.",
+      "Teste seu conhecimento sobre migrações."
+    ]
+  },
+  { 
+    title: "Bíblia", 
+    prefix: "biblia", 
+    img: "biblia", 
+    link: "quiz-biblia",
+    descs: [
+      "Perguntas sobre personagens bíblicos.",
+      "Descubra histórias do Antigo Testamento.",
+      "Você conhece parábolas famosas?",
+      "Teste seu conhecimento sobre milagres.",
+      "Perguntas sobre os livros da Bíblia.",
+      "Descubra fatos sobre Moisés e Arão.",
+      "Perguntas sobre os profetas.",
+      "Você conhece os apóstolos?",
+      "Teste seu conhecimento sobre os Evangelhos.",
+      "Perguntas sobre eventos históricos bíblicos.",
+      "Descubra curiosidades sobre Salmos.",
+      "Perguntas sobre a vida de Jesus.",
+      "Você conhece os Dez Mandamentos?",
+      "Teste seu conhecimento sobre Paulo.",
+      "Perguntas sobre milagres e sinais.",
+      "Descubra fatos sobre a criação do mundo.",
+      "Perguntas sobre o dilúvio e Noé.",
+      "Você conhece histórias de coragem e fé?",
+      "Teste seu conhecimento sobre o Apocalipse.",
+      "Perguntas sobre parábolas e ensinamentos."
+    ]
+  },
+  { 
+    title: "História", 
+    prefix: "historia", 
+    img: "historia", 
+    link: "quiz-historia",
+    descs: [
+      "Descubra fatos da Idade Antiga.",
+      "Perguntas sobre guerras famosas.",
+      "Você conhece revoluções importantes?",
+      "Teste seu conhecimento sobre civilizações.",
+      "Perguntas sobre líderes históricos.",
+      "Descubra curiosidades do Egito Antigo.",
+      "Perguntas sobre Roma e Grécia.",
+      "Você conhece a Idade Média?",
+      "Teste seu conhecimento sobre a Renascença.",
+      "Perguntas sobre descobrimentos marítimos.",
+      "Descubra fatos sobre a Revolução Industrial.",
+      "Perguntas sobre Guerras Mundiais.",
+      "Você conhece a história do Brasil?",
+      "Teste seu conhecimento sobre impérios.",
+      "Perguntas sobre cultura e arte antigas.",
+      "Descubra fatos sobre ciência e invenções.",
+      "Perguntas sobre tratados e acordos.",
+      "Você conhece histórias de civilizações perdidas?",
+      "Teste seu conhecimento sobre reis e rainhas.",
+      "Perguntas sobre eventos marcantes da humanidade."
+    ]
+  },
+  { 
+    title: "Anime", 
+    prefix: "anime", 
+    img: "anime", 
+    link: "quiz-anime",
+    descs: [
+      "Mostre que sabe tudo sobre as lutas dos guerreiros Z.",
+  "Teste seus conhecimentos sobre a jornada de Naruto.",
+  "Prove que lembra das batalhas épicas do Shippuden.",
+  "Reviva as lutas lendárias dos cavaleiros de bronze.",
+  "Mostre que conhece os treinadores e seus monstrinhos.",
+  "Descubra se você é um verdadeiro fã dos piratas.",
+  "Teste sua memória sobre Ichigo e os shinigamis.",
+  "Reviva os combates de Yusuke no mundo espiritual.",
+  "Prove que lembra das guerreiras mágicas da lua.",
+  "Mostre que conhece as aventuras iniciais de Goku.",
+  "Desafie-se sobre os deuses e as novas sagas.",
+  "Lembre-se das digievoluções e do mundo digital.",
+  "Descubra se entende o duelo entre Light e L.",
+  "Prove que sabe a jornada dos irmãos Elric.",
+  "Reviva a versão clássica da saga dos Elric.",
+  "Mostre que conhece Tanjiro e os caçadores de demônios.",
+  "Teste-se sobre os titãs e os segredos das muralhas.",
+  "Mostre que lembra dos heróis e seus quirks.",
+  "Descubra o quanto sabe da jornada de Gon.",
+  "Prove que conhece Kaneki e o mundo dos ghouls."
+    ]
+  },
+  { 
+    title: "Matemática", 
+    prefix: "mat", 
+    img: "mat", 
+    link: "quiz-mat",
+    descs: [
+      "Resolva problemas de álgebra.",
+      "Teste seu conhecimento em geometria.",
+      "Perguntas sobre aritmética básica.",
+      "Descubra curiosidades sobre números.",
+      "Perguntas sobre equações e funções.",
+      "Teste seu conhecimento sobre estatística.",
+      "Você conhece teorias matemáticas?",
+      "Perguntas sobre frações e decimais.",
+      "Descubra fatos sobre geometria espacial.",
+      "Teste seu conhecimento em cálculo.",
+      "Perguntas sobre sequências e séries.",
+      "Descubra curiosidades sobre π (pi).",
+      "Perguntas sobre lógica matemática.",
+      "Teste seu conhecimento sobre probabilidade.",
+      "Perguntas sobre gráficos e tabelas.",
+      "Descubra fatos sobre números primos.",
+      "Teste seu conhecimento em trigonometria.",
+      "Perguntas sobre matrizes e vetores.",
+      "Descubra curiosidades sobre zero e infinito.",
+      "Teste seu conhecimento em funções complexas."
+    ]
+  },
+  { 
+    title: "Física", 
+    prefix: "fis", 
+    img: "fis", 
+    link: "quiz-fis",
+    descs: [
+      "Perguntas sobre leis da física clássica.",
+      "Teste seu conhecimento sobre energia.",
+      "Descubra curiosidades sobre movimento.",
+      "Perguntas sobre forças e gravidade.",
+      "Teste seu conhecimento em mecânica.",
+      "Descubra fatos sobre eletricidade.",
+      "Perguntas sobre magnetismo.",
+      "Teste seu conhecimento em ondas e som.",
+      "Perguntas sobre luz e óptica.",
+      "Descubra fatos sobre termodinâmica.",
+      "Teste seu conhecimento em física quântica.",
+      "Perguntas sobre partículas subatômicas.",
+      "Descubra curiosidades sobre relatividade.",
+      "Perguntas sobre astrofísica.",
+      "Teste seu conhecimento em física nuclear.",
+      "Perguntas sobre experiências famosas.",
+      "Descubra fatos sobre física aplicada.",
+      "Teste seu conhecimento sobre energia renovável.",
+      "Perguntas sobre colisões e impacto.",
+      "Descubra curiosidades sobre espaço e tempo."
+    ]
+  },
+  { 
+    title: "Tecnologia", 
+    prefix: "tec", 
+    img: "tec", 
+    link: "quiz-tec",
+    descs: [
+      "Descubra curiosidades sobre IA.",
+      "Perguntas sobre programação.",
+      "Você conhece os gadgets mais famosos?",
+      "Teste seu conhecimento em redes.",
+      "Perguntas sobre cibersegurança.",
+      "Descubra fatos sobre internet.",
+      "Perguntas sobre softwares populares.",
+      "Teste seu conhecimento em hardware.",
+      "Perguntas sobre evolução tecnológica.",
+      "Descubra fatos sobre robótica.",
+      "Perguntas sobre realidade virtual.",
+      "Teste seu conhecimento sobre apps.",
+      "Perguntas sobre dispositivos móveis.",
+      "Descubra curiosidades sobre startups.",
+      "Perguntas sobre inovação tecnológica.",
+      "Teste seu conhecimento sobre algoritmos.",
+      "Perguntas sobre automação.",
+      "Descubra fatos sobre IA no dia a dia.",
+      "Perguntas sobre sistemas operacionais.",
+      "Teste seu conhecimento em ciência da computação."
+    ]
+  },
+  { 
+    title: "Séries da Netflix", 
+    prefix: "curio", 
+    img: "curio", 
+    link: "quiz-curio",
+    descs: [
+  "Explore os mistérios e o humor negro de Wandinha.",
+  "Descubra os segredos e aventuras sobrenaturais de Stranger Things (Temporada 4).",
+  "Conheça a história do infame serial killer Jeffrey Dahmer.",
+  "Mergulhe no romance e intrigas da alta sociedade em Bridgerton (Temporada 1).",
+  "Acompanhe a jornada de uma jovem prodígio do xadrez em O Gambito da Rainha.",
+  "Siga um agente do FBI envolvido em uma conspiração política em O Agente Noturno.",
+  "Descubra os mistérios e dramas envolventes de A Grande Ilusão.",
+  "Acompanhe novamente a trajetória da prodígio do xadrez em O Gambito da Rainha.",
+  "Vivencie os jogos mortais e a crítica social em Squid Game (Temporada 1).",
+  "Explore as complexidades da vida em um resort de luxo em The White Lotus (Temporada 2).",
+  "Conheça a relação entre mãe e filha, cheia de segredos, em Ginny & Georgia (Temporada 2).",
+  "Mergulhe em um mundo de fantasia e monstros em The Witcher (Temporada 1).",
+  "Participe do maior roubo da história em Money Heist (La Casa de Papel).",
+  "Descubra os perigos do tráfico de drogas na Colômbia em Narcos.",
+  "Explore temas delicados da adolescência em 13 Reasons Why.",
+  "Acompanhe o reinado da Rainha Elizabeth II em The Crown.",
+  "Siga um consultor financeiro envolvido com o crime organizado em Ozark.",
+  "Retorne a Hawkins e descubra novos mistérios em Stranger Things (Temporada 3).",
+  "Conheça o diabo como consultor da polícia em Lucifer.",
+  "Explore a vida, mistérios e intrigas em uma escola de elite em Elite."
+    ]
+  }
+];
+
+// Arrays de nomes dos quizzes
+const nomesJogos = [
+  "Quiz:Minecraft","Quiz:Free Fire","Quiz:World of Warships","Quiz: Fortnite",
+  "Quiz:GTA","Quiz:Final Fantasy XV","Quiz:Apex Legends","Quiz:Roblox",
+  "Quiz:COD Mobile","Quiz: Mobile Legends","Quiz:Pou","Quiz:FInAF",
+  "Quiz:Red Dead","Quiz:Granny","Quiz:Assassin's Creed","Quiz:Tomb Raider",
+  "Quiz:Subway Surfers","Quiz:Clash Royale","Quiz:The Legend of Zelda","Quiz:PUBG Mobile"
+];
+
+const nomesUniverso = [
+  "Quiz sobre planetas","Quiz sobre estrelas famosas","Quiz sobre constelações","Quiz sobre buracos negros",
+  "Quiz sobre teorias do cosmos","Quiz sobre Sistema Solar","Quiz sobre planetas distantes","Quiz sobre galáxias",
+  "Quiz sobre viagens espaciais","Quiz sobre história da astronomia","Quiz sobre satélites","Quiz sobre asteroides",
+  "Quiz sobre cometas","Quiz sobre telescópios famosos","Quiz sobre universo em expansão","Quiz sobre exoplanetas",
+  "Quiz sobre estrelas e supernovas","Quiz sobre espaço profundo","Quiz sobre física espacial","Quiz sobre Lua e Marte"
+];
+
+const nomesGeo = [
+  "Quiz sobre capitais do mundo","Quiz sobre rios e lagos","Quiz sobre montanhas famosas","Quiz sobre continentes",
+  "Quiz sobre países e bandeiras","Quiz sobre climas","Quiz sobre fronteiras internacionais","Quiz sobre regiões do Brasil",
+  "Quiz sobre geopolítica","Quiz sobre ilhas e arquipélagos","Quiz sobre desertos e florestas","Quiz sobre oceanos",
+  "Quiz sobre densidade populacional","Quiz sobre cidades históricas","Quiz sobre mapas mundiais","Quiz sobre geografia física",
+  "Quiz sobre vulcões","Quiz sobre regiões polares","Quiz sobre terremotos e tsunamis","Quiz sobre migrações"
+];
+
+const nomesBiblia = [
+  "Quiz sobre personagens bíblicos","Quiz sobre Antigo Testamento","Quiz sobre parábolas famosas","Quiz sobre milagres",
+  "Quiz sobre livros da Bíblia","Quiz sobre Moisés e Arão","Quiz sobre profetas","Quiz sobre apóstolos",
+  "Quiz sobre Evangelhos","Quiz sobre eventos históricos","Quiz sobre Salmos","Quiz sobre vida de Jesus",
+  "Quiz sobre Dez Mandamentos","Quiz sobre Paulo","Quiz sobre milagres e sinais","Quiz sobre criação do mundo",
+  "Quiz sobre dilúvio e Noé","Quiz sobre histórias de coragem","Quiz sobre Apocalipse","Quiz sobre parábolas e ensinamentos"
+];
+
+const nomesHistoria = [
+  "Quiz sobre Idade Antiga","Quiz sobre guerras famosas","Quiz sobre revoluções importantes","Quiz sobre civilizações",
+  "Quiz sobre líderes históricos","Quiz sobre Egito Antigo","Quiz sobre Roma e Grécia","Quiz sobre Idade Média",
+  "Quiz sobre Renascença","Quiz sobre descobrimentos marítimos","Quiz sobre Revolução Industrial","Quiz sobre Guerras Mundiais",
+  "Quiz sobre história do Brasil","Quiz sobre impérios","Quiz sobre cultura e arte antigas","Quiz sobre ciência e invenções",
+  "Quiz sobre tratados e acordos","Quiz sobre civilizações perdidas","Quiz sobre reis e rainhas","Quiz sobre eventos marcantes"
+];
+
+const nomesAnime = [
+  "Quiz de Dragon ball Z","Quiz: Naruto clássico","Quiz: Naruto Shippuuden","Quiz:shonen",
+  "Quiz: pokémon","Quiz:one piece","Quiz: Bleach","Quiz:Yu Yu hashugo ",
+  "Quiz:Sailor Moon ","Quiz: Dragon ball","Quiz: Dragon ball Super","Quiz: Digimon",
+  "Quiz:Death Note","Quiz: Fullmetal Alchemist brotterold","Quiz: Fullmetal Alchemist ","Quiz:Demon Slayer ",
+  "Quiz:Attack on titan","Quiz:My hero academia","Quiz: Hunter X Hunter ","Quiz: Tokyo Ghoul"
+];
+
+const nomesMat = [
+  "Quiz sobre álgebra","Quiz sobre geometria","Quiz sobre aritmética","Quiz sobre curiosidades dos números",
+  "Quiz sobre equações e funções","Quiz sobre estatística","Quiz sobre teorias matemáticas","Quiz sobre frações e decimais",
+  "Quiz sobre geometria espacial","Quiz sobre cálculo","Quiz sobre sequências e séries","Quiz sobre π (pi)",
+  "Quiz sobre lógica matemática","Quiz sobre probabilidade","Quiz sobre gráficos e tabelas","Quiz sobre números primos",
+  "Quiz sobre trigonometria","Quiz sobre matrizes e vetores","Quiz sobre zero e infinito","Quiz sobre funções complexas"
+];
+
+const nomesFis = [
+  "Quiz sobre física clássica","Quiz sobre energia","Quiz sobre movimento","Quiz sobre forças e gravidade",
+  "Quiz sobre mecânica","Quiz sobre eletricidade","Quiz sobre magnetismo","Quiz sobre ondas e som",
+  "Quiz sobre luz e óptica","Quiz sobre termodinâmica","Quiz sobre física quântica","Quiz sobre partículas subatômicas",
+  "Quiz sobre relatividade","Quiz sobre astrofísica","Quiz sobre física nuclear","Quiz sobre experiências famosas",
+  "Quiz sobre física aplicada","Quiz sobre energia renovável","Quiz sobre colisões","Quiz sobre espaço e tempo"
+];
+
+const nomesTec = [
+  "Quiz sobre IA","Quiz sobre programação","Quiz sobre gadgets famosos","Quiz sobre redes",
+  "Quiz sobre cibersegurança","Quiz sobre internet","Quiz sobre softwares populares","Quiz sobre hardware",
+  "Quiz sobre evolução tecnológica","Quiz sobre robótica","Quiz sobre realidade virtual","Quiz sobre apps",
+  "Quiz sobre dispositivos móveis","Quiz sobre startups","Quiz sobre inovação tecnológica","Quiz sobre algoritmos",
+  "Quiz sobre automação","Quiz sobre IA no dia a dia","Quiz sobre sistemas operacionais","Quiz sobre ciência da computação"
+];
+
+const nomesCurio = [
+  "Quiz sobre Wandinha",
+  "Quiz sobre Stranger Things (Temporada 4)",
+  "Quiz sobre DAHMER: Um Canibal Americano",
+  "Quiz sobre Bridgerton (Temporada 1)",
+  "Quiz sobre O Gambito da Rainha",
+  "Quiz sobre O Agente Noturno",
+  "Quiz sobre A Grande Ilusão",
+  "Quiz sobre O Gambito da Rainha",
+  "Quiz sobre Squid Game (Temporada 1)",
+  "Quiz sobre The White Lotus (Temporada 2)",
+  "Quiz sobre Ginny & Georgia (Temporada 2)",
+  "Quiz sobre The Witcher (Temporada 1)",
+  "Quiz sobre Money Heist (La Casa de Papel)",
+  "Quiz sobre Narcos",
+  "Quiz sobre 13 Reasons Why",
+  "Quiz sobre The Crown",
+  "Quiz sobre Ozark",
+  "Quiz sobre Stranger Things (Temporada 3)",
+  "Quiz sobre Lucifer",
+  "Quiz sobre Elite"
+];
+
+// Criar carrosséis e quizzes
+const container = document.getElementById("quizzesContainer");
+quizSections.forEach(section => {
+  const sectionTitle = document.createElement("h2");
+  sectionTitle.textContent = section.title;
+  container.appendChild(sectionTitle);
+
+  const carousel = document.createElement("div");
+  carousel.className = "cards-carousel";
+
+  for(let i=1; i<=20; i++){
+    const card = document.createElement("div");
+    card.className = "card";
+
+    // Escolher o array correto de nomes
+    let nomesArray;
+    switch(section.prefix){
+      case "jogos": nomesArray = nomesJogos; break;
+      case "universo": nomesArray = nomesUniverso; break;
+      case "geo": nomesArray = nomesGeo; break;
+      case "biblia": nomesArray = nomesBiblia; break;
+      case "historia": nomesArray = nomesHistoria; break;
+      case "anime": nomesArray = nomesAnime; break;
+      case "mat": nomesArray = nomesMat; break;
+      case "fis": nomesArray = nomesFis; break;
+      case "tec": nomesArray = nomesTec; break;
+      case "curio": nomesArray = nomesCurio; break;
+      default: nomesArray = []; break;
+    }
+
+    card.innerHTML = `
+      <img src="${section.img}${i}.jpg" alt="${section.title} Quiz ${i}">
+      <h3>${nomesArray[i-1] || section.title + " Quiz " + i}</h3>
+      <p>${section.descs[i-1] || "Descrição aqui"}</p>
+      <a class="btn" href="${section.link}${i}.html">Começar Quiz</a>
+    `;
+    carousel.appendChild(card);
+  }
+
+  container.appendChild(carousel);
+});
+</script>
+
+</body>
+</html>

@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>SZXgames - Quiz Subway Surfs</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
+
+<style>
+body, html {
+  margin:0; padding:0;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color:#fff; background:#0a0a0a;
+  overflow-x:hidden;
+}
+
+/* Fundo */
+.background-container {
+  position:fixed; top:0; left:0; width:100%; height:100%; z-index:0; overflow:hidden;
+}
+.background-container img,
+.background-container video {
+  width:100%; height:100%; object-fit:cover; display:none;
+}
+.overlay {
+  position:fixed; top:0; left:0; width:100%; height:100%;
+  background:rgba(0,0,0,0.7); z-index:0;
+}
+
+/* Logo */
+.logo-container {
+  position:absolute; top:20px; left:30px; z-index:3;
+  display:flex; align-items:center; gap:10px; cursor:pointer;
+}
+.logo-container img { width:70px; }
+.logo-text { font-weight:bold; font-size:1.2rem; }
+.logo-text span { color:#ff4b2b; }
+
+/* Menu lateral */
+.side-menu {
+  position:fixed; top:0; left:0; width:270px; height:100%;
+  background:rgba(0,0,0,0.97);
+  box-shadow:2px 0 10px rgba(0,0,0,0.5);
+  z-index:6; transform:translateX(-100%);
+  transition:transform 0.3s ease; overflow-y:auto;
+}
+.side-menu.active { transform:translateX(0); }
+.menu-banner { width:100%; height:140px;
+  background:url('banner.jpg') center/cover no-repeat;
+  display:flex; align-items:center; justify-content:center; font-weight:bold; }
+.menu-section { padding:10px 20px; font-size:0.9rem; font-weight:bold;
+  text-transform:uppercase; color:#ff4b2b; margin-top:15px;
+  border-top:1px solid rgba(255,255,255,0.08); }
+.side-menu a { display:block; color:#fff; text-decoration:none;
+  font-size:1.05rem; margin:10px 20px; padding:8px 0; transition:color .15s; }
+.side-menu a:hover { color:#ff4b2b; }
+
+/* Botão flutuante */
+.floating-btn {
+  position:fixed; bottom:20px; right:20px; width:55px; height:55px;
+  border-radius:100px; border:none;
+  background:linear-gradient(45deg,#6a11cb,#ff4b2b);
+  display:flex; align-items:center; justify-content:center;
+  cursor:pointer; box-shadow:0 6px 18px rgba(0,0,0,0.45);
+  z-index:10;
+}
+.floating-btn:hover { transform:scale(1.06); }
+
+/* Conteúdo principal */
+.main-content {
+  position:relative; z-index:1;
+  padding:180px 8% 80px; max-width:1000px; margin:0 auto;
+}
+h1 { font-size:1.8rem; margin-bottom:25px;
+  border-left:5px solid #ff4b2b; padding-left:12px; }
+
+/* Quiz */
+.quiz-container {
+  background:rgba(255,255,255,0.05);
+  padding:25px; border-radius:15px;
+  box-shadow:0 4px 12px rgba(0,0,0,0.4);
+}
+.question { font-weight:bold; margin:20px 0 10px; }
+.options label { display:block; margin:6px 0; cursor:pointer; }
+
+#submitBtn {
+  margin-top:20px; padding:10px 22px; border:none; border-radius:25px;
+  background:linear-gradient(45deg,#6a11cb,#ff4b2b);
+  color:#fff; font-weight:bold; cursor:pointer;
+}
+#result { margin-top:20px; font-size:1.2rem; font-weight:bold; text-align:center; }
+
+/* Mensagens */
+.result-perfect { color:#00ff88; }  /* verde */
+.result-almost  { color:#ffd900; }  /* amarelo */
+.result-fail    { color:#ff5555; }  /* vermelho */
+
+.result-box {
+  background:rgba(0,0,0,0.5); padding:25px;
+  border-radius:15px; box-shadow:0 4px 12px rgba(0,0,0,0.5);
+}
+.result-box button {
+  margin:10px; padding:10px 18px; border:none; border-radius:22px;
+  color:#fff; font-weight:bold; cursor:pointer;
+}
+#restartBtn { background:#ff4b2b; }
+#homeBtn    { background:#6a11cb; }
+
+</style>
+</head>
+<body>
+
+<!-- Fundo -->
+<div class="background-container">
+  <img id="bgImage" src="fundoindex.jpg" alt="Fundo">
+  <video id="bgVideo" src="fundohome.mp4" autoplay muted loop></video>
+</div>
+<div class="overlay"></div>
+
+<!-- Logo -->
+<div class="logo-container" id="logo">
+  <img src="logo.jpg" alt="Logo SZXgames">
+  <div class="logo-text"><span>Quiz</span></div>
+</div>
+
+<!-- Menu lateral -->
+<div id="sideMenu" class="side-menu">
+    <div class="menu-banner"></div>
+
+    <div class="menu-section">Principal</div>
+    <a href="home.html"><i class="fa fa-house"></i> Início</a>
+    <a href="sobre.html"><i class="fa fa-circle-info"></i> Sobre nós</a>
+    <a href="contato.html"><i class="fa fa-envelope"></i> Contato</a>
+
+    <div class="menu-section">Jogos</div>
+    <a href="jogos.html"><i class="fa fa-gamepad"></i> Jogos em Alta</a>
+    <a href="lancamentos.html"><i class="fa fa-rocket"></i> Lançamentos</a>
+    <a href="reviews.html"><i class="fa fa-star"></i> Reviews</a>
+    <a href="tutoriais.html"><i class="fa fa-lightbulb"></i> Tutoriais & Dicas</a>
+    <a href="mods.html"><i class="fa fa-cubes"></i> Mods & Add-ons</a>
+    <a href="ranking.html"><i class="fa fa-trophy"></i> Ranking / Top Games</a>
+    <a href="classicos.html"><i class="fa fa-dice"></i> Clássicos</a>
+
+    <div class="menu-section">Notícias</div>
+    <a href="noticias.html"><i class="fa fa-newspaper"></i> Notícias</a>
+    <a href="esports.html"><i class="fa fa-headset"></i> E-sports</a>
+    <a href="promocoes.html"><i class="fa fa-tags"></i> Promoções & Ofertas</a>
+    <a href="calendario.html"><i class="fa fa-calendar-days"></i> Calendário</a>
+
+    <div class="menu-section">Comunidade</div>
+    <a href="forum.html"><i class="fa fa-comments"></i> Fórum</a>
+    <a href="discord.html"><i class="fa-brands fa-discord"></i> Discord / Telegram</a>
+    <a href="enquetes.html"><i class="fa fa-poll"></i> Enquetes & Votações</a>
+    <a href="quiz.html"><i class="fa fa-question"></i> Quiz</a>
+
+    <div class="menu-section">Extras</div>
+    <a href="ferramentas.html"><i class="fa fa-tools"></i> Ferramentas</a>
+    <a href="downloads.html"><i class="fa fa-download"></i> Downloads</a>
+    <a href="loja.html"><i class="fa fa-store"></i> Loja</a>
+  </div>
+
+<!-- Botão alternar fundo -->
+<button id="toggleBtn" class="floating-btn" title="Alternar fundo">
+  <svg id="iconImage" xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill="#fff" viewBox="0 0 24 24">
+    <path d="M21 19V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2zM5 5h14v6.5l-3-3-4 4-3-3-4 4V5z"/>
+  </svg>
+  <svg id="iconVideo" xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill="#fff" viewBox="0 0 24 24" style="display:none;">
+    <path d="M17 10.5V7a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v10a2 2 0 0 0 2-2v-3.5l4 4v-11l-4 4z"/>
+  </svg>
+</button>
+
+<!-- Conteúdo -->
+<main class="main-content">
+  <h1>Quiz: Quanto você sabe sobre Subway Surfs?</h1>
+  <div class="quiz-container" id="quiz"></div>
+  <button id="submitBtn">Enviar Respostas</button>
+  <div id="result"></div>
+</main>
+
+<script>
+// ---------- MENU ----------
+const logo=document.getElementById('logo');
+const sideMenu=document.getElementById('sideMenu');
+logo.addEventListener('click',e=>{e.stopPropagation(); sideMenu.classList.toggle('active');});
+document.addEventListener('click',e=>{
+  if(sideMenu.classList.contains('active') && !sideMenu.contains(e.target) && !logo.contains(e.target)){
+    sideMenu.classList.remove('active');
+  }
+});
+
+// ---------- FUNDO ----------
+const bgImage=document.getElementById('bgImage');
+const bgVideo=document.getElementById('bgVideo');
+const toggleBtn=document.getElementById('toggleBtn');
+const iconImage=document.getElementById('iconImage');
+const iconVideo=document.getElementById('iconVideo');
+let modo='imagem';
+function aplicarFundo(m){
+  if(m==='video'){bgImage.style.display='none';bgVideo.style.display='block';iconImage.style.display='none';iconVideo.style.display='block';}
+  else{bgVideo.style.display='none';bgImage.style.display='block';iconVideo.style.display='none';iconImage.style.display='block';}
+  modo=m;
+}
+aplicarFundo(modo);
+toggleBtn.addEventListener('click',()=>aplicarFundo(modo==='imagem'?'video':'imagem'));
+
+// ---------- QUIZ ----------
+const quizContainer=document.getElementById('quiz');
+const submitBtn=document.getElementById('submitBtn');
+const resultDiv=document.getElementById('result');
+let quizData=[];
+
+async function carregarQuiz() {
+  try {
+    const res = await fetch('jogo17.json');
+    quizData = await res.json();
+
+    // Embaralhar perguntas
+    quizData.sort(() => Math.random() - 0.5);
+
+    renderQuiz();
+  } catch (err) {
+    console.error('Erro ao carregar o quiz:', err);
+    quizContainer.innerHTML = "<p>Erro ao carregar perguntas. Tente novamente mais tarde.</p>";
+  }
+}
+
+function renderQuiz(){
+  quizContainer.innerHTML="";
+  quizData.forEach((item,i)=>{
+    const qDiv=document.createElement('div');
+    qDiv.className='question-block';
+    qDiv.innerHTML=`<div class="question">${i+1}. ${item.q}</div>`;
+    const optDiv=document.createElement('div');
+    optDiv.className='options';
+
+    // Embaralhar opções
+    let opcoes = item.o.map((text, idx) => ({text, idx}));
+    opcoes.sort(() => Math.random() - 0.5);
+
+    opcoes.forEach(({text, idx})=>{
+      const label=document.createElement('label');
+      label.innerHTML=`<input type="radio" name="q${i}" value="${idx}"> ${text}`;
+      optDiv.appendChild(label);
+    });
+    qDiv.appendChild(optDiv);
+    quizContainer.appendChild(qDiv);
+  });
+
+  document.querySelectorAll('.options input').forEach(inp=>{
+    inp.addEventListener('change',e=>{
+      document.querySelectorAll(`input[name="${inp.name}"]`).forEach(r=>r.disabled=true);
+      e.target.disabled=false;
+    });
+  });
+
+  submitBtn.style.display='block';
+  resultDiv.innerHTML="";
+  quizContainer.style.display='block';
+}
+
+// Inicializar
+carregarQuiz();
+
+submitBtn.addEventListener('click',()=>{
+  let score=0;
+  quizData.forEach((item,i)=>{
+    const sel=document.querySelector(`input[name="q${i}"]:checked`);
+    if(sel && parseInt(sel.value)===item.a) score++;
+  });
+
+  quizContainer.style.display='none';
+  submitBtn.style.display='none';
+
+  let cls="",msg="";
+  if(score===quizData.length){
+    msg="🎉 Parabéns, você acertou todas!";
+    cls="result-perfect";
+  }else if(score>=Math.ceil(quizData.length*0.7)){
+    msg=`🙂 Quase lá! Você acertou ${score} de ${quizData.length}.`;
+    cls="result-almost";
+  }else{
+    msg=`😕 Você não passou no teste. Acertos: ${score}/${quizData.length}`;
+    cls="result-fail";
+  }
+
+  resultDiv.innerHTML=`
+    <div class="result-box ${cls}">
+      <p>${msg}</p>
+      <button id="restartBtn">Reiniciar Quiz</button>
+      <button id="homeBtn">Voltar ao Início</button>
+    </div>
+  `;
+
+  document.getElementById('restartBtn').addEventListener('click',()=>{carregarQuiz();});
+  document.getElementById('homeBtn').addEventListener('click',()=>window.location.href='home.html');
+});
+</script>
+
+</body>
+</html>
