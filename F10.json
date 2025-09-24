@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual é a maior ilha do mundo?",
+    "o": ["Groenlândia", "Madagascar", "Sumatra", "Borneo"],
+    "a": 0
+  },
+  {
+    "q": "Qual arquipélago pertence à Indonésia e é famoso por vulcões ativos?",
+    "o": ["Ilhas Sunda", "Ilhas Galápagos", "Ilhas Maldivas", "Ilhas Canárias"],
+    "a": 0
+  },
+  {
+    "q": "Qual ilha é famosa por suas estátuas moai?",
+    "o": ["Ilha de Páscoa", "Havaí", "Madagascar", "Sri Lanka"],
+    "a": 0
+  },
+  {
+    "q": "Qual arquipélago é conhecido por sua biodiversidade e Charles Darwin?",
+    "o": ["Galápagos", "Maldivas", "Havaí", "Seychelles"],
+    "a": 0
+  },
+  {
+    "q": "Qual ilha abriga o país do Japão?",
+    "o": ["Honshu", "Hokkaido", "Kyushu", "Shikoku"],
+    "a": 0
+  },
+  {
+    "q": "Qual arquipélago pertence à Itália e é famoso por sua arquitetura colorida?",
+    "o": ["Ilhas Lígures", "Ilhas Eólias", "Sicília", "Sardenha"],
+    "a": 0
+  },
+  {
+    "q": "Qual ilha é a maior do Caribe?",
+    "o": ["Cuba", "Haiti", "Jamaica", "Porto Rico"],
+    "a": 0
+  },
+  {
+    "q": "Qual arquipélago pertence ao Reino Unido e fica no Atlântico Norte?",
+    "o": ["Ilhas Malvinas", "Ilhas Falkland", "Ilhas Shetland", "Ilhas Orkney"],
+    "a": 0
+  },
+  {
+    "q": "Qual arquipélago é famoso por suas ilhas tropicais no Oceano Índico, como Mahé?",
+    "o": ["Seychelles", "Maldivas", "Maurício", "Comores"],
+    "a": 0
+  },
+  {
+    "q": "Qual ilha é famosa por ser um destino turístico no Caribe e possui praias de areia branca?",
+    "o": ["Barbados", "Jamaica", "Bahamas", "Trinidad"],
+    "a": 0
+  },
+  {
+    "q": "Qual arquipélago pertence à Espanha e é conhecido por praias e turismo?",
+    "o": ["Ilhas Baleares", "Ilhas Canárias", "Madeira", "Azores"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a maior ilha da Indonésia?",
+    "o": ["Sumatra", "Java", "Borneo", "Sulawesi"],
+    "a": 0
+  },
+  {
+    "q": "Qual arquipélago pertence a Portugal no Atlântico Norte?",
+    "o": ["Açores", "Madeira", "Canárias", "Baleares"],
+    "a": 0
+  },
+  {
+    "q": "Qual ilha abriga a cidade de Sydney, famosa pela Ópera?",
+    "o": ["Austrália", "Havaí", "Nova Zelândia", "Tasmânia"],
+    "a": 0
+  },
+  {
+    "q": "Qual arquipélago pertence à França e fica no Oceano Índico?",
+    "o": ["Reunião", "Seychelles", "Madagascar", "Maurício"],
+    "a": 0
+  },
+  {
+    "q": "Qual ilha é conhecida como a maior ilha da Oceania?",
+    "o": ["Nova Guiné", "Austrália", "Tasmânia", "Sumatra"],
+    "a": 0
+  },
+  {
+    "q": "Qual arquipélago japonês é o mais ao norte?",
+    "o": ["Hokkaido", "Honshu", "Shikoku", "Kyushu"],
+    "a": 0
+  },
+  {
+    "q": "Qual arquipélago é famoso por sua atividade vulcânica e pertence aos Estados Unidos?",
+    "o": ["Havaí", "Aleutas", "Ilhas Marianas", "Filipinas"],
+    "a": 0
+  },
+  {
+    "q": "Qual ilha africana é famosa por seus lêmures?",
+    "o": ["Madagascar", "Seychelles", "Maurício", "Comores"],
+    "a": 0
+  },
+  {
+    "q": "Qual arquipélago é famoso por suas praias e resorts no Oceano Índico?",
+    "o": ["Maldivas", "Maurício", "Seychelles", "Comores"],
+    "a": 0
+  }
+]

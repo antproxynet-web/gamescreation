@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quem é o protagonista central das primeiras temporadas de Narcos?",
+    "o": ["Pablo Escobar", "Javier Peña", "Steve Murphy", "Gustavo Gaviria"],
+    "a": 0
+  },
+  {
+    "q": "Qual país é o principal cenário da série Narcos?",
+    "o": ["Colômbia", "México", "Peru", "Venezuela"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o agente da DEA que ajuda a capturar Escobar?",
+    "o": ["Javier Peña", "Steve Murphy", "Colonel Carrillo", "Gustavo Gaviria"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome do primo e parceiro de Pablo Escobar?",
+    "o": ["Gustavo Gaviria", "Carlos Lehder", "Javier Peña", "Steve Murphy"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o líder do Cartel de Cali?",
+    "o": ["Gilberto Rodríguez Orejuela", "Pablo Escobar", "Jorge Ochoa", "Carlos Lehder"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o apelido de Pablo Escobar na série?",
+    "o": ["El Patrón", "El Chapo", "El Loco", "El Jefe"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o agente da DEA que narra parte da história?",
+    "o": ["Steve Murphy", "Javier Peña", "Colonel Carrillo", "Gustavo Gaviria"],
+    "a": 0
+  },
+  {
+    "q": "Qual cidade colombiana é o centro das operações de Escobar?",
+    "o": ["Medellín", "Bogotá", "Cali", "Cartagena"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o político envolvido com Escobar?",
+    "o": ["Luis Carlos Galán", "Colonel Carrillo", "Jorge Ochoa", "Gilberto Rodríguez Orejuela"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o agente da polícia colombiana que caça Escobar?",
+    "o": ["Colonel Carrillo", "Steve Murphy", "Javier Peña", "Gustavo Gaviria"],
+    "a": 0
+  },
+  {
+    "q": "Qual era a principal mercadoria traficada por Escobar?",
+    "o": ["Cocaína", "Heróina", "Maconha", "Metanfetamina"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o amigo de infância e parceiro de negócios de Pablo Escobar?",
+    "o": ["Gustavo Gaviria", "Carlos Lehder", "Javier Peña", "Steve Murphy"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o cartel rival que desafia Escobar no poder?",
+    "o": ["Cartel de Cali", "Cartel de Sinaloa", "Cartel de Medellín", "Cartel de Tijuana"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o membro americano da DEA destacado na Colômbia?",
+    "o": ["Steve Murphy", "Javier Peña", "Colonel Carrillo", "Gustavo Gaviria"],
+    "a": 0
+  },
+  {
+    "q": "Quem ajuda Escobar a fugir da prisão de La Catedral?",
+    "o": ["Seus homens do cartel", "DEA", "Colonel Carrillo", "Gilberto Rodríguez Orejuela"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o traidor dentro do cartel de Escobar?",
+    "o": ["Carlos Lehder", "Gustavo Gaviria", "Jorge Ochoa", "Gilberto Rodríguez Orejuela"],
+    "a": 0
+  },
+  {
+    "q": "Quem planeja a emboscada final que mata Escobar?",
+    "o": ["Polícia colombiana e DEA", "Cartel de Cali", "Steve Murphy sozinho", "Javier Peña sozinho"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o rival político que tenta combater Escobar legalmente?",
+    "o": ["Luis Carlos Galán", "Colonel Carrillo", "Gilberto Rodríguez Orejuela", "Carlos Lehder"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a relação de Gustavo Gaviria com Escobar?",
+    "o": ["Primo e braço direito", "Amigo de infância", "Rival de negócios", "Parente distante"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o jornalista que denuncia Escobar e suas atividades?",
+    "o": ["Valeria Vélez", "Luis Carlos Galán", "Colonel Carrillo", "Javier Peña"],
+    "a": 0
+  }
+]

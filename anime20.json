@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quem é o protagonista de Tokyo Ghoul?",
+    "o": ["Ken Kaneki", "Touka Kirishima", "Rize Kamishiro", "Hideyoshi Nagachika"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a garota ghoul que trabalha no café Anteiku?",
+    "o": ["Touka Kirishima", "Rize Kamishiro", "Hinami Fueguchi", "Nishiki Nishio"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o ghoul que atacou Kaneki no início da série?",
+    "o": ["Rize Kamishiro", "Touka Kirishima", "Shuu Tsukiyama", "Yamori (Jason)"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o melhor amigo humano de Kaneki?",
+    "o": ["Hideyoshi Nagachika (Hide)", "Uta", "Renji Yomo", "Shuu Tsukiyama"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome do café onde ghouls e humanos convivem?",
+    "o": ["Anteiku", "CCG Headquarters", "Aogiri Tree", "Rose Coffee"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o investigador da CCG que luta contra ghouls?",
+    "o": ["Koutarou Amon", "Ken Kaneki", "Hideyoshi Nagachika", "Uta"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o ghoul que adora Kaneki e tem estilo excêntrico?",
+    "o": ["Shuu Tsukiyama", "Yamori", "Renji Yomo", "Hinami Fueguchi"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o ghoul torturador que captura Kaneki?",
+    "o": ["Yamori (Jason)", "Shuu Tsukiyama", "Renji Yomo", "Uta"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a jovem ghoul que se apega a Kaneki?",
+    "o": ["Hinami Fueguchi", "Touka Kirishima", "Rize Kamishiro", "Nishiki Nishio"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o líder da Aogiri Tree?",
+    "o": ["Yamori (Jason)", "Shuu Tsukiyama", "Uta", "Kaneki Ken"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o ghoul que cria máscaras para outros ghouls?",
+    "o": ["Uta", "Touka Kirishima", "Renji Yomo", "Shuu Tsukiyama"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o investigador da CCG que se torna aliado de Kaneki?",
+    "o": ["Koutarou Amon", "Haise Sasaki", "Juuzou Suzuya", "Higuchi"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o alter ego de Kaneki após os eventos da tortura?",
+    "o": ["Haise Sasaki", "Shuu Tsukiyama", "Yamori", "Nishiki Nishio"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a ghoul que tem a habilidade de regeneração e usa kagune de olhos roxos?",
+    "o": ["Kaneki Ken", "Touka Kirishima", "Shuu Tsukiyama", "Hinami Fueguchi"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o investigador excêntrico da CCG com roupa branca?",
+    "o": ["Juuzou Suzuya", "Koutarou Amon", "Haise Sasaki", "Higuchi"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o ghoul que tortura Kaneki e é conhecido como 'Jason'?",
+    "o": ["Yamori", "Shuu Tsukiyama", "Uta", "Renji Yomo"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a organização principal que caça ghouls?",
+    "o": ["CCG", "Aogiri Tree", "Anteiku", "Ghouls United"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a ghoul com kagune do tipo Rinkaku?",
+    "o": ["Kaneki Ken", "Touka Kirishima", "Shuu Tsukiyama", "Hinami Fueguchi"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o ghoul que ajuda Kaneki a sobreviver após a tortura?",
+    "o": ["Touka Kirishima", "Uta", "Shuu Tsukiyama", "Yamori"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o ghoul que se torna líder da nova Aogiri Tree no final?",
+    "o": ["Kaneki Ken", "Yamori", "Shuu Tsukiyama", "Uta"],
+    "a": 0
+  }
+]

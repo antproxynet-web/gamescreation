@@ -1,0 +1,97 @@
+[
+  {
+    "q": "O que é espaço-tempo?",
+    "o": ["Modelo que une as dimensões espaciais e temporal em um único contínuo", "Somente o espaço tridimensional", "Somente o tempo linear", "Linha do tempo histórica"],
+    "a": 0
+  },
+  {
+    "q": "Quem propôs a teoria da relatividade?",
+    "o": ["Albert Einstein", "Isaac Newton", "Galileu Galilei", "Stephen Hawking"],
+    "a": 0
+  },
+  {
+    "q": "O que é dilatação do tempo?",
+    "o": ["Fenômeno em que o tempo passa mais devagar para um observador em movimento ou em campo gravitacional intenso", "Tempo constante para todos", "Tempo que passa mais rápido na Terra", "Fusão do tempo com a massa"],
+    "a": 0
+  },
+  {
+    "q": "O que é contração do espaço?",
+    "o": ["Redução das distâncias percebidas por um observador em movimento próximo à velocidade da luz", "Aumento das distâncias", "Espaço infinito constante", "Distância irrelevante"],
+    "a": 0
+  },
+  {
+    "q": "O que é velocidade da luz no vácuo?",
+    "o": ["Constante universal c ≈ 299.792 km/s", "Velocidade variável com o tempo", "Velocidade da Terra", "Velocidade do som no ar"],
+    "a": 0
+  },
+  {
+    "q": "O que é paradoxo dos gêmeos?",
+    "o": ["Paradoxo da relatividade especial em que um gêmeo viajante envelhece menos que o outro", "Diferença de altura entre gêmeos", "Paradoxo de gravidade", "Paradoxo de energia"],
+    "a": 0
+  },
+  {
+    "q": "O que é um relógio de luz?",
+    "o": ["Dispositivo teórico usado para ilustrar dilatação do tempo", "Relógio normal de pulso", "Relógio solar", "Relógio atômico terrestre"],
+    "a": 0
+  },
+  {
+    "q": "O que é evento em física relativística?",
+    "o": ["Ocorrência em um ponto específico do espaço e instante no tempo", "Movimento de um corpo apenas", "Experimento histórico", "Momento de fusão nuclear"],
+    "a": 0
+  },
+  {
+    "q": "O que é referência inercial?",
+    "o": ["Sistema de coordenadas onde as leis de Newton são válidas sem forças fictícias", "Sistema em queda livre", "Sistema rotativo apenas", "Referência temporal"],
+    "a": 0
+  },
+  {
+    "q": "O que é espaço curvo?",
+    "o": ["Curvatura do espaço provocada pela presença de massa e energia", "Espaço plano apenas", "Distância infinita", "Campo elétrico"],
+    "a": 0
+  },
+  {
+    "q": "O que é buraco negro?",
+    "o": ["Região do espaço com gravidade tão intensa que nada escapa", "Estrela gigante", "Planeta gasoso", "Cometa brilhante"],
+    "a": 0
+  },
+  {
+    "q": "O que é horizonte de eventos?",
+    "o": ["Limite de um buraco negro além do qual nada pode escapar", "Superfície de uma estrela", "Órbita planetária", "Limite da atmosfera terrestre"],
+    "a": 0
+  },
+  {
+    "q": "O que é constante cosmológica?",
+    "o": ["Termo na equação de Einstein relacionado à energia escura e expansão do universo", "Constante de gravidade", "Velocidade da luz", "Energia térmica"],
+    "a": 0
+  },
+  {
+    "q": "O que é espaço euclidiano?",
+    "o": ["Espaço plano com geometria tradicional de Euclides", "Espaço curvo", "Espaço-tempo relativístico", "Espaço quântico"],
+    "a": 0
+  },
+  {
+    "q": "O que é linha de universo?",
+    "o": ["Trajetória de um objeto no espaço-tempo", "Caminho de luz apenas", "Rota de planeta", "Linha do tempo histórica"],
+    "a": 0
+  },
+  {
+    "q": "O que é tempo próprio?",
+    "o": ["Tempo medido por um observador que se move com o objeto", "Tempo em outro planeta", "Tempo absoluto de Newton", "Tempo em um relógio solar"],
+    "a": 0
+  },
+  {
+    "q": "O que é efeito gravitacional sobre o tempo?",
+    "o": ["O tempo passa mais devagar em regiões com gravidade intensa", "Tempo se acelera com gravidade", "Tempo absoluto", "Tempo não é afetado pela gravidade"],
+    "a": 0
+  },
+  {
+    "q": "O que é universo em expansão?",
+    "o": ["Modelo em que as galáxias se afastam umas das outras ao longo do tempo", "Universo estático", "Universo em colapso", "Universo apenas em rotação"],
+    "a": 0
+  },
+  {
+    "q": "O que é buraco de minhoca?",
+    "o": ["Estrutura teórica conectando diferentes regiões do espaço-tempo", "Cavidade na Terra", "Buraco negro comum", "Planeta em órbita"],
+    "a": 0
+  }
+]

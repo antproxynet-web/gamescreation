@@ -1,0 +1,97 @@
+[
+  {
+    "q": "Quem é o protagonista da 1ª temporada de Squid Game?",
+    "o": ["Seong Gi-hun", "Cho Sang-woo", "Kang Sae-byeok", "Oh Il-nam"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o principal objetivo dos participantes no Squid Game?",
+    "o": ["Ganhar um grande prêmio em dinheiro", "Vencer um torneio de esportes", "Sobreviver a uma guerra", "Provar suas habilidades acadêmicas"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o amigo de infância de Gi-hun que também participa dos jogos?",
+    "o": ["Cho Sang-woo", "Kang Sae-byeok", "Ali Abdul", "Hwang Jun-ho"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a participante norte-coreana na competição?",
+    "o": ["Kang Sae-byeok", "Ji-yeong", "Han Mi-nyeo", "Player 001"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a primeira prova do Squid Game?",
+    "o": ["Biscoito de açúcar (Dalgona)", "Pular corda", "Luta de sumô", "Luz vermelha e luz verde"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o jogador idoso conhecido como Player 001?",
+    "o": ["Oh Il-nam", "Hwang Jun-ho", "Cho Sang-woo", "Seong Gi-hun"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o policial disfarçado que entra nos jogos?",
+    "o": ["Hwang Jun-ho", "Seong Gi-hun", "Cho Sang-woo", "Player 001"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o jogo da ponte de vidro?",
+    "o": ["Um jogo de equilíbrio com vidro que quebra", "Um jogo de tabuleiro", "Um jogo de corrida", "Um jogo de estratégia"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o participante paquistanês amigo de Gi-hun?",
+    "o": ["Ali Abdul", "Cho Sang-woo", "Jang Deok-su", "Player 001"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o líder dos trabalhadores mascarados?",
+    "o": ["Front Man", "Player 001", "Seong Gi-hun", "Cho Sang-woo"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o jogo de eliminação com corda?",
+    "o": ["Três na corda", "Luz vermelha e luz verde", "Biscoito de açúcar (Dalgona)", "Bola de gude"],
+    "a": 0
+  },
+  {
+    "q": "Quem trai Gi-hun durante a competição?",
+    "o": ["Cho Sang-woo", "Kang Sae-byeok", "Ali Abdul", "Player 001"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o jogo da boneca gigante?",
+    "o": ["Luz vermelha e luz verde", "Biscoito de açúcar", "Ponte de vidro", "Bola de gude"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o antagonista principal por trás do Squid Game?",
+    "o": ["Front Man", "Player 001", "Cho Sang-woo", "Seong Gi-hun"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o prêmio final para o vencedor?",
+    "o": ["45,6 bilhões de won", "10 milhões de dólares", "10 bilhões de won", "100 milhões de won"],
+    "a": 0
+  },
+  {
+    "q": "Qual jogo envolve recortar o biscoito de açúcar sem quebrar?",
+    "o": ["Dalgona", "Pular corda", "Bola de gude", "Luz vermelha e luz verde"],
+    "a": 0
+  },
+  {
+    "q": "Quem sobrevive até o final da primeira temporada?",
+    "o": ["Seong Gi-hun", "Kang Sae-byeok", "Cho Sang-woo", "Ali Abdul"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o jogador que tenta ajudar todos os participantes?",
+    "o": ["Gi-hun", "Cho Sang-woo", "Player 001", "Front Man"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o grande segredo revelado sobre o Player 001?",
+    "o": ["Ele é o criador original do Squid Game", "Ele é policial infiltrado", "Ele é irmão de Gi-hun", "Ele é o Front Man disfarçado"],
+    "a": 0
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quem é a protagonista da série O Gambito da Rainha?",
+    "o": ["Beth Harmon", "Alma Wheatley", "Benny Watts", "Harry Beltik"],
+    "a": 0
+  },
+  {
+    "q": "Em que tipo de instituição Beth Harmon passa parte de sua infância?",
+    "o": ["Orfanato", "Escola de artes", "Clube de xadrez", "Internato militar"],
+    "a": 0
+  },
+  {
+    "q": "Quem ensina Beth a jogar xadrez no orfanato?",
+    "o": ["Sr. Shaibel", "Benny Watts", "Harry Beltik", "Alma Wheatley"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o vício que Beth enfrenta ao longo da série?",
+    "o": ["Pílulas e álcool", "Café", "Jogos de azar", "Chocolate"],
+    "a": 0
+  },
+  {
+    "q": "Quem se torna o mentor de Beth no xadrez profissional?",
+    "o": ["Benny Watts", "Harry Beltik", "Sr. Shaibel", "Alma Wheatley"],
+    "a": 0
+  },
+  {
+    "q": "Qual cidade americana é central no início da carreira de Beth?",
+    "o": ["Lexington, Kentucky", "Nova York", "Chicago", "Los Angeles"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a mãe adotiva de Beth?",
+    "o": ["Alma Wheatley", "Mrs. Deardorff", "Sr. Shaibel", "Miss Lonsdale"],
+    "a": 0
+  },
+  {
+    "q": "Qual torneio internacional Beth participa nos EUA?",
+    "o": ["Torneio de Cincinnati", "Torneio de Nova York", "Torneio de Chicago", "Torneio de Los Angeles"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o grande rival internacional de Beth?",
+    "o": ["Vasily Borgov", "Benny Watts", "Harry Beltik", "Sr. Shaibel"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a primeira grande vitória de Beth em torneios?",
+    "o": ["Campeonato Estadual de Kentucky", "Torneio de Nova York", "Torneio Internacional", "Torneio Online"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o amigo e também jogador de xadrez que apoia Beth?",
+    "o": ["Benny Watts", "Harry Beltik", "Vasily Borgov", "Sr. Shaibel"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a motivação de Beth para se tornar campeã de xadrez?",
+    "o": ["Superar traumas e buscar excelência", "Fama e dinheiro", "Vingança", "Competição familiar"],
+    "a": 0
+  },
+  {
+    "q": "Como Beth descobre estratégias avançadas de xadrez?",
+    "o": ["Estudando livros e partidas de mestres", "Jogando videogames", "Adivinhação", "Assistindo TV"],
+    "a": 0
+  },
+  {
+    "q": "Qual cidade Beth visita para enfrentar Vasily Borgov pela primeira vez?",
+    "o": ["Moscou", "Londres", "Paris", "Nova York"],
+    "a": 0
+  },
+  {
+    "q": "Quem incentiva Beth a enfrentar desafios internacionais?",
+    "o": ["Benny Watts", "Harry Beltik", "Sr. Shaibel", "Alma Wheatley"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a relação de Beth com o xadrez ao longo da série?",
+    "o": ["É paixão e obsessão", "É passatempo ocasional", "É trabalho sem interesse", "É rejeitada inicialmente"],
+    "a": 0
+  },
+  {
+    "q": "Quem descobre que Beth tem talento excepcional para o xadrez?",
+    "o": ["Sr. Shaibel", "Benny Watts", "Alma Wheatley", "Harry Beltik"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a dificuldade pessoal que Beth enfrenta além do xadrez?",
+    "o": ["Solidão e vícios", "Problemas financeiros", "Competição familiar", "Falha escolar"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a última grande partida de Beth na série?",
+    "o": ["Contra Vasily Borgov", "Contra Benny Watts", "Contra Harry Beltik", "Contra Sr. Shaibel"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a mensagem central de O Gambito da Rainha?",
+    "o": ["Superação, talento e resiliência", "Vingança e ciúme", "Amor e romance", "Viagem e fantasia"],
+    "a": 0
+  }
+]

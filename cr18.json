@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quem é a protagonista que lidera o grupo de amigos?",
+    "o": ["Eleven", "Mike", "Will", "Dustin"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o namorado de Eleven na 3ª temporada?",
+    "o": ["Mike Wheeler", "Lucas Sinclair", "Will Byers", "Dustin Henderson"],
+    "a": 0
+  },
+  {
+    "q": "Qual cidade é o principal cenário da série?",
+    "o": ["Hawkins", "New York", "Los Angeles", "Chicago"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o novo vilão da 3ª temporada?",
+    "o": ["Mind Flayer", "Demogorgon", "Vecna", "Billy Hargrove"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o irmão problemático de Max?",
+    "o": ["Billy Hargrove", "Lucas Sinclair", "Steve Harrington", "Jonathan Byers"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o amigo nerd do grupo que adora ciência?",
+    "o": ["Dustin Henderson", "Mike Wheeler", "Will Byers", "Lucas Sinclair"],
+    "a": 0
+  },
+  {
+    "q": "Qual shopping center se torna cenário importante nesta temporada?",
+    "o": ["Starcourt Mall", "Hawkins Mall", "Century Mall", "Riverdale Mall"],
+    "a": 0
+  },
+  {
+    "q": "Quem trabalha como segurança no Starcourt Mall?",
+    "o": ["Steve Harrington", "Billy Hargrove", "Jonathan Byers", "Mike Wheeler"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a jovem que lida com o trauma do irmão na temporada?",
+    "o": ["Max Mayfield", "Eleven", "Nancy Wheeler", "Robin Buckley"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a nova funcionária da sorveteria do Starcourt Mall?",
+    "o": ["Robin Buckley", "Nancy Wheeler", "Joyce Byers", "Max Mayfield"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o irmão desaparecido que retorna à cidade?",
+    "o": ["Will Byers", "Mike Wheeler", "Lucas Sinclair", "Billy Hargrove"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o amigo que ajuda a decifrar códigos russos?",
+    "o": ["Robin Buckley", "Dustin Henderson", "Steve Harrington", "Nancy Wheeler"],
+    "a": 0
+  },
+  {
+    "q": "Qual país possui a base secreta que ameaça Hawkins?",
+    "o": ["Rússia", "EUA", "China", "Alemanha"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o pai autoritário de Billy Hargrove?",
+    "o": ["Scott Hargrove", "Jim Hopper", "Lonnie Byers", "Ted Wheeler"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a amiga de Nancy e jornalista investigativa?",
+    "o": ["Robin Buckley", "Max Mayfield", "Joyce Byers", "Eleven"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o xerife da cidade de Hawkins?",
+    "o": ["Jim Hopper", "Murray Bauman", "Steve Harrington", "Ted Wheeler"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o cientista que ajuda a investigar o Mundo Invertido?",
+    "o": ["Dr. Owens", "Dr. Brenner", "Dr. Samuels", "Dr. Hooper"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a mãe de Will e Jonathan que enfrenta problemas sobrenaturais?",
+    "o": ["Joyce Byers", "Karen Wheeler", "Eleven", "Robin Buckley"],
+    "a": 0
+  },
+  {
+    "q": "Quem trabalha em conjunto com Dustin e Steve para enfrentar os russos?",
+    "o": ["Robin Buckley", "Eleven", "Mike Wheeler", "Lucas Sinclair"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o vilão que controla mentes e cria caos em Hawkins?",
+    "o": ["Mind Flayer", "Vecna", "Demodogs", "Billy Hargrove"],
+    "a": 0
+  }
+]

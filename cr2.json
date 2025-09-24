@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quem é o principal vilão da 4ª temporada de Stranger Things?",
+    "o": ["Vecna", "Demogorgon", "Mind Flayer", "Billy"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem descobre pistas sobre Vecna em Hawkins?",
+    "o": ["Nancy Wheeler", "Eleven", "Mike Wheeler", "Lucas Sinclair"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o amigo de Eleven que a ajuda em suas visões?",
+    "o": ["Mike Wheeler", "Will Byers", "Lucas Sinclair", "Dustin Henderson"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem retorna para Hawkins após morar em outro estado?",
+    "o": ["Max Mayfield", "Eleven", "Nancy Wheeler", "Steve Harrington"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem enfrenta traumas do passado na 4ª temporada?",
+    "o": ["Max Mayfield", "Lucas Sinclair", "Mike Wheeler", "Eleven"],
+    "a": 0
+  },
+  {
+    "q": "Qual vilão tem poderes psíquicos que atacam mentes humanas?",
+    "o": ["Vecna", "Demogorgon", "Mind Flayer", "Billy"],
+    "a": 0
+  },
+  {
+    "q": "Qual cidade é principal cenário da série Stranger Things?",
+    "o": ["Hawkins", "Springfield", "Sunnydale", "Hill Valley"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o chefe de polícia de Hawkins?",
+    "o": ["Jim Hopper", "Steve Harrington", "Dustin Henderson", "Mike Wheeler"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem é conhecido por seu carisma e cabelo icônico?",
+    "o": ["Steve Harrington", "Lucas Sinclair", "Will Byers", "Jonathan Byers"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem tem habilidades telecinéticas?",
+    "o": ["Eleven", "Mike Wheeler", "Lucas Sinclair", "Dustin Henderson"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o irmão de Eleven que aparece na 4ª temporada?",
+    "o": ["Nenhum, ela não tem irmão", "Mike Wheeler", "Max Mayfield", "Will Byers"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o local alternativo que se conecta ao Mundo Invertido?",
+    "o": ["Laboratório de Hawkins", "Escola Hawkins", "Shopping Starcourt", "Casa dos Byers"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem é atacado por traumas mentais de Vecna?",
+    "o": ["Max Mayfield", "Eleven", "Dustin Henderson", "Lucas Sinclair"],
+    "a": 0
+  },
+  {
+    "q": "Quem lidera o grupo de amigos para enfrentar o Mundo Invertido?",
+    "o": ["Mike Wheeler", "Dustin Henderson", "Steve Harrington", "Lucas Sinclair"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem é cientista e trabalha com experiências secretas?",
+    "o": ["Dr. Brenner", "Jim Hopper", "Jonathan Byers", "Steve Harrington"],
+    "a": 0
+  },
+  {
+    "q": "Quem ajuda a salvar os amigos do ataque de Vecna?",
+    "o": ["Eleven e grupo de amigos", "Hopper sozinho", "Max Mayfield sozinha", "Nancy Wheeler e Jonathan Byers apenas"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem possui inteligência excepcional e senso de humor?",
+    "o": ["Dustin Henderson", "Lucas Sinclair", "Steve Harrington", "Mike Wheeler"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a principal ameaça sobrenatural da 4ª temporada?",
+    "o": ["Vecna", "Demogorgon", "Mind Flayer", "Billy"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem sofre com a perda de amigos na temporada?",
+    "o": ["Max Mayfield", "Eleven", "Mike Wheeler", "Dustin Henderson"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o grupo de amigos que enfrenta os perigos do Mundo Invertido?",
+    "o": ["Eleven, Mike, Dustin, Lucas e Max", "Nancy, Jonathan e Steve", "Jim Hopper e Joyce", "Billy e Erica"],
+    "a": 0
+  }
+]

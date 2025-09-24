@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que é luz?",
+    "o": ["Radiação eletromagnética visível aos olhos humanos", "Ondas sonoras", "Força gravitacional", "Energia térmica"],
+    "a": 0
+  },
+  {
+    "q": "O que é reflexão da luz?",
+    "o": ["Mudança de direção da luz ao atingir uma superfície e retornar", "Mudança de direção da luz ao passar de um meio para outro", "Absorção da luz", "Difração da luz"],
+    "a": 0
+  },
+  {
+    "q": "O que é refração da luz?",
+    "o": ["Mudança de direção da luz ao passar de um meio para outro", "Reflexão da luz", "Absorção da luz", "Interferência da luz"],
+    "a": 0
+  },
+  {
+    "q": "O que é absorção da luz?",
+    "o": ["Processo em que a luz é transformada em outra forma de energia ao incidir sobre um objeto", "Reflexão da luz", "Refração da luz", "Difração da luz"],
+    "a": 0
+  },
+  {
+    "q": "O que é dispersão da luz?",
+    "o": ["Separação da luz branca em suas cores componentes", "Reflexão da luz", "Refração da luz", "Interferência da luz"],
+    "a": 0
+  },
+  {
+    "q": "O que é lente convergente?",
+    "o": ["Lente que faz os raios de luz paralelos convergirem em um ponto", "Lente que espalha os raios de luz", "Espelho plano", "Prisma"],
+    "a": 0
+  },
+  {
+    "q": "O que é lente divergente?",
+    "o": ["Lente que espalha os raios de luz", "Lente que converte luz em calor", "Espelho plano", "Prisma"],
+    "a": 0
+  },
+  {
+    "q": "O que é espelho plano?",
+    "o": ["Espelho com superfície plana que reflete a luz mantendo a imagem do tamanho real", "Espelho curvo", "Lente convergente", "Lente divergente"],
+    "a": 0
+  },
+  {
+    "q": "O que é espelho côncavo?",
+    "o": ["Espelho curvo que converge os raios de luz", "Espelho plano", "Espelho convexo", "Lente divergente"],
+    "a": 0
+  },
+  {
+    "q": "O que é espelho convexo?",
+    "o": ["Espelho curvo que diverge os raios de luz", "Espelho côncavo", "Espelho plano", "Lente convergente"],
+    "a": 0
+  },
+  {
+    "q": "O que é índice de refração?",
+    "o": ["Grandeza que indica a velocidade da luz em um meio comparada à do vácuo", "Frequência da luz", "Comprimento de onda da luz", "Amplitude da luz"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a velocidade da luz no vácuo?",
+    "o": ["3 × 10⁸ m/s", "3 × 10⁶ m/s", "3 × 10⁵ m/s", "3 × 10⁴ m/s"],
+    "a": 0
+  },
+  {
+    "q": "O que é polarização da luz?",
+    "o": ["Restrição da vibração da luz a uma única direção", "Reflexão da luz", "Refração da luz", "Absorção da luz"],
+    "a": 0
+  },
+  {
+    "q": "O que é interferência da luz?",
+    "o": ["Superposição de ondas de luz que resulta em reforço ou cancelamento", "Reflexão da luz", "Refração da luz", "Absorção da luz"],
+    "a": 0
+  },
+  {
+    "q": "O que é difração da luz?",
+    "o": ["Curvatura da luz ao passar por fendas ou contornar obstáculos", "Reflexão da luz", "Refração da luz", "Interferência da luz"],
+    "a": 0
+  },
+  {
+    "q": "O que é cor?",
+    "o": ["Sensação produzida pela luz de determinada frequência", "Intensidade da luz", "Amplitude da luz", "Velocidade da luz"],
+    "a": 0
+  },
+  {
+    "q": "O que é luz monocromática?",
+    "o": ["Luz composta por uma única cor ou frequência", "Luz branca", "Luz dispersa", "Luz polarizada"],
+    "a": 0
+  },
+  {
+    "q": "O que é prisma óptico?",
+    "o": ["Objeto que dispersa a luz branca em suas cores componentes", "Lente convergente", "Lente divergente", "Espelho plano"],
+    "a": 0
+  },
+  {
+    "q": "O que é ponto focal de uma lente?",
+    "o": ["Ponto onde os raios paralelos convergem após atravessar a lente", "Ponto onde a luz é absorvida", "Ponto de origem da luz", "Ponto de interferência máxima"],
+    "a": 0
+  },
+  {
+    "q": "O que é distância focal de uma lente?",
+    "o": ["Distância entre a lente e o ponto focal", "Distância entre dois raios de luz", "Comprimento de onda da luz", "Amplitude da luz"],
+    "a": 0
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "q": "Quem é o protagonista da 2ª temporada de 'Ginny & Georgia'?",
+    "o": ["Ginny Miller", "Georgia Miller", "Marcus Baker", "Austin Miller"],
+    "a": 0
+  },
+  {
+    "q": "Onde se passa a 2ª temporada de 'Ginny & Georgia'?",
+    "o": ["Wellsbury, Massachusetts", "Austin, Texas", "New York, New York", "Chicago, Illinois"],
+    "a": 0
+  },
+  {
+    "q": "Quem interpreta Ginny Miller?",
+    "o": ["Antonia Gentry", "Brianne Howey", "Felix Mallard", "Diesel La Torraca"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o pai biológico de Ginny?",
+    "o": ["Zion Miller", "Paul Randolph", "Gil Timmins", "Joe Singh"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o namorado de Ginny na 2ª temporada?",
+    "o": ["Marcus Baker", "Hunter Chen", "Austin Miller", "Nick Throop"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o ex-marido de Georgia e pai de Austin?",
+    "o": ["Gil Timmins", "Zion Miller", "Paul Randolph", "Joe Singh"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o prefeito de Wellsbury?",
+    "o": ["Paul Randolph", "Gil Timmins", "Nick Throop", "Joe Singh"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o melhor amigo de Ginny?",
+    "o": ["Maxine Baker", "Abby Littman", "Norah Cohen", "Hunter Chen"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o interesse romântico de Maxine?",
+    "o": ["Silver", "Marcus Baker", "Hunter Chen", "Joe Singh"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o interesse romântico de Abby?",
+    "o": ["Hunter Chen", "Marcus Baker", "Austin Miller", "Joe Singh"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o interesse romântico de Joe?",
+    "o": ["Georgia Miller", "Cynthia Fuller", "Maxine Baker", "Abby Littman"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o interesse romântico de Paul?",
+    "o": ["Georgia Miller", "Cynthia Fuller", "Maxine Baker", "Abby Littman"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o interesse romântico de Nick?",
+    "o": ["Georgia Miller", "Cynthia Fuller", "Maxine Baker", "Abby Littman"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o interesse romântico de Gil?",
+    "o": ["Georgia Miller", "Cynthia Fuller", "Maxine Baker", "Abby Littman"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o interesse romântico de Austin?",
+    "o": ["Abby Littman", "Maxine Baker", "Norah Cohen", "Hunter Chen"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o interesse romântico de Hunter?",
+    "o": ["Abby Littman", "Maxine Baker", "Norah Cohen", "Joe Singh"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o interesse romântico de Norah?",
+    "o": ["Abby Littman", "Maxine Baker", "Hunter Chen", "Joe Singh"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o interesse romântico de Cynthia?",
+    "o": ["Joe Singh", "Maxine Baker", "Abby Littman", "Hunter Chen"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o interesse romântico de Silver?",
+    "o": ["Maxine Baker", "Abby Littman", "Hunter Chen", "Joe Singh"],
+    "a": 0
+  }
+]

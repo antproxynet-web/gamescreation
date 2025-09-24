@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual é o maior rio do mundo em volume de água?",
+    "o": ["Amazonas", "Nilo", "Yangtzé", "Mississippi"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a montanha mais alta do mundo?",
+    "o": ["Everest", "K2", "Kangchenjunga", "Lhotse"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o maior deserto quente do mundo?",
+    "o": ["Sahara", "Kalahari", "Gobi", "Atacama"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o maior lago de água doce do mundo em área?",
+    "o": ["Lago Superior", "Lago Vitória", "Lago Michigan", "Lago Baikal"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o maior oceano do mundo?",
+    "o": ["Pacífico", "Atlântico", "Índico", "Ártico"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o rio mais longo do mundo?",
+    "o": ["Nilo", "Amazonas", "Yangtzé", "Mississippi"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a maior ilha do mundo?",
+    "o": ["Groenlândia", "Nova Guiné", "Bornéu", "Madagascar"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a cadeia de montanhas mais longa do mundo?",
+    "o": ["Cordilheira dos Andes", "Himalaia", "Rockies", "Alpes"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o ponto mais profundo do oceano?",
+    "o": ["Fossa das Marianas", "Fossa do Peru-Chile", "Fossa das Filipinas", "Fossa de Tonga"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o maior delta de rio do mundo?",
+    "o": ["Delta do Ganges-Brahmaputra", "Delta do Amazonas", "Delta do Nilo", "Delta do Mekong"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a maior floresta tropical do mundo?",
+    "o": ["Amazônica", "Congo", "Southeast Asia", "Daintree"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o menor continente em área?",
+    "o": ["Oceania", "Europa", "América do Sul", "Antártida"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o maior continente em área?",
+    "o": ["Ásia", "África", "América do Norte", "Europa"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a maior península do mundo?",
+    "o": ["Arábica", "Ibérica", "Italiana", "Balcânica"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o rio mais extenso da África?",
+    "o": ["Nilo", "Congo", "Níger", "Zambeze"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a maior cordilheira da América do Norte?",
+    "o": ["Rockies", "Appalachians", "Sierra Nevada", "Cascades"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o maior deserto frio do mundo?",
+    "o": ["Antártico", "Gobi", "Siberiano", "Groenlândia"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a maior planície aluvial do mundo?",
+    "o": ["Planície do Ganges", "Mississippi", "Nilo", "Yangtzé"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o maior arquipélago do mundo?",
+    "o": ["Indonésia", "Filipinas", "Japão", "Maldivas"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a maior baía do mundo?",
+    "o": ["Baía de Bengala", "Hudson", "San Francisco", "Baía de Chesapeake"],
+    "a": 0
+  }
+]

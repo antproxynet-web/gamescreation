@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quem é o protagonista da série DAHMER?",
+    "o": ["Jeffrey Dahmer", "Lionel Dahmer", "Gwendolyn Dahmer", "Eddie Smith"],
+    "a": 0
+  },
+  {
+    "q": "Qual cidade é o principal cenário da série?",
+    "o": ["Milwaukee", "Chicago", "Nova York", "Los Angeles"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o pai de Jeffrey Dahmer?",
+    "o": ["Lionel Dahmer", "George Dahmer", "Thomas Dahmer", "Michael Dahmer"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a mãe de Jeffrey Dahmer?",
+    "o": ["Gwendolyn Dahmer", "Lionel Dahmer", "Eddie Smith", "Barbara Smith"],
+    "a": 0
+  },
+  {
+    "q": "Qual profissão Dahmer tenta seguir na juventude?",
+    "o": ["Trabalhador de supermercado", "Médico", "Professor", "Policial"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi a primeira vítima mostrada na série?",
+    "o": ["Steven Hicks", "Tony Hughes", "Konerak Sinthasomphone", "Jeremiah Weinberger"],
+    "a": 0
+  },
+  {
+    "q": "Qual policial tenta investigar Dahmer antes que os crimes aumentem?",
+    "o": ["Policial Stone", "Policial Johnson", "Detetive Smith", "Sheriff Mills"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a característica mais chocante dos crimes de Dahmer?",
+    "o": ["Canibalismo e necrofilia", "Roubo", "Sequestro sem violência", "Falsificação"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o vizinho que suspeita de Dahmer?",
+    "o": ["Glenn", "Eddie", "Tony", "Lionel"],
+    "a": 0
+  },
+  {
+    "q": "Em que década os crimes de Dahmer ocorreram principalmente?",
+    "o": ["1980-1990", "1970-1980", "1990-2000", "1960-1970"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a reação da polícia quando a primeira denúncia ocorre?",
+    "o": ["Subestimam e deixam passar", "Prisões imediatas", "Investigações rápidas", "Alertam toda a cidade"],
+    "a": 0
+  },
+  {
+    "q": "Quem captura finalmente Dahmer?",
+    "o": ["Polícia de Milwaukee", "Vizinhos", "Pai de Dahmer", "Cidadãos anônimos"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem é mostrado tentando alertar a polícia sobre Dahmer?",
+    "o": ["Konarak Sinthasomphone", "Tony Hughes", "Steven Hicks", "Jeremiah Weinberger"],
+    "a": 0
+  },
+  {
+    "q": "Como Dahmer é descrito em relação à sua aparência e comportamento social?",
+    "o": ["Introvertido e aparentemente inofensivo", "Extrovertido e agressivo", "Violento e público", "Desconhecido socialmente"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a motivação apresentada para os crimes de Dahmer na série?",
+    "o": ["Desejo de controle e obsessão por companheiros", "Ganância", "Vingança", "Prova de coragem"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a vítima que consegue escapar e ajuda a capturar Dahmer?",
+    "o": ["Tracy Edwards", "Konerak Sinthasomphone", "Tony Hughes", "Jeremiah Weinberger"],
+    "a": 0
+  },
+  {
+    "q": "Como a série mostra a infância de Dahmer?",
+    "o": ["Com indícios de isolamento e comportamento perturbador", "Como normal e feliz", "Com aventuras escolares", "Com esportes competitivos"],
+    "a": 0
+  },
+  {
+    "q": "Qual aspecto da investigação da polícia é criticado na série?",
+    "o": ["Falhas na verificação de denúncias", "Uso excessivo de tecnologia", "Prisão precoce de suspeitos", "Foco excessivo em Dahmer"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o efeito da série sobre o público em relação a Dahmer?",
+    "o": ["Chocante e perturbador", "Engraçado", "Inspirador", "Educativo apenas sobre ciência"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a principal mensagem ou tema explorado na série?",
+    "o": ["O perigo da negligência e o lado sombrio da mente humana", "A importância da amizade", "Aventura e fantasia", "Viagem no tempo"],
+    "a": 0
+  }
+]

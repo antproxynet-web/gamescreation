@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quem é o protagonista principal de Ozark?",
+    "o": ["Marty Byrde", "Wendy Byrde", "Ruth Langmore", "Jacob Snell"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a esposa de Marty Byrde?",
+    "o": ["Wendy Byrde", "Ruth Langmore", "Darlene Snell", "Charlotte Byrde"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a filha adolescente dos Byrde?",
+    "o": ["Charlotte Byrde", "Ruth Langmore", "Wendy Byrde", "Darlene Snell"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o filho adolescente dos Byrde?",
+    "o": ["Jonah Byrde", "Charlotte Byrde", "Ruth Langmore", "Jacob Snell"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a jovem envolvida com o crime na família Langmore?",
+    "o": ["Ruth Langmore", "Charlotte Byrde", "Wendy Byrde", "Darlene Snell"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o antagonista líder do cartel de drogas?",
+    "o": ["Camino Del Rio", "Jacob Snell", "Darlene Snell", "Ozark Byrde"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o parceiro de negócios de Marty na lavagem de dinheiro?",
+    "o": ["Ruth Langmore", "Jacob Snell", "Darlene Snell", "Helen Pierce"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a advogada do cartel?",
+    "o": ["Helen Pierce", "Wendy Byrde", "Darlene Snell", "Charlotte Byrde"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o fazendeiro envolvido com o tráfico de drogas?",
+    "o": ["Jacob Snell", "Camino Del Rio", "Marty Byrde", "Darlene Snell"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a parceira de Jacob Snell?",
+    "o": ["Darlene Snell", "Ruth Langmore", "Wendy Byrde", "Helen Pierce"],
+    "a": 0
+  },
+  {
+    "q": "Onde a família Byrde se muda para lavar dinheiro?",
+    "o": ["Ozarks, Missouri", "Chicago, Illinois", "Atlanta, Georgia", "Dallas, Texas"],
+    "a": 0
+  },
+  {
+    "q": "Quem ajuda Marty com o esquema de cassinos?",
+    "o": ["Wendy Byrde", "Ruth Langmore", "Helen Pierce", "Jacob Snell"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o primo que Marty ajuda a introduzir ao negócio?",
+    "o": ["Ruth Langmore", "Jonah Byrde", "Jacob Snell", "Camino Del Rio"],
+    "a": 0
+  },
+  {
+    "q": "Quem se torna aliada e antagonista ao mesmo tempo?",
+    "o": ["Ruth Langmore", "Darlene Snell", "Wendy Byrde", "Helen Pierce"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o policial que começa a investigar os Byrde?",
+    "o": ["Trevor Evans", "Agent Petty", "Camino Del Rio", "Jacob Snell"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a chefe do tráfico local que entra em conflito com os Byrde?",
+    "o": ["Darlene Snell", "Ruth Langmore", "Helen Pierce", "Wendy Byrde"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o traficante mexicano ligado ao cartel de Navarro?",
+    "o": ["Camino Del Rio", "Jacob Snell", "Marty Byrde", "Darlene Snell"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a personagem que tenta proteger sua família e seus negócios ilegais?",
+    "o": ["Wendy Byrde", "Ruth Langmore", "Darlene Snell", "Helen Pierce"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o advogado americano que representa os Byrde nos negócios ilegais?",
+    "o": ["Helen Pierce", "Wendy Byrde", "Jacob Snell", "Ruth Langmore"],
+    "a": 0
+  },
+  {
+    "q": "Quem ajuda Marty e Wendy a expandirem o esquema de lavagem de dinheiro?",
+    "o": ["Ruth Langmore", "Jacob Snell", "Darlene Snell", "Camino Del Rio"],
+    "a": 0
+  }
+]

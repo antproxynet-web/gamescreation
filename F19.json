@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que é um terremoto?",
+    "o": ["Movimento súbito da crosta terrestre", "Ondas no mar", "Vulcão em erupção", "Deslizamento de terra"],
+    "a": 0
+  },
+  {
+    "q": "Qual escala mede a magnitude de um terremoto?",
+    "o": ["Escala Richter", "Escala Mercalli", "Escala Fujita", "Escala Beaufort"],
+    "a": 0
+  },
+  {
+    "q": "O que é um tsunami?",
+    "o": ["Ondas gigantes causadas por terremotos ou vulcões", "Furacão no mar", "Maré baixa", "Corrente oceânica"],
+    "a": 0
+  },
+  {
+    "q": "Qual país sofreu com um tsunami devastador em 2004?",
+    "o": ["Indonésia", "Japão", "Filipinas", "Tailândia"],
+    "a": 0
+  },
+  {
+    "q": "Onde geralmente ocorrem terremotos e tsunamis?",
+    "o": ["Placas tectônicas", "Planalto", "Deserto", "Ilhas artificiais"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o epicentro de um terremoto?",
+    "o": ["Ponto na superfície acima do foco", "Centro da Terra", "Oceano", "Plataforma continental"],
+    "a": 0
+  },
+  {
+    "q": "O que é o hipocentro de um terremoto?",
+    "o": ["Ponto interno onde ocorre a ruptura", "Centro da cidade afetada", "Costa mais próxima", "Placa oceânica"],
+    "a": 0
+  },
+  {
+    "q": "Qual país é famoso por terremotos frequentes devido ao Círculo de Fogo do Pacífico?",
+    "o": ["Japão", "Brasil", "Egito", "África do Sul"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a principal causa de tsunamis?",
+    "o": ["Terremotos submarinos", "Furacões", "Vulcões terrestres", "Ondas normais do mar"],
+    "a": 0
+  },
+  {
+    "q": "O que significa magnitude de um terremoto?",
+    "o": ["Energia liberada", "Velocidade da onda", "Altura do tsunami", "Profundidade do oceano"],
+    "a": 0
+  },
+  {
+    "q": "Qual escala mede o impacto de um terremoto sobre pessoas e construções?",
+    "o": ["Escala Mercalli", "Escala Richter", "Escala Fujita", "Escala Beaufort"],
+    "a": 0
+  },
+  {
+    "q": "Qual cidade foi destruída por um terremoto em 2010?",
+    "o": ["Porto Príncipe, Haiti", "Tóquio, Japão", "Lisboa, Portugal", "Los Angeles, EUA"],
+    "a": 0
+  },
+  {
+    "q": "Qual oceano foi afetado pelo tsunami de 2011 no Japão?",
+    "o": ["Pacífico", "Atlântico", "Índico", "Ártico"],
+    "a": 0
+  },
+  {
+    "q": "O que é uma falha geológica?",
+    "o": ["Fratura na crosta terrestre onde ocorre deslocamento", "Montanha submersa", "Ilha artificial", "Cavidade subterrânea"],
+    "a": 0
+  },
+  {
+    "q": "Qual fenômeno pode gerar tsunami além de terremotos?",
+    "o": ["Erupção vulcânica submarina", "Furacão", "Maremoto", "Tornado"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a onda mais rápida de um tsunami?",
+    "o": ["Onda de superfície", "Onda interna", "Onda de vento", "Onda de maré"],
+    "a": 0
+  },
+  {
+    "q": "O que é a placa tectônica?",
+    "o": ["Camada rígida da crosta que se move", "Cavidade subterrânea", "Ilha vulcânica", "Montanha submarina"],
+    "a": 0
+  },
+  {
+    "q": "Qual país possui sistema de alerta de tsunamis eficiente?",
+    "o": ["Japão", "Brasil", "Egito", "Argentina"],
+    "a": 0
+  },
+  {
+    "q": "Qual fenômeno pode causar liquefação do solo durante terremotos?",
+    "o": ["Saturação de água e vibração", "Vento forte", "Maré alta", "Erosão"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a principal medida de prevenção contra tsunamis em áreas costeiras?",
+    "o": ["Alertas e evacuação", "Construção de barragens", "Uso de drones", "Plantio de árvores"],
+    "a": 0
+  }
+]

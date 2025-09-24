@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual é o maior deserto do mundo?",
+    "o": ["Antártico", "Sahara", "Gobi", "Kalahari"],
+    "a": 0
+  },
+  {
+    "q": "Qual floresta tropical é a maior do mundo?",
+    "o": ["Amazônica", "Congo", "Southeast Asia", "Daintree"],
+    "a": 0
+  },
+  {
+    "q": "Qual deserto é famoso por suas dunas de areia vermelha e fica na África?",
+    "o": ["Sahara", "Kalahari", "Namib", "Gobi"],
+    "a": 0
+  },
+  {
+    "q": "Qual floresta é conhecida como o pulmão do mundo?",
+    "o": ["Amazônica", "Taiga", "Boreal", "Valdiviana"],
+    "a": 0
+  },
+  {
+    "q": "Qual deserto está localizado na Mongólia e China?",
+    "o": ["Gobi", "Sahara", "Karakum", "Thar"],
+    "a": 0
+  },
+  {
+    "q": "Qual floresta é famosa por suas árvores de eucalipto e coalas?",
+    "o": ["Florestas da Austrália", "Amazônica", "Boreal", "Congo"],
+    "a": 0
+  },
+  {
+    "q": "Qual deserto é conhecido como 'deserto frio' na Antártida?",
+    "o": ["Antártico", "Gobi", "Sahara", "Atacama"],
+    "a": 0
+  },
+  {
+    "q": "Qual floresta tropical africana é a segunda maior do mundo?",
+    "o": ["Congo", "Amazônica", "Southeast Asia", "Taiga"],
+    "a": 0
+  },
+  {
+    "q": "Qual deserto é famoso por ser o mais seco do mundo?",
+    "o": ["Atacama", "Sahara", "Gobi", "Kalahari"],
+    "a": 0
+  },
+  {
+    "q": "Qual floresta é conhecida por ser boreal, com coníferas e clima frio?",
+    "o": ["Taiga", "Amazônica", "Congo", "Valdiviana"],
+    "a": 0
+  },
+  {
+    "q": "Qual deserto africano possui dunas gigantes e formações rochosas?",
+    "o": ["Namib", "Sahara", "Kalahari", "Atacama"],
+    "a": 0
+  },
+  {
+    "q": "Qual floresta chilena é famosa por árvores gigantes e biodiversidade única?",
+    "o": ["Valdiviana", "Amazônica", "Congo", "Taiga"],
+    "a": 0
+  },
+  {
+    "q": "Qual deserto da Ásia Central é conhecido por suas estepes áridas?",
+    "o": ["Karakum", "Gobi", "Thar", "Sahara"],
+    "a": 0
+  },
+  {
+    "q": "Qual floresta tropical da Indonésia é conhecida por orangotangos?",
+    "o": ["Sumatra e Bornéu", "Amazônica", "Congo", "Valdiviana"],
+    "a": 0
+  },
+  {
+    "q": "Qual deserto fica na região de Rajasthan, na Índia?",
+    "o": ["Thar", "Gobi", "Sahara", "Karakum"],
+    "a": 0
+  },
+  {
+    "q": "Qual floresta é conhecida por sua grande diversidade de orquídeas e fauna exótica na América Central?",
+    "o": ["Florestas Tropicais da América Central", "Amazônica", "Congo", "Taiga"],
+    "a": 0
+  },
+  {
+    "q": "Qual deserto da América do Sul é famoso por ser extremamente árido?",
+    "o": ["Atacama", "Patagônia", "Sahara", "Kalahari"],
+    "a": 0
+  },
+  {
+    "q": "Qual floresta africana abriga gorilas e chimpanzés?",
+    "o": ["Congo", "Amazônica", "Taiga", "Valdiviana"],
+    "a": 0
+  },
+  {
+    "q": "Qual deserto é conhecido por suas tempestades de areia na Austrália?",
+    "o": ["Great Victoria", "Sahara", "Gobi", "Kalahari"],
+    "a": 0
+  },
+  {
+    "q": "Qual floresta tropical amazônica abriga a maior variedade de espécies de árvores do planeta?",
+    "o": ["Amazônica", "Congo", "Valdiviana", "Southeast Asia"],
+    "a": 0
+  }
+]

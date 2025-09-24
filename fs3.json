@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que é movimento em física?",
+    "o": ["Mudança de posição de um corpo em relação a um referencial", "Mudança de temperatura de um corpo", "Mudança de cor de um objeto", "Mudança de massa de um corpo"],
+    "a": 0
+  },
+  {
+    "q": "O que é deslocamento?",
+    "o": ["Mudança de posição de um corpo em linha reta com direção", "Distância percorrida sem direção", "Velocidade média", "Aceleração"],
+    "a": 0
+  },
+  {
+    "q": "O que é distância percorrida?",
+    "o": ["O caminho total percorrido por um corpo", "Mudança de posição em linha reta", "Velocidade média", "Aceleração"],
+    "a": 0
+  },
+  {
+    "q": "O que é velocidade média?",
+    "o": ["Deslocamento dividido pelo tempo", "Distância total dividida pelo tempo", "Aceleração vezes tempo", "Força aplicada"],
+    "a": 0
+  },
+  {
+    "q": "O que é velocidade instantânea?",
+    "o": ["Velocidade em um instante específico", "Velocidade média em todo o percurso", "Aceleração dividida pelo tempo", "Deslocamento total"],
+    "a": 0
+  },
+  {
+    "q": "O que é aceleração?",
+    "o": ["Variação da velocidade por unidade de tempo", "Distância percorrida por unidade de tempo", "Força aplicada", "Energia do corpo"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a unidade de velocidade no SI?",
+    "o": ["m/s", "m²/s", "m/s²", "N"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a unidade de aceleração no SI?",
+    "o": ["m/s", "m²/s", "m/s²", "N"],
+    "a": 2
+  },
+  {
+    "q": "O que caracteriza o movimento retilíneo uniforme (MRU)?",
+    "o": ["Velocidade constante e trajetória reta", "Velocidade variável e trajetória curva", "Aceleração constante", "Força zero"],
+    "a": 0
+  },
+  {
+    "q": "O que caracteriza o movimento retilíneo uniformemente acelerado (MRUA)?",
+    "o": ["Velocidade constante", "Aceleração constante em linha reta", "Movimento circular", "Força zero"],
+    "a": 1
+  },
+  {
+    "q": "Qual é a fórmula da posição no MRU?",
+    "o": ["S = S0 + v × t", "S = S0 + 1/2 × a × t²", "S = v × t²", "S = S0 – v × t"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a fórmula da posição no MRUA?",
+    "o": ["S = S0 + v × t", "S = S0 + v0 × t + 1/2 × a × t²", "S = v × t²", "S = S0 – v × t"],
+    "a": 1
+  },
+  {
+    "q": "Qual é a fórmula da velocidade no MRUA?",
+    "o": ["v = v0 + a × t", "v = v0 – a × t", "v = v0 × t", "v = v0 / t"],
+    "a": 0
+  },
+  {
+    "q": "O que é movimento circular uniforme (MCU)?",
+    "o": ["Movimento em círculo com velocidade constante", "Movimento em linha reta com aceleração", "Movimento oscilatório", "Movimento em espiral"],
+    "a": 0
+  },
+  {
+    "q": "O que é frequência em movimento periódico?",
+    "o": ["Número de voltas ou ciclos por unidade de tempo", "Velocidade do corpo", "Aceleração do corpo", "Distância percorrida"],
+    "a": 0
+  },
+  {
+    "q": "O que é período em movimento periódico?",
+    "o": ["Tempo de um ciclo completo", "Número de ciclos por segundo", "Velocidade média", "Aceleração instantânea"],
+    "a": 0
+  },
+  {
+    "q": "O que é movimento oscilatório?",
+    "o": ["Movimento de vai e vem em torno de um ponto de equilíbrio", "Movimento retilíneo uniforme", "Movimento circular", "Movimento acelerado sem limite"],
+    "a": 0
+  },
+  {
+    "q": "O que é movimento relativo?",
+    "o": ["Movimento observado de um referencial específico", "Movimento absoluto", "Movimento circular", "Movimento acelerado constante"],
+    "a": 0
+  },
+  {
+    "q": "O que é velocidade escalar média?",
+    "o": ["Distância total dividida pelo tempo total", "Deslocamento dividido pelo tempo", "Variação da velocidade por tempo", "Energia por massa"],
+    "a": 1
+  },
+  {
+    "q": "O que é aceleração centrípeta?",
+    "o": ["Aceleração dirigida para o centro de um movimento circular", "Aceleração tangencial", "Aceleração linear", "Aceleração zero"],
+    "a": 0
+  }
+]

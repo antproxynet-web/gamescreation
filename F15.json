@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual é o maior país do mundo em área territorial?",
+    "o": ["Rússia", "Canadá", "China", "Estados Unidos"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o menor país do mundo em área territorial?",
+    "o": ["Vaticano", "Mônaco", "San Marino", "Liechtenstein"],
+    "a": 0
+  },
+  {
+    "q": "Qual continente possui o maior número de países?",
+    "o": ["África", "Ásia", "Europa", "América do Sul"],
+    "a": 0
+  },
+  {
+    "q": "Qual continente é o mais populoso do mundo?",
+    "o": ["Ásia", "África", "Europa", "América do Norte"],
+    "a": 0
+  },
+  {
+    "q": "Qual país possui a maior fronteira terrestre do mundo?",
+    "o": ["Rússia", "China", "Brasil", "Canadá"],
+    "a": 0
+  },
+  {
+    "q": "Qual país é atravessado pelo Equador e tem ilhas famosas como Galápagos?",
+    "o": ["Equador", "Colômbia", "Peru", "Brasil"],
+    "a": 0
+  },
+  {
+    "q": "Qual continente não possui desertos naturais?",
+    "o": ["Europa", "África", "Ásia", "Oceania"],
+    "a": 0
+  },
+  {
+    "q": "Qual país tem o maior número de ilhas?",
+    "o": ["Suécia", "Indonésia", "Filipinas", "Noruega"],
+    "a": 0
+  },
+  {
+    "q": "Qual país está localizado no extremo sul da América do Sul?",
+    "o": ["Chile", "Argentina", "Uruguai", "Brasil"],
+    "a": 0
+  },
+  {
+    "q": "Qual continente é o menor em extensão territorial?",
+    "o": ["Oceania", "Europa", "África", "América do Sul"],
+    "a": 0
+  },
+  {
+    "q": "Qual país é atravessado pelo Trópico de Capricórnio e possui o Pantanal?",
+    "o": ["Brasil", "Argentina", "Chile", "Peru"],
+    "a": 0
+  },
+  {
+    "q": "Qual país africano possui a maior população?",
+    "o": ["Nigéria", "Egito", "África do Sul", "Etiópia"],
+    "a": 0
+  },
+  {
+    "q": "Qual país asiático possui a maior população?",
+    "o": ["China", "Índia", "Indonésia", "Japão"],
+    "a": 0
+  },
+  {
+    "q": "Qual país europeu tem maior território?",
+    "o": ["Rússia", "França", "Ucrânia", "Espanha"],
+    "a": 0
+  },
+  {
+    "q": "Qual país é conhecido como 'Terra do Sol Nascente'?",
+    "o": ["Japão", "China", "Coreia do Sul", "Tailândia"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o país mais setentrional do mundo?",
+    "o": ["Noruega", "Rússia", "Canadá", "Groenlândia"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o país mais meridional do mundo?",
+    "o": ["Chile", "Argentina", "Nova Zelândia", "Austrália"],
+    "a": 0
+  },
+  {
+    "q": "Qual país da Oceania tem a maior extensão territorial?",
+    "o": ["Austrália", "Nova Zelândia", "Papua Nova Guiné", "Fiji"],
+    "a": 0
+  },
+  {
+    "q": "Qual país possui mais fusos horários?",
+    "o": ["França", "Rússia", "Estados Unidos", "Canadá"],
+    "a": 0
+  },
+  {
+    "q": "Qual continente é cercado por todos os outros oceanos do mundo?",
+    "o": ["Antártida", "África", "Ásia", "América do Sul"],
+    "a": 0
+  }
+]

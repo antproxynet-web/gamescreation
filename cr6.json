@@ -1,0 +1,97 @@
+[
+  {
+    "q": "Quem é o protagonista da série O Agente Noturno?",
+    "o": ["Peter Sutherland", "Rose Larkin", "Diane Farr", "Erik Monks"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a função de Peter Sutherland no início da série?",
+    "o": ["Atender uma linha telefônica secreta", "Proteger a Casa Branca", "Investigar conspirações", "Treinar novos agentes"],
+    "a": 0
+  },
+  {
+    "q": "Quem é Rose Larkin?",
+    "o": ["Uma civil envolvida em uma conspiração", "Uma agente do FBI", "Uma funcionária da Casa Branca", "Uma jornalista investigativa"],
+    "a": 0
+  },
+  {
+    "q": "Quem é Diane Farr?",
+    "o": ["Chefe de Peter Sutherland", "Mentora de Rose Larkin", "Presidente dos Estados Unidos", "Agente infiltrada"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a principal ameaça enfrentada por Peter e Rose?",
+    "o": ["Uma conspiração envolvendo espionagem", "Um ataque terrorista", "Um golpe militar", "Uma crise econômica"],
+    "a": 0
+  },
+  {
+    "q": "Onde Peter Sutherland trabalha?",
+    "o": ["Na Casa Branca", "No FBI", "Na CIA", "No Departamento de Estado"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o vilão principal da série?",
+    "o": ["Vasily Borgov", "Jacob Monroe", "Warren Stocker", "Catherine Weaver"],
+    "a": 0
+  },
+  {
+    "q": "Quem é Jacob Monroe?",
+    "o": ["Empresário internacional envolvido em uma conspiração", "Agente do FBI", "Presidente dos Estados Unidos", "Líder de uma organização terrorista"],
+    "a": 0
+  },
+  {
+    "q": "Quem é Catherine Weaver?",
+    "o": ["Nova chefe de Peter Sutherland", "Ex-presidente dos Estados Unidos", "Agente infiltrada", "Jornalista investigativa"],
+    "a": 0
+  },
+  {
+    "q": "Quem é Warren Stocker?",
+    "o": ["Oficial de inteligência investigado pelo FBI", "Agente do FBI", "Presidente dos Estados Unidos", "Líder de uma organização terrorista"],
+    "a": 0
+  },
+  {
+    "q": "Quem é Alice Leeds?",
+    "o": ["Mentora de Peter Sutherland", "Agente do FBI", "Jornalista investigativa", "Funcionária da Casa Branca"],
+    "a": 0
+  },
+  {
+    "q": "Quem é Aiden Mosley?",
+    "o": ["Agente do FBI", "Líder de uma organização terrorista", "Presidente dos Estados Unidos", "Jornalista investigativa"],
+    "a": 0
+  },
+  {
+    "q": "Quem é Arienne Mandi?",
+    "o": ["Noor Taheri", "Catherine Weaver", "Alice Leeds", "Diane Farr"],
+    "a": 0
+  },
+  {
+    "q": "Quem é Teddy Sears?",
+    "o": ["Warren Stocker", "Jacob Monroe", "Vasily Borgov", "Erik Monks"],
+    "a": 0
+  },
+  {
+    "q": "Quem é Louis Herthum?",
+    "o": ["Jacob Monroe", "Warren Stocker", "Catherine Weaver", "Vasily Borgov"],
+    "a": 0
+  },
+  {
+    "q": "Quem é Genesis Rodriguez?",
+    "o": ["Personagem da 3ª temporada", "Mentora de Peter Sutherland", "Agente do FBI", "Líder de uma organização terrorista"],
+    "a": 0
+  },
+  {
+    "q": "Quem é Jennifer Morrison?",
+    "o": ["Personagem da 3ª temporada", "Mentora de Peter Sutherland", "Agente do FBI", "Líder de uma organização terrorista"],
+    "a": 0
+  },
+  {
+    "q": "Quem é David Lyons?",
+    "o": ["Personagem da 3ª temporada", "Mentora de Peter Sutherland", "Agente do FBI", "Líder de uma organização terrorista"],
+    "a": 0
+  },
+  {
+    "q": "Quem é Stephen Moyer?",
+    "o": ["Personagem da 3ª temporada", "Mentora de Peter Sutherland", "Agente do FBI", "Líder de uma organização terrorista"],
+    "a": 0
+  }
+]

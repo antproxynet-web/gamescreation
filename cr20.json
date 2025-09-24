@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quem é um dos protagonistas principais da primeira temporada de Elite?",
+    "o": ["Samuel García", "Guzmán Nunier", "Nadia Shanaa", "Carla Moreno"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o filho rico e problemático do colégio Las Encinas?",
+    "o": ["Guzmán Nunier", "Samuel García", "Nano", "Christian Varela"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a aluna de origem marroquina brilhante e aplicada?",
+    "o": ["Nadia Shanaa", "Carla Moreno", "Lucrecia 'Lu' Montesinos", "Rebeka Parrilla"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a estudante popular que se envolve em intrigas amorosas?",
+    "o": ["Carla Moreno", "Nadia Shanaa", "Lucrecia 'Lu' Montesinos", "Rebeka Parrilla"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o melhor amigo de Samuel?",
+    "o": ["Nano García", "Guzmán Nunier", "Christian Varela", "Polo Benavent"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o estudante homossexual que se envolve em conflitos amorosos?",
+    "o": ["Polo Benavent", "Guzmán Nunier", "Christian Varela", "Nano García"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a irmã de Lucrecia 'Lu' Montesinos?",
+    "o": ["Carla Moreno", "Rebeka Parrilla", "Nadia Shanaa", "Ander Muñoz"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o atleta do colégio que se envolve em escândalos?",
+    "o": ["Guzmán Nunier", "Christian Varela", "Samuel García", "Polo Benavent"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o aluno que protagoniza um triângulo amoroso com Carla e Lu?",
+    "o": ["Guzmán Nunier", "Samuel García", "Polo Benavent", "Christian Varela"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a aluna que tem um passado conturbado e segredos familiares?",
+    "o": ["Rebeka Parrilla", "Nadia Shanaa", "Carla Moreno", "Lucrecia 'Lu' Montesinos"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o irmão de Ander Muñoz, atleta e estudante de Las Encinas?",
+    "o": ["Ander Muñoz não tem irmão na série", "Guzmán Nunier", "Polo Benavent", "Samuel García"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a aluna que sofre bullying por sua origem?",
+    "o": ["Nadia Shanaa", "Carla Moreno", "Rebeka Parrilla", "Lucrecia 'Lu' Montesinos"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o personagem envolvido em um assassinato misterioso?",
+    "o": ["Polo Benavent", "Guzmán Nunier", "Samuel García", "Nano García"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a diretora do colégio Las Encinas?",
+    "o": ["Helena Fernández", "Carla Moreno", "Lucrecia 'Lu' Montesinos", "Rebeka Parrilla"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o amigo leal de Guzmán que enfrenta conflitos com Samuel?",
+    "o": ["Christian Varela", "Nano García", "Polo Benavent", "Ander Muñoz"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a aluna rica que esconde segredos familiares?",
+    "o": ["Lucrecia 'Lu' Montesinos", "Carla Moreno", "Nadia Shanaa", "Rebeka Parrilla"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o personagem que tem um relacionamento complicado com Polo?",
+    "o": ["Christian Varela", "Samuel García", "Guzmán Nunier", "Nano García"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o aluno que se envolve com drogas e crimes em Las Encinas?",
+    "o": ["Nano García", "Polo Benavent", "Guzmán Nunier", "Samuel García"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a estudante que se muda de origem humilde e enfrenta desafios no colégio?",
+    "o": ["Samuel García", "Nadia Shanaa", "Rebeka Parrilla", "Lucrecia 'Lu' Montesinos"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o personagem que frequentemente manipula situações para seu benefício?",
+    "o": ["Lucrecia 'Lu' Montesinos", "Carla Moreno", "Guzmán Nunier", "Polo Benavent"],
+    "a": 0
+  }
+]

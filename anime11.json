@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quem é o protagonista principal de Dragon Ball Super?",
+    "o": ["Goku", "Vegeta", "Gohan", "Trunks"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a forma mais recente de Goku apresentada em Super?",
+    "o": ["Ultra Instinct", "Super Saiyajin Blue", "Super Saiyajin God", "Kaio-Ken x20"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o príncipe dos Saiyajins de Vegeta?",
+    "o": ["Vegeta", "Goku", "Trunks", "Goten"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o deus da destruição do Universo 7?",
+    "o": ["Beerus", "Whis", "Champa", "Zamasu"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o anjo assistente de Beerus?",
+    "o": ["Whis", "Vados", "Mojito", "Cus"],
+    "a": 0
+  },
+  {
+    "q": "Qual saga introduz os deuses da destruição e anjos?",
+    "o": ["Saga de Battle of Gods", "Saga de Resurrection F", "Saga de Universe 6", "Saga de Goku Black"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o vilão principal da saga de Resurrection F?",
+    "o": ["Freeza", "Zamasu", "Jiren", "Toppo"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o vilão que possui o plano de se tornar imortal e destruir todos os mortais?",
+    "o": ["Zamasu", "Freeza", "Jiren", "Beerus"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o torneio entre universos apresentado em Dragon Ball Super?",
+    "o": ["Torneio do Poder", "Torneio de Artes Marciais", "Torneio de Universe 6", "Torneio de Piccolo"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o guerreiro mais forte do Universo 11?",
+    "o": ["Jiren", "Toppo", "Dyspo", "Kale"],
+    "a": 0
+  },
+  {
+    "q": "Qual Saiyajin atinge a forma Super Saiyajin Blue?",
+    "o": ["Goku e Vegeta", "Gohan e Trunks", "Goten e Pan", "Kale e Caulifla"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a Saiyajin fêmea do Universo 6 que luta ao lado de Cabba?",
+    "o": ["Caulifla", "Kale", "Vados", "Chi-Chi"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o mestre que treina Goku e Vegeta no Ultra Instinct?",
+    "o": ["Whis", "Beerus", "Kaioh Shin", "Zamasu"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o filho de Vegeta e Bulma que luta no Torneio do Poder?",
+    "o": ["Trunks", "Goten", "Gohan", "Pan"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a deusa da destruição do Universo 6?",
+    "o": ["Champa", "Vados", "Beerus", "Kale"],
+    "a": 1
+  },
+  {
+    "q": "Qual é o ataque característico de Goku?",
+    "o": ["Kamehameha", "Final Flash", "Big Bang Attack", "Galick Gun"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a forma evoluída de Freeza em Dragon Ball Super?",
+    "o": ["Golden Freeza", "Mecha Freeza", "Final Form", "Black Freeza"],
+    "a": 0
+  },
+  {
+    "q": "Quem derrota Zamasu no arco de Goku Black?",
+    "o": ["Zeno", "Goku", "Vegeta", "Trunks"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o deus mais jovem e poderoso que pode apagar universos?",
+    "o": ["Zeno", "Beerus", "Whis", "Champa"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a principal técnica de Vegeta em Super?",
+    "o": ["Final Flash", "Big Bang Attack", "Galick Gun", "Kamehameha"],
+    "a": 0
+  }
+]

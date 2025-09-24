@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que é migração?",
+    "o": ["Movimento de pessoas de um lugar para outro", "Mudança de estações do ano", "Deslocamento de animais marinhos", "Variação do nível do mar"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a diferença entre migração interna e externa?",
+    "o": ["Interna é dentro do país, externa é entre países", "Interna é rural, externa é urbana", "Interna é sazonal, externa é permanente", "Não há diferença"],
+    "a": 0
+  },
+  {
+    "q": "O que são refugiados?",
+    "o": ["Pessoas que fogem de guerras ou perseguições", "Turistas internacionais", "Estudantes em intercâmbio", "Trabalhadores temporários"],
+    "a": 0
+  },
+  {
+    "q": "O que são emigrantes?",
+    "o": ["Pessoas que saem de seu país de origem", "Pessoas que chegam a um país", "Trabalhadores locais", "Estudantes internacionais"],
+    "a": 0
+  },
+  {
+    "q": "O que são imigrantes?",
+    "o": ["Pessoas que chegam a um país estrangeiro", "Pessoas que saem de seu país", "Turistas", "Deslocamento de animais"],
+    "a": 0
+  },
+  {
+    "q": "O que é migração voluntária?",
+    "o": ["Quando a pessoa decide se mudar por escolha própria", "Quando foge de guerra", "Quando é forçada a sair", "Quando ocorre apenas temporariamente"],
+    "a": 0
+  },
+  {
+    "q": "O que é migração forçada?",
+    "o": ["Quando pessoas são obrigadas a deixar seu local", "Quando mudam por estudo", "Quando mudam por lazer", "Quando mudam por trabalho"],
+    "a": 0
+  },
+  {
+    "q": "O que é migração sazonal?",
+    "o": ["Mudança temporária conforme estações do ano", "Mudança definitiva", "Mudança por guerra", "Mudança escolar"],
+    "a": 0
+  },
+  {
+    "q": "Qual país é conhecido por receber muitos imigrantes do mundo todo?",
+    "o": ["Estados Unidos", "Brasil", "China", "Japão"],
+    "a": 0
+  },
+  {
+    "q": "Qual continente possui o maior número de emigrantes?",
+    "o": ["Ásia", "Europa", "África", "América do Norte"],
+    "a": 0
+  },
+  {
+    "q": "O que é êxodo rural?",
+    "o": ["Migração das zonas rurais para as cidades", "Migração de um país para outro", "Migração sazonal", "Migração de turistas"],
+    "a": 0
+  },
+  {
+    "q": "O que é imigração econômica?",
+    "o": ["Mudança motivada por trabalho ou oportunidades financeiras", "Mudança por estudo", "Mudança forçada por guerra", "Mudança turística"],
+    "a": 0
+  },
+  {
+    "q": "O que é migração política?",
+    "o": ["Mudança motivada por perseguição ou conflito", "Mudança por trabalho", "Mudança por lazer", "Mudança sazonal"],
+    "a": 0
+  },
+  {
+    "q": "O que é diáspora?",
+    "o": ["Dispersão de um povo de sua região de origem", "Migração sazonal", "Migração interna", "Turismo cultural"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a principal causa das migrações internacionais atuais?",
+    "o": ["Busca por melhores condições de vida", "Mudança de clima", "Mudança de religião", "Mudança de hobbies"],
+    "a": 0
+  },
+  {
+    "q": "O que é remessa de migrantes?",
+    "o": ["Dinheiro enviado pelos migrantes para suas famílias", "Bagagem de viagem", "Documentos de viagem", "Apoio governamental"],
+    "a": 0
+  },
+  {
+    "q": "O que é migração urbana?",
+    "o": ["Mudança dentro das cidades ou para cidades maiores", "Mudança entre países", "Mudança sazonal", "Mudança forçada"],
+    "a": 0
+  },
+  {
+    "q": "O que é migração internacional?",
+    "o": ["Mudança de pessoas entre países", "Mudança dentro do mesmo país", "Mudança temporária por estudo", "Mudança sazonal de animais"],
+    "a": 0
+  },
+  {
+    "q": "Qual país europeu recebeu muitos refugiados em 2015?",
+    "o": ["Alemanha", "França", "Itália", "Espanha"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o termo para pessoas que migram em busca de trabalho temporário?",
+    "o": ["Migrantes laborais", "Refugiados", "Turistas", "Emigrantes permanentes"],
+    "a": 0
+  }
+]

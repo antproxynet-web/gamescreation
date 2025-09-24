@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quem é o protagonista de Attack on Titan?",
+    "o": ["Eren Yeager", "Mikasa Ackerman", "Armin Arlert", "Levi Ackerman"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a amiga de infância de Eren que é extremamente habilidosa em combate?",
+    "o": ["Mikasa Ackerman", "Historia Reiss", "Sasha Blouse", "Hange Zoë"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o melhor amigo de Eren, inteligente e estrategista?",
+    "o": ["Armin Arlert", "Levi Ackerman", "Jean Kirstein", "Connie Springer"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o capitão mais habilidoso da Tropa de Exploração?",
+    "o": ["Levi Ackerman", "Erwin Smith", "Hange Zoë", "Eren Yeager"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o principal objetivo da Tropa de Exploração?",
+    "o": ["Explorar fora das muralhas", "Defender os muros", "Treinar novos recrutas", "Estudar os titãs em segredo"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o líder da Tropa de Exploração no início da série?",
+    "o": ["Erwin Smith", "Levi Ackerman", "Hange Zoë", "Dot Pixis"],
+    "a": 0
+  },
+  {
+    "q": "Qual titã é conhecido como o Titã Fundador?",
+    "o": ["Eren Yeager", "Colossal Titan", "Armored Titan", "Beast Titan"],
+    "a": 0
+  },
+  {
+    "q": "Qual titã é extremamente grande e aparece na primeira invasão das muralhas?",
+    "o": ["Colossal Titan", "Armored Titan", "Beast Titan", "Female Titan"],
+    "a": 0
+  },
+  {
+    "q": "Qual titã possui armadura no corpo e é difícil de ser derrotado?",
+    "o": ["Armored Titan", "Colossal Titan", "Beast Titan", "Female Titan"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a comandante que estuda os titãs e é excêntrica?",
+    "o": ["Hange Zoë", "Erwin Smith", "Levi Ackerman", "Jean Kirstein"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a garota que descobre sua verdadeira identidade como princesa?",
+    "o": ["Historia Reiss", "Mikasa Ackerman", "Sasha Blouse", "Annie Leonhart"],
+    "a": 0
+  },
+  {
+    "q": "Qual titã feminino é capturado durante a missão de exploração?",
+    "o": ["Female Titan (Annie Leonhart)", "Colossal Titan", "Armored Titan", "Beast Titan"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o titã que controla animais e ataca de longe com pedras?",
+    "o": ["Beast Titan", "Colossal Titan", "Armored Titan", "Female Titan"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o irmão mais velho de Eren e alvo de muitas teorias?",
+    "o": ["Eren Yeager não tem irmão, mas seu pai é Grisha Yeager", "Armin Arlert", "Levi Ackerman", "Jean Kirstein"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a habilidade especial de Mikasa?",
+    "o": ["Habilidades de combate excepcionais e velocidade", "Controlar titãs", "Alquimia", "Manipulação de armas de fogo"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o Titã Colossal?",
+    "o": ["Bertolt Hoover", "Reiner Braun", "Eren Yeager", "Armin Arlert"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o Titã Blindado (Armored Titan)?",
+    "o": ["Reiner Braun", "Bertolt Hoover", "Eren Yeager", "Jean Kirstein"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o Titã de Ataque (Attack Titan)?",
+    "o": ["Eren Yeager", "Armin Arlert", "Levi Ackerman", "Reiner Braun"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o Titã Martelo de Guerra (War Hammer Titan)?",
+    "o": ["Lara Tybur", "Eren Yeager", "Reiner Braun", "Bertolt Hoover"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o fundador da família real que protege o segredo dos titãs?",
+    "o": ["Reiss / Historia", "Eren Yeager", "Levi Ackerman", "Erwin Smith"],
+    "a": 0
+  }
+]

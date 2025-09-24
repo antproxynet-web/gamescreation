@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quem é a protagonista da série Wandinha?",
+    "o": ["Wandinha Addams", "Morticia Addams", "Pugsley Addams", "Enid Sinclair"],
+    "a": 0
+  },
+  {
+    "q": "Qual escola Wandinha frequenta na série?",
+    "o": ["Nevermore Academy", "Briarcliff Academy", "Hogwarts", "Springfield High"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a melhor amiga de Wandinha na escola?",
+    "o": ["Enid Sinclair", "Thing", "Pugsley", "Bianca Barclay"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o mordomo da família Addams?",
+    "o": ["Lurch", "Gomez", "Pugsley", "Thing"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o poder sobrenatural de Wandinha?",
+    "o": ["Previsão de futuro e habilidades psíquicas", "Super força", "Invisibilidade", "Teletransporte"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o interesse amoroso de Wandinha na primeira temporada?",
+    "o": ["Xavier Thorpe", "Bianca Barclay", "Tyler Galpin", "Pugsley Addams"],
+    "a": 0
+  },
+  {
+    "q": "Quem dirige a Nevermore Academy?",
+    "o": ["A professora Larissa Weems", "Morticia Addams", "Gomez Addams", "Bianca Barclay"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o lobo alfa de Nevermore Academy?",
+    "o": ["Bianca Barclay", "Tyler Galpin", "Xavier Thorpe", "Enid Sinclair"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o animal de estimação de Wandinha?",
+    "o": ["Thing (mão viva)", "Pugsley", "Gato preto", "Cachorro"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o pai de Wandinha?",
+    "o": ["Gomez Addams", "Tyler Galpin", "Morticia Addams", "Xavier Thorpe"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a mãe de Wandinha?",
+    "o": ["Morticia Addams", "Enid Sinclair", "Larissa Weems", "Bianca Barclay"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o gênero da série Wandinha?",
+    "o": ["Terror, mistério e comédia", "Romance", "Aventura", "Drama histórico"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o irmão de Wandinha?",
+    "o": ["Pugsley Addams", "Xavier Thorpe", "Tyler Galpin", "Thing"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem tem poderes para controlar o fogo?",
+    "o": ["Bianca Barclay", "Wandinha", "Enid Sinclair", "Xavier Thorpe"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a principal habilidade de Enid Sinclair?",
+    "o": ["Transformação em lobisomem", "Psíquica", "Telepatia", "Controle de fogo"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o jornalista que aparece investigando mistérios na cidade?",
+    "o": ["Tyler Galpin", "Xavier Thorpe", "Gomez Addams", "Bianca Barclay"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o mistério central da primeira temporada?",
+    "o": ["Assassinatos e segredos envolvendo a Nevermore Academy", "Roubo de jóias da família Addams", "Viagem no tempo", "Aventuras de escola comum"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem é conhecido por ser excêntrico e macabro?",
+    "o": ["Lurch", "Enid Sinclair", "Xavier Thorpe", "Tyler Galpin"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a relação de Wandinha com Thing?",
+    "o": ["Companheiro e ajudante leal", "Irmão", "Melhor amigo humano", "Inimigo da escola"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o vilão revelado na primeira temporada?",
+    "o": ["Bianca Barclay", "Tyler Galpin", "Xavier Thorpe", "Gomez Addams"],
+    "a": 0
+  }
+]

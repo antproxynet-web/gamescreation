@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual é o primeiro mandamento?",
+    "o": ["Não terás outros deuses diante de mim", "Não matarás", "Não roubarás", "Honra teu pai e tua mãe"],
+    "a": 0
+  },
+  {
+    "q": "Qual mandamento proíbe a idolatria?",
+    "o": ["Não farás para ti imagem de escultura", "Não mentirás", "Não adulterarás", "Não cobiçarás"],
+    "a": 0
+  },
+  {
+    "q": "Qual mandamento instrui a não tomar o nome de Deus em vão?",
+    "o": ["Não tomarás o nome do Senhor teu Deus em vão", "Não matarás", "Não roubarás", "Não mentirás"],
+    "a": 0
+  },
+  {
+    "q": "Qual mandamento determina guardar o sábado?",
+    "o": ["Lembra-te do dia de sábado, para o santificar", "Honra teu pai e tua mãe", "Não adulterarás", "Não matarás"],
+    "a": 0
+  },
+  {
+    "q": "Qual mandamento instrui a honrar os pais?",
+    "o": ["Honra teu pai e tua mãe", "Não matarás", "Não roubarás", "Não mentirás"],
+    "a": 0
+  },
+  {
+    "q": "Qual mandamento proíbe o assassinato?",
+    "o": ["Não matarás", "Não adulterarás", "Não roubarás", "Não mentirás"],
+    "a": 0
+  },
+  {
+    "q": "Qual mandamento proíbe o adultério?",
+    "o": ["Não adulterarás", "Não matarás", "Não roubarás", "Não mentirás"],
+    "a": 0
+  },
+  {
+    "q": "Qual mandamento proíbe o roubo?",
+    "o": ["Não roubarás", "Não matarás", "Não adulterarás", "Não mentirás"],
+    "a": 0
+  },
+  {
+    "q": "Qual mandamento proíbe o falso testemunho?",
+    "o": ["Não dirás falso testemunho contra o teu próximo", "Não roubarás", "Não matarás", "Não adulterarás"],
+    "a": 0
+  },
+  {
+    "q": "Qual mandamento proíbe desejar o que pertence ao próximo?",
+    "o": ["Não cobiçarás a casa do teu próximo", "Não adulterarás", "Não matarás", "Não roubarás"],
+    "a": 0
+  },
+  {
+    "q": "Qual mandamento proíbe desejar a mulher do próximo?",
+    "o": ["Não cobiçarás a mulher do teu próximo", "Não adulterarás", "Não matarás", "Não roubarás"],
+    "a": 0
+  },
+  {
+    "q": "Qual mandamento estabelece o amor e respeito a Deus acima de tudo?",
+    "o": ["Não terás outros deuses diante de mim", "Honra teu pai e tua mãe", "Não matarás", "Não mentirás"],
+    "a": 0
+  },
+  {
+    "q": "Qual mandamento protege a santidade do nome de Deus?",
+    "o": ["Não tomarás o nome do Senhor teu Deus em vão", "Não matarás", "Não roubarás", "Não adulterarás"],
+    "a": 0
+  },
+  {
+    "q": "Qual mandamento lembra os fiéis de descansar e adorar no sábado?",
+    "o": ["Lembra-te do dia de sábado, para o santificar", "Não matarás", "Não roubarás", "Honra teu pai e tua mãe"],
+    "a": 0
+  },
+  {
+    "q": "Qual mandamento reforça a obediência e respeito aos pais?",
+    "o": ["Honra teu pai e tua mãe", "Não roubarás", "Não matarás", "Não mentirás"],
+    "a": 0
+  },
+  {
+    "q": "Qual mandamento preserva a vida e proíbe o homicídio?",
+    "o": ["Não matarás", "Não adulterarás", "Não roubarás", "Não mentirás"],
+    "a": 0
+  },
+  {
+    "q": "Qual mandamento reforça a fidelidade conjugal?",
+    "o": ["Não adulterarás", "Não matarás", "Não roubarás", "Não mentirás"],
+    "a": 0
+  },
+  {
+    "q": "Qual mandamento garante a propriedade e direitos do próximo?",
+    "o": ["Não roubarás", "Não matarás", "Não adulterarás", "Não mentirás"],
+    "a": 0
+  },
+  {
+    "q": "Qual mandamento protege a verdade nas relações interpessoais?",
+    "o": ["Não dirás falso testemunho contra o teu próximo", "Não roubarás", "Não matarás", "Não adulterarás"],
+    "a": 0
+  },
+  {
+    "q": "Qual mandamento cuida da pureza do coração e pensamentos?",
+    "o": ["Não cobiçarás", "Não adulterarás", "Não matarás", "Não roubarás"],
+    "a": 0
+  }
+]

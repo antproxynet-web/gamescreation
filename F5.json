@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual país tem uma bandeira com listras vermelhas e brancas e um retângulo azul com estrelas?",
+    "o": ["Estados Unidos", "Reino Unido", "França", "Austrália"],
+    "a": 0
+  },
+  {
+    "q": "Qual país tem uma bandeira verde com um círculo amarelo e um losango azul no centro?",
+    "o": ["Brasil", "México", "Argentina", "Portugal"],
+    "a": 0
+  },
+  {
+    "q": "Qual país tem uma bandeira com uma cruz vermelha sobre fundo branco?",
+    "o": ["Suíça", "Dinamarca", "Inglaterra", "Noruega"],
+    "a": 0
+  },
+  {
+    "q": "Qual país tem uma bandeira tricolor vertical em azul, branco e vermelho?",
+    "o": ["França", "Itália", "Países Baixos", "Bélgica"],
+    "a": 0
+  },
+  {
+    "q": "Qual país tem uma bandeira vermelha com um círculo branco no centro?",
+    "o": ["Japão", "China", "Coreia do Sul", "Turquia"],
+    "a": 0
+  },
+  {
+    "q": "Qual país tem uma bandeira com uma lua crescente e uma estrela branca sobre fundo vermelho?",
+    "o": ["Turquia", "Paquistão", "Argélia", "Malásia"],
+    "a": 0
+  },
+  {
+    "q": "Qual país tem uma bandeira com três listras horizontais em preto, vermelho e amarelo?",
+    "o": ["Alemanha", "Bélgica", "Hungria", "Lituânia"],
+    "a": 0
+  },
+  {
+    "q": "Qual país tem uma bandeira azul com uma cruz branca?",
+    "o": ["Finlândia", "Suécia", "Grécia", "Islândia"],
+    "a": 0
+  },
+  {
+    "q": "Qual país tem uma bandeira com fundo branco e um sol vermelho no centro?",
+    "o": ["Japão", "Coreia do Sul", "Tailândia", "China"],
+    "a": 0
+  },
+  {
+    "q": "Qual país tem uma bandeira com listras horizontais em vermelho, branco e azul?",
+    "o": ["Países Baixos", "França", "Rússia", "Croácia"],
+    "a": 0
+  },
+  {
+    "q": "Qual país tem uma bandeira verde com uma estrela vermelha no centro?",
+    "o": ["Marrocos", "Argélia", "Tunísia", "Líbia"],
+    "a": 0
+  },
+  {
+    "q": "Qual país tem uma bandeira com um leão dourado e fundo vermelho?",
+    "o": ["Sri Lanka", "Reino Unido", "Noruega", "Bélgica"],
+    "a": 0
+  },
+  {
+    "q": "Qual país tem uma bandeira com listras horizontais em preto, vermelho e amarelo?",
+    "o": ["Alemanha", "Bélgica", "Hungria", "Áustria"],
+    "a": 0
+  },
+  {
+    "q": "Qual país tem uma bandeira azul com uma cruz vermelha dentro de uma cruz branca?",
+    "o": ["Reino Unido", "Noruega", "Suécia", "Finlândia"],
+    "a": 0
+  },
+  {
+    "q": "Qual país tem uma bandeira com fundo vermelho e uma estrela amarela?",
+    "o": ["China", "Vietnã", "Camboja", "Coreia do Norte"],
+    "a": 0
+  },
+  {
+    "q": "Qual país tem uma bandeira tricolor em verde, branco e vermelho na vertical?",
+    "o": ["Itália", "México", "Hungria", "Bélgica"],
+    "a": 0
+  },
+  {
+    "q": "Qual país tem uma bandeira azul com um círculo amarelo no centro?",
+    "o": ["Suécia", "Finlândia", "Islândia", "Noruega"],
+    "a": 0
+  },
+  {
+    "q": "Qual país tem uma bandeira preta, vermelha e amarela com formato horizontal?",
+    "o": ["Alemanha", "Bélgica", "Lituânia", "Hungria"],
+    "a": 0
+  },
+  {
+    "q": "Qual país tem uma bandeira com listras vermelhas e brancas e um quadrado azul com estrelas no canto superior esquerdo?",
+    "o": ["Estados Unidos", "Austrália", "Reino Unido", "Chile"],
+    "a": 0
+  },
+  {
+    "q": "Qual país tem uma bandeira vermelha, branca e azul em três listras horizontais?",
+    "o": ["Rússia", "França", "Países Baixos", "Croácia"],
+    "a": 0
+  }
+]

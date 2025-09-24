@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual país faz fronteira com o Brasil ao norte?",
+    "o": ["Venezuela", "Argentina", "Uruguai", "Paraguai"],
+    "a": 0
+  },
+  {
+    "q": "Qual país tem fronteira com os Estados Unidos ao sul?",
+    "o": ["México", "Canadá", "Cuba", "Brasil"],
+    "a": 0
+  },
+  {
+    "q": "Qual país faz fronteira com a França a leste?",
+    "o": ["Alemanha", "Espanha", "Itália", "Bélgica"],
+    "a": 0
+  },
+  {
+    "q": "Qual país faz fronteira com a Argentina ao norte?",
+    "o": ["Bolívia", "Chile", "Paraguai", "Brasil"],
+    "a": 0
+  },
+  {
+    "q": "Qual país faz fronteira com a Índia a oeste?",
+    "o": ["Paquistão", "Nepal", "Bangladesh", "Butão"],
+    "a": 0
+  },
+  {
+    "q": "Qual país tem fronteira com a Alemanha a sul?",
+    "o": ["Áustria", "Suíça", "França", "Polônia"],
+    "a": 0
+  },
+  {
+    "q": "Qual país faz fronteira com o Egito a leste?",
+    "o": ["Israel", "Líbia", "Sudão", "Argélia"],
+    "a": 0
+  },
+  {
+    "q": "Qual país tem fronteira com a Rússia a leste?",
+    "o": ["China", "Japão", "Coreia do Norte", "Mongólia"],
+    "a": 0
+  },
+  {
+    "q": "Qual país faz fronteira com a Bolívia ao sul?",
+    "o": ["Argentina", "Peru", "Paraguai", "Chile"],
+    "a": 0
+  },
+  {
+    "q": "Qual país faz fronteira com o Canadá a oeste?",
+    "o": ["Estados Unidos", "Alasca", "México", "Groenlândia"],
+    "a": 0
+  },
+  {
+    "q": "Qual país faz fronteira com a China a norte?",
+    "o": ["Mongólia", "Rússia", "Nepal", "Coreia do Norte"],
+    "a": 0
+  },
+  {
+    "q": "Qual país tem fronteira com a Espanha a norte?",
+    "o": ["França", "Portugal", "Andorra", "Marrocos"],
+    "a": 0
+  },
+  {
+    "q": "Qual país faz fronteira com a África do Sul ao norte?",
+    "o": ["Namíbia", "Botswana", "Zimbábue", "Moçambique"],
+    "a": 0
+  },
+  {
+    "q": "Qual país faz fronteira com a Turquia a oeste?",
+    "o": ["Grécia", "Bulgária", "Armênia", "Geórgia"],
+    "a": 0
+  },
+  {
+    "q": "Qual país faz fronteira com a Polônia a leste?",
+    "o": ["Bielorrússia", "Ucrânia", "Lituânia", "República Tcheca"],
+    "a": 0
+  },
+  {
+    "q": "Qual país faz fronteira com a Noruega a leste?",
+    "o": ["Suécia", "Finlândia", "Rússia", "Dinamarca"],
+    "a": 0
+  },
+  {
+    "q": "Qual país faz fronteira com o Chile a norte?",
+    "o": ["Peru", "Bolívia", "Argentina", "Equador"],
+    "a": 0
+  },
+  {
+    "q": "Qual país faz fronteira com a Ucrânia a oeste?",
+    "o": ["Polônia", "Romênia", "Hungria", "Bielorrússia"],
+    "a": 0
+  },
+  {
+    "q": "Qual país faz fronteira com a Austrália?",
+    "o": ["Nenhum", "Papua Nova Guiné", "Indonésia", "Nova Zelândia"],
+    "a": 0
+  },
+  {
+    "q": "Qual país faz fronteira com a Coreia do Sul?",
+    "o": ["Coreia do Norte", "Japão", "China", "Mongólia"],
+    "a": 0
+  }
+]

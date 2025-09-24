@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quem é o protagonista principal da primeira temporada de Digimon Adventure?",
+    "o": ["Tai Kamiya", "Matt Ishida", "T.K. Takaishi", "Izzy Izumi"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o Digimon parceiro de Tai?",
+    "o": ["Agumon", "Gabumon", "Palmon", "Tentomon"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o Digimon parceiro de Matt?",
+    "o": ["Gabumon", "Agumon", "Palmon", "Gomamon"],
+    "a": 0
+  },
+  {
+    "q": "Qual Digimon parceiro de Sora?",
+    "o": ["Biyomon", "Palmon", "Agumon", "Gabumon"],
+    "a": 1
+  },
+  {
+    "q": "Qual Digimon parceiro de Mimi?",
+    "o": ["Palmon", "Biyomon", "Gabumon", "Gomamon"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o Digimon parceiro de Izzy?",
+    "o": ["Tentomon", "Agumon", "Palmon", "Gabumon"],
+    "a": 0
+  },
+  {
+    "q": "Qual Digimon parceiro de Joe?",
+    "o": ["Gomamon", "Agumon", "Gabumon", "Tentomon"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o Digimon parceiro de T.K.?",
+    "o": ["Patamon", "Agumon", "Gabumon", "Palmon"],
+    "a": 0
+  },
+  {
+    "q": "Qual Digimon parceiro de Kari?",
+    "o": ["Gatomon", "Biyomon", "Agumon", "Gabumon"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o vilão principal da primeira temporada?",
+    "o": ["Devimon", "Myotismon", "Etemon", "Apocalymon"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o Digivice que os DigiDestinados usam?",
+    "o": ["Digivice", "D-Tector", "D-Scanner", "D-Device"],
+    "a": 0
+  },
+  {
+    "q": "Qual Digimon evolui para Greymon?",
+    "o": ["Agumon", "Gabumon", "Palmon", "Biyomon"],
+    "a": 0
+  },
+  {
+    "q": "Qual Digimon evolui para Garurumon?",
+    "o": ["Gabumon", "Agumon", "Palmon", "Gomamon"],
+    "a": 0
+  },
+  {
+    "q": "Qual Digimon evolui para Togemon?",
+    "o": ["Palmon", "Agumon", "Gabumon", "Biyomon"],
+    "a": 0
+  },
+  {
+    "q": "Qual Digimon evolui para Birdramon?",
+    "o": ["Biyomon", "Palmon", "Gabumon", "Agumon"],
+    "a": 0
+  },
+  {
+    "q": "Qual Digimon evolui para Ikkakumon?",
+    "o": ["Gomamon", "Gabumon", "Agumon", "Biyomon"],
+    "a": 0
+  },
+  {
+    "q": "Qual Digimon evolui para Angemon?",
+    "o": ["Patamon", "Palmon", "Biyomon", "Gabumon"],
+    "a": 0
+  },
+  {
+    "q": "Qual Digimon evolui para Angewomon?",
+    "o": ["Gatomon", "Palmon", "Biyomon", "Agumon"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o vilão principal da saga de Myotismon?",
+    "o": ["Myotismon", "Devimon", "Etemon", "Apocalymon"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o vilão final que ameaça o Mundo Digital na primeira temporada?",
+    "o": ["Apocalymon", "Devimon", "Myotismon", "Etemon"],
+    "a": 0
+  }
+]

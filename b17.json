@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quem foi escolhido por Deus para construir a arca?",
+    "o": ["Noé", "Abraão", "Moisés", "Elias"],
+    "a": 0
+  },
+  {
+    "q": "Por que Deus decidiu enviar o Dilúvio?",
+    "o": ["Por causa da maldade da humanidade", "Por causa da fome", "Por causa da guerra", "Por causa da seca"],
+    "a": 0
+  },
+  {
+    "q": "Quantos filhos Noé teve?",
+    "o": ["Três", "Dois", "Quatro", "Cinco"],
+    "a": 0
+  },
+  {
+    "q": "Qual foi o nome dos filhos de Noé?",
+    "o": ["Sem, Cam e Jafé", "Abraão, Isaque e Jacó", "Pedro, Tiago e João", "Moisés, Arão e Josué"],
+    "a": 0
+  },
+  {
+    "q": "Que tipo de embarcação Noé construiu?",
+    "o": ["Uma arca", "Um navio de guerra", "Uma jangada", "Um barco pequeno"],
+    "a": 0
+  },
+  {
+    "q": "Quantos animais de cada espécie Deus ordenou a Noé que levasse na arca?",
+    "o": ["Um casal de cada", "Dois casais de cada", "Três casais de cada", "Cinco casais de cada"],
+    "a": 0
+  },
+  {
+    "q": "Por quantos dias e noites choveu durante o Dilúvio?",
+    "o": ["40 dias e 40 noites", "30 dias e 30 noites", "50 dias e 50 noites", "20 dias e 20 noites"],
+    "a": 0
+  },
+  {
+    "q": "Qual sinal Deus colocou no céu como promessa de nunca mais destruir a Terra com água?",
+    "o": ["Arco-íris", "Estrela", "Lua", "Sol"],
+    "a": 0
+  },
+  {
+    "q": "Qual pássaro Noé soltou para ver se havia terra seca?",
+    "o": ["Pomba", "Corvo", "Águia", "Falcão"],
+    "a": 0
+  },
+  {
+    "q": "Quantas portas a arca de Noé tinha?",
+    "o": ["Uma", "Duas", "Três", "Quatro"],
+    "a": 0
+  },
+  {
+    "q": "Em qual montanha a arca de Noé repousou após o Dilúvio?",
+    "o": ["Monte Ararat", "Monte Sinai", "Monte Horebe", "Monte Nebo"],
+    "a": 0
+  },
+  {
+    "q": "Como Noé sabia que as águas estavam baixando?",
+    "o": ["Quando a pomba voltou com uma folha de oliveira", "Quando viu os animais saindo", "Quando o sol apareceu", "Quando Deus falou com ele"],
+    "a": 0
+  },
+  {
+    "q": "Qual foi a primeira coisa que Noé fez ao sair da arca?",
+    "o": ["Construiu um altar e ofereceu sacrifício a Deus", "Plantar árvores", "Construir uma casa", "Viajar para outro país"],
+    "a": 0
+  },
+  {
+    "q": "Qual era a idade de Noé quando o Dilúvio começou?",
+    "o": ["600 anos", "500 anos", "450 anos", "400 anos"],
+    "a": 0
+  },
+  {
+    "q": "Qual mandamento Deus deu a Noé e seus filhos após o Dilúvio?",
+    "o": ["Multiplicar-se e encher a Terra", "Construir cidades", "Cultivar a terra", "Caçar animais"],
+    "a": 0
+  },
+  {
+    "q": "Quantos tipos de aves Noé levou na arca?",
+    "o": ["Espécies de aves segundo Deus", "Duas de cada espécie", "Dez de cada espécie", "Cinco de cada espécie"],
+    "a": 0
+  },
+  {
+    "q": "Qual foi a reação de Deus após o Dilúvio?",
+    "o": ["Deus prometeu nunca mais destruir a Terra com água", "Deus castigou novamente", "Deus enviou fogo", "Deus mudou o clima"],
+    "a": 0
+  },
+  {
+    "q": "Quem são os descendentes de Noé mencionados na Bíblia?",
+    "o": ["Sem, Cam e Jafé", "Abraão, Isaque e Jacó", "Pedro, Tiago e João", "Moisés, Arão e Josué"],
+    "a": 0
+  },
+  {
+    "q": "O que simboliza o arco-íris no contexto do Dilúvio?",
+    "o": ["A aliança de Deus com a humanidade", "A força da natureza", "A passagem do tempo", "O início de uma nova era"],
+    "a": 0
+  },
+  {
+    "q": "Qual foi a duração total do Dilúvio, desde o início da chuva até a saída da arca?",
+    "o": ["Um ano", "40 dias", "7 meses", "6 meses"],
+    "a": 0
+  }
+]

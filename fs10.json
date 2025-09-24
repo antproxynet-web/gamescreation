@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que é termodinâmica?",
+    "o": ["Ramo da física que estuda calor, temperatura e energia", "Estudo da luz e óptica", "Estudo da gravidade", "Estudo de eletricidade"],
+    "a": 0
+  },
+  {
+    "q": "O que é temperatura?",
+    "o": ["Grandeza que mede o grau de agitação das partículas de um corpo", "Quantidade de calor", "Energia cinética", "Força de atrito"],
+    "a": 0
+  },
+  {
+    "q": "O que é calor?",
+    "o": ["Energia transferida de um corpo para outro devido à diferença de temperatura", "Temperatura do corpo", "Energia potencial", "Força aplicada"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a unidade de temperatura no SI?",
+    "o": ["Kelvin (K)", "Celsius (°C)", "Fahrenheit (°F)", "Joule (J)"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a unidade de calor no SI?",
+    "o": ["Joule (J)", "Caloria (cal)", "Watt (W)", "Newton (N)"],
+    "a": 0
+  },
+  {
+    "q": "O que é a primeira lei da termodinâmica?",
+    "o": ["Princípio da conservação da energia: ΔU = Q - W", "Lei da gravitação", "Lei de Ohm", "Lei da ação e reação"],
+    "a": 0
+  },
+  {
+    "q": "O que é energia interna de um sistema?",
+    "o": ["Energia total das partículas de um sistema", "Energia elétrica", "Energia cinética de um corpo", "Energia potencial gravitacional"],
+    "a": 0
+  },
+  {
+    "q": "O que é trabalho em termodinâmica?",
+    "o": ["Energia transferida por um sistema devido a uma força ou expansão", "Energia calorífica", "Velocidade do sistema", "Energia cinética"],
+    "a": 0
+  },
+  {
+    "q": "O que é calor específico?",
+    "o": ["Quantidade de calor necessária para elevar 1 kg de substância em 1 K", "Temperatura de fusão", "Energia interna", "Trabalho realizado"],
+    "a": 0
+  },
+  {
+    "q": "O que é capacidade térmica?",
+    "o": ["Quantidade de calor necessária para alterar a temperatura de um corpo", "Energia cinética", "Velocidade de propagação", "Força aplicada"],
+    "a": 0
+  },
+  {
+    "q": "O que é condução térmica?",
+    "o": ["Transferência de calor por contato direto entre partículas", "Transferência de calor por radiação", "Transferência de calor por convecção", "Energia cinética"],
+    "a": 0
+  },
+  {
+    "q": "O que é convecção térmica?",
+    "o": ["Transferência de calor por movimentação de fluidos", "Transferência de calor por radiação", "Transferência de calor por condução", "Energia potencial"],
+    "a": 0
+  },
+  {
+    "q": "O que é radiação térmica?",
+    "o": ["Transferência de calor por ondas eletromagnéticas", "Transferência de calor por contato", "Transferência de calor por fluido", "Energia cinética"],
+    "a": 0
+  },
+  {
+    "q": "O que é entropia?",
+    "o": ["Grandeza que mede a desordem ou aleatoriedade de um sistema", "Energia interna", "Temperatura", "Calor específico"],
+    "a": 0
+  },
+  {
+    "q": "O que é a segunda lei da termodinâmica?",
+    "o": ["A entropia de um sistema isolado tende a aumentar", "Energia se conserva", "Força = massa × aceleração", "Lei da gravitação"],
+    "a": 0
+  },
+  {
+    "q": "O que é a terceira lei da termodinâmica?",
+    "o": ["A entropia de um cristal perfeito se aproxima de zero à temperatura zero", "A energia se conserva", "O calor não existe", "A pressão é constante"],
+    "a": 0
+  },
+  {
+    "q": "O que é processo isotérmico?",
+    "o": ["Processo em que a temperatura permanece constante", "Processo em que a pressão é constante", "Processo em que o volume é constante", "Processo adiabático"],
+    "a": 0
+  },
+  {
+    "q": "O que é processo isobárico?",
+    "o": ["Processo em que a pressão permanece constante", "Processo em que a temperatura é constante", "Processo em que o volume é constante", "Processo adiabático"],
+    "a": 0
+  },
+  {
+    "q": "O que é processo isocórico?",
+    "o": ["Processo em que o volume permanece constante", "Processo em que a pressão é constante", "Processo em que a temperatura é constante", "Processo adiabático"],
+    "a": 0
+  },
+  {
+    "q": "O que é processo adiabático?",
+    "o": ["Processo em que não há troca de calor com o meio", "Processo em que a temperatura é constante", "Processo em que a pressão é constante", "Processo em que o volume é constante"],
+    "a": 0
+  }
+]

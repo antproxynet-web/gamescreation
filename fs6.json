@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que é eletricidade?",
+    "o": ["Fenômeno associado ao movimento de cargas elétricas", "Energia de movimento", "Força gravitacional", "Energia térmica"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a unidade de carga elétrica no Sistema Internacional?",
+    "o": ["Coulomb (C)", "Ampere (A)", "Volt (V)", "Ohm (Ω)"],
+    "a": 0
+  },
+  {
+    "q": "O que é corrente elétrica?",
+    "o": ["Fluxo de cargas elétricas em um condutor", "Diferença de potencial", "Resistência elétrica", "Energia armazenada"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a unidade de corrente elétrica no Sistema Internacional?",
+    "o": ["Ampere (A)", "Volt (V)", "Coulomb (C)", "Ohm (Ω)"],
+    "a": 0
+  },
+  {
+    "q": "O que é tensão elétrica (diferença de potencial)?",
+    "o": ["Energia por unidade de carga entre dois pontos", "Fluxo de cargas elétricas", "Resistência elétrica", "Energia cinética"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a unidade de tensão elétrica no Sistema Internacional?",
+    "o": ["Volt (V)", "Ampere (A)", "Coulomb (C)", "Ohm (Ω)"],
+    "a": 0
+  },
+  {
+    "q": "O que é resistência elétrica?",
+    "o": ["Grandeza que indica a dificuldade da passagem da corrente elétrica", "Fluxo de cargas elétricas", "Diferença de potencial", "Energia armazenada"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a unidade de resistência elétrica no Sistema Internacional?",
+    "o": ["Ohm (Ω)", "Volt (V)", "Ampere (A)", "Coulomb (C)"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a lei de Ohm?",
+    "o": ["V = R × I", "P = F × d", "E = m × c²", "F = m × a"],
+    "a": 0
+  },
+  {
+    "q": "O que é potência elétrica?",
+    "o": ["Taxa de transferência de energia elétrica", "Resistência do condutor", "Diferença de potencial", "Carga elétrica"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a fórmula da potência elétrica?",
+    "o": ["P = V × I", "P = F × d", "P = R × I", "P = V / I"],
+    "a": 0
+  },
+  {
+    "q": "O que é um circuito elétrico?",
+    "o": ["Conjunto de condutores e elementos por onde a corrente elétrica circula", "Grandeza que mede energia", "Resistência elétrica", "Diferença de potencial"],
+    "a": 0
+  },
+  {
+    "q": "O que é corrente contínua (CC)?",
+    "o": ["Corrente elétrica que mantém direção constante", "Corrente que alterna a direção", "Resistência constante", "Tensão variável"],
+    "a": 0
+  },
+  {
+    "q": "O que é corrente alternada (CA)?",
+    "o": ["Corrente elétrica que alterna a direção periodicamente", "Corrente que mantém direção constante", "Resistência constante", "Tensão zero"],
+    "a": 0
+  },
+  {
+    "q": "O que é um condutor elétrico?",
+    "o": ["Material que permite a passagem de corrente elétrica com facilidade", "Material que impede a passagem de corrente", "Fonte de energia", "Resistor"],
+    "a": 0
+  },
+  {
+    "q": "O que é um isolante elétrico?",
+    "o": ["Material que dificulta ou impede a passagem de corrente elétrica", "Material que facilita a passagem de corrente", "Fonte de energia", "Condutor metálico"],
+    "a": 0
+  },
+  {
+    "q": "O que é um resistor?",
+    "o": ["Componente que oferece resistência à passagem de corrente", "Fonte de tensão", "Condutor ideal", "Interruptor"],
+    "a": 0
+  },
+  {
+    "q": "O que é um capacitor?",
+    "o": ["Dispositivo que armazena carga elétrica", "Dispositivo que gera corrente", "Resistor variável", "Fonte de energia"],
+    "a": 0
+  },
+  {
+    "q": "O que é um curto-circuito?",
+    "o": ["Ligação acidental que permite passagem de corrente sem resistência significativa", "Ligação correta em um circuito", "Resistor que funciona bem", "Interruptor desligado"],
+    "a": 0
+  },
+  {
+    "q": "O que é efeito Joule?",
+    "o": ["Aquecimento de um condutor devido à passagem de corrente elétrica", "Diferença de potencial", "Corrente alternada", "Resistência nula"],
+    "a": 0
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quem é o líder do assalto na Casa da Moeda?",
+    "o": ["O Professor", "Berlim", "Tokio", "Rio"],
+    "a": 0
+  },
+  {
+    "q": "Qual cidade é usada como codinome para os assaltantes?",
+    "o": ["Madrid, Barcelona, Denver, Moscou, Rio, Helsinki, Nairobi", "Paris, Londres, Lisboa, Berlim", "Nova York, Los Angeles, Miami, Chicago", "São Paulo, Rio, Salvador, Brasília"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a assaltante impulsiva e narradora da série?",
+    "o": ["Tokio", "Nairobi", "Lisboa", "Stockholm"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o irmão do Professor?",
+    "o": ["Berlim", "Denver", "Rio", "Helsinki"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a responsável por imprimir o dinheiro na Casa da Moeda?",
+    "o": ["Nairobi", "Tokyo", "Moscou", "Rio"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o assaltante russo especialista em explosivos?",
+    "o": ["Moscou", "Helsinki", "Denver", "Rio"],
+    "a": 0
+  },
+  {
+    "q": "Quem se torna o interesse romântico de Lisboa?",
+    "o": ["O Professor", "Berlin", "Denver", "Rio"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o assaltante que se sacrifica no assalto da Casa da Moeda?",
+    "o": ["Berlim", "Moscou", "Denver", "Helsinki"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o jovem assaltante de personalidade explosiva?",
+    "o": ["Denver", "Rio", "Helsinki", "Moscou"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o assaltante que se torna prisioneiro e depois se apaixona por um refém?",
+    "o": ["Rio", "Denver", "Moscou", "Helsinki"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o inspetor da polícia que lidera a negociação?",
+    "o": ["Raquel Murillo", "Angel", "Sierra", "Tamayo"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o codinome da inspetora que se apaixona pelo Professor?",
+    "o": ["Lisboa", "Tokio", "Stockholm", "Nairobi"],
+    "a": 0
+  },
+  {
+    "q": "Quem assume o comando da equipe após a morte de Berlim?",
+    "o": ["O Professor", "Denver", "Rio", "Nairobi"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a refém que se torna aliada dos assaltantes?",
+    "o": ["Stockholm", "Lisboa", "Tokio", "Nairobi"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a moeda que estão imprimindo durante o assalto?",
+    "o": ["Euro", "Dólar", "Libra", "Yen"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o assaltante finlandês parceiro de Moscou?",
+    "o": ["Helsinki", "Denver", "Rio", "Berlin"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o planejador e estrategista do assalto?",
+    "o": ["O Professor", "Berlin", "Nairobi", "Denver"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a assaltante que morre durante o assalto ao Banco da Espanha?",
+    "o": ["Nairobi", "Tokio", "Lisboa", "Stockholm"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o policial que descobre a identidade do Professor?",
+    "o": ["Sierra", "Raquel Murillo", "Tamayo", "Angel"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o refém que se torna aliado emocional da equipe?",
+    "o": ["Stockholm", "Lisboa", "Angel", "Tamayo"],
+    "a": 0
+  }
+]

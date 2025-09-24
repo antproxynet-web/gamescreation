@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quem é a protagonista principal de Sailor Moon?",
+    "o": ["Usagi Tsukino", "Ami Mizuno", "Rei Hino", "Makoto Kino"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o alter ego de Usagi como guerreira?",
+    "o": ["Sailor Moon", "Sailor Mercury", "Sailor Mars", "Sailor Jupiter"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a guerreira do gelo e inteligência?",
+    "o": ["Sailor Mercury", "Sailor Moon", "Sailor Mars", "Sailor Jupiter"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a guerreira do fogo e da paixão?",
+    "o": ["Sailor Mars", "Sailor Mercury", "Sailor Jupiter", "Sailor Venus"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a guerreira da força e do trovão?",
+    "o": ["Sailor Jupiter", "Sailor Moon", "Sailor Mars", "Sailor Mercury"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a líder das Sailor Senshi junto com Sailor Moon?",
+    "o": ["Sailor Venus", "Sailor Mercury", "Sailor Mars", "Sailor Jupiter"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome do gato branco que guia Usagi?",
+    "o": ["Luna", "Artemis", "Diana", "Sailor Moon"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome do gato branco que guia Minako Aino?",
+    "o": ["Artemis", "Luna", "Diana", "Tuxedo Mask"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o príncipe da Lua e interesse amoroso de Usagi?",
+    "o": ["Tuxedo Mask / Mamoru Chiba", "Darien", "Nephrite", "Kunzite"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o ataque principal de Sailor Moon?",
+    "o": ["Moon Tiara Magic", "Mercury Aqua Rhapsody", "Mars Fire Soul", "Jupiter Thunderbolt"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a primeira vilã que Sailor Moon enfrenta?",
+    "o": ["Queen Beryl", "Nephrite", "Kunzite", "Zoisite"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a arma de Sailor Mercury?",
+    "o": ["Aqua Mist / Computador e bola de água", "Tiara", "Fogo", "Trovão"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a arma de Sailor Mars?",
+    "o": ["Fogo / Ofuda", "Aqua Mist", "Tiara", "Trovão"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a arma de Sailor Jupiter?",
+    "o": ["Trovão / Raio e força", "Fogo", "Água", "Lua"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a Sailor Senshi do amor e beleza?",
+    "o": ["Sailor Venus", "Sailor Mercury", "Sailor Mars", "Sailor Jupiter"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a criança gato que aparece posteriormente?",
+    "o": ["Diana", "Luna", "Artemis", "Chibiusa"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome da filha de Usagi no futuro?",
+    "o": ["Chibiusa / Sailor Chibi Moon", "Diana", "Sailor Moon", "Luna"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o vilão principal do arco Dark Kingdom?",
+    "o": ["Queen Beryl", "Nephrite", "Kunzite", "Zoisite"],
+    "a": 0
+  },
+  {
+    "q": "Qual Sailor Senshi tem o poder de cura?",
+    "o": ["Sailor Moon", "Sailor Mercury", "Sailor Mars", "Sailor Jupiter"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o item mágico que transforma Usagi em Sailor Moon?",
+    "o": ["Broche da Lua / Transformation Brooch", "Varinha Mágica", "Tiara", "Colar Lunar"],
+    "a": 0
+  }
+]

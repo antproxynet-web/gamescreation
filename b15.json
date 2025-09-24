@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual foi o primeiro milagre de Jesus registrado nos evangelhos?",
+    "o": ["Transformar água em vinho", "Multiplicar pães e peixes", "Curar um cego", "Caminhar sobre as águas"],
+    "a": 0
+  },
+  {
+    "q": "Quantos pães e peixes Jesus usou para alimentar 5.000 pessoas?",
+    "o": ["Cinco pães e dois peixes", "Três pães e cinco peixes", "Doze pães e seis peixes", "Sete pães e três peixes"],
+    "a": 0
+  },
+  {
+    "q": "Qual milagre de Jesus acalmou uma tempestade no mar?",
+    "o": ["Jesus acalma a tempestade", "Cura do cego", "Multiplicação de pães", "Transformar água em vinho"],
+    "a": 0
+  },
+  {
+    "q": "Quem ressuscitou Lázaro após quatro dias morto?",
+    "o": ["Jesus", "Pedro", "Paulo", "Elias"],
+    "a": 0
+  },
+  {
+    "q": "Qual milagre envolveu a cura de um homem cego de nascença?",
+    "o": ["Cura do cego", "Transformar água em vinho", "Multiplicação de pães", "Calar a tempestade"],
+    "a": 0
+  },
+  {
+    "q": "Qual foi o milagre realizado por Elias durante a fome em Sarepta?",
+    "o": ["Multiplicação da farinha e óleo", "Abertura do Mar Vermelho", "Transformar água em vinho", "Curar um cego"],
+    "a": 0
+  },
+  {
+    "q": "Quem dividiu o Mar Vermelho para os israelitas atravessarem?",
+    "o": ["Moisés", "Josué", "Elias", "Jesus"],
+    "a": 0
+  },
+  {
+    "q": "Qual milagre envolveu a cura de um paralítico descido pelo telhado?",
+    "o": ["Cura do paralítico", "Cura do cego", "Multiplicação de pães", "Transformar água em vinho"],
+    "a": 0
+  },
+  {
+    "q": "Qual profeta orou para que chovesse depois de três anos de seca?",
+    "o": ["Elias", "Eliseu", "Isaías", "Jeremias"],
+    "a": 0
+  },
+  {
+    "q": "Qual milagre envolveu a expulsão de demônios de um homem em Gadara?",
+    "o": ["Libertação do endemoninhado", "Cura do cego", "Multiplicação de pães", "Transformar água em vinho"],
+    "a": 0
+  },
+  {
+    "q": "Qual profeta multiplicou o azeite da viúva para que ela não passasse fome?",
+    "o": ["Eliseu", "Elias", "Moisés", "Isaías"],
+    "a": 0
+  },
+  {
+    "q": "Qual milagre de Jesus envolveu caminhar sobre as águas?",
+    "o": ["Caminhar sobre o mar", "Multiplicação de pães", "Cura do cego", "Transformar água em vinho"],
+    "a": 0
+  },
+  {
+    "q": "Qual milagre transformou água em vinho em um casamento em Caná?",
+    "o": ["Transformar água em vinho", "Multiplicação de pães", "Cura do cego", "Caminhar sobre o mar"],
+    "a": 0
+  },
+  {
+    "q": "Quem ressuscitou o filho da viúva de Naim?",
+    "o": ["Jesus", "Elias", "Eliseu", "Pedro"],
+    "a": 0
+  },
+  {
+    "q": "Qual milagre envolveu a multiplicação de pães para 4.000 pessoas?",
+    "o": ["Multiplicação dos 4.000", "Multiplicação dos 5.000", "Transformar água em vinho", "Cura do cego"],
+    "a": 0
+  },
+  {
+    "q": "Qual profeta realizou o milagre do machado flutuante?",
+    "o": ["Eliseu", "Elias", "Moisés", "Isaías"],
+    "a": 0
+  },
+  {
+    "q": "Qual milagre de Jesus envolveu curar dez leprosos, mas apenas um voltou para agradecer?",
+    "o": ["Cura dos dez leprosos", "Cura do cego", "Multiplicação de pães", "Transformar água em vinho"],
+    "a": 0
+  },
+  {
+    "q": "Qual profeta Elias foi levado ao céu em um redemoinho?",
+    "o": ["Elias", "Eliseu", "Isaías", "Jeremias"],
+    "a": 0
+  },
+  {
+    "q": "Qual milagre de Jesus envolveu ressuscitar a filha de Jairo?",
+    "o": ["Ressurreição da filha de Jairo", "Multiplicação de pães", "Cura do cego", "Transformar água em vinho"],
+    "a": 0
+  },
+  {
+    "q": "Qual profeta alimentou os profetas de Baal com fogo vindo do céu?",
+    "o": ["Elias", "Eliseu", "Isaías", "Jeremias"],
+    "a": 0
+  }
+]

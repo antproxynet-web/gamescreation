@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quantas regiões geográficas o Brasil possui?",
+    "o": ["5", "4", "6", "3"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a região mais populosa do Brasil?",
+    "o": ["Sudeste", "Sul", "Nordeste", "Centro-Oeste"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a maior região do Brasil em extensão territorial?",
+    "o": ["Norte", "Sudeste", "Sul", "Centro-Oeste"],
+    "a": 0
+  },
+  {
+    "q": "Qual região é conhecida pela Floresta Amazônica?",
+    "o": ["Norte", "Nordeste", "Centro-Oeste", "Sudeste"],
+    "a": 0
+  },
+  {
+    "q": "Qual região possui o menor número de habitantes?",
+    "o": ["Norte", "Sul", "Centro-Oeste", "Nordeste"],
+    "a": 0
+  },
+  {
+    "q": "Qual região é famosa por suas praias e pelo carnaval de Salvador?",
+    "o": ["Nordeste", "Sudeste", "Sul", "Centro-Oeste"],
+    "a": 0
+  },
+  {
+    "q": "Qual região abriga a capital Brasília?",
+    "o": ["Centro-Oeste", "Sudeste", "Sul", "Nordeste"],
+    "a": 0
+  },
+  {
+    "q": "Qual região é conhecida por suas serras e clima frio?",
+    "o": ["Sul", "Sudeste", "Norte", "Nordeste"],
+    "a": 0
+  },
+  {
+    "q": "Qual região é famosa pelo Pantanal?",
+    "o": ["Centro-Oeste", "Norte", "Sudeste", "Sul"],
+    "a": 0
+  },
+  {
+    "q": "Qual região é caracterizada pelo clima quente e semiárido?",
+    "o": ["Nordeste", "Norte", "Sul", "Sudeste"],
+    "a": 0
+  },
+  {
+    "q": "Qual região abriga o estado do Amazonas?",
+    "o": ["Norte", "Centro-Oeste", "Nordeste", "Sudeste"],
+    "a": 0
+  },
+  {
+    "q": "Qual região é conhecida por suas plantações de soja e milho?",
+    "o": ["Centro-Oeste", "Sul", "Sudeste", "Norte"],
+    "a": 0
+  },
+  {
+    "q": "Qual região possui a cidade de Rio de Janeiro?",
+    "o": ["Sudeste", "Sul", "Nordeste", "Centro-Oeste"],
+    "a": 0
+  },
+  {
+    "q": "Qual região é conhecida pelo Vale do Itajaí e vinícolas?",
+    "o": ["Sul", "Sudeste", "Centro-Oeste", "Norte"],
+    "a": 0
+  },
+  {
+    "q": "Qual região abriga a Chapada Diamantina?",
+    "o": ["Nordeste", "Sudeste", "Sul", "Centro-Oeste"],
+    "a": 0
+  },
+  {
+    "q": "Qual região possui os estados do Acre, Rondônia e Roraima?",
+    "o": ["Norte", "Centro-Oeste", "Nordeste", "Sudeste"],
+    "a": 0
+  },
+  {
+    "q": "Qual região abriga o Pantanal Matogrossense?",
+    "o": ["Centro-Oeste", "Norte", "Sul", "Sudeste"],
+    "a": 0
+  },
+  {
+    "q": "Qual região é conhecida pelo relevo de planaltos e serras, incluindo a Serra do Mar?",
+    "o": ["Sudeste", "Sul", "Centro-Oeste", "Nordeste"],
+    "a": 0
+  },
+  {
+    "q": "Qual região possui a maior diversidade de biomas, incluindo Amazônia e Cerrado?",
+    "o": ["Norte", "Sul", "Sudeste", "Nordeste"],
+    "a": 0
+  },
+  {
+    "q": "Qual região possui o litoral mais extenso do Brasil?",
+    "o": ["Nordeste", "Sudeste", "Sul", "Norte"],
+    "a": 0
+  }
+]

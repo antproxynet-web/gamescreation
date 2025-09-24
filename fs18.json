@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que é energia renovável?",
+    "o": ["Energia obtida de fontes que se renovam naturalmente, como sol, vento e água", "Energia nuclear", "Energia fóssil", "Energia elétrica convencional"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a principal fonte de energia solar?",
+    "o": ["Luz e calor do Sol", "Vento", "Marés", "Combustíveis fósseis"],
+    "a": 0
+  },
+  {
+    "q": "O que é energia eólica?",
+    "o": ["Energia obtida a partir do movimento do vento", "Energia da luz solar", "Energia da água corrente", "Energia geotérmica"],
+    "a": 0
+  },
+  {
+    "q": "O que é energia hidrelétrica?",
+    "o": ["Energia obtida a partir do movimento da água em rios e barragens", "Energia do vento", "Energia do sol", "Energia de biomassa"],
+    "a": 0
+  },
+  {
+    "q": "O que é biomassa?",
+    "o": ["Material orgânico usado para gerar energia, como resíduos vegetais e animais", "Energia solar", "Energia eólica", "Energia das marés"],
+    "a": 0
+  },
+  {
+    "q": "O que é energia geotérmica?",
+    "o": ["Energia obtida do calor interno da Terra", "Energia solar", "Energia da água", "Energia eólica"],
+    "a": 0
+  },
+  {
+    "q": "O que é energia das marés?",
+    "o": ["Energia gerada pelo movimento das águas do mar devido à gravidade da Lua e do Sol", "Energia eólica", "Energia solar", "Energia nuclear"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a principal vantagem das energias renováveis?",
+    "o": ["Não se esgotam e são menos poluentes", "São baratas em todos os casos", "Não precisam de manutenção", "Produzem sempre energia constante"],
+    "a": 0
+  },
+  {
+    "q": "O que é um painel fotovoltaico?",
+    "o": ["Dispositivo que converte luz solar diretamente em energia elétrica", "Turbina eólica", "Gerador a combustão", "Barragem hidrelétrica"],
+    "a": 0
+  },
+  {
+    "q": "O que é uma turbina eólica?",
+    "o": ["Dispositivo que converte energia do vento em energia elétrica", "Painel solar", "Gerador hidráulico", "Motor a combustão"],
+    "a": 0
+  },
+  {
+    "q": "O que é energia limpa?",
+    "o": ["Energia que não polui o meio ambiente", "Energia nuclear", "Energia fóssil", "Energia derivada de carvão"],
+    "a": 0
+  },
+  {
+    "q": "O que é eficiência energética?",
+    "o": ["Capacidade de gerar mais energia útil com menor desperdício", "Quantidade de energia armazenada", "Energia renovável apenas", "Energia térmica"],
+    "a": 0
+  },
+  {
+    "q": "O que é hidrogênio verde?",
+    "o": ["Hidrogênio produzido a partir de fontes renováveis", "Hidrogênio obtido de combustíveis fósseis", "Hidrogênio radioativo", "Hidrogênio sintético químico"],
+    "a": 0
+  },
+  {
+    "q": "O que é energia marinha?",
+    "o": ["Energia obtida de ondas, correntes e marés", "Energia solar", "Energia eólica", "Energia geotérmica"],
+    "a": 0
+  },
+  {
+    "q": "O que é um sistema híbrido de energia?",
+    "o": ["Sistema que combina diferentes fontes de energia renovável", "Sistema nuclear", "Sistema de combustíveis fósseis", "Sistema elétrico isolado"],
+    "a": 0
+  },
+  {
+    "q": "O que é energia solar térmica?",
+    "o": ["Energia obtida convertendo calor do sol em calor útil ou eletricidade", "Energia do vento", "Energia das marés", "Energia geotérmica"],
+    "a": 0
+  },
+  {
+    "q": "O que é microgeração distribuída?",
+    "o": ["Produção de energia renovável em pequena escala próxima ao consumidor", "Grande usina hidrelétrica", "Energia nuclear", "Energia fóssil centralizada"],
+    "a": 0
+  },
+  {
+    "q": "O que é energia renovável não intermitente?",
+    "o": ["Energia disponível de forma contínua, como geotérmica e biomassa", "Energia solar", "Energia eólica", "Energia das ondas"],
+    "a": 0
+  },
+  {
+    "q": "O que é pegada de carbono?",
+    "o": ["Medida das emissões de gases de efeito estufa de uma pessoa ou atividade", "Consumo de energia elétrica", "Quantidade de energia renovável usada", "Energia potencial de combustíveis fósseis"],
+    "a": 0
+  },
+  {
+    "q": "Qual país é líder mundial em energia eólica?",
+    "o": ["China", "Brasil", "Estados Unidos", "Alemanha"],
+    "a": 0
+  }
+]

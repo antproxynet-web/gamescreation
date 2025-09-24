@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que é a teoria da relatividade?",
+    "o": ["Teoria que descreve o comportamento do espaço, tempo e gravidade em altas velocidades e campos gravitacionais", "Estudo da mecânica clássica", "Estudo de ondas sonoras", "Estudo da óptica"],
+    "a": 0
+  },
+  {
+    "q": "Quem formulou a teoria da relatividade?",
+    "o": ["Albert Einstein", "Isaac Newton", "Galileu Galilei", "Max Planck"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a diferença entre relatividade restrita e geral?",
+    "o": ["Restrita trata de velocidades próximas à da luz, geral inclui gravidade", "Restrita estuda gravidade, geral estuda movimento", "Não há diferença", "Geral é apenas matemática abstrata"],
+    "a": 0
+  },
+  {
+    "q": "O que é dilatação do tempo?",
+    "o": ["Fenômeno em que o tempo passa mais lentamente para um corpo em movimento relativo ou em campo gravitacional intenso", "Tempo sempre constante", "Tempo aumenta linearmente", "Tempo é inversamente proporcional à massa"],
+    "a": 0
+  },
+  {
+    "q": "O que é contração do comprimento?",
+    "o": ["Fenômeno em que o comprimento de um corpo se reduz na direção do movimento relativo", "Corpo aumenta de tamanho", "Comprimento constante", "Comprimento inversamente proporcional ao tempo"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a equação mais famosa da relatividade restrita?",
+    "o": ["E = mc²", "F = ma", "p = mv", "V = IR"],
+    "a": 0
+  },
+  {
+    "q": "O que significa E = mc²?",
+    "o": ["Energia (E) é igual à massa (m) multiplicada pelo quadrado da velocidade da luz (c²)", "Energia é massa dividida por velocidade", "Energia é força vezes distância", "Energia é massa menos c²"],
+    "a": 0
+  },
+  {
+    "q": "O que é espaço-tempo?",
+    "o": ["Conceito que une as dimensões do espaço e do tempo em um único continuum", "Espaço e tempo separados", "Somente espaço tridimensional", "Somente tempo linear"],
+    "a": 0
+  },
+  {
+    "q": "O que é curvatura do espaço-tempo?",
+    "o": ["Deformação do espaço-tempo causada por massas e energia, que gera gravidade", "Espaço plano e constante", "Tempo desacelerado apenas", "Força sem causa"],
+    "a": 0
+  },
+  {
+    "q": "O que é efeito gravitacional na luz?",
+    "o": ["Desvio da luz ao passar perto de objetos massivos", "Velocidade da luz constante sempre", "Reflexão da luz apenas", "Absorção de luz"],
+    "a": 0
+  },
+  {
+    "q": "O que é paradoxo dos gêmeos?",
+    "o": ["Gêmeo viajante envelhece menos que o gêmeo em repouso devido à dilatação do tempo", "Ambos envelhecem igualmente", "Gêmeos trocam idades", "Somente o gêmeo no repouso envelhece mais rápido"],
+    "a": 0
+  },
+  {
+    "q": "O que é velocidade da luz no vácuo?",
+    "o": ["3 × 10⁸ m/s", "3 × 10⁵ m/s", "340 m/s", "1 × 10⁶ m/s"],
+    "a": 0
+  },
+  {
+    "q": "O que é princípio da equivalência de Einstein?",
+    "o": ["Gravidade e aceleração são equivalentes localmente", "Energia é sempre constante", "Massa é sempre zero", "Tempo absoluto"],
+    "a": 0
+  },
+  {
+    "q": "O que acontece com o tempo perto de um buraco negro?",
+    "o": ["O tempo passa mais lentamente devido ao campo gravitacional intenso", "O tempo passa normalmente", "O tempo acelera", "O tempo desaparece"],
+    "a": 0
+  },
+  {
+    "q": "O que é horizonte de eventos?",
+    "o": ["Região ao redor de um buraco negro além da qual nada pode escapar", "Superfície de uma estrela", "Ponto de luz máxima", "Linha de sombra"],
+    "a": 0
+  },
+  {
+    "q": "O que é lente gravitacional?",
+    "o": ["Desvio da luz de objetos distantes devido à gravidade de um corpo massivo", "Reflexão em espelhos", "Difração de ondas sonoras", "Absorção da luz"],
+    "a": 0
+  },
+  {
+    "q": "O que é energia relativística?",
+    "o": ["Energia total de um corpo incluindo sua massa e movimento", "Energia térmica apenas", "Energia cinética clássica", "Energia potencial apenas"],
+    "a": 0
+  },
+  {
+    "q": "O que é massa relativística?",
+    "o": ["Massa aparente de um corpo que aumenta com a velocidade próxima à da luz", "Massa constante sempre", "Massa diminui com velocidade", "Massa fictícia"],
+    "a": 0
+  },
+  {
+    "q": "O que é efeito gravitacional na passagem do tempo?",
+    "o": ["O tempo passa mais lentamente em regiões com maior gravidade", "O tempo é constante", "O tempo passa mais rápido", "O tempo se detém"],
+    "a": 0
+  },
+  {
+    "q": "O que são ondas gravitacionais?",
+    "o": ["Ondulações no espaço-tempo causadas por massas aceleradas", "Ondas sonoras", "Ondas eletromagnéticas", "Ondas de calor"],
+    "a": 0
+  }
+]

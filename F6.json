@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual é o clima predominante na região amazônica?",
+    "o": ["Equatorial", "Desértico", "Temperado", "Polar"],
+    "a": 0
+  },
+  {
+    "q": "Qual clima é caracterizado por verões quentes e invernos frios, comum na Europa Central?",
+    "o": ["Temperado Continental", "Equatorial", "Árido", "Tropical"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o clima predominante no Saara?",
+    "o": ["Desértico", "Mediterrâneo", "Tropical", "Polar"],
+    "a": 0
+  },
+  {
+    "q": "Qual clima é caracterizado por chuvas escassas e vegetação de cactos?",
+    "o": ["Semiárido", "Polar", "Mediterrâneo", "Equatorial"],
+    "a": 0
+  },
+  {
+    "q": "Qual clima apresenta temperaturas abaixo de zero durante a maior parte do ano?",
+    "o": ["Polar", "Tropical", "Desértico", "Mediterrâneo"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o clima típico do norte do Canadá e Sibéria?",
+    "o": ["Frio", "Tropical", "Mediterrâneo", "Equatorial"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o clima característico do sul da Europa e norte da África?",
+    "o": ["Mediterrâneo", "Desértico", "Equatorial", "Polar"],
+    "a": 0
+  },
+  {
+    "q": "Qual clima predomina no centro do Brasil, no Cerrado?",
+    "o": ["Tropical", "Temperado", "Árido", "Mediterrâneo"],
+    "a": 0
+  },
+  {
+    "q": "Qual clima possui as quatro estações bem definidas?",
+    "o": ["Temperado", "Tropical", "Polar", "Semiárido"],
+    "a": 0
+  },
+  {
+    "q": "Qual clima predomina na Groenlândia?",
+    "o": ["Polar", "Equatorial", "Semiárido", "Tropical"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o clima predominante na Índia, influenciado pelas monções?",
+    "o": ["Tropical de Monções", "Mediterrâneo", "Polar", "Árido"],
+    "a": 0
+  },
+  {
+    "q": "Qual clima apresenta grande variação de temperatura entre dia e noite?",
+    "o": ["Desértico", "Equatorial", "Polar", "Mediterrâneo"],
+    "a": 0
+  },
+  {
+    "q": "Qual clima é típico de desertos frios, como o da Patagônia?",
+    "o": ["Semiárido Frio", "Equatorial", "Mediterrâneo", "Polar"],
+    "a": 0
+  },
+  {
+    "q": "Qual clima predomina no Alasca?",
+    "o": ["Polar e Frio", "Tropical", "Equatorial", "Mediterrâneo"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o clima predominante na região do Caribe?",
+    "o": ["Tropical", "Polar", "Mediterrâneo", "Semiárido"],
+    "a": 0
+  },
+  {
+    "q": "Qual clima é característico da região do Mediterrâneo?",
+    "o": ["Verões quentes e secos, invernos amenos e chuvosos", "Frio constante", "Chuvas intensas todo ano", "Calor seco o ano todo"],
+    "a": 0
+  },
+  {
+    "q": "Qual clima é caracterizado por chuvas abundantes o ano inteiro?",
+    "o": ["Equatorial", "Mediterrâneo", "Semiárido", "Polar"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o clima predominante em países como Egito e Arábia Saudita?",
+    "o": ["Desértico", "Equatorial", "Polar", "Tropical"],
+    "a": 0
+  },
+  {
+    "q": "Qual clima é típico da região dos Pampas na Argentina?",
+    "o": ["Temperado", "Equatorial", "Polar", "Árido"],
+    "a": 0
+  },
+  {
+    "q": "Qual clima predomina no Ártico?",
+    "o": ["Polar", "Tropical", "Mediterrâneo", "Desértico"],
+    "a": 0
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que é mecânica em física?",
+    "o": ["Ramo que estuda movimento e forças sobre os corpos", "Ramo que estuda energia elétrica", "Ramo que estuda ondas", "Ramo que estuda luz"],
+    "a": 0
+  },
+  {
+    "q": "Quem formulou as leis fundamentais da mecânica clássica?",
+    "o": ["Galileu Galilei", "Isaac Newton", "Albert Einstein", "Nikola Tesla"],
+    "a": 1
+  },
+  {
+    "q": "Qual é a primeira lei de Newton?",
+    "o": ["Lei da inércia", "Lei da ação e reação", "Lei da gravitação", "Lei da velocidade constante"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a segunda lei de Newton?",
+    "o": ["F = m × a", "F = G × (m1 × m2)/r²", "P = m × g", "E = 1/2 × m × v²"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a terceira lei de Newton?",
+    "o": ["Toda ação tem reação igual e oposta", "Um corpo permanece em movimento", "Força = massa × aceleração", "Energia total se conserva"],
+    "a": 0
+  },
+  {
+    "q": "O que é trabalho em mecânica?",
+    "o": ["Força aplicada sobre um corpo que provoca deslocamento", "Energia cinética", "Velocidade multiplicada pelo tempo", "Força multiplicada pela massa"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a fórmula do trabalho?",
+    "o": ["W = F × d × cosθ", "W = m × g × h", "W = 1/2 × m × v²", "W = F / d"],
+    "a": 0
+  },
+  {
+    "q": "O que é energia cinética?",
+    "o": ["Energia de movimento de um corpo", "Energia armazenada devido à posição", "Energia térmica", "Energia elétrica"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a fórmula da energia cinética?",
+    "o": ["E_c = 1/2 × m × v²", "E_c = m × g × h", "E_c = F × d", "E_c = m × v"],
+    "a": 0
+  },
+  {
+    "q": "O que é energia potencial gravitacional?",
+    "o": ["Energia armazenada devido à altura de um corpo", "Energia de movimento", "Energia elétrica", "Energia térmica"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a fórmula da energia potencial gravitacional?",
+    "o": ["E_p = m × g × h", "E_p = 1/2 × m × v²", "E_p = F × d", "E_p = m × a"],
+    "a": 0
+  },
+  {
+    "q": "O que é força resultante?",
+    "o": ["Força única que substitui todas as forças aplicadas a um corpo", "Força gravitacional", "Força de atrito", "Força centrípeta"],
+    "a": 0
+  },
+  {
+    "q": "O que é impulso de uma força?",
+    "o": ["Produto da força pelo intervalo de tempo em que atua", "Velocidade multiplicada pelo tempo", "Energia cinética", "Força multiplicada pela distância"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a relação entre impulso e variação da quantidade de movimento?",
+    "o": ["I = Δp", "I = F × d", "I = m × g", "I = 1/2 × m × v²"],
+    "a": 0
+  },
+  {
+    "q": "O que é quantidade de movimento (momento linear)?",
+    "o": ["p = m × v", "p = F × d", "p = m × g × h", "p = 1/2 × m × v²"],
+    "a": 0
+  },
+  {
+    "q": "O que afirma a lei da conservação da quantidade de movimento?",
+    "o": ["A quantidade de movimento total de um sistema isolado se mantém constante", "Energia cinética é sempre constante", "Força resultante é sempre zero", "Velocidade de um corpo não muda"],
+    "a": 0
+  },
+  {
+    "q": "O que é força de atrito?",
+    "o": ["Força que se opõe ao movimento relativo entre superfícies", "Força que atrai corpos para a Terra", "Força que acelera corpos", "Força centrípeta"],
+    "a": 0
+  },
+  {
+    "q": "O que é força centrípeta?",
+    "o": ["Força dirigida para o centro de uma trajetória circular", "Força de atrito", "Força gravitacional", "Força de empuxo"],
+    "a": 0
+  },
+  {
+    "q": "O que é equilíbrio mecânico?",
+    "o": ["Estado em que a força resultante sobre um corpo é zero", "Estado de movimento uniforme", "Estado de aceleração máxima", "Estado de energia zero"],
+    "a": 0
+  },
+  {
+    "q": "O que é potência mecânica?",
+    "o": ["Taxa de realização de trabalho", "Energia armazenada", "Força aplicada", "Velocidade de um corpo"],
+    "a": 0
+  }
+]

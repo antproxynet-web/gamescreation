@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que é física aplicada?",
+    "o": ["Uso de princípios da física para resolver problemas práticos e desenvolver tecnologia", "Estudo teórico de partículas", "Estudo do espaço-tempo apenas", "Estudo de bioquímica"],
+    "a": 0
+  },
+  {
+    "q": "O que é lei de Ohm?",
+    "o": ["Relação entre tensão, corrente e resistência em um circuito elétrico", "Lei da gravitação universal", "Princípio de Arquimedes", "Lei da conservação da massa"],
+    "a": 0
+  },
+  {
+    "q": "O que é efeito Joule?",
+    "o": ["Transformação de energia elétrica em calor em um condutor", "Transformação de luz em eletricidade", "Criação de campo magnético", "Produção de energia nuclear"],
+    "a": 0
+  },
+  {
+    "q": "O que é princípio de Pascal?",
+    "o": ["Pressão aplicada a um fluido se transmite integralmente a todos os pontos", "Pressão é proporcional à velocidade", "Pressão aumenta com temperatura apenas", "Pressão depende de luz"],
+    "a": 0
+  },
+  {
+    "q": "O que é princípio de Arquimedes?",
+    "o": ["Corpo imerso em fluido sofre uma força de empuxo igual ao peso do fluido deslocado", "Massa de um corpo não muda", "Corpo atrai outro corpo", "Energia é conservada"],
+    "a": 0
+  },
+  {
+    "q": "O que é energia mecânica aplicada?",
+    "o": ["Energia utilizada em máquinas, motores e sistemas de movimento", "Energia nuclear", "Energia térmica apenas", "Energia eletrostática"],
+    "a": 0
+  },
+  {
+    "q": "O que é trabalho em física aplicada?",
+    "o": ["Produto da força pelo deslocamento na direção da força", "Energia térmica", "Velocidade multiplicada por tempo", "Potência instantânea"],
+    "a": 0
+  },
+  {
+    "q": "O que é potência elétrica?",
+    "o": ["Taxa de consumo ou produção de energia elétrica por unidade de tempo", "Energia térmica", "Força aplicada por segundo", "Velocidade de corrente"],
+    "a": 0
+  },
+  {
+    "q": "O que é efeito Doppler em aplicações práticas?",
+    "o": ["Mudança na frequência de ondas sonoras ou eletromagnéticas devido ao movimento relativo", "Mudança de energia nuclear", "Mudança de massa", "Mudança de pressão atmosférica"],
+    "a": 0
+  },
+  {
+    "q": "O que é termodinâmica aplicada?",
+    "o": ["Estudo da energia térmica em motores, refrigeração e processos industriais", "Estudo de ondas", "Estudo de luz", "Estudo de partículas subatômicas"],
+    "a": 0
+  },
+  {
+    "q": "O que é resistência elétrica?",
+    "o": ["Propriedade de um material de dificultar a passagem de corrente elétrica", "Propriedade de transmitir calor", "Propriedade de refletir luz", "Propriedade mecânica"],
+    "a": 0
+  },
+  {
+    "q": "O que é capacitor?",
+    "o": ["Componente que armazena energia elétrica em um campo elétrico", "Gerador de corrente contínua", "Motor elétrico", "Resistor variável"],
+    "a": 0
+  },
+  {
+    "q": "O que é indutor?",
+    "o": ["Componente que armazena energia em um campo magnético", "Gerador de luz", "Motor térmico", "Condutor de calor"],
+    "a": 0
+  },
+  {
+    "q": "O que é vibração aplicada?",
+    "o": ["Oscilação de sistemas mecânicos, usada em engenharia e acústica", "Oscilação atômica", "Ondas eletromagnéticas", "Radiação nuclear"],
+    "a": 0
+  },
+  {
+    "q": "O que é ressonância?",
+    "o": ["Fenômeno em que um sistema responde com máxima amplitude a determinada frequência", "Absorção de energia térmica", "Propagação de luz", "Desintegração nuclear"],
+    "a": 0
+  },
+  {
+    "q": "O que é fluxo magnético?",
+    "o": ["Quantidade de campo magnético que atravessa uma superfície", "Corrente elétrica instantânea", "Energia térmica", "Pressão aplicada"],
+    "a": 0
+  },
+  {
+    "q": "O que é força de atrito aplicada?",
+    "o": ["Força que se opõe ao movimento relativo entre superfícies em contato", "Força gravitacional", "Força centrípeta", "Força magnética"],
+    "a": 0
+  },
+  {
+    "q": "O que é torque em física aplicada?",
+    "o": ["Momento de força que provoca rotação de um corpo", "Força linear apenas", "Força de atrito", "Energia potencial apenas"],
+    "a": 0
+  },
+  {
+    "q": "O que é eficiência de uma máquina?",
+    "o": ["Relação entre energia útil obtida e energia fornecida", "Energia térmica produzida", "Potência máxima", "Velocidade de trabalho"],
+    "a": 0
+  },
+  {
+    "q": "O que é onda mecânica aplicada?",
+    "o": ["Propagação de perturbação em meios materiais, usada em acústica e engenharia", "Onda eletromagnética", "Onda gravitacional", "Radiação nuclear"],
+    "a": 0
+  }
+]

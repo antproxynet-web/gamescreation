@@ -1,0 +1,503 @@
+[
+{
+"q": "Quem é o protagonista de Demon Slayer?",
+"o": ["Tanjiro Kamado", "Nezuko Kamado", "Zenitsu Agatsuma", "Inosuke Hashibira"],
+"a": 0
+},
+{
+"q": "Quem é a irmã de Tanjiro que se transforma em demônio?",
+"o": ["Nezuko Kamado", "Shinobu Kocho", "Kanao Tsuyuri", "Mitsuri Kanroji"],
+"a": 0
+},
+{
+"q": "Qual é a principal arma usada pelos caçadores de demônios?",
+"o": ["Nichirin Blade", "Espada Katana Comum", "Arco e Flecha", "Lança de Ferro"],
+"a": 0
+},
+{
+"q": "Quem é o principal vilão da primeira temporada?",
+"o": ["Muzan Kibutsuji", "Akaza", "Daki", "Gyutaro"],
+"a": 0
+},
+{
+"q": "Qual é o estilo de respiração de Tanjiro?",
+"o": ["Respiração da Água", "Respiração do Fogo", "Respiração da Lua", "Respiração da Rocha"],
+"a": 0
+},
+{
+"q": "Quem é o Hashira da Respiração da Insecta?",
+"o": ["Shinobu Kocho", "Giyu Tomioka", "Kyojuro Rengoku", "Mitsuri Kanroji"],
+"a": 0
+},
+{
+"q": "Qual Hashira utiliza a Respiração Flamejante?",
+"o": ["Kyojuro Rengoku", "Giyu Tomioka", "Obanai Iguro", "Sanemi Shinazugawa"],
+"a": 0
+},
+{
+"q": "Quem é o Hashira da Respiração da Água?",
+"o": ["Giyu Tomioka", "Tanjiro Kamado", "Shinobu Kocho", "Gyomei Himejima"],
+"a": 0
+},
+{
+"q": "Qual demônio matou a família de Tanjiro?",
+"o": ["Muzan Kibutsuji", "Akaza", "Daki", "Gyutaro"],
+"a": 0
+},
+{
+"q": "Quem é o amigo de Tanjiro que tem medo de tudo mas é poderoso?",
+"o": ["Zenitsu Agatsuma", "Inosuke Hashibira", "Kanao Tsuyuri", "Mitsuri Kanroji"],
+"a": 0
+},
+{
+"q": "Quem é o amigo de Tanjiro criado no estilo selvagem das bestas?",
+"o": ["Inosuke Hashibira", "Zenitsu Agatsuma", "Kanao Tsuyuri", "Mitsuri Kanroji"],
+"a": 0
+},
+{
+"q": "Quem é a amiga e aprendiz da Respiração da Flor?",
+"o": ["Kanao Tsuyuri", "Nezuko Kamado", "Shinobu Kocho", "Mitsuri Kanroji"],
+"a": 0
+},
+{
+"q": "Quem é o vilão das Doze Luas Demoníacas Superior?",
+"o": ["Akaza", "Muzan Kibutsuji", "Gyutaro", "Daki"],
+"a": 0
+},
+{
+"q": "Qual Hashira é cego mas incrivelmente forte?",
+"o": ["Gyomei Himejima", "Sanemi Shinazugawa", "Obanai Iguro", "Kyojuro Rengoku"],
+"a": 0
+},
+{
+"q": "Quem é o Hashira do Amor?",
+"o": ["Mitsuri Kanroji", "Kyojuro Rengoku", "Shinobu Kocho", "Giyu Tomioka"],
+"a": 0
+},
+{
+"q": "Quem é a irmã do vilão Gyutaro?",
+"o": ["Daki", "Nezuko Kamado", "Kanao Tsuyuri", "Mitsuri Kanroji"],
+"a": 0
+},
+{
+"q": "Quem derrota Akaza no filme Mugen Train?",
+"o": ["Kyojuro Rengoku", "Tanjiro Kamado", "Zenitsu Agatsuma", "Inosuke Hashibira"],
+"a": 0
+},
+{
+"q": "Qual é a técnica que Tanjiro usa para aumentar força e velocidade?",
+"o": ["Respiração da Água", "Respiração da Chama", "Respiração da Lua", "Respiração do Amor"],
+"a": 0
+},
+{
+"q": "Quem é o líder das Doze Luas Demoníacas?",
+"o": ["Muzan Kibutsuji", "Akaza", "Gyutaro", "Daki"],
+"a": 0
+},
+{
+"q": "Quem é o Hashira mais rápido conhecido?",
+"o": ["Sanemi Shinazugawa", "Giyu Tomioka", "Kyojuro Rengoku", "Obanai Iguro"],
+"a": 0
+},
+{
+"q": "Qual técnica de respiração Tanjiro aprendeu para quebrar rochas?",
+"o": ["Respiração da Água: Forma da Cascata", "Respiração da Água: Forma do Dragão", "Respiração da Chama: Forma do Inferno", "Respiração da Lua: Forma Fantasma"],
+"a": 0
+},
+{
+"q": "Quem é o Hashira da Respiração da Serpente?",
+"o": ["Obanai Iguro", "Sanemi Shinazugawa", "Giyu Tomioka", "Gyomei Himejima"],
+"a": 0
+},
+{
+"q": "Quem é o Hashira da Respiração da Pedra?",
+"o": ["Gyomei Himejima", "Sanemi Shinazugawa", "Kyojuro Rengoku", "Giyu Tomioka"],
+"a": 0
+},
+{
+"q": "Quem é o Hashira da Respiração do Vento?",
+"o": ["Sanemi Shinazugawa", "Obanai Iguro", "Gyomei Himejima", "Kyojuro Rengoku"],
+"a": 0
+},
+{
+"q": "Quem é a caçadora de demônios mais nova a ser promovida a Hashira?",
+"o": ["Mitsuri Kanroji", "Shinobu Kocho", "Kanao Tsuyuri", "Nezuko Kamado"],
+"a": 0
+},
+{
+"q": "Quem é o vilão que usa duas gêmeas para atacar?",
+"o": ["Gyutaro e Daki", "Akaza e Enmu", "Muzan e Enmu", "Kokushibo e Gyomei"],
+"a": 0
+},
+{
+"q": "Quem é o vilão mais poderoso depois de Muzan?",
+"o": ["Kokushibo", "Akaza", "Daki", "Gyutaro"],
+"a": 0
+},
+{
+"q": "Quem é o vilão que foi discípulo de Yoriichi Tsugikuni?",
+"o": ["Kokushibo", "Akaza", "Daki", "Gyutaro"],
+"a": 0
+},
+{
+"q": "Quem é o vilão que se sacrifica para salvar sua irmã?",
+"o": ["Gyutaro", "Akaza", "Daki", "Enmu"],
+"a": 0
+},
+{
+"q": "Quem é o vilão que aparece no Trem Infinito?",
+"o": ["Enmu", "Akaza", "Daki", "Gyutaro"],
+"a": 0
+},
+{
+"q": "Qual é a forma de respiração de Zenitsu?",
+"o": ["Respiração do Relâmpago", "Respiração da Água", "Respiração da Lua", "Respiração da Rocha"],
+"a": 0
+},
+{
+"q": "Qual é a forma de respiração de Inosuke?",
+"o": ["Respiração da Besta", "Respiração da Água", "Respiração da Lua", "Respiração do Fogo"],
+"a": 0
+},
+{
+"q": "Quem é o Hashira da Respiração da Névoa?",
+"o": ["Muichiro Tokito", "Giyu Tomioka", "Sanemi Shinazugawa", "Obanai Iguro"],
+"a": 0
+},
+{
+"q": "Quem é a jovem aprendiz que se torna habilidosa com a Respiração da Flor?",
+"o": ["Kanao Tsuyuri", "Mitsuri Kanroji", "Nezuko Kamado", "Shinobu Kocho"],
+"a": 0
+},
+{
+"q": "Quem é a Hashira que usa veneno para derrotar demônios?",
+"o": ["Shinobu Kocho", "Mitsuri Kanroji", "Kanao Tsuyuri", "Nezuko Kamado"],
+"a": 0
+},
+{
+"q": "Quem é o vilão que controla a lua demoníaca?",
+"o": ["Muzan Kibutsuji", "Akaza", "Daki", "Gyutaro"],
+"a": 0
+},
+{
+"q": "Quem é o vilão que desafia todos os Hashiras antes de ser derrotado?",
+"o": ["Akaza", "Gyutaro", "Daki", "Enmu"],
+"a": 0
+},
+{
+"q": "Quem é o vilão que aparece na Floresta dos Demônios?",
+"o": ["Kokushibo", "Akaza", "Daki", "Gyutaro"],
+"a": 0
+},
+{
+"q": "Quem é o vilão que luta contra Tanjiro usando múltiplos ataques de espada?",
+"o": ["Kokushibo", "Akaza", "Gyutaro", "Enmu"],
+"a": 0
+},
+
+{
+"q": "Quem foi o primeiro demônio que Tanjiro enfrentou sozinho?",
+"o": ["Kyogai", "Sabito", "Rui", "Enmu"],
+"a": 0
+},
+{
+"q": "Qual é o clã de Tanjiro?",
+"o": ["Kamado", "Tomioka", "Hashibira", "Kocho"],
+"a": 0
+},
+{
+"q": "Quem ensinou Tanjiro a usar a Respiração da Água?",
+"o": ["Giyu Tomioka", "Kyojuro Rengoku", "Shinobu Kocho", "Gyomei Himejima"],
+"a": 0
+},
+{
+"q": "Qual é o sobrenome da família que cria espadas Nichirin?",
+"o": ["Haganezuka", "Tomioka", "Kamado", "Kocho"],
+"a": 0
+},
+{
+"q": "Quem treinou Inosuke quando ele era criança?",
+"o": ["Porco", "Tanjiro", "Zenitsu", "Gyomei Himejima"],
+"a": 0
+},
+{
+"q": "Qual é o objetivo principal dos caçadores de demônios?",
+"o": ["Derrotar demônios e proteger humanos", "Colecionar espadas", "Treinar Hashiras", "Dominar respirações"],
+"a": 0
+},
+{
+"q": "Qual é o símbolo do corpo dos caçadores de demônios?",
+"o": ["Marca de Demon Slayer Corps", "Marca da Lua", "Chama da Vida", "Flor de Nezuko"],
+"a": 0
+},
+{
+"q": "Quem criou a Respiração da Chama?",
+"o": ["Kyojuro Rengoku", "Giyu Tomioka", "Obanai Iguro", "Gyomei Himejima"],
+"a": 0
+},
+{
+"q": "Qual é o selo que Muzan usa para controlar outros demônios?",
+"o": ["Selo da Vida", "Selo da Lua", "Selo da Eternidade", "Selo de Sangue"],
+"a": 0
+},
+{
+"q": "Qual Hashira tem um comportamento agressivo e imprevisível?",
+"o": ["Sanemi Shinazugawa", "Kyojuro Rengoku", "Giyu Tomioka", "Obanai Iguro"],
+"a": 0
+},
+{
+"q": "Qual técnica especial de Tanjiro aumenta a eficácia da espada?",
+"o": ["Dança da Água: Dança do Dragão", "Chama Explosiva", "Fúria da Lua", "Impacto da Rocha"],
+"a": 0
+},
+{
+"q": "Qual é a relação de Kanao Tsuyuri com Shinobu Kocho?",
+"o": ["Aprendiz", "Irmã", "Rival", "Amiga de infância"],
+"a": 0
+},
+{
+"q": "Qual é o objetivo de Rui, da Lua Superior Seis?",
+"o": ["Criar uma 'família' de demônios", "Dominar o mundo humano", "Derrotar Tanjiro", "Roubar Nichirin Blades"],
+"a": 0
+},
+{
+"q": "Qual Hashira é conhecido por sua força física imensa?",
+"o": ["Gyomei Himejima", "Kyojuro Rengoku", "Sanemi Shinazugawa", "Giyu Tomioka"],
+"a": 0
+},
+{
+"q": "Quem foi responsável por treinar Tanjiro antes do exame final?",
+"o": ["Sakonji Urokodaki", "Gyomei Himejima", "Shinobu Kocho", "Kyojuro Rengoku"],
+"a": 0
+},
+{
+"q": "Qual é o animal que acompanha Tanjiro em algumas missões?",
+"o": ["Coruja", "Cachorro", "Gato", "Falcão"],
+"a": 0
+},
+{
+"q": "Qual é a característica especial do sangue de Nezuko?",
+"o": ["Pode curar ferimentos", "Transforma humanos em demônios", "Explode ao tocar fogo", "Pode ser usado em armas"],
+"a": 0
+},
+{
+"q": "Qual é a cor da espada de Tanjiro?",
+"o": ["Preta", "Vermelha", "Azul", "Amarela"],
+"a": 0
+},
+{
+"q": "Qual é o vilão que possui habilidades com marionetes humanas?",
+"o": ["Enmu", "Akaza", "Gyutaro", "Kokushibo"],
+"a": 0
+},
+{
+"q": "Quem é o Hashira que lidera espiritualmente os outros?",
+"o": ["Gyomei Himejima", "Kyojuro Rengoku", "Shinobu Kocho", "Sanemi Shinazugawa"],
+"a": 0
+},
+{
+"q": "Qual é o elemento da Respiração da Névoa?",
+"o": ["Ilusão e Velocidade", "Fogo", "Água", "Raio"],
+"a": 0
+},
+{
+"q": "Qual é a espada especial de Kokushibo?",
+"o": ["Nichirin com múltiplas lâminas", "Espada Flamejante", "Espada da Água", "Espada da Lua Crescente"],
+"a": 0
+},
+{
+"q": "Quem protege a vila dos caçadores no anime?",
+"o": ["Hashiras", "Demon Slayer Corps", "Nezuko", "Tanjiro sozinho"],
+"a": 0
+},
+{
+"q": "Qual é o vilão que tem múltiplos braços e age como um assassino furtivo?",
+"o": ["Gyutaro", "Kokushibo", "Akaza", "Enmu"],
+"a": 0
+},
+{
+"q": "Quem é o demônio que possui habilidades de seda para atacar?",
+"o": ["Rui", "Daki", "Akaza", "Gyutaro"],
+"a": 0
+},
+{
+"q": "Qual é a técnica de respiração que Zenitsu domina com maestria?",
+"o": ["Forma do Relâmpago", "Forma da Água", "Forma da Rocha", "Forma da Lua"],
+"a": 0
+},
+{
+"q": "Qual é a habilidade de Inosuke que o torna único em batalha?",
+"o": ["Instinto Selvagem", "Respiração do Relâmpago", "Veneno", "Marionete de Ferro"],
+"a": 0
+},
+{
+"q": "Quem é o Hashira que usa correntes em combate?",
+"o": ["Obanai Iguro", "Sanemi Shinazugawa", "Giyu Tomioka", "Kyojuro Rengoku"],
+"a": 0
+},
+{
+"q": "Qual é o destino final de Muzan Kibutsuji?",
+"o": ["Derrotado pelos caçadores de demônios", "Se torna humano", "Vive para sempre", "É selado em uma caverna"],
+"a": 0
+},
+{
+"q": "Qual é a principal fraqueza de todos os demônios?",
+"o": ["Luz do sol", "Água", "Fogo", "Vento"],
+"a": 0
+},
+{
+"q": "Quem é o vilão que comanda a Lua Superior Um?",
+"o": ["Kokushibo", "Muzan Kibutsuji", "Akaza", "Gyutaro"],
+"a": 0
+},
+{
+"q": "Quem são os irmãos que formam a Lua Superior Seis?",
+"o": ["Gyutaro e Daki", "Rui e Enmu", "Akaza e Kokushibo", "Kyogai e Sabito"],
+"a": 0
+},
+{
+"q": "Qual é a arma favorita de Inosuke além da espada Nichirin?",
+"o": ["Garras duplas", "Arco e flecha", "Machado", "Lança"],
+"a": 0
+},
+{
+"q": "Quem é o mestre de Tanjiro antes de ele se tornar caçador?",
+"o": ["Sakonji Urokodaki", "Gyomei Himejima", "Shinobu Kocho", "Kyojuro Rengoku"],
+"a": 0
+},
+{
+"q": "Qual é o estilo de luta de Zenitsu quando está consciente?",
+"o": ["Respiração do Relâmpago", "Respiração da Água", "Respiração da Rocha", "Respiração do Fogo"],
+"a": 0
+},
+{
+"q": "Qual é a habilidade especial de Gyutaro com suas lâminas?",
+"o": ["Controle de sangue cortante", "Respiração da Água", "Chama explosiva", "Veneno da Flor"],
+"a": 0
+},
+{
+"q": "Qual é a característica do selo que Muzan usa para transformar humanos?",
+"o": ["Marca em forma de lua", "Selo em forma de flor", "Marca de relâmpago", "Selo de fogo"],
+"a": 0
+},
+{
+"q": "Quem é o Hashira conhecido por sua incrível velocidade e agilidade?",
+"o": ["Sanemi Shinazugawa", "Kyojuro Rengoku", "Gyomei Himejima", "Obanai Iguro"],
+"a": 0
+},
+{
+"q": "Quem é o demônio que utiliza fios de seda para lutar?",
+"o": ["Rui", "Daki", "Enmu", "Akaza"],
+"a": 0
+},
+{
+"q": "Quem é o Hashira da Respiração do Amor?",
+"o": ["Mitsuri Kanroji", "Shinobu Kocho", "Kyojuro Rengoku", "Obanai Iguro"],
+"a": 0
+},
+{
+"q": "Quem é o Hashira que domina a Respiração da Rocha?",
+"o": ["Gyomei Himejima", "Giyu Tomioka", "Kyojuro Rengoku", "Sanemi Shinazugawa"],
+"a": 0
+},
+{
+"q": "Qual é a técnica de Giyu Tomioka mais famosa?",
+"o": ["Respiração da Água: Forma do Dragão", "Respiração do Fogo: Chama Explosiva", "Respiração da Rocha: Golpe Sísmico", "Respiração do Vento: Corte Tempestuoso"],
+"a": 0
+},
+{
+"q": "Quem é o vilão que manipula sonhos no Trem Infinito?",
+"o": ["Enmu", "Gyutaro", "Akaza", "Kokushibo"],
+"a": 0
+},
+{
+"q": "Qual é a relação de Shinobu Kocho com Kanae Kocho?",
+"o": ["Irmã mais nova", "Aprendiz", "Rival", "Amiga de infância"],
+"a": 0
+},
+{
+"q": "Qual é a marca que aparece em Tanjiro quando ele desperta seu poder?",
+"o": ["Marca da Caçador de Demônios", "Marca do Sol", "Marca da Lua", "Marca da Flor"],
+"a": 0
+},
+{
+"q": "Qual é a principal motivação de Tanjiro para se tornar caçador?",
+"o": ["Proteger sua irmã", "Vingança pessoal", "Fama", "Treinar os Hashiras"],
+"a": 0
+},
+{
+"q": "Quem é o vilão que desafia Tanjiro e Giyu em combate corpo a corpo?",
+"o": ["Akaza", "Kokushibo", "Gyutaro", "Enmu"],
+"a": 0
+},
+{
+"q": "Quem é o demônio que mantém o corpo humano intacto mesmo após a morte?",
+"o": ["Enmu", "Rui", "Gyutaro", "Daki"],
+"a": 0
+},
+{
+"q": "Qual é a especialidade de Muichiro Tokito?",
+"o": ["Respiração da Névoa", "Respiração da Água", "Respiração do Fogo", "Respiração do Relâmpago"],
+"a": 0
+},
+{
+"q": "Quem é a jovem que luta junto com Tanjiro na missão do Trem Infinito?",
+"o": ["Nezuko Kamado", "Kanao Tsuyuri", "Mitsuri Kanroji", "Shinobu Kocho"],
+"a": 0
+},
+{
+"q": "Qual é a técnica usada por Kyojuro Rengoku no Mugen Train?",
+"o": ["Chama Explosiva", "Corte da Água", "Golpe da Névoa", "Impacto da Pedra"],
+"a": 0
+},
+{
+"q": "Quem é o Hashira que utiliza cobras em suas técnicas de combate?",
+"o": ["Obanai Iguro", "Sanemi Shinazugawa", "Gyomei Himejima", "Giyu Tomioka"],
+"a": 0
+},
+{
+"q": "Qual é o vilão que possui força sobre-humana e múltiplos braços?",
+"o": ["Gyutaro", "Akaza", "Kokushibo", "Enmu"],
+"a": 0
+},
+{
+"q": "Quem é o Hashira que inspira coragem nos outros caçadores com sua bondade?",
+"o": ["Kyojuro Rengoku", "Sanemi Shinazugawa", "Obanai Iguro", "Gyomei Himejima"],
+"a": 0
+},
+{
+"q": "Quem é o vilão que possui olhos vermelhos brilhantes e grande velocidade?",
+"o": ["Akaza", "Gyutaro", "Enmu", "Kokushibo"],
+"a": 0
+},
+{
+"q": "Qual é a técnica de respiração que Mitsuri Kanroji utiliza?",
+"o": ["Respiração do Amor", "Respiração da Água", "Respiração da Névoa", "Respiração do Vento"],
+"a": 0
+},
+{
+"q": "Quem é o vilão que tem habilidades regenerativas extremamente rápidas?",
+"o": ["Kokushibo", "Gyutaro", "Akaza", "Enmu"],
+"a": 0
+},
+{
+"q": "Qual é a espada especial que cada Hashira utiliza?",
+"o": ["Espada Nichirin", "Espada Flamejante", "Espada de Ferro", "Espada da Lua"],
+"a": 0
+},
+{
+"q": "Quem é o vilão que deseja criar uma 'família' de demônios?",
+"o": ["Rui", "Akaza", "Daki", "Gyutaro"],
+"a": 0
+},
+{
+"q": "Qual é a técnica que Tanjiro aprendeu com Sakonji Urokodaki?",
+"o": ["Respiração da Água", "Respiração do Fogo", "Respiração do Relâmpago", "Respiração da Pedra"],
+"a": 0
+},
+{
+"q":"Está gostando do quiz?",
+"o":["Sim","Não","Esperava mais"],
+"a":0
+}
+]

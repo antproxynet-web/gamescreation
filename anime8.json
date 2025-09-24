@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quem é o protagonista principal de Yu Yu Hakusho?",
+    "o": ["Yusuke Urameshi", "Kuwabara", "Kurama", "Hiei"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o amigo leal e rival de Yusuke?",
+    "o": ["Kuwabara", "Kurama", "Hiei", "Genkai"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o espírito demoníaco que ajuda Yusuke a treinar?",
+    "o": ["Genkai", "Koenma", "Botan", "Kurama"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a habilidade especial de Yusuke?",
+    "o": ["Rei de energia espiritual (Rei de Espiritos)", "Manipulação de plantas", "Velocidade extrema", "Regeneração rápida"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o demoníaco com cabelo branco e habilidades rápidas?",
+    "o": ["Hiei", "Kurama", "Kuwabara", "Yusuke"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o demoníaco que usa poderes de plantas?",
+    "o": ["Kurama", "Hiei", "Yusuke", "Kuwabara"],
+    "a": 0
+  },
+  {
+    "q": "Quem guia Yusuke no Mundo Espiritual como filho de Rei Enma?",
+    "o": ["Koenma", "Genkai", "Botan", "Kurama"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a ceifadora de almas que ajuda Yusuke?",
+    "o": ["Botan", "Keiko", "Genkai", "Koenma"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o poder final de Yusuke contra Toguro?",
+    "o": ["Raio Espiritual (Spirit Gun)", "Velocidade de Demônio", "Controle de Plantas", "Ataque de Chamas"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o vilão da saga das Trevas que desafia Yusuke e Kuwabara?",
+    "o": ["Toguro", "Sensui", "Shishiwakamaru", "Mukuro"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem é conhecido por sua frieza e velocidade?",
+    "o": ["Hiei", "Kurama", "Kuwabara", "Yusuke"],
+    "a": 0
+  },
+  {
+    "q": "Quem se transforma em um demônio forte durante os torneios?",
+    "o": ["Yusuke", "Kurama", "Hiei", "Kuwabara"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o amigo inteligente e estratégico que usa plantas em combate?",
+    "o": ["Kurama", "Hiei", "Yusuke", "Kuwabara"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o pai espiritual de Yusuke no Mundo Espiritual?",
+    "o": ["Koenma", "Enma", "Genkai", "Toguro"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a amiga de infância e interesse amoroso de Yusuke?",
+    "o": ["Keiko Yukimura", "Botan", "Kurama", "Genkai"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o vilão principal da saga Sensui?",
+    "o": ["Shuichi Sensui", "Toguro", "Kurama", "Hiei"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem possui técnicas de espada espiritual?",
+    "o": ["Hiei", "Kurama", "Yusuke", "Kuwabara"],
+    "a": 0
+  },
+  {
+    "q": "Quem participa dos torneios de artes marciais do Mundo Espiritual?",
+    "o": ["Yusuke, Hiei, Kurama e Kuwabara", "Yusuke, Keiko e Botan", "Kurama e Toguro apenas", "Hiei e Genkai apenas"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o lutador com força bruta e espírito forte?",
+    "o": ["Kuwabara", "Hiei", "Kurama", "Yusuke"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o mestre que treina Yusuke e seus amigos para enfrentar inimigos fortes?",
+    "o": ["Genkai", "Koenma", "Botan", "Toguro"],
+    "a": 0
+  }
+]

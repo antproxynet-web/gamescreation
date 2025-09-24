@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quem é o protagonista de Death Note?",
+    "o": ["Light Yagami", "L Lawliet", "Ryuk", "Misa Amane"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o detetive famoso que tenta capturar Kira?",
+    "o": ["L", "Light Yagami", "Ryuk", "Near"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o Shinigami que deixa o Death Note cair na Terra?",
+    "o": ["Ryuk", "Rem", "Sidoh", "Shidoh"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a modelo e segunda usuária do Death Note?",
+    "o": ["Misa Amane", "Sayu Yagami", "Kiyomi Takada", "Near"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a regra principal do Death Note?",
+    "o": ["O nome da pessoa e seu rosto devem ser conhecidos", "Pode ressuscitar pessoas", "Muda a memória das pessoas", "Faz as pessoas se apaixonarem"],
+    "a": 0
+  },
+  {
+    "q": "Quem ajuda L a investigar Kira no início?",
+    "o": ["Watari", "Misa Amane", "Ryuk", "Light Yagami"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a primeira vítima de Light usando o Death Note?",
+    "o": ["Criminosos aleatórios", "L", "Watari", "Mello"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o sucessor de L depois de sua morte?",
+    "o": ["Near", "Mello", "Ryuk", "Light Yagami"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o objetivo de Light Yagami?",
+    "o": ["Criar um mundo sem crime", "Ficar rico", "Vingar sua família", "Ser famoso na escola"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o Shinigami que acompanha Misa?",
+    "o": ["Rem", "Ryuk", "Sidoh", "Shidoh"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a fraqueza do Death Note que L descobre?",
+    "o": ["Se perder memória, o usuário esquece o Death Note", "Pode ser destruído pelo fogo", "Não funciona em crianças", "Não funciona em criminosos"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a professora e segunda interessada por Light?",
+    "o": ["Kiyomi Takada", "Misa Amane", "Sayu Yagami", "Near"],
+    "a": 0
+  },
+  {
+    "q": "Quem são os dois sucessores de L?",
+    "o": ["Near e Mello", "Ryuk e Rem", "Light e Misa", "Watari e L"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a habilidade de um Shinigami?",
+    "o": ["Ver o nome e tempo de vida das pessoas", "Lutar com artes marciais", "Voar e teleportar", "Criar universos"],
+    "a": 0
+  },
+  {
+    "q": "Quem ajuda Near a capturar Kira?",
+    "o": ["Matt e outros da SPK", "Mello", "Ryuk", "Watari"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o verdadeiro nome de L?",
+    "o": ["L Lawliet", "Light Yagami", "Near", "Mello"],
+    "a": 0
+  },
+  {
+    "q": "Quem mata L no final da batalha do segundo Kira?",
+    "o": ["Light Yagami", "Near", "Ryuk", "Mello"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o Shinigami que observa Light até o fim?",
+    "o": ["Ryuk", "Rem", "Sidoh", "Shidoh"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a forma final de justiça de Light?",
+    "o": ["Ser Kira", "Virar detetive", "Virar Shinigami", "Fugir do mundo"],
+    "a": 0
+  },
+  {
+    "q": "Quem herda o Death Note depois da morte de Light?",
+    "o": ["Ryuk retira o Death Note", "Misa Amane", "Near", "Mello"],
+    "a": 0
+  }
+]

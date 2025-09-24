@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que é magnetismo?",
+    "o": ["Fenômeno associado a imãs e correntes elétricas", "Energia de movimento", "Força gravitacional", "Energia elétrica"],
+    "a": 0
+  },
+  {
+    "q": "O que é um ímã?",
+    "o": ["Objeto que atrai certos materiais como ferro e níquel", "Objeto que gera eletricidade", "Objeto que resiste à gravidade", "Objeto que armazena energia térmica"],
+    "a": 0
+  },
+  {
+    "q": "Quais são os polos de um ímã?",
+    "o": ["Norte e Sul", "Leste e Oeste", "Positivo e Negativo", "Cima e Baixo"],
+    "a": 0
+  },
+  {
+    "q": "O que afirma a lei dos polos magnéticos?",
+    "o": ["Polos iguais se repelem e polos opostos se atraem", "Polos iguais se atraem e polos opostos se repelem", "Todos os polos se repelem", "Todos os polos se atraem"],
+    "a": 0
+  },
+  {
+    "q": "O que é campo magnético?",
+    "o": ["Região ao redor de um ímã onde a força magnética é detectável", "Área com energia elétrica", "Área com força gravitacional", "Área de movimento retilíneo"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a unidade de campo magnético no SI?",
+    "o": ["Tesla (T)", "Ampere (A)", "Volt (V)", "Ohm (Ω)"],
+    "a": 0
+  },
+  {
+    "q": "O que é força magnética?",
+    "o": ["Força exercida por um campo magnético sobre cargas ou correntes", "Força de atrito", "Força gravitacional", "Força de tensão elétrica"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a regra da mão direita?",
+    "o": ["Determina a direção da força magnética sobre uma carga em movimento", "Determina a direção da força gravitacional", "Determina a velocidade de um corpo", "Determina a resistência elétrica"],
+    "a": 0
+  },
+  {
+    "q": "O que é eletromagnetismo?",
+    "o": ["Estudo da relação entre eletricidade e magnetismo", "Estudo de movimento retilíneo", "Estudo da gravidade", "Estudo de energia térmica"],
+    "a": 0
+  },
+  {
+    "q": "O que é um solenoide?",
+    "o": ["Bobina de fio que gera campo magnético quando percorrida por corrente", "Resistor que armazena energia", "Capacitor elétrico", "Ímã permanente"],
+    "a": 0
+  },
+  {
+    "q": "O que é um eletroímã?",
+    "o": ["Dispositivo que gera magnetismo quando a corrente elétrica passa por ele", "Ímã permanente", "Resistor condutor", "Fonte de energia elétrica"],
+    "a": 0
+  },
+  {
+    "q": "O que é indução magnética?",
+    "o": ["Geração de corrente elétrica em um condutor devido à variação do campo magnético", "Atração entre ímãs", "Resistência elétrica de um fio", "Aceleração de partículas"],
+    "a": 0
+  },
+  {
+    "q": "O que é fluxo magnético?",
+    "o": ["Quantidade de linhas de campo magnético que atravessam uma superfície", "Energia armazenada em um capacitor", "Força de atrito", "Velocidade de uma carga"],
+    "a": 0
+  },
+  {
+    "q": "O que é Lei de Faraday?",
+    "o": ["A variação do fluxo magnético induz uma força eletromotriz", "Polos iguais se repelem", "Força = massa × aceleração", "Energia total se conserva"],
+    "a": 0
+  },
+  {
+    "q": "O que é Lei de Lenz?",
+    "o": ["A corrente induzida cria um campo magnético que se opõe à mudança do fluxo", "A corrente é sempre constante", "Polos iguais se repelem", "Energia potencial é zero"],
+    "a": 0
+  },
+  {
+    "q": "O que é magnetização?",
+    "o": ["Processo de tornar um material magnético", "Movimento de partículas elétricas", "Resistência elétrica de um fio", "Aceleração centrípeta"],
+    "a": 0
+  },
+  {
+    "q": "O que é a Terra em termos de magnetismo?",
+    "o": ["Um grande ímã com polos magnéticos Norte e Sul", "Fonte de corrente elétrica", "Resistor gigante", "Campo elétrico constante"],
+    "a": 0
+  },
+  {
+    "q": "O que é força de Lorentz?",
+    "o": ["Força sobre uma carga em movimento em um campo magnético", "Força de gravidade", "Força de atrito", "Força de tensão elétrica"],
+    "a": 0
+  },
+  {
+    "q": "O que é imã permanente?",
+    "o": ["Ímã que mantém seu magnetismo sem corrente elétrica", "Ímã que depende de corrente elétrica", "Resistor magnético", "Fonte de energia"],
+    "a": 0
+  },
+  {
+    "q": "O que acontece quando aproximamos polos iguais de dois ímãs?",
+    "o": ["Eles se repelem", "Eles se atraem", "Eles não interagem", "Eles se fundem"],
+    "a": 0
+  }
+]

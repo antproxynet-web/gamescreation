@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual evento marcou a saída do povo de Israel do Egito?",
+    "o": ["Êxodo", "Criação", "Dilúvio", "Queda de Jericó"],
+    "a": 0
+  },
+  {
+    "q": "Qual rei uniu as tribos de Israel e construiu o Templo em Jerusalém?",
+    "o": ["Salomão", "Davi", "Saul", "Josias"],
+    "a": 0
+  },
+  {
+    "q": "Qual evento destruiu Sodoma e Gomorra?",
+    "o": ["Fogo e enxofre", "Dilúvio", "Queda da Torre", "Praga no Egito"],
+    "a": 0
+  },
+  {
+    "q": "Quem conduziu os israelitas na conquista da Terra Prometida?",
+    "o": ["Josué", "Moisés", "Gideão", "Sansão"],
+    "a": 0
+  },
+  {
+    "q": "Qual evento separou as águas do Mar Vermelho para os israelitas atravessarem?",
+    "o": ["Milagre de Moisés", "Dilúvio", "Partida de Jericó", "Milagre de Elias"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi lançado na cova dos leões e sobreviveu por intervenção divina?",
+    "o": ["Daniel", "Elias", "Jeremias", "José"],
+    "a": 0
+  },
+  {
+    "q": "Qual evento marcou a destruição do Templo de Salomão por Nabucodonosor?",
+    "o": ["Exílio Babilônico", "Êxodo", "Queda de Jericó", "Cativeiro Egípcio"],
+    "a": 0
+  },
+  {
+    "q": "Qual profeta foi engolido por um grande peixe?",
+    "o": ["Jonas", "Elias", "Jeremias", "Daniel"],
+    "a": 0
+  },
+  {
+    "q": "Qual evento histórico foi comemorado como a Páscoa pelos judeus?",
+    "o": ["Êxodo do Egito", "Queda de Jericó", "Nascimento de Jesus", "Dilúvio"],
+    "a": 0
+  },
+  {
+    "q": "Quem interpretou os sonhos do faraó e salvou o Egito da fome?",
+    "o": ["José", "Moisés", "Daniel", "Elias"],
+    "a": 0
+  },
+  {
+    "q": "Qual rei foi conhecido por derrotar Golias com uma funda?",
+    "o": ["Davi", "Saul", "Salomão", "Josué"],
+    "a": 0
+  },
+  {
+    "q": "Qual evento histórico resultou na divisão do reino de Israel em Norte e Sul?",
+    "o": ["Morte de Salomão", "Êxodo", "Conquista de Canaã", "Exílio Babilônico"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o profeta que desafiou os profetas de Baal no Monte Carmelo?",
+    "o": ["Elias", "Isaías", "Jeremias", "Daniel"],
+    "a": 0
+  },
+  {
+    "q": "Qual evento marcou a construção da Arca de Noé?",
+    "o": ["Dilúvio", "Êxodo", "Cativeiro Babilônico", "Partida de Jericó"],
+    "a": 0
+  },
+  {
+    "q": "Qual evento histórico marcou a queda da cidade de Jericó?",
+    "o": ["Trombetas e muralhas", "Dilúvio", "Êxodo", "Exílio Babilônico"],
+    "a": 0
+  },
+  {
+    "q": "Quem liderou o povo após a morte de Moisés?",
+    "o": ["Josué", "Arão", "Calebe", "Gideão"],
+    "a": 0
+  },
+  {
+    "q": "Qual evento histórico marcou o nascimento de Jesus?",
+    "o": ["Natividade em Belém", "Fuga para o Egito", "Batismo no Jordão", "Ressurreição de Lázaro"],
+    "a": 0
+  },
+  {
+    "q": "Qual evento histórico marcou a crucificação e ressurreição de Jesus?",
+    "o": ["Paixão e Ressurreição", "Batismo", "Natividade", "Última Ceia"],
+    "a": 0
+  },
+  {
+    "q": "Qual evento histórico resultou na descida do Espírito Santo sobre os apóstolos?",
+    "o": ["Pentecostes", "Ressurreição", "Batismo", "Transfiguração"],
+    "a": 0
+  },
+  {
+    "q": "Qual evento histórico marcou a conversão de Saulo em Paulo?",
+    "o": ["Caminho de Damasco", "Pentecostes", "Batismo", "Milagre no Jordão"],
+    "a": 0
+  }
+]

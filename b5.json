@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual é o primeiro livro da Bíblia?",
+    "o": ["Gênesis", "Êxodo", "Levítico", "Números"],
+    "a": 0
+  },
+  {
+    "q": "Qual livro narra a saída do povo de Israel do Egito?",
+    "o": ["Êxodo", "Gênesis", "Deuteronômio", "Josué"],
+    "a": 0
+  },
+  {
+    "q": "Em qual livro encontramos os Dez Mandamentos?",
+    "o": ["Êxodo", "Levítico", "Números", "Deuteronômio"],
+    "a": 0
+  },
+  {
+    "q": "Qual livro relata a criação do mundo e a história dos patriarcas?",
+    "o": ["Gênesis", "Êxodo", "Salmos", "Levítico"],
+    "a": 0
+  },
+  {
+    "q": "Qual livro contém cânticos e poemas de louvor a Deus?",
+    "o": ["Salmos", "Provérbios", "Eclesiastes", "Isaías"],
+    "a": 0
+  },
+  {
+    "q": "Qual livro é conhecido por prover sabedoria prática para a vida?",
+    "o": ["Provérbios", "Salmos", "Gênesis", "Josué"],
+    "a": 0
+  },
+  {
+    "q": "Qual livro relata a história de Daniel na Babilônia?",
+    "o": ["Daniel", "Ezequiel", "Jeremias", "Isaías"],
+    "a": 0
+  },
+  {
+    "q": "Qual livro descreve o retorno dos judeus do exílio na Babilônia?",
+    "o": ["Esdras", "Neemias", "Ester", "Daniel"],
+    "a": 0
+  },
+  {
+    "q": "Qual livro é conhecido por narrar a história de Ester e sua coragem?",
+    "o": ["Ester", "Rute", "Daniel", "Josué"],
+    "a": 0
+  },
+  {
+    "q": "Qual livro descreve a conquista de Canaã pelo povo de Israel?",
+    "o": ["Josué", "Juízes", "Êxodo", "Números"],
+    "a": 0
+  },
+  {
+    "q": "Qual livro contém a história de Rute e sua lealdade?",
+    "o": ["Rute", "Ester", "Judite", "Neemias"],
+    "a": 0
+  },
+  {
+    "q": "Qual livro contém profecias sobre o Messias e a salvação de Israel?",
+    "o": ["Isaías", "Jeremias", "Ezequiel", "Daniel"],
+    "a": 0
+  },
+  {
+    "q": "Qual livro é conhecido por suas profecias sobre a destruição de Jerusalém?",
+    "o": ["Jeremias", "Isaías", "Daniel", "Amós"],
+    "a": 0
+  },
+  {
+    "q": "Qual livro contém visões apocalípticas e profecias sobre o futuro?",
+    "o": ["Daniel", "Ezequiel", "Joel", "Amós"],
+    "a": 0
+  },
+  {
+    "q": "Qual livro narra a história de Gideão, Débora e Sansão?",
+    "o": ["Juízes", "Josué", "Rute", "1 Samuel"],
+    "a": 0
+  },
+  {
+    "q": "Qual livro é o segundo dos livros históricos e narra a administração de Esdras?",
+    "o": ["Neemias", "Esdras", "Ester", "Josué"],
+    "a": 0
+  },
+  {
+    "q": "Qual livro contém reflexões sobre a vida e a futilidade das coisas humanas?",
+    "o": ["Eclesiastes", "Provérbios", "Salmos", "Cantares"],
+    "a": 0
+  },
+  {
+    "q": "Qual livro é um diálogo poético de amor entre dois personagens?",
+    "o": ["Cantares", "Salmos", "Eclesiastes", "Rute"],
+    "a": 0
+  },
+  {
+    "q": "Qual livro do Antigo Testamento relata a história de Samuel e o início da monarquia?",
+    "o": ["1 Samuel", "2 Samuel", "Juízes", "1 Reis"],
+    "a": 0
+  },
+  {
+    "q": "Qual livro relata os atos e milagres de Elias e Eliseu?",
+    "o": ["1 Reis", "2 Reis", "1 Crônicas", "2 Crônicas"],
+    "a": 0
+  }
+]

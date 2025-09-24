@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quem é o protagonista de Hunter x Hunter?",
+    "o": ["Gon Freecss", "Killua Zoldyck", "Kurapika", "Leorio Paradinight"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o melhor amigo de Gon e membro da família de assassinos?",
+    "o": ["Killua Zoldyck", "Leorio Paradinight", "Kurapika", "Hisoka"],
+    "a": 0
+  },
+  {
+    "q": "Quem busca vingança contra a Trupe Fantasma por matar sua família?",
+    "o": ["Kurapika", "Gon Freecss", "Leorio Paradinight", "Killua Zoldyck"],
+    "a": 0
+  },
+  {
+    "q": "Quem deseja se tornar médico e ajudar as pessoas?",
+    "o": ["Leorio Paradinight", "Gon Freecss", "Killua Zoldyck", "Kurapika"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o objetivo de Gon no início da série?",
+    "o": ["Encontrar seu pai, Ging Freecss", "Derrotar Hisoka", "Tornar-se presidente da Associação Hunter", "Capturar a Trupe Fantasma"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o antagonista brincalhão e perigoso que luta com cartas e força física?",
+    "o": ["Hisoka", "Illumi Zoldyck", "Chrollo Lucilfer", "Meruem"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o líder da Trupe Fantasma?",
+    "o": ["Chrollo Lucilfer", "Hisoka", "Illumi Zoldyck", "Meruem"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o rei das formigas quimera?",
+    "o": ["Meruem", "Gon Freecss", "Killua Zoldyck", "Chrollo Lucilfer"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a habilidade de Gon baseada em Nen?",
+    "o": ["Enhancer (Aprimorador)", "Manipulator (Manipulador)", "Emitter (Emissor)", "Conjurer (Conjurador)"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o mestre de Killua e membro da família assassina?",
+    "o": ["Illumi Zoldyck", "Gon Freecss", "Leorio Paradinight", "Hisoka"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o tipo de Nen de Kurapika?",
+    "o": ["Conjurador especial", "Emissor", "Transformador", "Especializador"],
+    "a": 0
+  },
+  {
+    "q": "Quem ajuda Gon e Killua a passar no exame Hunter?",
+    "o": ["Biscuit Krueger", "Kurapika", "Leorio Paradinight", "Hisoka"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o antagonista que controla a Trupe Fantasma com habilidade de roubo de Nen?",
+    "o": ["Chrollo Lucilfer", "Hisoka", "Illumi Zoldyck", "Meruem"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a habilidade de Killua baseada em eletricidade?",
+    "o": ["Transmutação para eletricidade", "Emissão de fogo", "Manipulação de sombras", "Conjuração de armas"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o rei das formigas quimera que possui uma força imensa e inteligência?",
+    "o": ["Meruem", "Gon Freecss", "Killua Zoldyck", "Chrollo Lucilfer"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a amiga de Kurapika que ajuda na missão de vingança?",
+    "o": ["Leorio Paradinight", "Gon Freecss", "Killua Zoldyck", "Biscuit Krueger"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o assassino profissional que atua em conjunto com Killua às vezes?",
+    "o": ["Illumi Zoldyck", "Hisoka", "Chrollo Lucilfer", "Leorio Paradinight"],
+    "a": 0
+  },
+  {
+    "q": "Quem treina Gon e Killua na Ilha Greed?",
+    "o": ["Biscuit Krueger", "Kurapika", "Leorio Paradinight", "Hisoka"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o vilão com habilidade de manipular cartas afiadas?",
+    "o": ["Hisoka", "Chrollo Lucilfer", "Illumi Zoldyck", "Meruem"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o antagonista final da saga das Formigas Quimera?",
+    "o": ["Meruem", "Chrollo Lucilfer", "Hisoka", "Illumi Zoldyck"],
+    "a": 0
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quem é o protagonista principal de Dragon Ball Z?",
+    "o": ["Goku", "Vegeta", "Gohan", "Piccolo"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a raça de Goku?",
+    "o": ["Saiyajin", "Terráqueo", "Namekuseijin", "Androide"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o príncipe dos Saiyajins?",
+    "o": ["Vegeta", "Goku", "Gohan", "Trunks"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o ataque mais famoso de Goku?",
+    "o": ["Kamehameha", "Final Flash", "Galick Gun", "Masenko"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o vilão principal da saga Saiyajin?",
+    "o": ["Vegeta", "Frieza", "Cell", "Majin Buu"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a forma mais poderosa de Goku em Dragon Ball Z?",
+    "o": ["Super Saiyajin 3", "Super Saiyajin 2", "Super Saiyajin 4", "Ultra Instinct"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o vilão que destrói planetas e é o maior inimigo de Goku e Vegeta?",
+    "o": ["Frieza", "Cell", "Majin Buu", "Raditz"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a primeira fusão entre Goku e Vegeta?",
+    "o": ["Vegetto", "Gogeta", "Piccolo", "Trunks"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o filho mais velho de Goku?",
+    "o": ["Gohan", "Goten", "Trunks", "Pan"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o mestre de Goku que ensinou o Kamehameha?",
+    "o": ["Mestre Kame", "Kami", "Dende", "Muten Roshi"],
+    "a": 0
+  },
+  {
+    "q": "Qual vilão absorve androides para se tornar perfeito?",
+    "o": ["Cell", "Frieza", "Majin Buu", "Raditz"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o vilão rosa que possui a habilidade de regeneração?",
+    "o": ["Majin Buu", "Cell", "Frieza", "Raditz"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome do filho de Vegeta?",
+    "o": ["Trunks", "Goten", "Gohan", "Pan"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o Namekuseijin que se torna aliado de Goku?",
+    "o": ["Piccolo", "Kami", "Dende", "Gohan"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a esfera do dragão com estrela única?",
+    "o": ["Dragon Ball 1 estrela", "Dragon Ball 2 estrelas", "Dragon Ball 7 estrelas", "Dragon Ball 3 estrelas"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o irmão de Goku que aparece no início de Dragon Ball Z?",
+    "o": ["Raditz", "Vegeta", "Gohan", "Trunks"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a técnica final de Vegeta contra Cell?",
+    "o": ["Final Flash", "Galick Gun", "Kamehameha", "Masenko"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a fusão de Goku e Vegeta usando os brincos Potara?",
+    "o": ["Vegetto", "Gogeta", "Trunks", "Gohan"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome da filha de Goku e Chi-Chi?",
+    "o": ["Pan", "Goten", "Videl", "Bra"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o vilão que foi ressuscitado com as esferas do dragão após sua derrota?",
+    "o": ["Frieza", "Cell", "Majin Buu", "Raditz"],
+    "a": 0
+  }
+]

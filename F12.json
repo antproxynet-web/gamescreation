@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual é o maior oceano do mundo?",
+    "o": ["Pacífico", "Atlântico", "Índico", "Ártico"],
+    "a": 0
+  },
+  {
+    "q": "Qual oceano banha as costas do Brasil?",
+    "o": ["Atlântico", "Pacífico", "Índico", "Ártico"],
+    "a": 0
+  },
+  {
+    "q": "Qual oceano está localizado entre África, Ásia e Austrália?",
+    "o": ["Índico", "Atlântico", "Pacífico", "Ártico"],
+    "a": 0
+  },
+  {
+    "q": "Qual oceano é o mais profundo do mundo?",
+    "o": ["Pacífico", "Atlântico", "Índico", "Ártico"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o menor oceano do mundo?",
+    "o": ["Ártico", "Atlântico", "Pacífico", "Índico"],
+    "a": 0
+  },
+  {
+    "q": "Qual oceano banha a costa leste dos Estados Unidos?",
+    "o": ["Atlântico", "Pacífico", "Índico", "Ártico"],
+    "a": 0
+  },
+  {
+    "q": "Qual oceano possui a Fossa das Marianas, o ponto mais profundo da Terra?",
+    "o": ["Pacífico", "Atlântico", "Índico", "Ártico"],
+    "a": 0
+  },
+  {
+    "q": "Qual oceano banha o Japão e a Austrália?",
+    "o": ["Pacífico", "Atlântico", "Índico", "Ártico"],
+    "a": 0
+  },
+  {
+    "q": "Qual oceano banha a costa oeste da África?",
+    "o": ["Atlântico", "Pacífico", "Índico", "Ártico"],
+    "a": 0
+  },
+  {
+    "q": "Qual oceano é conhecido por sua grande circulação de correntes chamadas 'Correntes de Humboldt' e 'Correntes do Pacífico Sul'?",
+    "o": ["Pacífico", "Atlântico", "Índico", "Ártico"],
+    "a": 0
+  },
+  {
+    "q": "Qual oceano banha o continente Antártico?",
+    "o": ["Antártico (ou Austral)", "Atlântico", "Pacífico", "Índico"],
+    "a": 0
+  },
+  {
+    "q": "Qual oceano está localizado ao norte da América do Norte e Europa?",
+    "o": ["Ártico", "Atlântico", "Pacífico", "Índico"],
+    "a": 0
+  },
+  {
+    "q": "Qual oceano banha a costa leste da África?",
+    "o": ["Índico", "Atlântico", "Pacífico", "Ártico"],
+    "a": 0
+  },
+  {
+    "q": "Qual oceano tem a maior quantidade de ilhas tropicais?",
+    "o": ["Pacífico", "Atlântico", "Índico", "Ártico"],
+    "a": 0
+  },
+  {
+    "q": "Qual oceano é atravessado pela Corrente do Golfo?",
+    "o": ["Atlântico", "Pacífico", "Índico", "Ártico"],
+    "a": 0
+  },
+  {
+    "q": "Qual oceano é conhecido por ter o Triângulo das Bermudas?",
+    "o": ["Atlântico", "Pacífico", "Índico", "Ártico"],
+    "a": 0
+  },
+  {
+    "q": "Qual oceano banha as Filipinas e Indonésia?",
+    "o": ["Pacífico", "Atlântico", "Índico", "Ártico"],
+    "a": 0
+  },
+  {
+    "q": "Qual oceano banha o sudoeste da Austrália?",
+    "o": ["Índico", "Pacífico", "Atlântico", "Ártico"],
+    "a": 0
+  },
+  {
+    "q": "Qual oceano tem temperaturas extremamente baixas, com presença de icebergs?",
+    "o": ["Ártico", "Pacífico", "Atlântico", "Índico"],
+    "a": 0
+  },
+  {
+    "q": "Qual oceano é atravessado pelo Círculo Polar Antártico?",
+    "o": ["Antártico (ou Austral)", "Atlântico", "Pacífico", "Índico"],
+    "a": 0
+  }
+]

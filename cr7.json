@@ -1,0 +1,107 @@
+[
+  {
+    "q": "Quem é a protagonista da minissérie 'A Grande Ilusão'?",
+    "o": ["Maya Stern", "Claire Walker", "Judith Burkett", "Nicole Butler"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a profissão de Maya Stern?",
+    "o": ["Ex-piloto de operações especiais", "Detetive particular", "Jornalista investigativa", "Agente da CIA"],
+    "a": 0
+  },
+  {
+    "q": "Quem interpreta o papel de Maya Stern?",
+    "o": ["Michelle Keegan", "Joanna Lumley", "Richard Armitage", "Adeel Akhtar"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o marido de Maya, supostamente assassinado?",
+    "o": ["Joe Burkett", "Sami Kierce", "Shane Tessier", "Marty McGregor"],
+    "a": 0
+  },
+  {
+    "q": "Quem interpreta o papel de Joe Burkett?",
+    "o": ["Richard Armitage", "Adeel Akhtar", "Emmett J. Scanlan", "Dino Fetscher"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o grande mistério da série?",
+    "o": ["Maya vê seu marido morto em uma câmera de segurança", "Maya descobre um tesouro escondido", "Maya é acusada de um crime que não cometeu", "Maya encontra uma carta misteriosa de seu marido"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a sogra de Maya, que desconfia dela?",
+    "o": ["Judith Burkett", "Nicole Butler", "Claire Walker", "Abby Walker"],
+    "a": 0
+  },
+  {
+    "q": "Quem interpreta o papel de Judith Burkett?",
+    "o": ["Joanna Lumley", "Michelle Keegan", "Richard Armitage", "Adeel Akhtar"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o detetive que investiga a morte de Joe?",
+    "o": ["Sami Kierce", "Marty McGregor", "Shane Tessier", "Emmett J. Scanlan"],
+    "a": 0
+  },
+  {
+    "q": "Quem interpreta o papel de Sami Kierce?",
+    "o": ["Adeel Akhtar", "Dino Fetscher", "Emmett J. Scanlan", "Richard Armitage"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a relação de Claire Walker com Maya?",
+    "o": ["Irmã", "Mãe", "Amiga de infância", "Colega de trabalho"],
+    "a": 0
+  },
+  {
+    "q": "Quem interpreta o papel de Claire Walker?",
+    "o": ["Natalie Anderson", "Danya Griver", "Marcus Garvey", "Emmett J. Scanlan"],
+    "a": 0
+  },
+  {
+    "q": "Quem é Shane Tessier?",
+    "o": ["Amigo de Maya", "Colega de trabalho de Joe", "Detetive particular", "Irmão de Claire"],
+    "a": 0
+  },
+  {
+    "q": "Quem interpreta o papel de Shane Tessier?",
+    "o": ["Emmett J. Scanlan", "Dino Fetscher", "Adeel Akhtar", "Richard Armitage"],
+    "a": 0
+  },
+  {
+    "q": "Quem é Marty McGregor?",
+    "o": ["Detetive que auxilia na investigação", "Amigo de infância de Maya", "Colega de trabalho de Joe", "Irmão de Shane"],
+    "a": 0
+  },
+  {
+    "q": "Quem interpreta o papel de Marty McGregor?",
+    "o": ["Dino Fetscher", "Adeel Akhtar", "Emmett J. Scanlan", "Richard Armitage"],
+    "a": 0
+  },
+  {
+    "q": "Onde a série 'A Grande Ilusão' está disponível para assistir?",
+    "o": ["Netflix", "Amazon Prime Video", "HBO Max", "Disney+"],
+    "a": 0
+  },
+  {
+    "q": "Quantos episódios tem a minissérie 'A Grande Ilusão'?",
+    "o": ["8", "10", "6", "12"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o tema central da série?",
+    "o": ["Mistério e conspiração", "Romance e drama", "Comédia e aventura", "Ficção científica e fantasia"],
+    "a": 0
+  },
+  {
+    "q": "Quem é Nicole Butler?",
+    "o": ["Colega de trabalho de Maya", "Amiga de infância de Joe", "Detetive particular", "Irmã de Shane"],
+    "a": 0
+  },
+  {
+    "q": "Quem interpreta o papel de Nicole Butler?",
+    "o": ["Jade Anouka", "Danya Griver", "Marcus Garvey", "Emmett J. Scanlan"],
+    "a": 0
+  }
+]

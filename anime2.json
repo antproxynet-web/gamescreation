@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quem é o protagonista de Naruto?",
+    "o": ["Naruto Uzumaki", "Sasuke Uchiha", "Kakashi Hatake", "Sakura Haruno"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o sonho de Naruto?",
+    "o": ["Tornar-se Hokage", "Derrotar Sasuke", "Aprender todos os jutsus", "Proteger o Japão"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o rival de Naruto desde a infância?",
+    "o": ["Sasuke Uchiha", "Kakashi", "Shikamaru", "Gaara"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a kunoichi do time 7 junto com Naruto e Sasuke?",
+    "o": ["Sakura Haruno", "Hinata Hyuga", "Tsunade", "Ino Yamanaka"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o sensei do time 7?",
+    "o": ["Kakashi Hatake", "Iruka Umino", "Might Guy", "Asuma Sarutobi"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a vila natal de Naruto?",
+    "o": ["Konohagakure", "Sunagakure", "Kirigakure", "Iwagakure"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a besta de cauda selada dentro de Naruto?",
+    "o": ["Kurama, a Raposa de Nove Caudas", "Shukaku, o Tanuki de Uma Cauda", "Gyuki, o Oito Caudas", "Matatabi, a Dois Caudas"],
+    "a": 0
+  },
+  {
+    "q": "Quem matou os pais de Sasuke?",
+    "o": ["Itachi Uchiha", "Orochimaru", "Madara Uchiha", "Kakashi Hatake"],
+    "a": 0
+  },
+  {
+    "q": "Quem se torna amigo de Naruto e é o jinchuriki de uma cauda?",
+    "o": ["Gaara", "Killer Bee", "Shukaku", "Yugito Nii"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a principal técnica de Naruto?",
+    "o": ["Rasengan", "Chidori", "Shadow Clone", "Fireball"],
+    "a": 0
+  },
+  {
+    "q": "Qual clã possui o Doujutsu Sharingan?",
+    "o": ["Uchiha", "Hyuga", "Senju", "Akimichi"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o Hokage que lidera a vila durante a infância de Naruto?",
+    "o": ["Hiruzen Sarutobi", "Minato Namikaze", "Tsunade", "Hashirama Senju"],
+    "a": 0
+  },
+  {
+    "q": "Quem treina Naruto para dominar o Rasengan?",
+    "o": ["Jiraiya", "Kakashi", "Iruka", "Orochimaru"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome da equipe que inclui Naruto, Sasuke e Sakura?",
+    "o": ["Time 7", "Time 10", "Time Guy", "Time Kakashi"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o vilão principal da primeira parte de Naruto?",
+    "o": ["Orochimaru", "Pain", "Madara", "Zabuza"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a arma de escolha de Kakashi?",
+    "o": ["Chidori", "Rasengan", "Kunai", "Shuriken"],
+    "a": 0
+  },
+  {
+    "q": "Quem se torna amigo e rival de Naruto durante os exames Chunin?",
+    "o": ["Neji Hyuga", "Rock Lee", "Shikamaru", "Kiba Inuzuka"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a técnica do clã Hyuga?",
+    "o": ["Byakugan", "Sharingan", "Rinnegan", "Mangekyou"],
+    "a": 0
+  },
+  {
+    "q": "Quem salva Naruto do ataque de Zabuza na ponte?",
+    "o": ["Kakashi Hatake", "Sasuke", "Sakura", "Jiraiya"],
+    "a": 0
+  },
+  {
+    "q": "Qual animal aparece como invocação de Jiraiya?",
+    "o": ["Sapos", "Cobras", "Gatos", "Cães"],
+    "a": 0
+  }
+]

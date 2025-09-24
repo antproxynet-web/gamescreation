@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que é energia?",
+    "o": ["A capacidade de realizar trabalho", "A força aplicada", "A massa de um corpo", "A velocidade de um objeto"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a unidade de energia no Sistema Internacional?",
+    "o": ["Joule (J)", "Newton (N)", "Watt (W)", "Pascal (Pa)"],
+    "a": 0
+  },
+  {
+    "q": "O que é energia cinética?",
+    "o": ["Energia armazenada devido à posição", "Energia de movimento de um corpo", "Energia elétrica", "Energia térmica"],
+    "a": 1
+  },
+  {
+    "q": "Qual é a fórmula da energia cinética?",
+    "o": ["E_c = m × v", "E_c = 1/2 × m × v²", "E_c = m × g × h", "E_c = F × d"],
+    "a": 1
+  },
+  {
+    "q": "O que é energia potencial gravitacional?",
+    "o": ["Energia armazenada devido à altura de um corpo", "Energia de movimento de um corpo", "Energia térmica", "Energia elétrica"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a fórmula da energia potencial gravitacional?",
+    "o": ["E_p = m × g × h", "E_p = 1/2 × m × v²", "E_p = F × d", "E_p = m × v"],
+    "a": 0
+  },
+  {
+    "q": "O que é energia mecânica?",
+    "o": ["Soma da energia cinética e potencial", "Energia térmica", "Energia elétrica", "Energia nuclear"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a lei da conservação da energia?",
+    "o": ["Energia total de um sistema isolado se mantém constante", "Energia pode ser criada a qualquer momento", "Energia sempre se transforma em massa", "Energia térmica é sempre zero"],
+    "a": 0
+  },
+  {
+    "q": "O que é energia térmica?",
+    "o": ["Energia associada ao movimento das partículas de um corpo", "Energia armazenada em uma mola", "Energia de movimento de um corpo", "Energia elétrica"],
+    "a": 0
+  },
+  {
+    "q": "O que é energia elétrica?",
+    "o": ["Energia associada ao movimento de cargas elétricas", "Energia do Sol", "Energia de movimento de um corpo", "Energia térmica"],
+    "a": 0
+  },
+  {
+    "q": "O que é energia química?",
+    "o": ["Energia armazenada nas ligações químicas", "Energia de movimento de um corpo", "Energia elétrica", "Energia térmica"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a relação entre trabalho e energia?",
+    "o": ["O trabalho realizado sobre um corpo aumenta sua energia", "Trabalho e energia não estão relacionados", "Energia é sempre maior que o trabalho", "Energia é sempre menor que o trabalho"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a unidade de potência no Sistema Internacional?",
+    "o": ["Watt (W)", "Joule (J)", "Newton (N)", "Pascal (Pa)"],
+    "a": 0
+  },
+  {
+    "q": "O que é potência?",
+    "o": ["Taxa de realização de trabalho ou transferência de energia", "Energia armazenada", "Força aplicada", "Velocidade de um corpo"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a fórmula da potência média?",
+    "o": ["P = W / t", "P = F × d", "P = m × a", "P = E × v"],
+    "a": 0
+  },
+  {
+    "q": "O que é energia nuclear?",
+    "o": ["Energia liberada nas reações nucleares", "Energia de movimento de um corpo", "Energia térmica", "Energia elétrica"],
+    "a": 0
+  },
+  {
+    "q": "O que é energia renovável?",
+    "o": ["Energia obtida de fontes que se regeneram naturalmente", "Energia nuclear", "Energia de combustíveis fósseis", "Energia térmica"],
+    "a": 0
+  },
+  {
+    "q": "O que é energia não renovável?",
+    "o": ["Energia de fontes finitas que podem se esgotar", "Energia solar", "Energia eólica", "Energia hidrelétrica"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a energia armazenada em uma mola comprimida ou esticada?",
+    "o": ["Energia cinética", "Energia potencial elástica", "Energia térmica", "Energia elétrica"],
+    "a": 1
+  },
+  {
+    "q": "Qual é a energia associada ao movimento de ondas, como som ou luz?",
+    "o": ["Energia cinética", "Energia radiante", "Energia elétrica", "Energia térmica"],
+    "a": 1
+  }
+]

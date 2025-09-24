@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual é a montanha mais alta do mundo?",
+    "o": ["Everest", "K2", "Kangchenjunga", "Lhotse"],
+    "a": 0
+  },
+  {
+    "q": "Em qual país está localizado o Monte Fuji?",
+    "o": ["Japão", "China", "Coreia do Sul", "Nepal"],
+    "a": 0
+  },
+  {
+    "q": "Qual montanha é famosa por sua forma de pirâmide no Himalaia?",
+    "o": ["K2", "Everest", "Makalu", "Annapurna"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a montanha mais alta da América do Sul?",
+    "o": ["Aconcágua", "Huascarán", "Ojos del Salado", "Pico Bolívar"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a montanha mais alta da África?",
+    "o": ["Kilimanjaro", "Mount Kenya", "Ras Dashen", "Atlas"],
+    "a": 0
+  },
+  {
+    "q": "Qual montanha é considerada sagrada para os tibetanos?",
+    "o": ["Kailash", "Everest", "Annapurna", "Makalu"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a montanha mais alta da Europa?",
+    "o": ["Elbrus", "Matterhorn", "Mont Blanc", "Grossglockner"],
+    "a": 0
+  },
+  {
+    "q": "Em qual cordilheira está o Monte Denali?",
+    "o": ["Alasca", "Himalaia", "Andes", "Alpes"],
+    "a": 0
+  },
+  {
+    "q": "Qual montanha famosa está localizada na Suíça?",
+    "o": ["Matterhorn", "Monte Rosa", "Eiger", "Jungfrau"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a montanha mais alta da Oceania?",
+    "o": ["Puncak Jaya", "Mount Kosciuszko", "Mount Wilhelm", "Mount Cook"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a montanha mais alta do Himalaia depois do Everest?",
+    "o": ["K2", "Kangchenjunga", "Lhotse", "Makalu"],
+    "a": 0
+  },
+  {
+    "q": "Qual montanha é famosa pelo nome de 'Montanha da Mesa'?",
+    "o": ["Table Mountain", "Kilimanjaro", "Mount Fuji", "Matterhorn"],
+    "a": 0
+  },
+  {
+    "q": "Qual montanha é considerada símbolo do Nepal?",
+    "o": ["Everest", "Annapurna", "Makalu", "Dhaulagiri"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a montanha mais alta do Canadá?",
+    "o": ["Mount Logan", "Mount Robson", "Mount Saint Elias", "Mount Waddington"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a montanha mais famosa da Itália?",
+    "o": ["Monte Bianco (Mont Blanc)", "Matterhorn", "Gran Paradiso", "Monte Rosa"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a montanha mais alta da Índia?",
+    "o": ["Kangchenjunga", "Nanda Devi", "Kamet", "Saltoro Kangri"],
+    "a": 0
+  },
+  {
+    "q": "Qual montanha está localizada entre o Nepal e a China?",
+    "o": ["Everest", "K2", "Lhotse", "Cho Oyu"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a montanha mais famosa da África do Sul?",
+    "o": ["Table Mountain", "Drakensberg", "Cederberg", "Sani Pass"],
+    "a": 0
+  },
+  {
+    "q": "Qual montanha é conhecida como 'Montanha da Morte'?",
+    "o": ["Annapurna", "Everest", "K2", "Kangchenjunga"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a montanha mais alta da Nova Zelândia?",
+    "o": ["Mount Cook", "Mount Tasman", "Mount Ruapehu", "Mount Taranaki"],
+    "a": 0
+  }
+]

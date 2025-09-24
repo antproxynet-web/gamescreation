@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quem recebeu a visão do Apocalipse?",
+    "o": ["João", "Pedro", "Paulo", "Moisés"],
+    "a": 0
+  },
+  {
+    "q": "Em qual ilha João recebeu a visão do Apocalipse?",
+    "o": ["Patmos", "Creta", "Chipre", "Rodes"],
+    "a": 0
+  },
+  {
+    "q": "Quantas igrejas João escreveu na visão do Apocalipse?",
+    "o": ["Sete", "Cinco", "Doze", "Três"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o símbolo que representa o fim dos tempos no Apocalipse?",
+    "o": ["O Cordeiro", "A Serpente", "O Arco-íris", "A Estrela"],
+    "a": 0
+  },
+  {
+    "q": "Quantos selos foram abertos pelo Cordeiro?",
+    "o": ["Sete selos", "Dois selos", "Doze selos", "Cinco selos"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o número da Besta mencionado no Apocalipse?",
+    "o": ["666", "777", "555", "999"],
+    "a": 0
+  },
+  {
+    "q": "Quantos anjos tocaram trombetas durante as visões do Apocalipse?",
+    "o": ["Sete", "Doze", "Cinco", "Três"],
+    "a": 0
+  },
+  {
+    "q": "Qual cidade é chamada de Babilônia no Apocalipse?",
+    "o": ["Símbolo da corrupção e maldade", "Jerusalém", "Roma", "Nínive"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o livro do Apocalipse que descreve o Livro da Vida?",
+    "o": ["O Apocalipse", "Gênesis", "Daniel", "Ezequiel"],
+    "a": 0
+  },
+  {
+    "q": "Quem é chamado de Cordeiro de Deus no Apocalipse?",
+    "o": ["Jesus Cristo", "João", "Moisés", "Paulo"],
+    "a": 0
+  },
+  {
+    "q": "Quantas taças da ira de Deus foram derramadas?",
+    "o": ["Sete", "Três", "Cinco", "Doze"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a cor do cavalo do cavaleiro da fome?",
+    "o": ["Preto", "Vermelho", "Branco", "Verde"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a cidade celestial mencionada no Apocalipse?",
+    "o": ["Nova Jerusalém", "Babilônia", "Jerusalém antiga", "Roma"],
+    "a": 0
+  },
+  {
+    "q": "Quantos anjos anunciaram o juízo final?",
+    "o": ["Sete", "Doze", "Cinco", "Três"],
+    "a": 0
+  },
+  {
+    "q": "Quem vencerá a Besta segundo o Apocalipse?",
+    "o": ["O Cordeiro e os fiéis", "O profeta", "O anjo Miguel", "O imperador"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o significado do número 144.000 mencionado no Apocalipse?",
+    "o": ["Servos selados de Deus", "Inimigos de Deus", "Anjos guerreiros", "Profetas do fim"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o último julgamento mencionado no Apocalipse?",
+    "o": ["Juízo Final", "Dilúvio", "Queda de Babel", "Exílio no Egito"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o destino da morte no Apocalipse?",
+    "o": ["Será lançada no lago de fogo", "Seria destruída por anjos", "Seria levada para o céu", "Seria enterrada"],
+    "a": 0
+  },
+  {
+    "q": "Qual profeta do Antigo Testamento é mencionado como referência no Apocalipse?",
+    "o": ["Ezequiel", "Daniel", "Isaías", "Jeremias"],
+    "a": 0
+  },
+  {
+    "q": "O que desce do céu para os fiéis no final do Apocalipse?",
+    "o": ["Nova Jerusalém", "Arca da Aliança", "Estrela de Davi", "Monte Sinai"],
+    "a": 0
+  }
+]

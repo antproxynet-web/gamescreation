@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual é a parábola sobre um filho que desperdiçou a herança e depois voltou arrependido?",
+    "o": ["Parábola do Filho Pródigo", "Parábola do Semeador", "Parábola das Dez Virgens", "Parábola do Bom Samaritano"],
+    "a": 0
+  },
+  {
+    "q": "Qual parábola ensina sobre ajudar o próximo sem esperar recompensa?",
+    "o": ["Parábola do Bom Samaritano", "Parábola do Tesouro Escondido", "Parábola do Semeador", "Parábola do Joio e Trigo"],
+    "a": 0
+  },
+  {
+    "q": "Qual parábola fala sobre sementes lançadas em diferentes tipos de solo?",
+    "o": ["Parábola do Semeador", "Parábola do Filho Pródigo", "Parábola das Dez Virgens", "Parábola do Bom Samaritano"],
+    "a": 0
+  },
+  {
+    "q": "Qual parábola fala sobre o reino de Deus sendo como um tesouro escondido?",
+    "o": ["Parábola do Tesouro Escondido", "Parábola do Semeador", "Parábola do Joio e Trigo", "Parábola do Filho Pródigo"],
+    "a": 0
+  },
+  {
+    "q": "Qual parábola fala sobre dez virgens esperando o noivo?",
+    "o": ["Parábola das Dez Virgens", "Parábola do Bom Samaritano", "Parábola do Tesouro Escondido", "Parábola do Semeador"],
+    "a": 0
+  },
+  {
+    "q": "Qual parábola ensina sobre a importância do perdão?",
+    "o": ["Parábola do Credor Incompassivo", "Parábola das Dez Virgens", "Parábola do Bom Samaritano", "Parábola do Semeador"],
+    "a": 0
+  },
+  {
+    "q": "Qual ensinamento ensina a tratar os outros como queremos ser tratados?",
+    "o": ["Regra de Ouro", "Parábola do Semeador", "Parábola do Tesouro Escondido", "Parábola do Filho Pródigo"],
+    "a": 0
+  },
+  {
+    "q": "Qual parábola mostra que o reino de Deus é como uma rede cheia de peixes bons e ruins?",
+    "o": ["Parábola da Rede", "Parábola do Tesouro Escondido", "Parábola do Bom Samaritano", "Parábola do Filho Pródigo"],
+    "a": 0
+  },
+  {
+    "q": "Qual parábola ensina sobre a importância de usar bem os talentos recebidos?",
+    "o": ["Parábola dos Talentos", "Parábola do Semeador", "Parábola das Dez Virgens", "Parábola do Bom Samaritano"],
+    "a": 0
+  },
+  {
+    "q": "Qual parábola fala sobre um fazendeiro que planta trigo e joio juntos?",
+    "o": ["Parábola do Joio e Trigo", "Parábola do Bom Samaritano", "Parábola do Tesouro Escondido", "Parábola do Filho Pródigo"],
+    "a": 0
+  },
+  {
+    "q": "Qual parábola mostra que a fé, mesmo pequena, pode realizar grandes coisas?",
+    "o": ["Parábola do Grão de Mostarda", "Parábola do Semeador", "Parábola das Dez Virgens", "Parábola do Tesouro Escondido"],
+    "a": 0
+  },
+  {
+    "q": "Qual ensinamento fala sobre amar a Deus sobre todas as coisas e ao próximo como a si mesmo?",
+    "o": ["Maior Mandamento", "Parábola do Semeador", "Parábola do Tesouro Escondido", "Parábola do Filho Pródigo"],
+    "a": 0
+  },
+  {
+    "q": "Qual parábola fala sobre o trabalhador que recebeu a mesma recompensa mesmo chegando tarde ao serviço?",
+    "o": ["Parábola dos Trabalhadores na Vinha", "Parábola do Semeador", "Parábola do Bom Samaritano", "Parábola do Filho Pródigo"],
+    "a": 0
+  },
+  {
+    "q": "Qual parábola ensina que devemos buscar o reino de Deus antes de tudo?",
+    "o": ["Parábola do Tesouro Escondido", "Parábola das Dez Virgens", "Parábola do Bom Samaritano", "Parábola do Filho Pródigo"],
+    "a": 0
+  },
+  {
+    "q": "Qual parábola mostra que devemos perdoar os outros assim como Deus nos perdoa?",
+    "o": ["Parábola do Credor Incompassivo", "Parábola do Bom Samaritano", "Parábola do Semeador", "Parábola do Tesouro Escondido"],
+    "a": 0
+  },
+  {
+    "q": "Qual parábola fala sobre a importância da vigilância e prontidão para a volta de Cristo?",
+    "o": ["Parábola das Dez Virgens", "Parábola do Semeador", "Parábola do Bom Samaritano", "Parábola do Filho Pródigo"],
+    "a": 0
+  },
+  {
+    "q": "Qual parábola mostra que Deus acolhe mesmo os pecadores arrependidos?",
+    "o": ["Parábola do Filho Pródigo", "Parábola do Semeador", "Parábola das Dez Virgens", "Parábola do Bom Samaritano"],
+    "a": 0
+  },
+  {
+    "q": "Qual parábola ensina que o Reino de Deus é valioso e vale a pena buscá-lo com tudo?",
+    "o": ["Parábola do Tesouro Escondido", "Parábola do Semeador", "Parábola do Filho Pródigo", "Parábola do Bom Samaritano"],
+    "a": 0
+  },
+  {
+    "q": "Qual parábola mostra que devemos ser sábios e prudentes na administração das riquezas?",
+    "o": ["Parábola dos Talentos", "Parábola do Semeador", "Parábola do Bom Samaritano", "Parábola do Filho Pródigo"],
+    "a": 0
+  },
+  {
+    "q": "Qual ensinamento nos lembra que devemos amar nossos inimigos e orar por aqueles que nos perseguem?",
+    "o": ["Ensinamento do Amor ao Próximo", "Parábola do Semeador", "Parábola do Tesouro Escondido", "Parábola do Filho Pródigo"],
+    "a": 0
+  }
+]

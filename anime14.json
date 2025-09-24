@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quem são os protagonistas principais de Fullmetal Alchemist: Brotherhood?",
+    "o": ["Edward e Alphonse Elric", "Roy Mustang e Riza Hawkeye", "Winry Rockbell e Edward", "Maes Hughes e Scar"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a profissão de Edward Elric?",
+    "o": ["Alquimista Estadual", "Alquimista independente", "Militar", "Mercenário"],
+    "a": 0
+  },
+  {
+    "q": "O que aconteceu com o corpo de Alphonse Elric?",
+    "o": ["Seu corpo foi perdido e a alma está em uma armadura", "Ficou preso em pedra filosofal", "Morreu", "Transformou-se em animal"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o objetivo dos irmãos Elric?",
+    "o": ["Recuperar seus corpos", "Derrotar Mustang", "Controlar a pedra filosofal", "Dominar Amestris"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o alquimista de fogo e mentor de Edward?",
+    "o": ["Roy Mustang", "Maes Hughes", "Van Hohenheim", "Father"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome do pai dos irmãos Elric?",
+    "o": ["Van Hohenheim", "Father", "Izumi Curtis", "King Bradley"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a professora e mentora de alquimia de Edward e Alphonse?",
+    "o": ["Izumi Curtis", "Winry Rockbell", "Riza Hawkeye", "Shou Tucker"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a mecânica amiga dos irmãos Elric?",
+    "o": ["Winry Rockbell", "Izumi Curtis", "Riza Hawkeye", "Scar"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o principal vilão que manipula a pedra filosofal?",
+    "o": ["Father", "Scar", "King Bradley", "Solf J. Kimblee"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o homúnculo que representa a inveja?",
+    "o": ["Envy", "Lust", "Greed", "Wrath"],
+    "a": 0
+  },
+  {
+    "q": "Qual homúnculo representa o ódio e busca vingança?",
+    "o": ["Wrath", "Lust", "Gluttony", "Pride"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o homúnculo da ganância?",
+    "o": ["Greed", "Envy", "Sloth", "Gluttony"],
+    "a": 0
+  },
+  {
+    "q": "Qual homúnculo representa o orgulho supremo?",
+    "o": ["Pride", "Lust", "Envy", "Greed"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o alquimista de aço e general de Amestris?",
+    "o": ["King Bradley", "Roy Mustang", "Edward Elric", "Father"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o médico que criou uma quimera e sua filha?",
+    "o": ["Shou Tucker", "Van Hohenheim", "Solf J. Kimblee", "Father"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a habilidade especial de Roy Mustang?",
+    "o": ["Alquimia do fogo usando luvas", "Alquimia de água", "Transformação de matéria", "Controlar vento"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o irmão mais novo de Edward?",
+    "o": ["Alphonse Elric", "Roy Mustang", "Van Hohenheim", "King Bradley"],
+    "a": 0
+  },
+  {
+    "q": "Quem sacrifica sua vida para salvar o país e os irmãos Elric?",
+    "o": ["Maes Hughes", "Scar", "Father", "King Bradley"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o homúnculo da luxúria?",
+    "o": ["Lust", "Greed", "Envy", "Sloth"],
+    "a": 0
+  },
+  {
+    "q": "Quem destrói a pedra filosofal criada pelos homúnculos?",
+    "o": ["Edward e Alphonse Elric", "Roy Mustang", "Scar", "Izumi Curtis"],
+    "a": 0
+  }
+]

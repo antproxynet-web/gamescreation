@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quem é o protagonista da série Lucifer?",
+    "o": ["Lucifer Morningstar", "Amenadiel", "Maze", "Chloe Decker"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a detetive parceira de Lucifer?",
+    "o": ["Chloe Decker", "Linda Martin", "Mazikeen", "Trixie"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o anjo irmão de Lucifer?",
+    "o": ["Amenadiel", "Uriel", "Michael", "Raphael"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a demoníaca aliada e amiga de Lucifer?",
+    "o": ["Maze (Mazikeen)", "Linda Martin", "Trixie", "Chloe Decker"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a terapeuta que aconselha Lucifer?",
+    "o": ["Linda Martin", "Chloe Decker", "Maze", "Trixie"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a filha de Chloe Decker?",
+    "o": ["Trixie", "Mazikeen", "Charlotte", "Ella"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o irmão gêmeo de Lucifer que se torna inimigo?",
+    "o": ["Michael", "Amenadiel", "Uriel", "Raphael"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o detetive parceiro de Chloe antes de Lucifer?",
+    "o": ["Dan Espinoza", "Marcus Pierce", "Amenadiel", "Michael"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o policial que se torna amigo e às vezes rival de Lucifer?",
+    "o": ["Dan Espinoza", "Marcus Pierce", "Amenadiel", "Michael"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o Deus Pai mencionado na série?",
+    "o": ["God", "Lucifer", "Amenadiel", "Michael"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o detetive que se envolve romanticamente com Lucifer?",
+    "o": ["Chloe Decker", "Maze", "Linda Martin", "Trixie"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o irmão de Lucifer que deseja assumir seu trono no inferno?",
+    "o": ["Michael", "Amenadiel", "Uriel", "Raphael"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o chefão demoníaco do inferno que aparece na série?",
+    "o": ["Lucifer", "Maze", "Amenadiel", "Michael"],
+    "a": 0
+  },
+  {
+    "q": "Quem ajuda Lucifer com informações sobre criminosos em Los Angeles?",
+    "o": ["Maze (Mazikeen)", "Linda Martin", "Dan Espinoza", "Amenadiel"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o policial que também se torna parte do enredo celestial?",
+    "o": ["Marcus Pierce / Cain", "Dan Espinoza", "Amenadiel", "Michael"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o anjo que ajuda e guia Lucifer espiritualmente?",
+    "o": ["Amenadiel", "Michael", "Uriel", "Raphael"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a personagem demoníaca que se apaixona por humanos?",
+    "o": ["Maze (Mazikeen)", "Linda Martin", "Chloe Decker", "Trixie"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o vilão humano que se torna chefe de polícia?",
+    "o": ["Marcus Pierce / Cain", "Dan Espinoza", "Michael", "Amenadiel"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a terapeuta que mantém segredo sobre questões celestiais?",
+    "o": ["Linda Martin", "Maze", "Chloe Decker", "Trixie"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o amigo humano que sempre apoia Lucifer nos casos?",
+    "o": ["Dan Espinoza", "Marcus Pierce", "Michael", "Amenadiel"],
+    "a": 0
+  }
+]

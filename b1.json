@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quem construiu a Arca para sobreviver ao Dilúvio?",
+    "o": ["Noé", "Moisés", "Abraão", "Davi"],
+    "a": 0
+  },
+  {
+    "q": "Quem liderou os israelitas na saída do Egito?",
+    "o": ["Moisés", "Josué", "Elias", "Samuel"],
+    "a": 0
+  },
+  {
+    "q": "Quem é conhecido por sua força extraordinária e cabelo comprido?",
+    "o": ["Sansão", "Davi", "Goliath", "Saul"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi jogado na cova dos leões, mas sobreviveu protegido por Deus?",
+    "o": ["Daniel", "José", "Ezequiel", "Isaias"],
+    "a": 0
+  },
+  {
+    "q": "Quem interpretou os sonhos do faraó do Egito?",
+    "o": ["José", "Moisés", "Abraão", "Daniel"],
+    "a": 0
+  },
+  {
+    "q": "Quem é considerado o rei mais sábio de Israel?",
+    "o": ["Salomão", "Davi", "Saul", "Ezequias"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi traído por seu irmão e vendido como escravo?",
+    "o": ["José", "Esaú", "Jacó", "Benjamim"],
+    "a": 0
+  },
+  {
+    "q": "Quem derrubou as muralhas de Jericó com a trombeta?",
+    "o": ["Josué", "Moisés", "Elias", "Gideão"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi conhecido como o profeta que desafiou os profetas de Baal?",
+    "o": ["Elias", "Isaías", "Jeremias", "Jonas"],
+    "a": 0
+  },
+  {
+    "q": "Quem é considerado o primeiro homem criado por Deus?",
+    "o": ["Adão", "Noé", "Abraão", "Eve"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a primeira mulher criada por Deus?",
+    "o": ["Eva", "Sara", "Rebeca", "Maria"],
+    "a": 0
+  },
+  {
+    "q": "Quem recebeu os Dez Mandamentos de Deus no Monte Sinai?",
+    "o": ["Moisés", "Josué", "Abraão", "Davi"],
+    "a": 0
+  },
+  {
+    "q": "Quem é conhecido como o profeta engolido por um grande peixe?",
+    "o": ["Jonas", "Ezequiel", "Daniel", "Jeremias"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi escolhido para substituir Moisés como líder dos israelitas?",
+    "o": ["Josué", "Calebe", "Elias", "Samuel"],
+    "a": 0
+  },
+  {
+    "q": "Quem matou Golias com uma funda e uma pedra?",
+    "o": ["Davi", "Sansão", "Josué", "Saul"],
+    "a": 0
+  },
+  {
+    "q": "Quem é conhecido por sua fé e disposição para sacrificar seu filho?",
+    "o": ["Abraão", "Isaque", "Jacó", "Moisés"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi vendido ao Egito, mas se tornou governador?",
+    "o": ["José", "Judá", "Benjamim", "Efraim"],
+    "a": 0
+  },
+  {
+    "q": "Quem recebeu visões do trono de Deus e livros proféticos?",
+    "o": ["Ezequiel", "Isaías", "Jeremias", "Daniel"],
+    "a": 0
+  },
+  {
+    "q": "Quem profetizou sobre o nascimento de Jesus em Belém?",
+    "o": ["Miquéias", "Isaías", "Jeremias", "Ezequiel"],
+    "a": 0
+  },
+  {
+    "q": "Quem é conhecido como o discípulo que negou Jesus três vezes?",
+    "o": ["Pedro", "João", "Tiago", "André"],
+    "a": 0
+  }
+]

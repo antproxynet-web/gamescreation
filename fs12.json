@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que são partículas subatômicas?",
+    "o": ["Partículas que constituem os átomos, como prótons, nêutrons e elétrons", "Átomos inteiros", "Moléculas grandes", "Forças gravitacionais"],
+    "a": 0
+  },
+  {
+    "q": "Quais são as partículas subatômicas principais de um átomo?",
+    "o": ["Prótons, nêutrons e elétrons", "Moléculas, átomos e íons", "Quarks e léptons apenas", "Fótons e neutrinos"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a carga elétrica de um próton?",
+    "o": ["Positiva (+1)", "Negativa (-1)", "Neutra (0)", "Variável"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a carga elétrica de um elétron?",
+    "o": ["Negativa (-1)", "Positiva (+1)", "Neutra (0)", "Variável"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a carga elétrica de um nêutron?",
+    "o": ["Neutra (0)", "Positiva (+1)", "Negativa (-1)", "Variável"],
+    "a": 0
+  },
+  {
+    "q": "O que são quarks?",
+    "o": ["Partículas fundamentais que constituem prótons e nêutrons", "Partículas de luz", "Elétrons livres", "Nêutrons instáveis"],
+    "a": 0
+  },
+  {
+    "q": "Quantos tipos de quarks existem atualmente?",
+    "o": ["Seis (up, down, charm, strange, top, bottom)", "Três", "Dois", "Oito"],
+    "a": 0
+  },
+  {
+    "q": "O que são léptons?",
+    "o": ["Família de partículas que inclui elétrons e neutrinos", "Partículas de prótons", "Quarks compostos", "Fótons e glúons"],
+    "a": 0
+  },
+  {
+    "q": "O que é um neutrino?",
+    "o": ["Partícula subatômica neutra com massa muito pequena", "Elétron de alta energia", "Próton instável", "Fóton energético"],
+    "a": 0
+  },
+  {
+    "q": "O que são bósons?",
+    "o": ["Partículas mediadoras das forças fundamentais", "Partículas com massa alta", "Elétrons livres", "Nêutrons instáveis"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o bóson responsável pela força eletromagnética?",
+    "o": ["Fóton", "Gluon", "Graviton", "W⁺/W⁻"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o bóson associado à força nuclear forte?",
+    "o": ["Gluon", "Fóton", "Graviton", "Z⁰"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o bóson previsto para explicar a origem da massa das partículas?",
+    "o": ["Bóson de Higgs", "Fóton", "Gluon", "Neutrino"],
+    "a": 0
+  },
+  {
+    "q": "O que são antipartículas?",
+    "o": ["Partículas com carga oposta à da partícula correspondente", "Partículas instáveis", "Elétrons livres", "Bósons apenas"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a antipartícula do elétron?",
+    "o": ["Pósitron", "Nêutron", "Próton", "Neutrino"],
+    "a": 0
+  },
+  {
+    "q": "O que é quark up e quark down?",
+    "o": ["Quarks que formam prótons e nêutrons", "Léptons de alta energia", "Bósons de força fraca", "Elétrons excitados"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a função do gluon?",
+    "o": ["Mediar a força forte entre quarks", "Transportar energia elétrica", "Aumentar a massa do próton", "Criar neutrinos"],
+    "a": 0
+  },
+  {
+    "q": "O que é confinamento de quarks?",
+    "o": ["Quarks nunca são encontrados isolados, apenas dentro de hádrons", "Quarks podem existir livres", "Quarks não têm carga", "Quarks desaparecem em altas temperaturas"],
+    "a": 0
+  },
+  {
+    "q": "O que são hádrons?",
+    "o": ["Partículas compostas por quarks, como prótons e nêutrons", "Léptons neutros", "Fótons de alta energia", "Partículas instáveis apenas"],
+    "a": 0
+  },
+  {
+    "q": "O que são férmions?",
+    "o": ["Partículas que obedecem ao princípio de exclusão de Pauli", "Partículas mediadoras de força", "Bósons leves", "Elétrons excitados"],
+    "a": 0
+  }
+]

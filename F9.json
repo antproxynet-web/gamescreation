@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual é a organização internacional responsável por promover a paz e a segurança mundial?",
+    "o": ["ONU", "OTAN", "UE", "OPEP"],
+    "a": 0
+  },
+  {
+    "q": "Qual país possui atualmente o maior PIB do mundo?",
+    "o": ["Estados Unidos", "China", "Japão", "Alemanha"],
+    "a": 0
+  },
+  {
+    "q": "Qual bloco econômico reúne países da América do Norte e Europa?",
+    "o": ["G7", "BRICS", "NAFTA/USMCA", "OCDE"],
+    "a": 0
+  },
+  {
+    "q": "Qual país é o maior exportador de petróleo do mundo?",
+    "o": ["Arábia Saudita", "Rússia", "Estados Unidos", "Iraque"],
+    "a": 0
+  },
+  {
+    "q": "Qual país possui a maior população do mundo?",
+    "o": ["China", "Índia", "Estados Unidos", "Indonésia"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a capital política da União Europeia?",
+    "o": ["Bruxelas", "Berlim", "Paris", "Madrid"],
+    "a": 0
+  },
+  {
+    "q": "Qual país é conhecido por sua política de neutralidade durante conflitos internacionais?",
+    "o": ["Suíça", "Suécia", "Áustria", "Noruega"],
+    "a": 0
+  },
+  {
+    "q": "Qual país é membro permanente do Conselho de Segurança da ONU?",
+    "o": ["China", "Brasil", "Alemanha", "Índia"],
+    "a": 0
+  },
+  {
+    "q": "Qual país é o maior território do mundo em extensão?",
+    "o": ["Rússia", "Canadá", "China", "Estados Unidos"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a sigla da Organização do Tratado do Atlântico Norte?",
+    "o": ["OTAN", "ONU", "OPEP", "UE"],
+    "a": 0
+  },
+  {
+    "q": "Qual país é conhecido por liderar o bloco BRICS?",
+    "o": ["Brasil", "China", "Rússia", "Índia"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o país mais populoso da África?",
+    "o": ["Nigéria", "Egito", "África do Sul", "Etiópia"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a principal organização de cooperação econômica da Ásia-Pacífico?",
+    "o": ["APEC", "ASEAN", "NAFTA", "BRICS"],
+    "a": 0
+  },
+  {
+    "q": "Qual país tem a maior área territorial na América do Sul?",
+    "o": ["Brasil", "Argentina", "Peru", "Colômbia"],
+    "a": 0
+  },
+  {
+    "q": "Qual país é o maior exportador de café do mundo?",
+    "o": ["Brasil", "Colômbia", "Etiópia", "Vietnã"],
+    "a": 0
+  },
+  {
+    "q": "Qual país europeu é conhecido por sediar o Tribunal Penal Internacional?",
+    "o": ["Holanda", "Bélgica", "França", "Alemanha"],
+    "a": 0
+  },
+  {
+    "q": "Qual país é conhecido por sua política de 'uma China'?",
+    "o": ["China", "Taiwan", "Coreia do Sul", "Japão"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a maior organização de integração econômica da América Latina?",
+    "o": ["Mercosul", "NAFTA", "OPEP", "Unasul"],
+    "a": 0
+  },
+  {
+    "q": "Qual país lidera atualmente a produção mundial de carros elétricos?",
+    "o": ["China", "Estados Unidos", "Alemanha", "Japão"],
+    "a": 0
+  },
+  {
+    "q": "Qual país é conhecido por sua política de não-alinhamento na Guerra Fria?",
+    "o": ["Índia", "Paquistão", "Egito", "Iugoslávia"],
+    "a": 0
+  }
+]

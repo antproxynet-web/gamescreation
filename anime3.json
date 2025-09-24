@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quem é o protagonista principal de Naruto Shippuden?",
+    "o": ["Naruto Uzumaki", "Sasuke Uchiha", "Kakashi Hatake", "Sakura Haruno"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o objetivo principal de Naruto em Shippuden?",
+    "o": ["Trazer Sasuke de volta à Vila da Folha", "Derrotar Orochimaru", "Aprender novos jutsus", "Proteger Konoha"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o líder da Akatsuki?",
+    "o": ["Pain", "Itachi", "Kisame", "Obito"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o verdadeiro nome de Pain?",
+    "o": ["Nagato", "Yahiko", "Obito", "Konan"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a companheira de Naruto e médica ninja?",
+    "o": ["Sakura Haruno", "Hinata Hyuga", "Tenten", "Ino Yamanaka"],
+    "a": 0
+  },
+  {
+    "q": "Quem possui o Sharingan em Shippuden?",
+    "o": ["Sasuke Uchiha", "Naruto", "Kakashi", "Rock Lee"],
+    "a": 0
+  },
+  {
+    "q": "Qual vilão é responsável por criar os Jinchurikis da Akatsuki?",
+    "o": ["Obito Uchiha", "Orochimaru", "Madara Uchiha", "Zetsu"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o mestre de Naruto que o ensina o Rasengan avançado?",
+    "o": ["Jiraiya", "Kakashi", "Tsunade", "Iruka"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o objetivo da Akatsuki?",
+    "o": ["Capturar as Bestas com Cauda", "Dominar Konoha", "Derrotar Naruto", "Roubar armas ninja"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o irmão de Itachi Uchiha?",
+    "o": ["Sasuke", "Shisui", "Obito", "Madara"],
+    "a": 0
+  },
+  {
+    "q": "Quem possui o Byakugan?",
+    "o": ["Hinata e Neji Hyuga", "Naruto", "Sasuke", "Kakashi"],
+    "a": 0
+  },
+  {
+    "q": "Quem salva Naruto da morte na luta contra Pain?",
+    "o": ["Naruto se salva sozinho", "Kakashi", "Sakura", "Minato Namikaze"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o jinchuriki da Kyuubi (Nove Caudas)?",
+    "o": ["Naruto Uzumaki", "Gaara", "Killer Bee", "Yugito Nii"],
+    "a": 0
+  },
+  {
+    "q": "Quem lidera o time de resgate de Sasuke?",
+    "o": ["Shikamaru Nara", "Naruto", "Kakashi", "Sakura"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o último vilão da série antes do final?",
+    "o": ["Kaguya Otsutsuki", "Madara Uchiha", "Obito Uchiha", "Pain"],
+    "a": 0
+  },
+  {
+    "q": "Quem consegue despertar o Mangekyou Sharingan Eternal?",
+    "o": ["Sasuke Uchiha", "Itachi", "Kakashi", "Madara"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o líder do Time 10?",
+    "o": ["Asuma Sarutobi", "Kakashi", "Guy", "Kurenai"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o elemento predominante do Rasengan de Naruto?",
+    "o": ["Chakra concentrado", "Fogo", "Água", "Vento"],
+    "a": 0
+  },
+  {
+    "q": "Quem derrota a quarta Kazekage e salva Gaara?",
+    "o": ["Naruto", "Sasuke", "Kankuro", "Shikamaru"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a líder feminina da Akatsuki que ajuda Nagato?",
+    "o": ["Konan", "Tsunade", "Kushina", "Karin"],
+    "a": 0
+  }
+]

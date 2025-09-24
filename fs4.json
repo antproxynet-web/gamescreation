@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que é força em física?",
+    "o": ["Interação capaz de alterar o movimento de um corpo", "Energia armazenada em um corpo", "Velocidade de um objeto", "Massa de um corpo"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a unidade de força no Sistema Internacional?",
+    "o": ["Newton (N)", "Joule (J)", "Watt (W)", "Pascal (Pa)"],
+    "a": 0
+  },
+  {
+    "q": "Quem formulou as três leis do movimento?",
+    "o": ["Galileu Galilei", "Isaac Newton", "Albert Einstein", "Nikola Tesla"],
+    "a": 1
+  },
+  {
+    "q": "O que afirma a primeira lei de Newton?",
+    "o": ["Um corpo permanece em repouso ou em movimento retilíneo uniforme a menos que uma força atue sobre ele", "Toda ação tem reação igual e oposta", "Força é proporcional à aceleração", "Força atrativa entre corpos"],
+    "a": 0
+  },
+  {
+    "q": "O que afirma a segunda lei de Newton?",
+    "o": ["F = m × a", "Toda ação tem reação igual e oposta", "Um corpo permanece em repouso", "Força gravitacional entre massas"],
+    "a": 0
+  },
+  {
+    "q": "O que afirma a terceira lei de Newton?",
+    "o": ["Toda ação tem reação igual e oposta", "Força = massa × aceleração", "Corpo permanece em movimento", "Força gravitacional entre massas"],
+    "a": 0
+  },
+  {
+    "q": "O que é peso de um corpo?",
+    "o": ["Força gravitacional que a Terra exerce sobre o corpo", "Massa do corpo", "Energia cinética", "Velocidade do corpo"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a fórmula do peso?",
+    "o": ["P = m × g", "P = F × d", "P = m × v²", "P = 1/2 × m × v²"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o valor aproximado da aceleração da gravidade na Terra?",
+    "o": ["9,8 m/s²", "10 m/s²", "8 m/s²", "12 m/s²"],
+    "a": 0
+  },
+  {
+    "q": "O que é força de atrito?",
+    "o": ["Força que resiste ao movimento relativo entre superfícies", "Força que atrai objetos para o centro da Terra", "Força que acelera um corpo", "Força elétrica"],
+    "a": 0
+  },
+  {
+    "q": "Quais são os tipos de força de atrito?",
+    "o": ["Estático e cinético", "Peso e normal", "Gravitacional e eletrostática", "Centrípeta e centrífuga"],
+    "a": 0
+  },
+  {
+    "q": "O que é força normal?",
+    "o": ["Força perpendicular à superfície de contato", "Força paralela ao movimento", "Força gravitacional", "Força de atrito"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a lei da gravitação universal de Newton?",
+    "o": ["F = G × (m1 × m2)/r²", "F = m × a", "P = m × g", "F = μ × N"],
+    "a": 0
+  },
+  {
+    "q": "O que é constante gravitacional universal (G)?",
+    "o": ["Constante que determina a intensidade da força gravitacional", "Aceleração da gravidade na Terra", "Massa de um corpo", "Distância entre planetas"],
+    "a": 0
+  },
+  {
+    "q": "O que é força centrípeta?",
+    "o": ["Força dirigida para o centro de uma trajetória circular", "Força que atrai corpos para a Terra", "Força que acelera um corpo linearmente", "Força de atrito"],
+    "a": 0
+  },
+  {
+    "q": "O que é força de resistência do ar?",
+    "o": ["Força que se opõe ao movimento de um corpo no ar", "Força gravitacional", "Força centrípeta", "Força elétrica"],
+    "a": 0
+  },
+  {
+    "q": "O que é massa de um corpo?",
+    "o": ["Quantidade de matéria de um corpo", "Peso do corpo", "Energia cinética", "Velocidade do corpo"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a relação entre peso e massa?",
+    "o": ["P = m × g", "P = m / g", "P = m + g", "P = m - g"],
+    "a": 0
+  },
+  {
+    "q": "O que é força resultante?",
+    "o": ["Força única que substitui todas as forças aplicadas a um corpo", "Força de atrito", "Força centrípeta", "Força gravitacional"],
+    "a": 0
+  },
+  {
+    "q": "Quando um corpo está em equilíbrio?",
+    "o": ["Quando a força resultante é zero", "Quando a velocidade é máxima", "Quando a aceleração é máxima", "Quando a energia cinética é zero"],
+    "a": 0
+  }
+]

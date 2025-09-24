@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual era o nome original do apóstolo Paulo?",
+    "o": ["Saulo", "Simão", "Barnabé", "Lucas"],
+    "a": 0
+  },
+  {
+    "q": "Em qual cidade Paulo nasceu?",
+    "o": ["Tarso", "Roma", "Jerusalém", "Antioquia"],
+    "a": 0
+  },
+  {
+    "q": "Qual foi a primeira viagem missionária de Paulo?",
+    "o": ["Para Chipre e Ásia Menor", "Para Roma", "Para Jerusalém", "Para Damasco"],
+    "a": 0
+  },
+  {
+    "q": "Qual apóstolo acompanhou Paulo em muitas viagens missionárias?",
+    "o": ["Barnabé", "Pedro", "João", "Tiago"],
+    "a": 0
+  },
+  {
+    "q": "Quem converteu Paulo no caminho para Damasco?",
+    "o": ["Jesus Cristo", "Pedro", "João", "Ananias"],
+    "a": 0
+  },
+  {
+    "q": "Qual cidade é famosa pelo discurso de Paulo no Areópago?",
+    "o": ["Atenas", "Corinto", "Éfeso", "Roma"],
+    "a": 0
+  },
+  {
+    "q": "Quantas cartas de Paulo estão incluídas no Novo Testamento?",
+    "o": ["Treze", "Dez", "Oito", "Vinte"],
+    "a": 0
+  },
+  {
+    "q": "Qual carta de Paulo enfatiza a justificação pela fé?",
+    "o": ["Romanos", "Gálatas", "Efésios", "Filipenses"],
+    "a": 0
+  },
+  {
+    "q": "Em qual cidade Paulo ficou preso antes de ser enviado a Roma?",
+    "o": ["Cesareia", "Corinto", "Éfeso", "Filipos"],
+    "a": 0
+  },
+  {
+    "q": "Qual carta de Paulo é conhecida como a carta do amor fraterno?",
+    "o": ["1 Coríntios", "Romanos", "Gálatas", "Filipenses"],
+    "a": 0
+  },
+  {
+    "q": "Qual apóstolo Paulo encontrou em Damasco para receber orientação?",
+    "o": ["Ananias", "Pedro", "Barnabé", "João"],
+    "a": 0
+  },
+  {
+    "q": "Qual carta de Paulo fala sobre a armadura de Deus?",
+    "o": ["Efésios", "Romanos", "Gálatas", "Filipenses"],
+    "a": 0
+  },
+  {
+    "q": "Qual cidade Paulo visitou e fundou uma igreja importante na Grécia?",
+    "o": ["Corinto", "Atenas", "Filipos", "Éfeso"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o tema central da carta aos Filipenses?",
+    "o": ["Alegria em Cristo", "Justificação pela fé", "Boas obras", "Obediência à lei"],
+    "a": 0
+  },
+  {
+    "q": "Quem era a esposa ou companheira ministerial de Paulo mencionada na Bíblia?",
+    "o": ["Não há registro de esposa", "Lídia", "Priscila", "Maria"],
+    "a": 0
+  },
+  {
+    "q": "Qual apóstolo enfrentou perseguições e prisões por pregar o evangelho?",
+    "o": ["Paulo", "Pedro", "João", "Tiago"],
+    "a": 0
+  },
+  {
+    "q": "Em qual cidade Paulo escreveu a carta aos Efésios?",
+    "o": ["Em prisão, provavelmente em Roma", "Em Corinto", "Em Éfeso", "Em Atenas"],
+    "a": 0
+  },
+  {
+    "q": "Qual carta de Paulo fala sobre o fruto do Espírito?",
+    "o": ["Gálatas", "Romanos", "1 Coríntios", "Filipenses"],
+    "a": 0
+  },
+  {
+    "q": "Qual evento marcou a conversão de Paulo?",
+    "o": ["Visão de Jesus no caminho de Damasco", "Batismo por João", "Milagre em Jerusalém", "Fuga de perseguição"],
+    "a": 0
+  },
+  {
+    "q": "Qual cidade é conhecida por receber a primeira igreja fundada por Paulo na Europa?",
+    "o": ["Filipos", "Atenas", "Corinto", "Éfeso"],
+    "a": 0
+  }
+]

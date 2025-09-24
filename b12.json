@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Onde Jesus nasceu?",
+    "o": ["Belém", "Nazareth", "Jerusalém", "Canaã"],
+    "a": 0
+  },
+  {
+    "q": "Quem anunciou o nascimento de Jesus a Maria?",
+    "o": ["Anjo Gabriel", "Moisés", "Elias", "João Batista"],
+    "a": 0
+  },
+  {
+    "q": "Qual foi o primeiro milagre de Jesus registrado nos evangelhos?",
+    "o": ["Transformar água em vinho", "Multiplicar pães", "Caminhar sobre as águas", "Curar um cego"],
+    "a": 0
+  },
+  {
+    "q": "Quem batizou Jesus no rio Jordão?",
+    "o": ["João Batista", "Pedro", "Paulo", "Tiago"],
+    "a": 0
+  },
+  {
+    "q": "Qual foi o deserto onde Jesus jejuou por 40 dias?",
+    "o": ["Deserto da Judeia", "Deserto de Sinai", "Deserto da Galileia", "Deserto do Egito"],
+    "a": 0
+  },
+  {
+    "q": "Qual apóstolo negou Jesus três vezes antes do galo cantar?",
+    "o": ["Pedro", "João", "André", "Tomé"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o traidor que entregou Jesus aos soldados?",
+    "o": ["Judas Iscariotes", "Pedro", "Tiago", "João"],
+    "a": 0
+  },
+  {
+    "q": "Qual evento é comemorado na Páscoa cristã?",
+    "o": ["Ressurreição de Jesus", "Nascimento de Jesus", "Batismo de Jesus", "Última Ceia"],
+    "a": 0
+  },
+  {
+    "q": "Onde Jesus foi crucificado?",
+    "o": ["Gólgota", "Belém", "Jericó", "Nazareth"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o governador romano que condenou Jesus à crucificação?",
+    "o": ["Pôncio Pilatos", "Herodes", "César Augusto", "Tibério"],
+    "a": 0
+  },
+  {
+    "q": "Qual milagre de Jesus envolve multiplicar pães e peixes?",
+    "o": ["Alimentação dos 5000", "Transformar água em vinho", "Cura do cego", "Calar a tempestade"],
+    "a": 0
+  },
+  {
+    "q": "Qual apóstolo duvidou da ressurreição de Jesus até tocar suas feridas?",
+    "o": ["Tomé", "Pedro", "João", "Mateus"],
+    "a": 0
+  },
+  {
+    "q": "Qual foi o nome da mãe de Jesus?",
+    "o": ["Maria", "Isabel", "Marta", "Ana"],
+    "a": 0
+  },
+  {
+    "q": "Qual cidade é conhecida como o local da infância de Jesus?",
+    "o": ["Nazareth", "Belém", "Jerusalém", "Canaã"],
+    "a": 0
+  },
+  {
+    "q": "Qual milagre de Jesus envolveu a cura de um cego de nascença?",
+    "o": ["Cura do cego", "Transformar água em vinho", "Multiplicação de pães", "Caminhar sobre águas"],
+    "a": 0
+  },
+  {
+    "q": "Onde Jesus realizou a Última Ceia com seus discípulos?",
+    "o": ["Jerusalém", "Belém", "Nazareth", "Canaã"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome do rio onde João Batista batizou Jesus?",
+    "o": ["Rio Jordão", "Rio Nilo", "Rio Eufrates", "Rio Tigre"],
+    "a": 0
+  },
+  {
+    "q": "Quem reconheceu Jesus como Messias ainda bebê durante a apresentação no templo?",
+    "o": ["Simeão", "Zacarias", "José", "João Batista"],
+    "a": 0
+  },
+  {
+    "q": "Qual milagre de Jesus envolve acalmar uma tempestade no mar?",
+    "o": ["Jesus acalma a tempestade", "Transformar água em vinho", "Multiplicar pães", "Cura de cego"],
+    "a": 0
+  },
+  {
+    "q": "Qual evento marcou a ascensão de Jesus ao céu após sua ressurreição?",
+    "o": ["Ascensão de Jesus", "Batismo no Jordão", "Última Ceia", "Milagre dos pães e peixes"],
+    "a": 0
+  }
+]

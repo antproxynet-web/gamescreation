@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quantos continentes existem no mundo?",
+    "o": ["7", "6", "5", "8"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o maior continente em área?",
+    "o": ["Ásia", "África", "América do Norte", "Europa"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o menor continente em área?",
+    "o": ["Oceania", "Europa", "América do Sul", "África"],
+    "a": 0
+  },
+  {
+    "q": "Qual continente tem o maior número de países?",
+    "o": ["África", "Ásia", "Europa", "América do Sul"],
+    "a": 0
+  },
+  {
+    "q": "Qual continente é conhecido por ter a maior diversidade cultural?",
+    "o": ["África", "Europa", "América do Norte", "Oceania"],
+    "a": 0
+  },
+  {
+    "q": "Qual continente abriga a Cordilheira do Himalaia?",
+    "o": ["Ásia", "América do Sul", "Europa", "África"],
+    "a": 0
+  },
+  {
+    "q": "Qual continente é totalmente localizado no Hemisfério Sul?",
+    "o": ["Oceania", "África", "América do Sul", "Antártida"],
+    "a": 0
+  },
+  {
+    "q": "Qual continente possui o deserto do Saara?",
+    "o": ["África", "Ásia", "América do Norte", "América do Sul"],
+    "a": 0
+  },
+  {
+    "q": "Qual continente possui o maior número de ilhas?",
+    "o": ["Oceania", "Ásia", "Europa", "América do Norte"],
+    "a": 0
+  },
+  {
+    "q": "Qual continente é conhecido por suas grandes planícies e pradarias?",
+    "o": ["América do Norte", "África", "Europa", "Ásia"],
+    "a": 0
+  },
+  {
+    "q": "Qual continente possui o rio Nilo?",
+    "o": ["África", "América do Sul", "Ásia", "Europa"],
+    "a": 0
+  },
+  {
+    "q": "Qual continente é considerado o mais frio do planeta?",
+    "o": ["Antártida", "Ásia", "América do Norte", "Europa"],
+    "a": 0
+  },
+  {
+    "q": "Qual continente é conhecido por ter a maior biodiversidade tropical?",
+    "o": ["América do Sul", "África", "Ásia", "Oceania"],
+    "a": 0
+  },
+  {
+    "q": "Qual continente abriga os maiores países do mundo por área?",
+    "o": ["Ásia", "América do Norte", "África", "Europa"],
+    "a": 0
+  },
+  {
+    "q": "Qual continente possui a maior população mundial?",
+    "o": ["Ásia", "África", "América do Norte", "Europa"],
+    "a": 0
+  },
+  {
+    "q": "Qual continente é conhecido por sua produção de vinhos na região de Bordeaux?",
+    "o": ["Europa", "África", "América do Sul", "Oceania"],
+    "a": 0
+  },
+  {
+    "q": "Qual continente possui a maior diversidade de línguas faladas?",
+    "o": ["África", "Ásia", "Europa", "América do Norte"],
+    "a": 0
+  },
+  {
+    "q": "Qual continente é famoso por sua Grande Barreira de Coral?",
+    "o": ["Oceania", "África", "América do Norte", "América do Sul"],
+    "a": 0
+  },
+  {
+    "q": "Qual continente possui o país mais populoso do mundo?",
+    "o": ["Ásia", "África", "América do Norte", "Europa"],
+    "a": 0
+  },
+  {
+    "q": "Qual continente é conhecido por suas savanas e vida selvagem diversificada?",
+    "o": ["África", "América do Sul", "Ásia", "Oceania"],
+    "a": 0
+  }
+]

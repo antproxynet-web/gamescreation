@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual é o continente coberto quase totalmente por gelo?",
+    "o": ["Antártida", "Ártico", "Groenlândia", "Canadá"],
+    "a": 0
+  },
+  {
+    "q": "Qual região é conhecida como o Polo Norte?",
+    "o": ["Ártico", "Antártida", "Groenlândia", "Alasca"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o maior ice shelf do mundo?",
+    "o": ["Filchner-Ronne", "Ross", "Larsen", "Amery"],
+    "a": 0
+  },
+  {
+    "q": "Qual animal é símbolo do Polo Norte?",
+    "o": ["Urso polar", "Pinguim", "Foca-leopardo", "Morsa"],
+    "a": 0
+  },
+  {
+    "q": "Qual animal é símbolo da Antártida?",
+    "o": ["Pinguim", "Urso polar", "Foca-leopardo", "Morsa"],
+    "a": 0
+  },
+  {
+    "q": "Qual região polar tem o oceano centralizado cercado por terras?",
+    "o": ["Ártico", "Antártida", "Groenlândia", "Canadá"],
+    "a": 0
+  },
+  {
+    "q": "Qual região polar é um continente completo?",
+    "o": ["Antártida", "Ártico", "Groenlândia", "Alasca"],
+    "a": 0
+  },
+  {
+    "q": "Qual fenômeno ocorre nas regiões polares durante o verão?",
+    "o": ["Sol da meia-noite", "Aurora Boreal", "Aurora Austral", "Noite Polar"],
+    "a": 0
+  },
+  {
+    "q": "Qual fenômeno ocorre nas regiões polares durante o inverno?",
+    "o": ["Noite Polar", "Sol da meia-noite", "Aurora Boreal", "Aurora Austral"],
+    "a": 0
+  },
+  {
+    "q": "Qual região polar abriga a maior camada de gelo do planeta?",
+    "o": ["Antártida", "Ártico", "Groenlândia", "Alasca"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a maior ilha do Ártico?",
+    "o": ["Groenlândia", "Svalbard", "Islândia", "Nova Zembla"],
+    "a": 0
+  },
+  {
+    "q": "Qual oceano está presente no centro do Ártico?",
+    "o": ["Oceano Ártico", "Oceano Atlântico", "Oceano Pacífico", "Oceano Índico"],
+    "a": 0
+  },
+  {
+    "q": "Qual continente é cercado pelo Oceano Antártico?",
+    "o": ["Antártida", "África", "Austrália", "América do Sul"],
+    "a": 0
+  },
+  {
+    "q": "Qual região polar possui ursos polares, mas não pinguins?",
+    "o": ["Ártico", "Antártida", "Groenlândia", "Canadá"],
+    "a": 0
+  },
+  {
+    "q": "Qual região polar possui pinguins, mas não ursos polares?",
+    "o": ["Antártida", "Ártico", "Groenlândia", "Alasca"],
+    "a": 0
+  },
+  {
+    "q": "Qual região polar tem icebergs flutuando principalmente no oceano?",
+    "o": ["Ártico", "Antártida", "Groenlândia", "Canadá"],
+    "a": 0
+  },
+  {
+    "q": "Qual região polar é conhecida por suas auroras boreais?",
+    "o": ["Ártico", "Antártida", "Groenlândia", "Alasca"],
+    "a": 0
+  },
+  {
+    "q": "Qual região polar é conhecida por suas auroras austrais?",
+    "o": ["Antártida", "Ártico", "Groenlândia", "Alasca"],
+    "a": 0
+  },
+  {
+    "q": "Qual região polar é mais fria, em média?",
+    "o": ["Antártida", "Ártico", "Groenlândia", "Alasca"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a maior plataforma de gelo da Antártida?",
+    "o": ["Ross Ice Shelf", "Filchner-Ronne", "Larsen", "Amery"],
+    "a": 0
+  }
+]

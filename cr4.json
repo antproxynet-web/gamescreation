@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quem é a protagonista da 1ª temporada de Bridgerton?",
+    "o": ["Daphne Bridgerton", "Penelope Featherington", "Lady Whistledown", "Marina Thompson"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o interesse amoroso de Daphne na 1ª temporada?",
+    "o": ["Duque de Hastings (Simon Basset)", "Anthony Bridgerton", "Colin Bridgerton", "Benedict Bridgerton"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a narradora misteriosa das fofocas em Bridgerton?",
+    "o": ["Lady Whistledown", "Daphne Bridgerton", "Queen Charlotte", "Penelope Featherington"],
+    "a": 0
+  },
+  {
+    "q": "Qual família é central na série Bridgerton?",
+    "o": ["Família Bridgerton", "Família Featherington", "Família Montague", "Família Hastings"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o irmão mais velho de Daphne?",
+    "o": ["Anthony Bridgerton", "Benedict Bridgerton", "Colin Bridgerton", "Gregory Bridgerton"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem tem grande interesse por Penelope Featherington?",
+    "o": ["Colin Bridgerton", "Anthony Bridgerton", "Simon Basset", "Benedict Bridgerton"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a mãe da família Bridgerton?",
+    "o": ["Lady Violet Bridgerton", "Lady Whistledown", "Queen Charlotte", "Marina Thompson"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a rainha durante os eventos de Bridgerton?",
+    "o": ["Queen Charlotte", "Lady Whistledown", "Lady Violet Bridgerton", "Daphne Bridgerton"],
+    "a": 0
+  },
+  {
+    "q": "Qual evento social é central na trama de Bridgerton?",
+    "o": ["A temporada de casamentos e bailes", "Festival de música", "Corrida de cavalos", "Torneio de xadrez"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o melhor amigo e confidente de Daphne?",
+    "o": ["Penelope Featherington", "Queen Charlotte", "Marina Thompson", "Lady Whistledown"],
+    "a": 0
+  },
+  {
+    "q": "Qual segredo Lady Whistledown guarda?",
+    "o": ["Sua identidade como autora das fofocas", "Seu romance com Simon", "Herança familiar", "Rivalidade com Daphne"],
+    "a": 0
+  },
+  {
+    "q": "Qual irmão Bridgerton é conhecido por seu charme e habilidades sociais?",
+    "o": ["Benedict Bridgerton", "Anthony Bridgerton", "Colin Bridgerton", "Gregory Bridgerton"],
+    "a": 0
+  },
+  {
+    "q": "Quem enfrenta problemas por seu passado misterioso na 1ª temporada?",
+    "o": ["Simon Basset", "Anthony Bridgerton", "Benedict Bridgerton", "Colin Bridgerton"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem se sente deslocada e subestimada na sociedade?",
+    "o": ["Penelope Featherington", "Daphne Bridgerton", "Queen Charlotte", "Marina Thompson"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a rival social de Daphne na temporada?",
+    "o": ["Marina Thompson", "Penelope Featherington", "Queen Charlotte", "Lady Whistledown"],
+    "a": 0
+  },
+  {
+    "q": "Qual segredo é central para o desenvolvimento do romance de Daphne e Simon?",
+    "o": ["O pacto de casamento falso", "Herança escondida", "Carta misteriosa", "Baile secreto"],
+    "a": 0
+  },
+  {
+    "q": "Qual irmão Bridgerton é o mais romântico e sensível?",
+    "o": ["Colin Bridgerton", "Anthony Bridgerton", "Benedict Bridgerton", "Gregory Bridgerton"],
+    "a": 0
+  },
+  {
+    "q": "Quem ajuda a desvendar a identidade de Lady Whistledown?",
+    "o": ["Penelope Featherington", "Daphne Bridgerton", "Simon Basset", "Queen Charlotte"],
+    "a": 0
+  },
+  {
+    "q": "Qual evento marca o final da 1ª temporada?",
+    "o": ["Casamento de Daphne e Simon", "Baile de máscaras", "Corrida de cavalos", "Anúncio da Rainha"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem é conhecida por suas fofocas e manipulações sociais?",
+    "o": ["Lady Whistledown", "Queen Charlotte", "Penelope Featherington", "Marina Thompson"],
+    "a": 0
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que é física nuclear?",
+    "o": ["Ramo da física que estuda o núcleo dos átomos e suas interações", "Estudo da mecânica clássica", "Estudo da óptica", "Estudo da gravitação"],
+    "a": 0
+  },
+  {
+    "q": "O que é um núcleo atômico?",
+    "o": ["Parte central do átomo, composta por prótons e nêutrons", "A nuvem de elétrons", "A camada de valência", "O átomo inteiro"],
+    "a": 0
+  },
+  {
+    "q": "O que é um próton?",
+    "o": ["Partícula subatômica com carga positiva presente no núcleo", "Partícula neutra", "Partícula negativa", "Partícula virtual"],
+    "a": 0
+  },
+  {
+    "q": "O que é um nêutron?",
+    "o": ["Partícula subatômica neutra presente no núcleo", "Partícula positiva", "Partícula negativa", "Partícula virtual"],
+    "a": 0
+  },
+  {
+    "q": "O que é radioatividade?",
+    "o": ["Emissão espontânea de partículas ou radiação pelo núcleo instável", "Emissão de luz visível", "Transferência de calor", "Movimento de elétrons"],
+    "a": 0
+  },
+  {
+    "q": "Quais são os tipos principais de radiação nuclear?",
+    "o": ["Alfa, beta e gama", "Ultravioleta, infravermelha e visível", "Sônica, térmica e magnética", "Gravitacional, elétrica e magnética"],
+    "a": 0
+  },
+  {
+    "q": "O que é fissão nuclear?",
+    "o": ["Divisão de um núcleo pesado em núcleos menores liberando energia", "União de dois núcleos leves", "Movimento de elétrons", "Reação química"],
+    "a": 0
+  },
+  {
+    "q": "O que é fusão nuclear?",
+    "o": ["Combinação de núcleos leves para formar um núcleo mais pesado liberando energia", "Divisão de um núcleo", "Radiação alfa", "Decaimento beta"],
+    "a": 0
+  },
+  {
+    "q": "O que é energia de ligação nuclear?",
+    "o": ["Energia necessária para separar totalmente os prótons e nêutrons de um núcleo", "Energia cinética do átomo", "Energia potencial elétrica", "Energia térmica"],
+    "a": 0
+  },
+  {
+    "q": "O que é meia-vida?",
+    "o": ["Tempo necessário para que metade de um material radioativo decaia", "Tempo de vida de um elétron", "Tempo para fissão completa", "Tempo para fusão completa"],
+    "a": 0
+  },
+  {
+    "q": "O que é decaimento alfa?",
+    "o": ["Emissão de uma partícula alfa (2 prótons e 2 nêutrons)", "Emissão de elétron", "Emissão de fóton", "Emissão de neutrino apenas"],
+    "a": 0
+  },
+  {
+    "q": "O que é decaimento beta?",
+    "o": ["Transformação de nêutron em próton (ou vice-versa) com emissão de elétron ou pósitron", "Emissão de fóton", "Divisão de núcleo", "Fusão de núcleos"],
+    "a": 0
+  },
+  {
+    "q": "O que é decaimento gama?",
+    "o": ["Emissão de radiação eletromagnética de alta energia", "Emissão de nêutron", "Emissão de elétron", "Emissão de próton"],
+    "a": 0
+  },
+  {
+    "q": "O que é bomba nuclear?",
+    "o": ["Dispositivo que libera grande quantidade de energia por fissão ou fusão nuclear", "Bomba química", "Arma de laser", "Explosão térmica convencional"],
+    "a": 0
+  },
+  {
+    "q": "O que é reator nuclear?",
+    "o": ["Instalação que controla reações nucleares para gerar energia", "Dispositivo de fusão química", "Câmara de explosão controlada", "Gerador solar"],
+    "a": 0
+  },
+  {
+    "q": "O que é neutrino?",
+    "o": ["Partícula subatômica neutra que participa de decaimentos nucleares", "Próton negativo", "Elétron pesado", "Fóton com massa"],
+    "a": 0
+  },
+  {
+    "q": "O que é radiação ionizante?",
+    "o": ["Radiação capaz de remover elétrons de átomos e moléculas", "Radiação visível", "Radiação sonora", "Radiação térmica apenas"],
+    "a": 0
+  },
+  {
+    "q": "O que é massa crítica?",
+    "o": ["Massa mínima de material físsil necessária para manter uma reação em cadeia", "Massa total do núcleo", "Massa de elétrons", "Massa de nêutrons isolados"],
+    "a": 0
+  },
+  {
+    "q": "O que é energia nuclear?",
+    "o": ["Energia liberada em reações de fissão ou fusão nuclear", "Energia cinética de um corpo", "Energia térmica de fricção", "Energia elétrica"],
+    "a": 0
+  },
+  {
+    "q": "O que é radioisótopo?",
+    "o": ["Isótopo instável que sofre decaimento radioativo", "Isótopo estável", "Elemento químico neutro", "Núcleo de ferro apenas"],
+    "a": 0
+  }
+]

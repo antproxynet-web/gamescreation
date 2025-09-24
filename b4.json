@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual foi o primeiro milagre de Jesus registrado nos Evangelhos?",
+    "o": ["Transformar água em vinho", "Curar o cego", "Multiplicar pães", "Andar sobre as águas"],
+    "a": 0
+  },
+  {
+    "q": "Qual milagre alimentou 5 mil pessoas com cinco pães e dois peixes?",
+    "o": ["A multiplicação dos pães", "A pesca milagrosa", "A ressurreição de Lázaro", "A cura do paralítico"],
+    "a": 0
+  },
+  {
+    "q": "Qual profeta fez com que o rio Jordão se abrisse para os israelitas atravessarem?",
+    "o": ["Moisés", "Elias", "Josué", "Eliseu"],
+    "a": 0
+  },
+  {
+    "q": "Quem ressuscitou Lázaro após quatro dias morto?",
+    "o": ["Jesus", "Pedro", "Paulo", "Elias"],
+    "a": 0
+  },
+  {
+    "q": "Qual milagre Jesus realizou ao andar sobre as águas?",
+    "o": ["Controle sobre a natureza", "Multiplicação de alimentos", "Cura de doentes", "Expulsão de demônios"],
+    "a": 0
+  },
+  {
+    "q": "Qual milagre curou um homem cego de nascença?",
+    "o": ["Jesus devolveu a visão", "Jesus multiplicou pães", "Jesus acalmou a tempestade", "Jesus expulsou demônios"],
+    "a": 0
+  },
+  {
+    "q": "Qual milagre salvou Elias da fome durante a seca?",
+    "o": ["O alimento trazido pelos corvos", "A água do rio Jordão", "A chuva repentina", "O fogo do céu"],
+    "a": 0
+  },
+  {
+    "q": "Qual milagre alimentou os profetas de Deus durante a seca em Sarepta?",
+    "o": ["A farinha e o azeite que não acabaram", "Multiplicação dos pães", "Cura dos doentes", "Ressurreição de mortos"],
+    "a": 0
+  },
+  {
+    "q": "Qual milagre transformou 10 leprosos em pessoas saudáveis?",
+    "o": ["Jesus curou os leprosos", "Jesus multiplicou pães", "Jesus acalmou a tempestade", "Jesus expulsou demônios"],
+    "a": 0
+  },
+  {
+    "q": "Qual milagre Jesus realizou na festa de casamento em Caná?",
+    "o": ["Transformar água em vinho", "Multiplicar pães e peixes", "Andar sobre as águas", "Curar o paralítico"],
+    "a": 0
+  },
+  {
+    "q": "Quem ressuscitou o filho da viúva de Naim?",
+    "o": ["Jesus", "Elias", "Eliseu", "Pedro"],
+    "a": 0
+  },
+  {
+    "q": "Qual milagre Jesus fez ao curar o paralítico em Cafarnaum?",
+    "o": ["Perdão dos pecados e cura", "Multiplicação dos pães", "Transformar água em vinho", "Andar sobre as águas"],
+    "a": 0
+  },
+  {
+    "q": "Qual milagre realizou Elias ao ressuscitar o filho da viúva?",
+    "o": ["Devolver a vida ao menino", "Multiplicar pães", "Acender fogo do céu", "Curar cego"],
+    "a": 0
+  },
+  {
+    "q": "Qual milagre acalmou a tempestade no mar da Galileia?",
+    "o": ["Jesus acalmou a tempestade", "Multiplicação dos pães", "Cura de doentes", "Ressurreição de Lázaro"],
+    "a": 0
+  },
+  {
+    "q": "Qual milagre restaurou a mão de um homem que estava ressequida?",
+    "o": ["Jesus curou a mão", "Jesus multiplicou pães", "Jesus expulsou demônios", "Jesus andou sobre as águas"],
+    "a": 0
+  },
+  {
+    "q": "Qual milagre Jesus realizou em Jericó, ajudando um cego chamado Bartimeu?",
+    "o": ["Jesus devolveu a visão a Bartimeu", "Multiplicação de pães", "Andar sobre as águas", "Cura de paralítico"],
+    "a": 0
+  },
+  {
+    "q": "Qual milagre foi feito por Eliseu multiplicando pães para alimentar cem pessoas?",
+    "o": ["Multiplicação dos pães", "Cura de leprosos", "Ressurreição de mortos", "Acender fogo do céu"],
+    "a": 0
+  },
+  {
+    "q": "Qual milagre transformou água em sangue no Egito?",
+    "o": ["Plaga de Moisés", "Multiplicação de pães", "Cura de cegos", "Acender fogo do céu"],
+    "a": 0
+  },
+  {
+    "q": "Qual milagre curou a sogra de Pedro de febre?",
+    "o": ["Jesus curou a sogra de Pedro", "Multiplicação de pães", "Andar sobre as águas", "Ressurreição de Lázaro"],
+    "a": 0
+  },
+  {
+    "q": "Qual milagre ocorreu quando Jesus expulsou demônios de um homem possuído?",
+    "o": ["Libertação do homem em Gerasa", "Multiplicação de pães", "Cura do cego", "Acalmar tempestade"],
+    "a": 0
+  }
+]

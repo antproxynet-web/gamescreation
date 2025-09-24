@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual é o vulcão mais alto do mundo?",
+    "o": ["Ojos del Salado", "Mauna Loa", "Etna", "Kilimanjaro"],
+    "a": 0
+  },
+  {
+    "q": "Qual vulcão entrou em erupção em 79 d.C., destruindo Pompeia?",
+    "o": ["Vesúvio", "Etna", "St. Helens", "Krakatoa"],
+    "a": 0
+  },
+  {
+    "q": "Qual vulcão é conhecido por ser o maior em volume?",
+    "o": ["Mauna Loa", "Krakatoa", "Vesúvio", "Etna"],
+    "a": 0
+  },
+  {
+    "q": "Qual vulcão está localizado na Itália e ainda é ativo?",
+    "o": ["Etna", "Vesúvio", "Stromboli", "Todos os anteriores"],
+    "a": 3
+  },
+  {
+    "q": "Qual vulcão da Indonésia causou a erupção de 1883, uma das mais mortais da história?",
+    "o": ["Krakatoa", "Merapi", "Tambora", "Bromo"],
+    "a": 0
+  },
+  {
+    "q": "Qual vulcão dos Estados Unidos entrou em erupção em 1980, causando grandes destruições?",
+    "o": ["Mount St. Helens", "Kilauea", "Mauna Loa", "Mount Rainier"],
+    "a": 0
+  },
+  {
+    "q": "Qual vulcão é conhecido por suas erupções quase contínuas nas Ilhas Canárias?",
+    "o": ["Teide", "Etna", "Vesuvius", "Krakatoa"],
+    "a": 0
+  },
+  {
+    "q": "Qual vulcão do Havaí é famoso por sua lava fluida?",
+    "o": ["Kilauea", "Mauna Loa", "Mauna Kea", "Hualalai"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o vulcão mais ativo do mundo?",
+    "o": ["Kilauea", "Etna", "Merapi", "Vesúvio"],
+    "a": 0
+  },
+  {
+    "q": "Qual vulcão europeu está localizado na Sicília?",
+    "o": ["Etna", "Vesúvio", "Stromboli", "Teide"],
+    "a": 0
+  },
+  {
+    "q": "Qual vulcão brasileiro é famoso por ser extinto e localizado no Paraná?",
+    "o": ["Vulcão de Furnas", "Vulcão de Marumbi", "Vulcão do Pico", "Vulcão do Paraná"],
+    "a": 1
+  },
+  {
+    "q": "Qual vulcão indonésio é considerado o mais perigoso do mundo?",
+    "o": ["Merapi", "Krakatoa", "Bromo", "Tambora"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o tipo de vulcão caracterizado por erupções explosivas e lava viscosa?",
+    "o": ["Estratovulcão", "Escudo", "Cinder Cone", "Caldeira"],
+    "a": 0
+  },
+  {
+    "q": "Qual vulcão japonês é considerado sagrado e tem formato de cone quase perfeito?",
+    "o": ["Monte Fuji", "Sakurajima", "Asama", "Unzen"],
+    "a": 0
+  },
+  {
+    "q": "Qual vulcão possui uma cratera chamada de 'Caldeira de Yellowstone'?",
+    "o": ["Yellowstone", "Mauna Loa", "Vesuvius", "Krakatoa"],
+    "a": 0
+  },
+  {
+    "q": "Qual vulcão italiano entrou em erupção em 1944 durante a Segunda Guerra Mundial?",
+    "o": ["Vesúvio", "Etna", "Stromboli", "Campi Flegrei"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o vulcão ativo mais alto da Europa?",
+    "o": ["Etna", "Vesuvius", "Stromboli", "Teide"],
+    "a": 0
+  },
+  {
+    "q": "Qual vulcão está localizado na Ilha de Santorini, Grécia?",
+    "o": ["Santorini", "Etna", "Vesuvius", "Teide"],
+    "a": 0
+  },
+  {
+    "q": "Qual vulcão do Havaí está localizado no Parque Nacional dos Vulcões?",
+    "o": ["Mauna Loa", "Kilauea", "Mauna Kea", "Hualalai"],
+    "a": 0
+  },
+  {
+    "q": "Qual vulcão chileno entrou em erupção em 2015 e afetou cidades próximas?",
+    "o": ["Calbuco", "Villarrica", "Llaima", "Osorno"],
+    "a": 0
+  }
+]

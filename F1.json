@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual é a capital da França?",
+    "o": ["Paris", "Londres", "Berlim", "Roma"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a capital do Brasil?",
+    "o": ["Brasília", "Rio de Janeiro", "São Paulo", "Salvador"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a capital da Alemanha?",
+    "o": ["Berlim", "Viena", "Madri", "Amsterdã"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a capital do Japão?",
+    "o": ["Tóquio", "Seul", "Pequim", "Bangkok"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a capital do Canadá?",
+    "o": ["Ottawa", "Toronto", "Vancouver", "Montreal"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a capital da Austrália?",
+    "o": ["Canberra", "Sydney", "Melbourne", "Brisbane"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a capital da Itália?",
+    "o": ["Roma", "Milão", "Veneza", "Florença"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a capital do México?",
+    "o": ["Cidade do México", "Guadalajara", "Monterrey", "Cancún"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a capital da Argentina?",
+    "o": ["Buenos Aires", "Córdoba", "Rosário", "Mendoza"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a capital da Rússia?",
+    "o": ["Moscou", "São Petersburgo", "Kazan", "Novosibirsk"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a capital da Índia?",
+    "o": ["Nova Délhi", "Mumbai", "Bangalore", "Calcutá"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a capital da China?",
+    "o": ["Pequim", "Xangai", "Hong Kong", "Shenzhen"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a capital da Espanha?",
+    "o": ["Madri", "Barcelona", "Valência", "Sevilha"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a capital do Egito?",
+    "o": ["Cairo", "Alexandria", "Luxor", "Giza"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a capital da Turquia?",
+    "o": ["Ancara", "Istambul", "Esmirna", "Bursa"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a capital da Grécia?",
+    "o": ["Atenas", "Salônica", "Patras", "Heraclião"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a capital da África do Sul?",
+    "o": ["Pretória", "Cidade do Cabo", "Durban", "Johanesburgo"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a capital da Nigéria?",
+    "o": ["Abuja", "Lagos", "Kano", "Port Harcourt"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a capital do Reino Unido?",
+    "o": ["Londres", "Manchester", "Edimburgo", "Birmingham"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a capital da Coreia do Sul?",
+    "o": ["Seul", "Busan", "Incheon", "Daegu"],
+    "a": 0
+  }
+]

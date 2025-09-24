@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual país possui a maior densidade populacional do mundo?",
+    "o": ["Mônaco", "China", "Índia", "Singapura"],
+    "a": 0
+  },
+  {
+    "q": "Qual continente tem a maior densidade populacional média?",
+    "o": ["Ásia", "Europa", "África", "América do Norte"],
+    "a": 0
+  },
+  {
+    "q": "Qual cidade é conhecida por sua alta densidade populacional na Ásia?",
+    "o": ["Tóquio", "Nova York", "Londres", "Paris"],
+    "a": 0
+  },
+  {
+    "q": "Qual país da Europa possui a maior densidade populacional?",
+    "o": ["Mônaco", "Alemanha", "Holanda", "Bélgica"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a densidade populacional aproximada da China?",
+    "o": ["150 habitantes/km²", "50 habitantes/km²", "300 habitantes/km²", "500 habitantes/km²"],
+    "a": 0
+  },
+  {
+    "q": "Qual país africano tem alta densidade populacional em regiões urbanas?",
+    "o": ["Ruanda", "Nigéria", "Egito", "África do Sul"],
+    "a": 0
+  },
+  {
+    "q": "Qual país da América do Norte tem a maior densidade populacional?",
+    "o": ["Estados Unidos", "Canadá", "México", "Cuba"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a cidade mais densamente povoada do mundo?",
+    "o": ["Dhaka", "Nova York", "Mumbai", "Tóquio"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a densidade populacional aproximada do Japão?",
+    "o": ["340 habitantes/km²", "100 habitantes/km²", "500 habitantes/km²", "50 habitantes/km²"],
+    "a": 0
+  },
+  {
+    "q": "Qual país insular tem densidade populacional muito alta?",
+    "o": ["Singapura", "Islândia", "Madagascar", "Japão"],
+    "a": 0
+  },
+  {
+    "q": "Qual continente tem a menor densidade populacional média?",
+    "o": ["Oceania", "Ásia", "Europa", "América do Sul"],
+    "a": 0
+  },
+  {
+    "q": "Qual país europeu tem densidade populacional muito alta em comparação ao tamanho?",
+    "o": ["Holanda", "Noruega", "Finlândia", "Suécia"],
+    "a": 0
+  },
+  {
+    "q": "Qual país do Sudeste Asiático tem alta densidade populacional?",
+    "o": ["Bangladesh", "Tailândia", "Filipinas", "Malásia"],
+    "a": 0
+  },
+  {
+    "q": "Qual país da América do Sul possui maior densidade populacional?",
+    "o": ["Suriname", "Brasil", "Colômbia", "Venezuela"],
+    "a": 0
+  },
+  {
+    "q": "Qual país africano é pequeno e tem densidade populacional muito alta?",
+    "o": ["Ruanda", "Nigéria", "Burundi", "Gana"],
+    "a": 0
+  },
+  {
+    "q": "Qual cidade chinesa é conhecida por sua altíssima densidade populacional?",
+    "o": ["Xangai", "Pequim", "Shenzhen", "Hong Kong"],
+    "a": 0
+  },
+  {
+    "q": "Qual país do Oriente Médio tem alta densidade populacional em áreas urbanas?",
+    "o": ["Bahrain", "Arábia Saudita", "Irã", "Omã"],
+    "a": 0
+  },
+  {
+    "q": "Qual país europeu tem densidade populacional média acima de 400 habitantes/km²?",
+    "o": ["Mônaco", "França", "Itália", "Portugal"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a densidade populacional aproximada da Índia?",
+    "o": ["450 habitantes/km²", "100 habitantes/km²", "200 habitantes/km²", "600 habitantes/km²"],
+    "a": 0
+  },
+  {
+    "q": "Qual país da Oceania tem baixa densidade populacional?",
+    "o": ["Austrália", "Nova Zelândia", "Fiji", "Papua Nova Guiné"],
+    "a": 0
+  }
+]

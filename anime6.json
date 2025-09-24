@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quem é o protagonista principal de One Piece?",
+    "o": ["Monkey D. Luffy", "Roronoa Zoro", "Sanji", "Nami"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o sonho de Luffy?",
+    "o": ["Encontrar o One Piece e se tornar o Rei dos Piratas", "Derrotar Kaido", "Tornar-se um Shichibukai", "Ser o melhor espadachim"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a fruta do diabo que Luffy comeu?",
+    "o": ["Gomu Gomu no Mi", "Mera Mera no Mi", "Hie Hie no Mi", "Ope Ope no Mi"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o espadachim do Chapéu de Palha?",
+    "o": ["Roronoa Zoro", "Sanji", "Usopp", "Franky"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o cozinheiro da tripulação?",
+    "o": ["Sanji", "Luffy", "Zoro", "Usopp"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a navegadora da tripulação?",
+    "o": ["Nami", "Robin", "Boa Hancock", "Vivi"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o arqueólogo da tripulação?",
+    "o": ["Nico Robin", "Franky", "Chopper", "Brook"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o médico da tripulação?",
+    "o": ["Tony Tony Chopper", "Sanji", "Franky", "Brook"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o músico da tripulação?",
+    "o": ["Brook", "Franky", "Usopp", "Chopper"],
+    "a": 0
+  },
+  {
+    "q": "Quem constrói os navios da tripulação?",
+    "o": ["Franky", "Usopp", "Luffy", "Robin"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o capitão dos Chapéus de Palha?",
+    "o": ["Luffy", "Zoro", "Sanji", "Usopp"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o primeiro companheiro que Luffy recruta?",
+    "o": ["Zoro", "Nami", "Usopp", "Sanji"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o vilão que governou Arlong Park?",
+    "o": ["Arlong", "Crocodile", "Doflamingo", "Kaido"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o Shichibukai que Luffy enfrenta em Alabasta?",
+    "o": ["Crocodile", "Doflamingo", "Mihawk", "Boa Hancock"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o atual Yonko do Luffy que ele mais enfrenta?",
+    "o": ["Kaido", "Big Mom", "Shanks", "Blackbeard"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o navio principal da tripulação dos Chapéus de Palha?",
+    "o": ["Thousand Sunny", "Going Merry", "Oro Jackson", "Red Force"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o espadachim mais forte do mundo que Zoro busca superar?",
+    "o": ["Dracule Mihawk", "Roronoa Zoro", "Shanks", "Shiliew"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a ex-capitã dos Shichibukai que ajuda Luffy em Dressrosa?",
+    "o": ["Boa Hancock", "Catarina Devon", "Doflamingo", "Tashigi"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o vilão principal da saga de Enies Lobby?",
+    "o": ["CP9", "Crocodile", "Doflamingo", "Arlong"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o vilão que possui a Gura Gura no Mi, a fruta que cria terremotos?",
+    "o": ["Barba Branca", "Blackbeard", "Kaido", "Crocodile"],
+    "a": 0
+  }
+]

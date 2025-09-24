@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quem é o protagonista principal de Bleach?",
+    "o": ["Ichigo Kurosaki", "Rukia Kuchiki", "Renji Abarai", "Byakuya Kuchiki"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o poder principal de Ichigo?",
+    "o": ["Shinigami", "Quincy", "Hollow", "Fullbringer"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a shinigami que inicialmente dá os poderes a Ichigo?",
+    "o": ["Rukia Kuchiki", "Orihime Inoue", "Yoruichi Shihouin", "Toshiro Hitsugaya"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o zanpakutou de Ichigo?",
+    "o": ["Zangetsu", "Senbonzakura", "Hyorinmaru", "Sode no Shirayuki"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o capitão da 6ª divisão?",
+    "o": ["Byakuya Kuchiki", "Kenpachi Zaraki", "Sosuke Aizen", "Toshiro Hitsugaya"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o vilão principal da saga Soul Society?",
+    "o": ["Sosuke Aizen", "Gin Ichimaru", "Kaname Tosen", "Ichigo"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a amiga que possui poderes de cura?",
+    "o": ["Orihime Inoue", "Rukia Kuchiki", "Yachiru Kusajishi", "Matsumoto Rangiku"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o capitão da 11ª divisão?",
+    "o": ["Kenpachi Zaraki", "Byakuya Kuchiki", "Sosuke Aizen", "Shunsui Kyoraku"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a forma Hollow de Ichigo?",
+    "o": ["Mask Hollow", "Resurrección", "Bankai", "Shikai"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o melhor amigo de Ichigo e também um shinigami substituto?",
+    "o": ["Uryu Ishida", "Renji Abarai", "Kisuke Urahara", "Yasutora Sado"],
+    "a": 0
+  },
+  {
+    "q": "Qual capitão usa um zanpakutou chamado Senbonzakura?",
+    "o": ["Byakuya Kuchiki", "Kenpachi Zaraki", "Toshiro Hitsugaya", "Sosuke Aizen"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o mestre de Urahara em técnicas de Kidou e estratégia?",
+    "o": ["Kisuke Urahara", "Yoruichi Shihouin", "Sosuke Aizen", "Byakuya Kuchiki"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a forma final do Bankai de Ichigo?",
+    "o": ["Tensa Zangetsu", "Senbonzakura Kageyoshi", "Hyorinmaru", "Sode no Shirayuki"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o capitão mais jovem de todos?",
+    "o": ["Toshiro Hitsugaya", "Renji Abarai", "Kenpachi Zaraki", "Shunsui Kyoraku"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a organização antagonista formada por arrancars?",
+    "o": ["Espada", "Gotei 13", "Visored", "Quincy"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a amiga que controla fios espirituais para atacar?",
+    "o": ["Orihime Inoue", "Rukia Kuchiki", "Yoruichi Shihouin", "Matsumoto Rangiku"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o capitão da 8ª divisão?",
+    "o": ["Shunsui Kyoraku", "Byakuya Kuchiki", "Kenpachi Zaraki", "Sosuke Aizen"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o vilão que traí a Soul Society e se torna líder dos Arrancars?",
+    "o": ["Sosuke Aizen", "Gin Ichimaru", "Kaname Tosen", "Yamamoto Genryusai"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o amigo gigante de Ichigo que usa força física?",
+    "o": ["Yasutora Sado (Chad)", "Uryu Ishida", "Renji Abarai", "Kisuke Urahara"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a amiga que se transforma em shinigami temporariamente para lutar?",
+    "o": ["Rukia Kuchiki", "Orihime Inoue", "Matsumoto Rangiku", "Yachiru Kusajishi"],
+    "a": 0
+  }
+]

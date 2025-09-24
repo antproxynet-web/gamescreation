@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quem é o protagonista da 1ª temporada de The Witcher?",
+    "o": ["Geralt de Rívia", "Jaskier", "Ciri", "Yennefer"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a profissão de Geralt de Rívia?",
+    "o": ["Bruxo", "Mago", "Rei", "Caçador de recompensas"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a feiticeira que se torna aliada de Geralt?",
+    "o": ["Yennefer de Vengerberg", "Triss Merigold", "Fringilla Vigo", "Keira Metz"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o bardo amigo de Geralt?",
+    "o": ["Jaskier", "Vesemir", "Dandelion", "Zoltan"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a jovem princesa com poderes especiais?",
+    "o": ["Ciri", "Renfri", "Francesca", "Vesemir"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o reino natal de Geralt?",
+    "o": ["Rívia", "Temeria", "Cintra", "Redania"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a rainha de Cintra?",
+    "o": ["Calanthe", "Yennefer", "Francesca", "Renfri"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o assassino que persegue Geralt na primeira temporada?",
+    "o": ["Renfri", "Emhyr var Emreis", "Dijkstra", "Vilgefortz"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o livro em que Ciri tem um grande destino?",
+    "o": ["O Livro do Destino", "O Livro das Sombras", "O Livro de Contos", "O Grimório"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o mentor de Geralt?",
+    "o": ["Vesemir", "Jaskier", "Emhyr var Emreis", "Dandelion"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a rainha feiticeira de Aretuza?",
+    "o": ["Tissaia de Vries", "Yennefer", "Triss Merigold", "Keira Metz"],
+    "a": 0
+  },
+  {
+    "q": "Quem lidera o ataque à cidade de Cintra?",
+    "o": ["Nilfgaard", "Temeria", "Redania", "Kaedwen"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a relação de Geralt com Ciri?",
+    "o": ["Guardião e protetor", "Primo distante", "Inimigos", "Mentor de magia"],
+    "a": 0
+  },
+  {
+    "q": "Quem é Renfri?",
+    "o": ["Uma assassina com passado trágico", "A rainha de Cintra", "Feiticeira de Aretuza", "Princesa Ciri"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o poder especial de Yennefer?",
+    "o": ["Magia poderosa", "Força sobre-humana", "Transformação física", "Previsão do futuro"],
+    "a": 0
+  },
+  {
+    "q": "Quem é Emhyr var Emreis?",
+    "o": ["Imperador de Nilfgaard", "Rei de Cintra", "Bruxo aliado de Geralt", "Feiticeiro traidor"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a arma principal de Geralt?",
+    "o": ["Espadas duplas", "Arco e flecha", "Machado", "Adaga mágica"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o alquimista e amigo de Geralt?",
+    "o": ["Vesemir", "Jaskier", "Dandelion", "Zoltan Chivay"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o responsável por transformar Yennefer?",
+    "o": ["Tissaia de Vries", "Fringilla Vigo", "Keira Metz", "Geralt de Rívia"],
+    "a": 0
+  },
+  {
+    "q": "Qual criatura Geralt caça na primeira temporada?",
+    "o": ["Estrige", "Dragão", "Troll", "Grifo"],
+    "a": 0
+  }
+]

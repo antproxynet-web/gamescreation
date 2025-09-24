@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual é o tema principal do livro de Salmos?",
+    "o": ["Louvor e adoração a Deus", "História de Israel", "Profecias sobre o Messias", "Leis de Moisés"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o principal autor dos Salmos?",
+    "o": ["Davi", "Moisés", "Salomão", "Isaías"],
+    "a": 0
+  },
+  {
+    "q": "Qual Salmo é conhecido como 'O Senhor é meu pastor'?",
+    "o": ["Salmo 23", "Salmo 1", "Salmo 51", "Salmo 100"],
+    "a": 0
+  },
+  {
+    "q": "Qual Salmo é usado frequentemente em penitência e arrependimento?",
+    "o": ["Salmo 51", "Salmo 23", "Salmo 100", "Salmo 91"],
+    "a": 0
+  },
+  {
+    "q": "Qual Salmo é famoso pelo convite ao louvor universal?",
+    "o": ["Salmo 100", "Salmo 23", "Salmo 1", "Salmo 51"],
+    "a": 0
+  },
+  {
+    "q": "Qual Salmo fala sobre a proteção divina e segurança do fiel?",
+    "o": ["Salmo 91", "Salmo 23", "Salmo 100", "Salmo 1"],
+    "a": 0
+  },
+  {
+    "q": "Qual Salmo começa com 'Bem-aventurado o homem que não anda segundo o conselho dos ímpios'?",
+    "o": ["Salmo 1", "Salmo 23", "Salmo 100", "Salmo 51"],
+    "a": 0
+  },
+  {
+    "q": "Qual Salmo é conhecido por pedir livramento dos inimigos e tribulações?",
+    "o": ["Salmo 27", "Salmo 23", "Salmo 100", "Salmo 1"],
+    "a": 0
+  },
+  {
+    "q": "Qual Salmo é usado em muitas cerimônias religiosas devido à sua expressão de confiança em Deus?",
+    "o": ["Salmo 23", "Salmo 1", "Salmo 100", "Salmo 51"],
+    "a": 0
+  },
+  {
+    "q": "Qual Salmo descreve a majestade de Deus e a criação do universo?",
+    "o": ["Salmo 8", "Salmo 23", "Salmo 100", "Salmo 1"],
+    "a": 0
+  },
+  {
+    "q": "Qual Salmo contém a famosa frase: 'Cria em mim, ó Deus, um coração puro'?",
+    "o": ["Salmo 51", "Salmo 23", "Salmo 100", "Salmo 1"],
+    "a": 0
+  },
+  {
+    "q": "Qual Salmo é recitado frequentemente para conforto em tempos de medo e perigo?",
+    "o": ["Salmo 91", "Salmo 23", "Salmo 100", "Salmo 1"],
+    "a": 0
+  },
+  {
+    "q": "Qual Salmo louva a fidelidade e a misericórdia eterna de Deus?",
+    "o": ["Salmo 136", "Salmo 23", "Salmo 100", "Salmo 1"],
+    "a": 0
+  },
+  {
+    "q": "Qual Salmo é conhecido por exaltar a sabedoria e a lei de Deus?",
+    "o": ["Salmo 119", "Salmo 23", "Salmo 100", "Salmo 1"],
+    "a": 0
+  },
+  {
+    "q": "Qual Salmo é usado para oração de proteção contra adversários?",
+    "o": ["Salmo 91", "Salmo 23", "Salmo 100", "Salmo 1"],
+    "a": 0
+  },
+  {
+    "q": "Qual Salmo é frequentemente chamado de 'Salmo do Reino' devido à exaltação de Deus sobre todas as nações?",
+    "o": ["Salmo 47", "Salmo 23", "Salmo 100", "Salmo 1"],
+    "a": 0
+  },
+  {
+    "q": "Qual Salmo celebra a justiça e retidão de Deus sobre a terra?",
+    "o": ["Salmo 89", "Salmo 23", "Salmo 100", "Salmo 1"],
+    "a": 0
+  },
+  {
+    "q": "Qual Salmo é usado para agradecer e louvar a Deus por Sua bondade diária?",
+    "o": ["Salmo 100", "Salmo 23", "Salmo 1", "Salmo 51"],
+    "a": 0
+  },
+  {
+    "q": "Qual Salmo fala sobre a esperança e confiança mesmo em meio à perseguição?",
+    "o": ["Salmo 27", "Salmo 23", "Salmo 100", "Salmo 1"],
+    "a": 0
+  },
+  {
+    "q": "Qual Salmo é conhecido por declarar a soberania e poder de Deus sobre todos os reis e povos?",
+    "o": ["Salmo 47", "Salmo 23", "Salmo 100", "Salmo 1"],
+    "a": 0
+  }
+]

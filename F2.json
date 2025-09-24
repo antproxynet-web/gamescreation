@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual é o rio mais longo do mundo?",
+    "o": ["Nilo", "Amazônia", "Mississippi", "Yangtzé"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o maior lago do mundo em área?",
+    "o": ["Mar Cáspio", "Lago Superior", "Lago Vitória", "Lago Michigan"],
+    "a": 0
+  },
+  {
+    "q": "Em qual continente está o rio Amazonas?",
+    "o": ["América do Sul", "África", "Ásia", "América do Norte"],
+    "a": 0
+  },
+  {
+    "q": "Qual rio passa pela cidade de Paris?",
+    "o": ["Senna", "Tamisa", "Tibre", "Reno"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o lago mais profundo do mundo?",
+    "o": ["Baikal", "Titicaca", "Superior", "Vostok"],
+    "a": 0
+  },
+  {
+    "q": "Qual rio atravessa o Egito?",
+    "o": ["Nilo", "Congo", "Zambeze", "Tigre"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o maior rio da África?",
+    "o": ["Nilo", "Congo", "Zambeze", "Níger"],
+    "a": 0
+  },
+  {
+    "q": "Qual lago é compartilhado pelo Canadá e pelos EUA?",
+    "o": ["Lago Superior", "Lago Tanganica", "Lago Baikal", "Lago Vitória"],
+    "a": 0
+  },
+  {
+    "q": "Qual rio atravessa Londres?",
+    "o": ["Tamisa", "Seine", "Danúbio", "Reno"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o rio mais longo da América do Norte?",
+    "o": ["Mississippi", "Missouri", "Rio Grande", "Yukon"],
+    "a": 0
+  },
+  {
+    "q": "Qual rio deságua no Mar Negro?",
+    "o": ["Danúbio", "Volga", "Reno", "Tibre"],
+    "a": 0
+  },
+  {
+    "q": "Qual lago é famoso por estar localizado na fronteira entre Bolívia e Peru?",
+    "o": ["Titicaca", "Lago Superior", "Lago Baikal", "Lago Malawi"],
+    "a": 0
+  },
+  {
+    "q": "Qual rio atravessa a cidade de Budapeste, Hungria?",
+    "o": ["Danúbio", "Reno", "Volga", "Elba"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o maior rio da Ásia?",
+    "o": ["Yangtzé", "Ganges", "Mekong", "Amur"],
+    "a": 0
+  },
+  {
+    "q": "Qual rio é conhecido como o mais sagrado da Índia?",
+    "o": ["Ganges", "Indo", "Brahmaputra", "Yamuna"],
+    "a": 0
+  },
+  {
+    "q": "Qual lago africano é famoso por sua biodiversidade de peixes?",
+    "o": ["Lago Malawi", "Titicaca", "Victoria", "Chad"],
+    "a": 0
+  },
+  {
+    "q": "Qual rio passa pela cidade de Roma?",
+    "o": ["Tibre", "Po", "Arno", "Reno"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o maior rio da Austrália?",
+    "o": ["Murray", "Darling", "Murrumbidgee", "Lachlan"],
+    "a": 0
+  },
+  {
+    "q": "Qual lago é conhecido por suas águas extremamente salgadas no Oriente Médio?",
+    "o": ["Mar Morto", "Titicaca", "Lago Baikal", "Lago Victoria"],
+    "a": 0
+  },
+  {
+    "q": "Qual rio atravessa a cidade de Cairo?",
+    "o": ["Nilo", "Senna", "Tamisa", "Danúbio"],
+    "a": 0
+  }
+]

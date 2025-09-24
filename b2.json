@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual é o primeiro livro da Bíblia?",
+    "o": ["Gênesis", "Êxodo", "Levítico", "Números"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o pai de Isaque?",
+    "o": ["Abraão", "Jacó", "Noé", "Davi"],
+    "a": 0
+  },
+  {
+    "q": "Qual profeta desafiou os profetas de Baal no Monte Carmelo?",
+    "o": ["Elias", "Isaías", "Jeremias", "Ezequiel"],
+    "a": 0
+  },
+  {
+    "q": "Qual rei de Israel é conhecido por sua sabedoria?",
+    "o": ["Salomão", "Davi", "Saul", "Ezequias"],
+    "a": 0
+  },
+  {
+    "q": "Quem liderou os israelitas na saída do Egito?",
+    "o": ["Moisés", "Josué", "Abraão", "Elias"],
+    "a": 0
+  },
+  {
+    "q": "Qual cidade foi destruída com fogo e enxofre por desobediência?",
+    "o": ["Sodoma", "Jericó", "Nínive", "Belém"],
+    "a": 0
+  },
+  {
+    "q": "Quem recebeu os Dez Mandamentos de Deus no Monte Sinai?",
+    "o": ["Moisés", "Josué", "Abraão", "Davi"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi vendido como escravo pelos próprios irmãos?",
+    "o": ["José", "Efraim", "Judá", "Benjamim"],
+    "a": 0
+  },
+  {
+    "q": "Qual profeta foi engolido por um grande peixe?",
+    "o": ["Jonas", "Daniel", "Ezequiel", "Isaías"],
+    "a": 0
+  },
+  {
+    "q": "Qual filho de Jacó teve suas tribos fundadas em Israel?",
+    "o": ["Judá", "José", "Benjamim", "Levi"],
+    "a": 0
+  },
+  {
+    "q": "Quem derrotou Golias com apenas uma funda e uma pedra?",
+    "o": ["Davi", "Sansão", "Josué", "Saul"],
+    "a": 0
+  },
+  {
+    "q": "Quem construiu a Arca para sobreviver ao Dilúvio?",
+    "o": ["Noé", "Abraão", "Moisés", "Ezequiel"],
+    "a": 0
+  },
+  {
+    "q": "Qual profeta teve visões do trono de Deus e escreveu livros proféticos?",
+    "o": ["Ezequiel", "Isaías", "Jeremias", "Daniel"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o irmão de Moisés que ajudou a liderar os israelitas?",
+    "o": ["Arão", "Josué", "Calebe", "Elias"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o livro que contém o Cântico de Moisés e o Decálogo?",
+    "o": ["Êxodo", "Gênesis", "Levítico", "Deuteronômio"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o profeta que confrontou o rei Acabe e a rainha Jezabel?",
+    "o": ["Elias", "Isaías", "Jeremias", "Ezequiel"],
+    "a": 0
+  },
+  {
+    "q": "Qual cidade teve suas muralhas caídas após os israelitas marcharem sete dias ao redor dela?",
+    "o": ["Jericó", "Sodoma", "Nínive", "Belém"],
+    "a": 0
+  },
+  {
+    "q": "Quem teve um sonho interpretado sobre a escada que chegava ao céu?",
+    "o": ["Jacó", "José", "Abraão", "Isaque"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o primeiro rei de Israel?",
+    "o": ["Saul", "Davi", "Salomão", "Ezequias"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi chamado por Deus para ser profeta ainda jovem?",
+    "o": ["Samuel", "Isaías", "Jeremias", "Ezequiel"],
+    "a": 0
+  }
+]

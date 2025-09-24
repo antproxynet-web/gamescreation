@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que foi o experimento de Michelson-Morley?",
+    "o": ["Tentativa de medir o éter luminífero, que resultou em velocidade da luz constante", "Medida da gravidade terrestre", "Experimento com balões", "Medida da pressão atmosférica"],
+    "a": 0
+  },
+  {
+    "q": "O que é o experimento da gota de óleo de Millikan?",
+    "o": ["Determinação da carga do elétron", "Medida da massa do próton", "Estudo da gravidade", "Experimento de velocidade da luz"],
+    "a": 0
+  },
+  {
+    "q": "O que é o experimento da dupla fenda de Young?",
+    "o": ["Demonstra a interferência da luz e a dualidade onda-partícula", "Mede a gravidade", "Estuda a pressão de gases", "Mede velocidade de som"],
+    "a": 0
+  },
+  {
+    "q": "O que foi o experimento de Rutherford?",
+    "o": ["Descobriu o núcleo atômico através da dispersão de partículas alfa", "Mediu a carga elétrica do elétron", "Estudou a luz refratada", "Medida da densidade do ar"],
+    "a": 0
+  },
+  {
+    "q": "O que é o experimento de Cavendish?",
+    "o": ["Medida da constante gravitacional G e da massa da Terra", "Experimento de calor específico", "Teste de corrente elétrica", "Medida da luz"],
+    "a": 0
+  },
+  {
+    "q": "O que é o experimento de Franck-Hertz?",
+    "o": ["Comprovou a quantização de níveis de energia em átomos", "Medida de pressão", "Estudo de refração de luz", "Medição da gravidade"],
+    "a": 0
+  },
+  {
+    "q": "O que é o experimento de Fizeau?",
+    "o": ["Medida da velocidade da luz em um meio em movimento", "Experimento de radiação", "Teste de calor específico", "Medição de massa de elétrons"],
+    "a": 0
+  },
+  {
+    "q": "O que foi o experimento de Oersted?",
+    "o": ["Mostrou que corrente elétrica cria campo magnético", "Medida da pressão atmosférica", "Detecção de radiação alfa", "Experimento de refracção da luz"],
+    "a": 0
+  },
+  {
+    "q": "O que foi o experimento de Hertz?",
+    "o": ["Demonstrou a existência de ondas eletromagnéticas", "Mediu massa da Terra", "Medida de energia cinética", "Teste de velocidade da luz"],
+    "a": 0
+  },
+  {
+    "q": "O que foi o experimento de Curie e Becquerel?",
+    "o": ["Descobriu a radioatividade natural", "Mediu a gravidade", "Mediu a velocidade da luz", "Estudou resistência elétrica"],
+    "a": 0
+  },
+  {
+    "q": "O que foi o experimento de Cavendish com a balança de torção?",
+    "o": ["Determinou a constante gravitacional G", "Medida da densidade do ar", "Mediu energia térmica", "Estudo de corrente elétrica"],
+    "a": 0
+  },
+  {
+    "q": "O que foi o experimento de Stern-Gerlach?",
+    "o": ["Demonstrou o quantização do spin de partículas", "Mediu a gravidade", "Estudo de ondas sonoras", "Medida da massa atômica"],
+    "a": 0
+  },
+  {
+    "q": "O que é o experimento de Young com elétrons?",
+    "o": ["Demonstra interferência e dualidade onda-partícula para elétrons", "Medida de calor específico", "Estudo de pressão", "Experimento de gravidade"],
+    "a": 0
+  },
+  {
+    "q": "O que foi o experimento de Planck sobre radiação do corpo negro?",
+    "o": ["Iniciou a teoria quântica, explicando espectro de radiação", "Medida de gravidade", "Teste de calor", "Medição da velocidade da luz"],
+    "a": 0
+  },
+  {
+    "q": "O que foi o experimento de Einstein com efeito fotoelétrico?",
+    "o": ["Mostrou que luz é quantizada em fótons", "Medida de pressão atmosférica", "Experimento de ondas sonoras", "Medição de densidade do ar"],
+    "a": 0
+  },
+  {
+    "q": "O que é o experimento de Lavoisier?",
+    "o": ["Demonstrou a conservação de massa em reações químicas", "Mediu energia cinética", "Experimento de gravidade", "Medida da luz"],
+    "a": 0
+  },
+  {
+    "q": "O que foi o experimento de Thomson?",
+    "o": ["Descobriu o elétron usando tubo de raios catódicos", "Medida da massa do próton", "Experimento de gravidade", "Medição da luz"],
+    "a": 0
+  },
+  {
+    "q": "O que foi o experimento de Galileu com planos inclinados?",
+    "o": ["Estudou aceleração e movimento uniformemente acelerado", "Mediu a gravidade da Lua", "Testou eletricidade", "Medida de luz"],
+    "a": 0
+  },
+  {
+    "q": "O que foi o experimento de Foucault?",
+    "o": ["Demonstrou a rotação da Terra usando pêndulo", "Mediu velocidade da luz", "Estudou calor específico", "Experimento com ondas sonoras"],
+    "a": 0
+  },
+  {
+    "q": "O que foi o experimento de Cavendish para pesar a Terra?",
+    "o": ["Determinou a massa da Terra e constante gravitacional", "Medida da densidade do Sol", "Medida da velocidade da luz", "Experimento de calor específico"],
+    "a": 0
+  }
+]

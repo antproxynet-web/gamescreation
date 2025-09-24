@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quem é a protagonista central de 13 Reasons Why?",
+    "o": ["Hannah Baker", "Clay Jensen", "Jessica Davis", "Tony Padilla"],
+    "a": 0
+  },
+  {
+    "q": "Quem ouve as fitas deixadas por Hannah?",
+    "o": ["Clay Jensen", "Justin Foley", "Tyler Down", "Zach Dempsey"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o amigo e confidente de Clay?",
+    "o": ["Tony Padilla", "Justin Foley", "Alex Standall", "Marcus Cole"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o estudante que inicialmente espalha rumores sobre Hannah?",
+    "o": ["Justin Foley", "Zach Dempsey", "Alex Standall", "Tyler Down"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a amiga próxima de Hannah que enfrenta seus próprios problemas?",
+    "o": ["Jessica Davis", "Courtney Crimsen", "Sherri Holland", "Olivia Baker"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o professor de fotografia que se torna aliado dos alunos?",
+    "o": ["Mr. Porter", "Mr. Bradley", "Mr. Jensen", "Mr. Crimsen"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o estudante que sofre bullying e é fotografado secretamente?",
+    "o": ["Tyler Down", "Justin Foley", "Alex Standall", "Zach Dempsey"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o personagem que pratica violência sexual contra Hannah?",
+    "o": ["Bryce Walker", "Justin Foley", "Alex Standall", "Zach Dempsey"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o irmão mais novo de Hannah?",
+    "o": ["Tony Padilla", "Clay Jensen", "Olivia Baker", "Marcus Cole"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o conselheiro da escola que tenta ajudar os alunos?",
+    "o": ["Mr. Porter", "Mr. Jensen", "Mr. Bradley", "Mr. Crimsen"],
+    "a": 0
+  },
+  {
+    "q": "Quem espalha fotos íntimas de Jessica Davis?",
+    "o": ["Bryce Walker", "Tyler Down", "Alex Standall", "Justin Foley"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o estudante que ajuda Clay a entender a história de Hannah?",
+    "o": ["Tony Padilla", "Alex Standall", "Justin Foley", "Marcus Cole"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o jogador de basquete que se envolve com Hannah?",
+    "o": ["Zach Dempsey", "Bryce Walker", "Justin Foley", "Alex Standall"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a personagem que se torna inimiga de Hannah e espalha boatos?",
+    "o": ["Courtney Crimsen", "Jessica Davis", "Olivia Baker", "Sherri Holland"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o personagem que comete suicídio no início da série?",
+    "o": ["Hannah Baker", "Bryce Walker", "Tyler Down", "Alex Standall"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o estudante que luta com problemas de saúde mental?",
+    "o": ["Tyler Down", "Justin Foley", "Clay Jensen", "Zach Dempsey"],
+    "a": 0
+  },
+  {
+    "q": "Quem grava e deixa fitas contando os motivos de seu suicídio?",
+    "o": ["Hannah Baker", "Jessica Davis", "Olivia Baker", "Courtney Crimsen"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o aluno que tem conflitos com Bryce Walker?",
+    "o": ["Clay Jensen", "Justin Foley", "Zach Dempsey", "Alex Standall"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a mãe de Hannah Baker?",
+    "o": ["Olivia Baker", "Sherri Holland", "Jessica Davis", "Courtney Crimsen"],
+    "a": 0
+  },
+  {
+    "q": "Quem ajuda a organizar a justiça após os acontecimentos das fitas?",
+    "o": ["Clay Jensen", "Tony Padilla", "Alex Standall", "Justin Foley"],
+    "a": 0
+  }
+]

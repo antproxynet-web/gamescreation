@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que é uma colisão em física?",
+    "o": ["Interação entre dois corpos que se chocam, podendo trocar energia e quantidade de movimento", "Força aplicada sem movimento", "Movimento circular apenas", "Energia térmica isolada"],
+    "a": 0
+  },
+  {
+    "q": "O que é colisão elástica?",
+    "o": ["Colisão em que a energia cinética total se conserva", "Colisão com deformação permanente", "Colisão com perda total de energia", "Colisão entre líquidos apenas"],
+    "a": 0
+  },
+  {
+    "q": "O que é colisão inelástica?",
+    "o": ["Colisão em que parte da energia cinética é transformada em calor, som ou deformação", "Colisão que conserva energia cinética", "Colisão entre gases apenas", "Colisão de partículas subatômicas apenas"],
+    "a": 0
+  },
+  {
+    "q": "O que é colisão perfeitamente inelástica?",
+    "o": ["Colisão em que os corpos grudam após o choque", "Colisão elástica entre corpos", "Colisão sem interação", "Colisão de partículas neutras apenas"],
+    "a": 0
+  },
+  {
+    "q": "O que é quantidade de movimento (momento linear)?",
+    "o": ["Produto da massa pela velocidade de um corpo", "Energia cinética", "Força aplicada", "Trabalho realizado"],
+    "a": 0
+  },
+  {
+    "q": "Qual lei está envolvida em todas as colisões?",
+    "o": ["Conservação da quantidade de movimento", "Lei de Ohm", "Lei de Pascal", "Princípio de Arquimedes"],
+    "a": 0
+  },
+  {
+    "q": "O que é energia cinética?",
+    "o": ["Energia que um corpo possui devido ao seu movimento", "Energia armazenada em um corpo parado", "Energia elétrica", "Energia térmica apenas"],
+    "a": 0
+  },
+  {
+    "q": "O que acontece com a energia cinética em colisão elástica?",
+    "o": ["A energia cinética total é conservada", "É totalmente dissipada em calor", "Transforma-se em massa", "Se perde parcialmente no ambiente"],
+    "a": 0
+  },
+  {
+    "q": "O que acontece com a energia cinética em colisão inelástica?",
+    "o": ["Parte se transforma em calor, som ou deformação", "É totalmente conservada", "Transforma-se em trabalho apenas", "Desaparece completamente"],
+    "a": 0
+  },
+  {
+    "q": "O que é coeficiente de restituição?",
+    "o": ["Medida da elasticidade de uma colisão", "Massa total dos corpos", "Energia perdida", "Velocidade final"],
+    "a": 0
+  },
+  {
+    "q": "O que caracteriza uma colisão frontal?",
+    "o": ["Corpos se movem em direções opostas e colidem de frente", "Colisão tangencial", "Colisão sem contato", "Colisão entre líquidos apenas"],
+    "a": 0
+  },
+  {
+    "q": "O que caracteriza uma colisão oblíqua?",
+    "o": ["Corpos colidem em ângulo, não de frente", "Colisão totalmente elástica", "Colisão perpendicular ao solo", "Colisão entre gases apenas"],
+    "a": 0
+  },
+  {
+    "q": "O que é impulso em colisão?",
+    "o": ["Variação da quantidade de movimento de um corpo durante um intervalo de tempo", "Energia cinética instantânea", "Força média apenas", "Trabalho realizado pelo corpo"],
+    "a": 0
+  },
+  {
+    "q": "Como se calcula a velocidade relativa de dois corpos em colisão?",
+    "o": ["Diferença das velocidades antes da colisão", "Soma das massas", "Energia potencial dividida", "Velocidade de um corpo apenas"],
+    "a": 0
+  },
+  {
+    "q": "O que é conservação de energia em colisões?",
+    "o": ["Em colisões elásticas, a energia cinética total se mantém constante", "A energia se perde sempre", "A energia se transforma em massa", "Não há energia envolvida"],
+    "a": 0
+  },
+  {
+    "q": "O que é choque de partículas em física?",
+    "o": ["Interação de partículas subatômicas com troca de energia e momento", "Colisão de planetas", "Movimento de líquidos", "Energia térmica isolada"],
+    "a": 0
+  },
+  {
+    "q": "O que é colisão central?",
+    "o": ["Colisão em que a linha de movimento dos corpos coincide com a linha de choque", "Colisão oblíqua", "Colisão tangencial", "Colisão de líquidos"],
+    "a": 0
+  },
+  {
+    "q": "O que é colisão tangencial?",
+    "o": ["Colisão em que os corpos apenas se tocam lateralmente", "Colisão frontal", "Colisão perfeitamente elástica", "Colisão de partículas neutras"],
+    "a": 0
+  },
+  {
+    "q": "O que é conservação de momento angular em colisões?",
+    "o": ["O momento angular total se mantém constante se não há torque externo", "A energia cinética se perde", "O impulso desaparece", "A velocidade final é zero"],
+    "a": 0
+  },
+  {
+    "q": "O que é choque de alta energia?",
+    "o": ["Colisão com velocidades muito altas, comum em física de partículas", "Colisão de bolas de bilhar", "Colisão lenta entre carros", "Choque em fluidos apenas"],
+    "a": 0
+  }
+]

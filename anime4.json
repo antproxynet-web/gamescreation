@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quem é o protagonista principal de Saint Seiya?",
+    "o": ["Seiya de Pégaso", "Shiryu de Dragão", "Hyoga de Cisne", "Ikki de Fênix"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o objetivo dos Cavaleiros de Atena?",
+    "o": ["Proteger a deusa Atena e a Terra", "Derrotar Hades", "Encontrar as Esferas do Dragão", "Destruir Asgard"],
+    "a": 0
+  },
+  {
+    "q": "Qual cavaleiro veste a armadura de Dragão?",
+    "o": ["Shiryu", "Seiya", "Hyoga", "Shun"],
+    "a": 0
+  },
+  {
+    "q": "Qual cavaleiro veste a armadura de Cisne?",
+    "o": ["Hyoga", "Seiya", "Shun", "Ikki"],
+    "a": 0
+  },
+  {
+    "q": "Qual cavaleiro veste a armadura de Andrômeda?",
+    "o": ["Shun", "Seiya", "Hyoga", "Shiryu"],
+    "a": 0
+  },
+  {
+    "q": "Qual cavaleiro veste a armadura de Fênix?",
+    "o": ["Ikki", "Seiya", "Hyoga", "Shun"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o vilão da saga das Doze Casas?",
+    "o": ["Saga de Gêmeos", "Ares", "Poseidon", "Hades"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a arma principal de Shun de Andrômeda?",
+    "o": ["Corrente", "Punhos", "Espada", "Arco"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a armadura de Seiya?",
+    "o": ["Pégaso", "Dragão", "Cisne", "Fênix"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a deusa que os cavaleiros protegem?",
+    "o": ["Atena", "Afrodite", "Artemis", "Hera"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a armadura de Shiryu?",
+    "o": ["Dragão", "Pégaso", "Cisne", "Andrômeda"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o cavaleiro de Ouro de Libra?",
+    "o": ["Dohko", "Saga de Gêmeos", "Shaka de Virgem", "Aiolia de Leão"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a técnica especial de Seiya?",
+    "o": ["Meteoro de Pégaso", "Excalibur", "Dragão Ascendente", "Cisne de Gelo"],
+    "a": 0
+  },
+  {
+    "q": "Qual cavaleiro tem o poder do gelo?",
+    "o": ["Hyoga de Cisne", "Seiya", "Shiryu", "Shun"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o cavaleiro de Fênix que se sacrifica várias vezes?",
+    "o": ["Ikki", "Seiya", "Shun", "Hyoga"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome do vilão da saga de Poseidon?",
+    "o": ["Poseidon", "Hades", "Ares", "Cronos"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o cavaleiro de Ouro de Virgem?",
+    "o": ["Shaka", "Aiolia", "Mu de Áries", "Dohko"],
+    "a": 0
+  },
+  {
+    "q": "Qual cavaleiro é conhecido por suas correntes defensivas e ofensivas?",
+    "o": ["Shun de Andrômeda", "Seiya de Pégaso", "Shiryu de Dragão", "Hyoga de Cisne"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o mestre do Dragão, mentor de Shiryu?",
+    "o": ["Dohko", "Shaka", "Ikki", "Mu de Áries"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o cosmo dos cavaleiros?",
+    "o": ["Energia interior que aumenta seu poder de luta", "Magia das estrelas", "Poder dos deuses", "Energia da lua"],
+    "a": 0
+  }
+]

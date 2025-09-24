@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que é física quântica?",
+    "o": ["Ramo da física que estuda fenômenos em escalas atômicas e subatômicas", "Estudo da gravidade", "Estudo de ondas sonoras", "Estudo da óptica"],
+    "a": 0
+  },
+  {
+    "q": "Quem é considerado o pai da mecânica quântica?",
+    "o": ["Max Planck", "Isaac Newton", "Albert Einstein", "Niels Bohr"],
+    "a": 0
+  },
+  {
+    "q": "O que é quantização de energia?",
+    "o": ["Energia assumida apenas em valores discretos", "Energia contínua e infinita", "Energia térmica", "Energia elétrica"],
+    "a": 0
+  },
+  {
+    "q": "O que é dualidade onda-partícula?",
+    "o": ["Partículas podem se comportar como ondas e vice-versa", "Somente partículas têm massa", "Somente ondas têm energia", "Partículas são invisíveis"],
+    "a": 0
+  },
+  {
+    "q": "O que é princípio da incerteza de Heisenberg?",
+    "o": ["Não é possível medir simultaneamente posição e momento com precisão absoluta", "Energia se conserva sempre", "Força é igual a massa vezes aceleração", "Velocidade é constante"],
+    "a": 0
+  },
+  {
+    "q": "O que é função de onda?",
+    "o": ["Descrição matemática do estado quântico de uma partícula", "Medida da velocidade de uma partícula", "Energia de um elétron", "Campo gravitacional"],
+    "a": 0
+  },
+  {
+    "q": "O que é princípio de superposição?",
+    "o": ["Um sistema quântico pode existir simultaneamente em múltiplos estados", "Energia é sempre positiva", "Partículas não podem ser divididas", "A luz é sempre contínua"],
+    "a": 0
+  },
+  {
+    "q": "O que é colapso da função de onda?",
+    "o": ["Mudança do sistema quântico para um estado definido após medição", "Aumento da energia", "Propagação de luz", "Velocidade constante"],
+    "a": 0
+  },
+  {
+    "q": "O que é spin?",
+    "o": ["Propriedade intrínseca das partículas relacionada ao momento angular", "Massa da partícula", "Velocidade de propagação", "Energia cinética"],
+    "a": 0
+  },
+  {
+    "q": "O que é entrelaçamento quântico?",
+    "o": ["Partículas correlacionadas de forma que o estado de uma afeta a outra instantaneamente", "Aceleração de partículas", "Transferência de calor", "Propagação de ondas sonoras"],
+    "a": 0
+  },
+  {
+    "q": "O que é nível de energia?",
+    "o": ["Energia permitida de um elétron em um átomo", "Energia térmica", "Energia potencial gravitacional", "Energia de uma onda sonora"],
+    "a": 0
+  },
+  {
+    "q": "O que é fóton?",
+    "o": ["Partícula elementar de luz", "Partícula de massa", "Átomo de hidrogênio", "Campo magnético"],
+    "a": 0
+  },
+  {
+    "q": "O que é efeito fotoelétrico?",
+    "o": ["Emissão de elétrons de um metal quando iluminado por luz", "Reflexão da luz", "Refração da luz", "Interferência sonora"],
+    "a": 0
+  },
+  {
+    "q": "Quem explicou o efeito fotoelétrico usando fótons?",
+    "o": ["Albert Einstein", "Max Planck", "Niels Bohr", "Werner Heisenberg"],
+    "a": 0
+  },
+  {
+    "q": "O que é princípio de exclusão de Pauli?",
+    "o": ["Dois elétrons de um mesmo átomo não podem ter todos os números quânticos iguais", "Energia não se conserva", "A luz é contínua", "Massa é infinita"],
+    "a": 0
+  },
+  {
+    "q": "O que é modelo de Bohr do átomo?",
+    "o": ["Átomo com elétrons em órbitas discretas ao redor do núcleo", "Átomo contínuo", "Átomo com elétrons fixos", "Átomo sem núcleo"],
+    "a": 0
+  },
+  {
+    "q": "O que é princípio da complementaridade de Bohr?",
+    "o": ["Partículas quânticas podem se comportar como ondas ou partículas, dependendo da medição", "Energia é contínua", "Partículas têm posição fixa", "Luz não tem energia"],
+    "a": 0
+  },
+  {
+    "q": "O que é tunelamento quântico?",
+    "o": ["Partícula atravessa barreira de potencial mesmo sem energia suficiente", "Partícula reflete em barreira", "Partícula perde energia", "Partícula acelera infinitamente"],
+    "a": 0
+  },
+  {
+    "q": "O que é princípio da incerteza de energia-tempo?",
+    "o": ["Imprecisão na medida simultânea da energia e do tempo de um sistema quântico", "Energia sempre constante", "Tempo nunca muda", "Energia cinética é infinita"],
+    "a": 0
+  },
+  {
+    "q": "O que é número quântico principal?",
+    "o": ["Número que indica o nível de energia de um elétron em um átomo", "Número de prótons", "Número de elétrons no núcleo", "Massa da partícula"],
+    "a": 0
+  }
+]

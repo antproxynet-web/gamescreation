@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quem foi o apóstolo conhecido como 'o Pedro da igreja'?",
+    "o": ["Pedro", "Paulo", "João", "Tiago"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi inicialmente chamado de Saulo antes de se tornar apóstolo?",
+    "o": ["Paulo", "Pedro", "André", "Tomé"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o apóstolo conhecido como 'o discípulo amado'?",
+    "o": ["João", "Pedro", "Tiago", "Bartolomeu"],
+    "a": 0
+  },
+  {
+    "q": "Quem negou Jesus três vezes antes do galo cantar?",
+    "o": ["Pedro", "João", "André", "Tomé"],
+    "a": 0
+  },
+  {
+    "q": "Quem duvidou da ressurreição de Jesus até tocar suas feridas?",
+    "o": ["Tomé", "Pedro", "João", "Mateus"],
+    "a": 0
+  },
+  {
+    "q": "Quem era irmão de Pedro e também apóstolo?",
+    "o": ["André", "Tiago", "João", "Bartolomeu"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o autor de várias epístolas do Novo Testamento?",
+    "o": ["Paulo", "Pedro", "João", "Tiago"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi crucificado de cabeça para baixo em Roma?",
+    "o": ["Pedro", "Paulo", "João", "Tiago"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi apedrejado até a morte por pregar a palavra de Deus?",
+    "o": ["Estevão", "Pedro", "Paulo", "Tiago"],
+    "a": 0
+  },
+  {
+    "q": "Quem escreveu o livro de Atos dos Apóstolos?",
+    "o": ["Lucas", "João", "Paulo", "Pedro"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o primeiro apóstolo a ser chamado por Jesus?",
+    "o": ["André", "Pedro", "Tiago", "João"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi apóstolo e também cobrador de impostos antes de seguir Jesus?",
+    "o": ["Mateus", "Pedro", "Tiago", "João"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi apóstolo e irmão de Tiago, filho de Zebedeu?",
+    "o": ["João", "Pedro", "André", "Bartolomeu"],
+    "a": 0
+  },
+  {
+    "q": "Quem pregou aos gentios e levou o evangelho à Ásia Menor e Grécia?",
+    "o": ["Paulo", "Pedro", "João", "Tiago"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi conhecido por pregar com coragem e fazer milagres após Pentecostes?",
+    "o": ["Pedro", "João", "Tiago", "André"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi apóstolo e é associado à autoria do Apocalipse?",
+    "o": ["João", "Pedro", "Paulo", "Tiago"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi martirizado em Roma sendo decapitado?",
+    "o": ["Paulo", "Pedro", "João", "Tiago"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi chamado por Jesus de 'Boanerges', ou 'Filhos do Trovão'?",
+    "o": ["João e Tiago", "Pedro e André", "Mateus e Tomé", "Felipe e Bartolomeu"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi escolhido para substituir Judas Iscariotes como apóstolo?",
+    "o": ["Matias", "Barsabás", "Paulo", "Tiago"],
+    "a": 0
+  },
+  {
+    "q": "Quem viajou com Paulo em suas viagens missionárias?",
+    "o": ["Barnabé", "Pedro", "João", "André"],
+    "a": 0
+  }
+]

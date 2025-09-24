@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual cidade é conhecida como a capital do Império Romano?",
+    "o": ["Roma", "Atenas", "Cairo", "Constantinopla"],
+    "a": 0
+  },
+  {
+    "q": "Qual cidade antiga é famosa por suas pirâmides e esfinges?",
+    "o": ["Cairo", "Machu Picchu", "Atenas", "Roma"],
+    "a": 0
+  },
+  {
+    "q": "Qual cidade é famosa por Machu Picchu?",
+    "o": ["Cusco", "Lima", "Quito", "La Paz"],
+    "a": 0
+  },
+  {
+    "q": "Qual cidade é considerada o berço da democracia?",
+    "o": ["Atenas", "Roma", "Esparta", "Cairo"],
+    "a": 0
+  },
+  {
+    "q": "Qual cidade histórica italiana é conhecida por sua torre inclinada?",
+    "o": ["Pisa", "Roma", "Veneza", "Florença"],
+    "a": 0
+  },
+  {
+    "q": "Qual cidade foi a capital do Império Bizantino?",
+    "o": ["Constantinopla", "Roma", "Atenas", "Belgrado"],
+    "a": 0
+  },
+  {
+    "q": "Qual cidade é famosa por sua cidade proibida e palácio imperial?",
+    "o": ["Pequim", "Tóquio", "Seul", "Bangkok"],
+    "a": 0
+  },
+  {
+    "q": "Qual cidade francesa é conhecida por sua catedral gótica e história medieval?",
+    "o": ["Paris", "Lyon", "Marselha", "Bordeaux"],
+    "a": 0
+  },
+  {
+    "q": "Qual cidade é famosa por suas ruínas maias em Yucatán?",
+    "o": ["Chichén Itzá", "Tikal", "Coba", "Uxmal"],
+    "a": 0
+  },
+  {
+    "q": "Qual cidade é conhecida como a capital cultural do Egito antigo?",
+    "o": ["Memphis", "Luxor", "Cairo", "Alexandria"],
+    "a": 0
+  },
+  {
+    "q": "Qual cidade histórica da Turquia foi conhecida como Bizâncio?",
+    "o": ["Istambul", "Ankara", "Esmirna", "Antália"],
+    "a": 0
+  },
+  {
+    "q": "Qual cidade italiana é famosa por seus canais e gôndolas?",
+    "o": ["Veneza", "Roma", "Milão", "Florença"],
+    "a": 0
+  },
+  {
+    "q": "Qual cidade é famosa por suas muralhas e história medieval na Espanha?",
+    "o": ["Toledo", "Barcelona", "Madrid", "Sevilha"],
+    "a": 0
+  },
+  {
+    "q": "Qual cidade é conhecida por suas ruínas incas e localização nos Andes?",
+    "o": ["Machu Picchu", "Cusco", "Lima", "Quito"],
+    "a": 0
+  },
+  {
+    "q": "Qual cidade histórica na Jordânia é famosa por suas construções esculpidas em pedra?",
+    "o": ["Petra", "Amã", "Jerash", "Aqaba"],
+    "a": 0
+  },
+  {
+    "q": "Qual cidade inglesa é famosa por Stonehenge próximo a ela?",
+    "o": ["Salisbury", "Londres", "Manchester", "Oxford"],
+    "a": 0
+  },
+  {
+    "q": "Qual cidade indiana é famosa pelo Taj Mahal?",
+    "o": ["Agra", "Delhi", "Jaipur", "Mumbai"],
+    "a": 0
+  },
+  {
+    "q": "Qual cidade histórica chinesa possui a Muralha da China próxima?",
+    "o": ["Pequim", "Xian", "Shanghai", "Suzhou"],
+    "a": 0
+  },
+  {
+    "q": "Qual cidade grega é famosa por sua Acrópole?",
+    "o": ["Atenas", "Sparta", "Thessaloniki", "Delphi"],
+    "a": 0
+  },
+  {
+    "q": "Qual cidade histórica no Peru foi capital do Império Inca?",
+    "o": ["Cusco", "Lima", "Arequipa", "Trujillo"],
+    "a": 0
+  }
+]

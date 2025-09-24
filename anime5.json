@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quem é o protagonista principal da série Pokémon?",
+    "o": ["Ash Ketchum", "Red", "Brock", "Misty"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o Pokémon inicial do tipo Fogo de Kanto?",
+    "o": ["Charmander", "Bulbasaur", "Squirtle", "Pikachu"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o Pokémon mascote da franquia?",
+    "o": ["Pikachu", "Eevee", "Mewtwo", "Charizard"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o tipo de Bulbasaur?",
+    "o": ["Grama/Poison", "Fogo", "Água", "Elétrico"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o tipo de Squirtle?",
+    "o": ["Água", "Fogo", "Grama", "Elétrico"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o rival de Ash em Kanto?",
+    "o": ["Gary Oak", "Misty", "Brock", "Tracey"],
+    "a": 0
+  },
+  {
+    "q": "Qual Pokémon evolui para Charizard?",
+    "o": ["Charmander", "Squirtle", "Bulbasaur", "Pikachu"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o tipo de Pikachu?",
+    "o": ["Elétrico", "Fogo", "Água", "Grama"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o tipo de Mewtwo?",
+    "o": ["Psíquico", "Elétrico", "Fogo", "Dragão"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a líder de ginásio de Pewter City?",
+    "o": ["Brock", "Misty", "Lt. Surge", "Erika"],
+    "a": 0
+  },
+  {
+    "q": "Qual tipo de ginásio Brock lidera?",
+    "o": ["Pedra", "Água", "Elétrico", "Grama"],
+    "a": 0
+  },
+  {
+    "q": "Qual Pokémon inicial de tipo Grama em Kanto?",
+    "o": ["Bulbasaur", "Charmander", "Squirtle", "Pidgey"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o Pokémon inicial de tipo Água em Kanto?",
+    "o": ["Squirtle", "Charmander", "Bulbasaur", "Eevee"],
+    "a": 0
+  },
+  {
+    "q": "Qual Pokémon é conhecido como lendário guardião da floresta em Kanto?",
+    "o": ["Celebi", "Mew", "Lugia", "Articuno"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a evolução final de Bulbasaur?",
+    "o": ["Venusaur", "Ivysaur", "Charizard", "Blastoise"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a evolução final de Charmander?",
+    "o": ["Charizard", "Venusaur", "Blastoise", "Pidgeot"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a evolução final de Squirtle?",
+    "o": ["Blastoise", "Charizard", "Venusaur", "Gyarados"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o vilão principal da Equipe Rocket?",
+    "o": ["Giovanni", "Lance", "Cyrus", "Lysandre"],
+    "a": 0
+  },
+  {
+    "q": "Qual Pokémon é famoso por sua habilidade de evolução em Eeveelutions?",
+    "o": ["Eevee", "Pikachu", "Ditto", "Snorlax"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o tipo do lendário Articuno?",
+    "o": ["Gelo/Voador", "Fogo", "Elétrico", "Psíquico"],
+    "a": 0
+  }
+]

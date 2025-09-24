@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quem é o protagonista principal de Dragon Ball?",
+    "o": ["Goku", "Bulma", "Kuririn", "Yamcha"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o melhor amigo de Goku desde a infância?",
+    "o": ["Kuririn", "Yamcha", "Tenshinhan", "Piccolo"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o objetivo principal de Bulma no início da série?",
+    "o": ["Encontrar as Esferas do Dragão", "Treinar artes marciais", "Ser a campeã do torneio", "Derrotar Freeza"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o animal de estimação de Goku no início da série?",
+    "o": ["Ovelha voadora (Bola de Cristal)", "Puar", "Bulls", "Giran"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o mestre de artes marciais de Goku?",
+    "o": ["Mestre Kame", "Muten Roshi", "Kami", "Tenshinhan"],
+    "a": 0
+  },
+  {
+    "q": "Qual técnica famosa Goku aprende com Mestre Kame?",
+    "o": ["Kamehameha", "Genki Dama", "Makankosappo", "Kaioken"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o inimigo principal do primeiro arco das Esferas do Dragão?",
+    "o": ["Pilaf", "Red Ribbon Army", "King Piccolo", "Tien Shinhan"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a técnica de Kuririn?",
+    "o": ["Kienzan (Disco Cortante)", "Kamehameha", "Makankosappo", "Genki Dama"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o lutador cego que treina com Mestre Kame?",
+    "o": ["Tenshinhan", "Yamcha", "Kuririn", "Chaozu"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o rival de Goku no Torneio de Artes Marciais?",
+    "o": ["Tenshinhan", "Kuririn", "Yamcha", "Piccolo Jr."],
+    "a": 0
+  },
+  {
+    "q": "Qual é a primeira vilã que tenta dominar o mundo?",
+    "o": ["Pilaf", "Red Ribbon Army", "King Piccolo", "Freeza"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a filha de Mestre Roshi?",
+    "o": ["Não tem filha", "Bulma", "Chi-Chi", "Launch"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o pai de Goku?",
+    "o": ["Bardock", "Gohan", "Raditz", "Não aparece na série clássica"],
+    "a": 3
+  },
+  {
+    "q": "Qual é o torneio onde Goku enfrenta Jackie Chun?",
+    "o": ["23º Torneio de Artes Marciais", "21º Torneio", "22º Torneio", "24º Torneio"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a primeira namorada de Yamcha?",
+    "o": ["Bata", "Bulma", "Launch", "Chi-Chi"],
+    "a": 1
+  },
+  {
+    "q": "Qual vilão organiza o Exército Red Ribbon?",
+    "o": ["Comandante Red", "Pilaf", "King Piccolo", "Dr. Wheelo"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o vilão que deseja dominar o mundo e criar um filho?",
+    "o": ["King Piccolo", "Pilaf", "Red Ribbon Army", "Dr. Gero"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a técnica que Goku aprende para voar?",
+    "o": ["Bukujutsu (Voo)", "Kamehameha", "Makankosappo", "Genki Dama"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a filha de Ox-King e esposa de Goku?",
+    "o": ["Chi-Chi", "Bulma", "Launch", "Videl"],
+    "a": 0
+  },
+  {
+    "q": "Qual vilão é derrotado no Torneio de Artes Marciais de Goku adolescente?",
+    "o": ["Piccolo Jr.", "King Piccolo", "Pilaf", "Red Ribbon Army"],
+    "a": 0
+  }
+]

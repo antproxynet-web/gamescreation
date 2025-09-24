@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quem é o protagonista de My Hero Academia?",
+    "o": ["Izuku Midoriya", "Katsuki Bakugo", "Shoto Todoroki", "All Might"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o mentor e símbolo da paz?",
+    "o": ["All Might", "Endeavor", "Hawks", "Gran Torino"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o Quirk de Izuku Midoriya?",
+    "o": ["One For All", "Explosion", "Half-Cold Half-Hot", "Warp"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o rival de infância de Midoriya?",
+    "o": ["Katsuki Bakugo", "Shoto Todoroki", "Eijiro Kirishima", "Tenya Iida"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o herói profissional que utiliza chamas?",
+    "o": ["Endeavor", "All Might", "Hawks", "Best Jeanist"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o estudante com metade de fogo e metade de gelo?",
+    "o": ["Shoto Todoroki", "Katsuki Bakugo", "Izuku Midoriya", "Fumikage Tokoyami"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a classe principal de heróis iniciantes?",
+    "o": ["Classe 1-A", "Classe 1-B", "Classe 2-A", "Classe 2-B"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o vilão principal da Liga dos Vilões no início?",
+    "o": ["Tomura Shigaraki", "All For One", "Dabi", "Overhaul"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o vilão que controla detritos e destruição?",
+    "o": ["Tomura Shigaraki", "All For One", "Dabi", "Overhaul"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o herói que possui a habilidade de voo rápido?",
+    "o": ["Hawks", "Endeavor", "All Might", "Best Jeanist"],
+    "a": 0
+  },
+  {
+    "q": "Qual estudante tem a Quirk Explosion?",
+    "o": ["Katsuki Bakugo", "Izuku Midoriya", "Shoto Todoroki", "Denki Kaminari"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o herói que controla escuridão?",
+    "o": ["Fumikage Tokoyami", "Shoto Todoroki", "Katsuki Bakugo", "Izuku Midoriya"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o herói com armadura e força física incrível?",
+    "o": ["Eijiro Kirishima", "Tenya Iida", "Denki Kaminari", "Yuga Aoyama"],
+    "a": 0
+  },
+  {
+    "q": "Qual estudante pode aumentar sua velocidade com motores nas pernas?",
+    "o": ["Tenya Iida", "Katsuki Bakugo", "Izuku Midoriya", "Shoto Todoroki"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o herói que controla metal e roupas?",
+    "o": ["Best Jeanist", "Endeavor", "All Might", "Hawks"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o vilão que realiza experimentos com Quirks?",
+    "o": ["Overhaul", "Tomura Shigaraki", "Dabi", "All For One"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o líder da Liga dos Vilões?",
+    "o": ["Tomura Shigaraki", "All For One", "Dabi", "Kurogiri"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o vilão que controla fogo azul?",
+    "o": ["Dabi", "Endeavor", "Shoto Todoroki", "Hawks"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a heroína que pode lançar rajadas de água?",
+    "o": ["Momo Yaoyorozu", "Ochaco Uraraka", "Tsuyu Asui", "Kyoka Jiro"],
+    "a": 0
+  },
+  {
+    "q": "Qual estudante tem a habilidade de flutuar?",
+    "o": ["Ochaco Uraraka", "Momo Yaoyorozu", "Tsuyu Asui", "Kyoka Jiro"],
+    "a": 0
+  }
+]

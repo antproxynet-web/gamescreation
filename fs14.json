@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que é astrofísica?",
+    "o": ["Ramo da astronomia que estuda a física dos corpos celestes", "Estudo de partículas subatômicas", "Estudo da mecânica terrestre", "Estudo da biologia espacial"],
+    "a": 0
+  },
+  {
+    "q": "O que é uma estrela?",
+    "o": ["Corpo celeste que emite luz própria devido a reações nucleares em seu núcleo", "Planeta que reflete luz", "Cometa com cauda de gelo", "Satélite artificial"],
+    "a": 0
+  },
+  {
+    "q": "O que é uma galáxia?",
+    "o": ["Conjunto de estrelas, planetas, poeira e gás unidos pela gravidade", "Sistema solar apenas", "Cometa gigante", "Asteroide grande"],
+    "a": 0
+  },
+  {
+    "q": "O que é uma supernova?",
+    "o": ["Explosão de uma estrela no final de sua vida", "Formação de um planeta", "Explosão de uma galáxia", "Radiação cósmica"],
+    "a": 0
+  },
+  {
+    "q": "O que é um buraco negro?",
+    "o": ["Região do espaço com gravidade tão intensa que nada pode escapar", "Estrela gigante", "Planeta massivo", "Cometa luminoso"],
+    "a": 0
+  },
+  {
+    "q": "O que é radiação cósmica?",
+    "o": ["Radiação de partículas e ondas provenientes do espaço", "Radiação de um átomo", "Energia térmica terrestre", "Som do espaço"],
+    "a": 0
+  },
+  {
+    "q": "O que é uma nebulosa?",
+    "o": ["Nuvem de gás e poeira no espaço", "Galáxia espiral", "Planeta gasoso", "Buraco negro em formação"],
+    "a": 0
+  },
+  {
+    "q": "O que é matéria escura?",
+    "o": ["Tipo de matéria que não emite luz e é detectada pela gravidade", "Gás interstelar", "Estrela invisível", "Cometa sem cauda"],
+    "a": 0
+  },
+  {
+    "q": "O que é energia escura?",
+    "o": ["Energia responsável pela expansão acelerada do universo", "Energia das estrelas", "Energia do Sol", "Energia da Via Láctea"],
+    "a": 0
+  },
+  {
+    "q": "O que é um exoplaneta?",
+    "o": ["Planeta que orbita uma estrela fora do Sistema Solar", "Planeta do Sistema Solar", "Estrela de baixa massa", "Cometa distante"],
+    "a": 0
+  },
+  {
+    "q": "O que é redshift (desvio para o vermelho)?",
+    "o": ["Aumento do comprimento de onda da luz devido ao afastamento de uma estrela ou galáxia", "Diminuição da luz", "Aumento da luminosidade", "Mudança de cor de uma estrela"],
+    "a": 0
+  },
+  {
+    "q": "O que é singularidade?",
+    "o": ["Ponto em que a densidade e a gravidade são infinitas, como no centro de um buraco negro", "Estrela jovem", "Cometa em formação", "Galáxia compacta"],
+    "a": 0
+  },
+  {
+    "q": "O que é a Via Láctea?",
+    "o": ["Galáxia onde se encontra o Sistema Solar", "Estrela gigante", "Planeta gasoso", "Buraco negro central do universo"],
+    "a": 0
+  },
+  {
+    "q": "O que é um quasar?",
+    "o": ["Fonte extremamente luminosa de energia associada a buracos negros supermassivos", "Estrela nova", "Cometa energético", "Planeta luminoso"],
+    "a": 0
+  },
+  {
+    "q": "O que é um pulsar?",
+    "o": ["Estrela de nêutrons que emite radiação periódica", "Estrela gigante vermelha", "Planeta em rotação rápida", "Buraco negro ativo"],
+    "a": 0
+  },
+  {
+    "q": "O que é efeito gravitacional sobre a luz?",
+    "o": ["Curvatura da luz ao passar perto de corpos massivos", "Reflexão em planetas", "Absorção de luz", "Mudança de cor de estrelas"],
+    "a": 0
+  },
+  {
+    "q": "O que é o fundo cósmico de micro-ondas?",
+    "o": ["Radiação remanescente do Big Bang", "Luz das estrelas próximas", "Radiação da Lua", "Energia da Via Láctea"],
+    "a": 0
+  },
+  {
+    "q": "O que é um sistema binário?",
+    "o": ["Duas estrelas que orbitam um centro de massa comum", "Dois planetas próximos", "Dois cometas", "Dois buracos negros sem interação"],
+    "a": 0
+  },
+  {
+    "q": "O que é teoria do Big Bang?",
+    "o": ["Modelo que explica a origem e expansão do universo a partir de um ponto extremamente denso e quente", "Formação de uma estrela", "Colisão de galáxias", "Criação de planetas"],
+    "a": 0
+  },
+  {
+    "q": "O que é ano-luz?",
+    "o": ["Distância que a luz percorre em um ano", "Tempo que a Terra leva para orbitar o Sol", "Velocidade da luz", "Período orbital de um planeta"],
+    "a": 0
+  }
+]

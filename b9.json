@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quantos evangelhos canônicos existem no Novo Testamento?",
+    "o": ["Quatro", "Três", "Cinco", "Seis"],
+    "a": 0
+  },
+  {
+    "q": "Qual evangelho começa com a genealogia de Jesus?",
+    "o": ["Mateus", "Marcos", "Lucas", "João"],
+    "a": 0
+  },
+  {
+    "q": "Qual evangelho é conhecido por relatar Jesus como o Filho de Deus de forma mais teológica?",
+    "o": ["João", "Mateus", "Marcos", "Lucas"],
+    "a": 0
+  },
+  {
+    "q": "Qual evangelho foi escrito por um médico e detalha milagres e parábolas?",
+    "o": ["Lucas", "Mateus", "Marcos", "João"],
+    "a": 0
+  },
+  {
+    "q": "Qual evangelho é o mais curto e direto sobre a vida de Jesus?",
+    "o": ["Marcos", "Mateus", "Lucas", "João"],
+    "a": 0
+  },
+  {
+    "q": "Qual evangelho enfatiza o cumprimento das profecias do Antigo Testamento?",
+    "o": ["Mateus", "Marcos", "Lucas", "João"],
+    "a": 0
+  },
+  {
+    "q": "Qual evangelho inclui a parábola do bom samaritano?",
+    "o": ["Lucas", "Mateus", "Marcos", "João"],
+    "a": 0
+  },
+  {
+    "q": "Qual evangelho relata mais milagres de Jesus de forma detalhada?",
+    "o": ["João", "Mateus", "Marcos", "Lucas"],
+    "a": 0
+  },
+  {
+    "q": "Qual evangelho começa com o batismo de Jesus por João Batista?",
+    "o": ["Marcos", "Mateus", "Lucas", "João"],
+    "a": 0
+  },
+  {
+    "q": "Qual evangelho enfatiza a compaixão de Jesus pelos marginalizados?",
+    "o": ["Lucas", "Mateus", "Marcos", "João"],
+    "a": 0
+  },
+  {
+    "q": "Qual evangelho relata a ressurreição de Lázaro?",
+    "o": ["João", "Mateus", "Marcos", "Lucas"],
+    "a": 0
+  },
+  {
+    "q": "Qual evangelho contém o Sermão da Montanha?",
+    "o": ["Mateus", "Marcos", "Lucas", "João"],
+    "a": 0
+  },
+  {
+    "q": "Qual evangelho enfatiza a oração do Pai Nosso?",
+    "o": ["Mateus", "Marcos", "Lucas", "João"],
+    "a": 0
+  },
+  {
+    "q": "Qual evangelho inclui a parábola do filho pródigo?",
+    "o": ["Lucas", "Mateus", "Marcos", "João"],
+    "a": 0
+  },
+  {
+    "q": "Qual evangelho começa com 'No princípio era o Verbo'?",
+    "o": ["João", "Mateus", "Marcos", "Lucas"],
+    "a": 0
+  },
+  {
+    "q": "Qual evangelho enfatiza os ensinamentos éticos e morais de Jesus?",
+    "o": ["Mateus", "Marcos", "Lucas", "João"],
+    "a": 0
+  },
+  {
+    "q": "Qual evangelho relata a visita dos pastores ao nascimento de Jesus?",
+    "o": ["Lucas", "Mateus", "Marcos", "João"],
+    "a": 0
+  },
+  {
+    "q": "Qual evangelho relata a visita dos magos do Oriente?",
+    "o": ["Mateus", "Lucas", "Marcos", "João"],
+    "a": 0
+  },
+  {
+    "q": "Qual evangelho enfatiza o ministério de Jesus na Galileia?",
+    "o": ["Marcos", "Mateus", "Lucas", "João"],
+    "a": 0
+  },
+  {
+    "q": "Qual evangelho termina com a Grande Comissão de Jesus aos discípulos?",
+    "o": ["Mateus", "Marcos", "Lucas", "João"],
+    "a": 0
+  }
+]

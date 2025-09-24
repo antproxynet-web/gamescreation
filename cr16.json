@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quem é a protagonista central de The Crown?",
+    "o": ["Rainha Elizabeth II", "Princesa Margaret", "Principe Philip", "Princesa Diana"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o marido da Rainha Elizabeth II?",
+    "o": ["Principe Philip", "Principe Charles", "Lord Mountbatten", "Príncipe Harry"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a irmã mais nova da Rainha Elizabeth II?",
+    "o": ["Princesa Margaret", "Princesa Diana", "Princesa Anne", "Princesa Eugenie"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o primeiro-ministro durante o início do reinado de Elizabeth II?",
+    "o": ["Winston Churchill", "Margaret Thatcher", "Tony Blair", "Harold Macmillan"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o filho mais velho da Rainha Elizabeth II?",
+    "o": ["Príncipe Charles", "Príncipe Andrew", "Príncipe Edward", "Príncipe Harry"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a primeira esposa de Príncipe Charles?",
+    "o": ["Princesa Diana", "Camilla Parker Bowles", "Sarah Ferguson", "Princesa Margaret"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o pai de Elizabeth II?",
+    "o": ["Rei George VI", "Rei Edward VIII", "Rei George V", "Lord Mountbatten"],
+    "a": 0
+  },
+  {
+    "q": "Quem abdica do trono para casar com Wallis Simpson?",
+    "o": ["Rei Edward VIII", "Rei George VI", "Príncipe Philip", "Lord Mountbatten"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o conselheiro real próximo da Rainha?",
+    "o": ["Lord Mountbatten", "Tony Blair", "Winston Churchill", "Harold Macmillan"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a rainha consorte da Rainha Elizabeth II?",
+    "o": ["Principe Philip", "Príncipe Charles", "Príncipe Andrew", "Príncipe Edward"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a princesa famosa por seu casamento e trabalho humanitário?",
+    "o": ["Princesa Diana", "Princesa Margaret", "Princesa Anne", "Princesa Eugenie"],
+    "a": 0
+  },
+  {
+    "q": "Quem governa o Reino Unido durante parte do reinado de Elizabeth II?",
+    "o": ["Margaret Thatcher", "Winston Churchill", "Tony Blair", "Harold Macmillan"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o responsável por guiar o Príncipe Charles?",
+    "o": ["Lord Mountbatten", "Principe Philip", "Winston Churchill", "Tony Blair"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o rei antes de Elizabeth II assumir o trono?",
+    "o": ["George VI", "Edward VIII", "George V", "Charles III"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o ministro que enfrenta crises durante o reinado?",
+    "o": ["Winston Churchill", "Margaret Thatcher", "Tony Blair", "Harold Macmillan"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a irmã de Charles que aparece na série?",
+    "o": ["Princesa Anne", "Princesa Margaret", "Princesa Eugenie", "Princesa Beatrice"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o interesse romântico de Charles após Diana?",
+    "o": ["Camilla Parker Bowles", "Sarah Ferguson", "Princesa Margaret", "Princesa Anne"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a Rainha Mãe durante grande parte da série?",
+    "o": ["Elizabeth Bowes-Lyon", "Wallis Simpson", "Camilla Parker Bowles", "Sarah Ferguson"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o conselheiro político e mentor da Rainha?",
+    "o": ["Lord Mountbatten", "Winston Churchill", "Tony Blair", "Harold Macmillan"],
+    "a": 0
+  },
+  {
+    "q": "Quem se torna primeiro-ministro após Margaret Thatcher?",
+    "o": ["Tony Blair", "Winston Churchill", "Harold Macmillan", "John Major"],
+    "a": 0
+  }
+]

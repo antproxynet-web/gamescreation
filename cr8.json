@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quem é o protagonista da série Henry Danger?",
+    "o": ["Henry Hart", "Ray Manchester", "Charlotte Page", "Jasper Dunlop"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o alter ego de Henry Hart?",
+    "o": ["Kid Danger", "Captain Man", "Super Henry", "Danger Boy"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o mentor de Henry na série?",
+    "o": ["Ray Manchester", "Charlotte Page", "Jasper Dunlop", "Schwoz Schwartz"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome do super-herói que trabalha com Henry?",
+    "o": ["Captain Man", "Kid Danger", "Ray Man", "Danger Man"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a melhor amiga de Henry?",
+    "o": ["Charlotte Page", "Piper Hart", "Jasper Dunlop", "Schwoz Schwartz"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o amigo engraçado e nerd que ajuda Henry?",
+    "o": ["Jasper Dunlop", "Schwoz Schwartz", "Ray Manchester", "Captain Man"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o inventor maluco da série?",
+    "o": ["Schwoz Schwartz", "Jasper Dunlop", "Captain Man", "Henry Hart"],
+    "a": 0
+  },
+  {
+    "q": "Qual cidade é cenário principal da série?",
+    "o": ["Swellview", "Springfield", "Los Angeles", "New York"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o vilão que aparece várias vezes na série?",
+    "o": ["Karaoke Man", "Captain Man", "Kid Danger", "Ray Manchester"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o trabalho secreto de Henry?",
+    "o": ["Super-herói", "Detetive", "Inventor", "Policial"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o criador da série Henry Danger?",
+    "o": ["Dan Schneider", "Nickelodeon", "Dan Harmon", "Michael Schneider"],
+    "a": 0
+  },
+  {
+    "q": "Quem ajuda Henry a esconder sua identidade secreta?",
+    "o": ["Charlotte Page e Jasper Dunlop", "Ray Manchester apenas", "Schwoz Schwartz apenas", "Piper Hart apenas"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o poder especial de Captain Man?",
+    "o": ["Invulnerabilidade", "Super velocidade", "Força sobre-humana", "Voar"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o lema de Henry como Kid Danger?",
+    "o": ["Salvar Swellview sempre", "Nunca desistir", "Segredos primeiro", "Amigos sempre"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a irmã de Henry?",
+    "o": ["Piper Hart", "Charlotte Page", "Jasper Dunlop", "Schwoz Schwartz"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o criador das invenções do quartel-general secreto?",
+    "o": ["Schwoz Schwartz", "Captain Man", "Jasper Dunlop", "Ray Manchester"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o melhor amigo da Charlotte Page?",
+    "o": ["Jasper Dunlop", "Henry Hart", "Ray Manchester", "Schwoz Schwartz"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem tem uma personalidade engraçada e excêntrica?",
+    "o": ["Schwoz Schwartz", "Henry Hart", "Captain Man", "Jasper Dunlop"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o maior desafio de Henry na série?",
+    "o": ["Equilibrar vida escolar e vida de super-herói", "Vencer vilões de outros mundos", "Viajar no tempo", "Lutar contra invasões alienígenas"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o vilão que Henry enfrenta em várias aventuras?",
+    "o": ["Karaoke Man", "Captain Man", "Schwoz Schwartz", "Jasper Dunlop"],
+    "a": 0
+  }
+]

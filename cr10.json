@@ -1,0 +1,97 @@
+[
+  {
+    "q": "Quem é o protagonista da 2ª temporada de 'The White Lotus'?",
+    "o": ["Tanya McQuoid-Hunt", "Harper Spiller", "Cameron Sullivan", "Lucia Greco"],
+    "a": 0
+  },
+  {
+    "q": "Onde se passa a 2ª temporada de 'The White Lotus'?",
+    "o": ["Sicília, Itália", "Havai, EUA", "Tailândia", "Grécia"],
+    "a": 0
+  },
+  {
+    "q": "Quem interpreta Tanya McQuoid-Hunt?",
+    "o": ["Jennifer Coolidge", "Aubrey Plaza", "Meghann Fahy", "Simona Tabasco"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o marido de Tanya na 2ª temporada?",
+    "o": ["Greg Hunt", "Albie Di Grasso", "Quentin", "Dominic Di Grasso"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o personagem que tenta matar Tanya?",
+    "o": ["Quentin", "Cameron", "Jack", "Dominic"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o filho de Dominic Di Grasso?",
+    "o": ["Albie Di Grasso", "Bert Di Grasso", "Ethan Spiller", "Jack"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a esposa de Cameron Sullivan?",
+    "o": ["Daphne Sullivan", "Harper Spiller", "Lucia Greco", "Mia"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o personagem gay britânico que Tanya conhece?",
+    "o": ["Quentin", "Jack", "Rocco", "Giuseppe"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a gerente do resort White Lotus na Sicília?",
+    "o": ["Valentina", "Mia", "Portia", "Lucia"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a assistente de Tanya?",
+    "o": ["Portia", "Mia", "Harper", "Lucia"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o personagem que tenta seduzir Albie?",
+    "o": ["Lucia Greco", "Mia", "Portia", "Daphne"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o personagem que trai sua esposa com Harper?",
+    "o": ["Cameron Sullivan", "Ethan Spiller", "Dominic Di Grasso", "Jack"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o personagem que tenta matar Tanya na final da temporada?",
+    "o": ["Greg Hunt", "Quentin", "Jack", "Dominic Di Grasso"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o personagem que sobrevive ao final da temporada?",
+    "o": ["Portia", "Lucia Greco", "Mia", "Harper Spiller"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o personagem que se apaixona por Lucia?",
+    "o": ["Albie Di Grasso", "Ethan Spiller", "Dominic Di Grasso", "Jack"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o personagem que tenta seduzir Mia?",
+    "o": ["Giuseppe", "Rocco", "Jack", "Dominic Di Grasso"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o personagem que se envolve com Daphne?",
+    "o": ["Ethan Spiller", "Cameron Sullivan", "Dominic Di Grasso", "Jack"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o personagem que tenta matar Tanya na final da temporada?",
+    "o": ["Greg Hunt", "Quentin", "Jack", "Dominic Di Grasso"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o personagem que sobrevive ao final da temporada?",
+    "o": ["Portia", "Lucia Greco", "Mia", "Harper Spiller"],
+    "a": 0
+  }
+]
