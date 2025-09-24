@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SZXgames - Discord / Telegram</title>
+
+  <!-- Font Awesome para ícones -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+  <style>
+    body, html {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      color: #fff;
+      overflow: hidden;
+    }
+
+    /* Fundo */
+    .background-container {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: 0;
+      overflow: hidden;
+    }
+
+    .background-container img,
+    .background-container video {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: none;
+    }
+
+    /* Overlay escuro */
+    .overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0,0,0,0.6);
+      z-index: 0;
+    }
+
+    /* Logo */
+    .logo-container {
+      position: absolute;
+      top: 20px;
+      left: 30px;
+      z-index: 3;
+      text-align: center;
+      cursor: pointer;
+    }
+
+    .logo-container img {
+      width: 70px;
+      height: auto;
+      display: block;
+      margin: 0 auto;
+    }
+
+    .logo-text {
+      margin-top: 5px;
+      font-size: 1.3rem;
+      font-weight: bold;
+    }
+
+    .logo-text span {
+      color: #ff4b2b;
+    }
+
+    /* Menu lateral */
+    .side-menu {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 270px;
+      height: 100%;
+      background: rgba(0,0,0,0.97);
+      box-shadow: 2px 0 10px rgba(0,0,0,0.5);
+      z-index: 6;
+      transform: translateX(-100%);
+      transition: transform 0.3s ease;
+      overflow-y: auto;
+    }
+
+    .side-menu.active {
+      transform: translateX(0);
+    }
+
+    .side-menu a {
+      display: block;
+      color: #fff;
+      text-decoration: none;
+      font-size: 1.1rem;
+      margin: 10px 20px;
+      padding: 8px 0;
+      transition: color 0.2s;
+    }
+
+    .side-menu a i {
+      margin-right: 10px;
+      width: 20px;
+      text-align: center;
+    }
+
+    .side-menu a:hover {
+      color: #ff4b2b;
+    }
+
+    .menu-banner {
+      width: 100%;
+      height: 140px;
+      background: url('banner.jpg') no-repeat center center;
+      background-size: cover;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 2rem;
+      font-weight: bold;
+      color: #fff;
+    }
+
+    .menu-section {
+      padding: 10px 20px;
+      font-size: 0.9rem;
+      font-weight: bold;
+      text-transform: uppercase;
+      color: #ff4b2b;
+      margin-top: 15px;
+      border-top: 1px solid rgba(255,255,255,0.1);
+    }
+
+    /* Conteúdo central */
+    .container {
+      position: relative;
+      z-index: 1;
+      height: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      padding: 20px;
+    }
+
+    .link-box {
+      background: rgba(0,0,0,0.0);
+      padding: 30px 50px;
+      border-radius: 100px;
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      max-width: 400px;
+    }
+
+    .link-box a {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-decoration: none;
+      color: #fff;
+      font-size: 1.2rem;
+      font-weight: bold;
+      padding: 12px 20px;
+      border-radius: 35px;
+      background: linear-gradient(45deg, #6a11cb, #ff4b2b);
+      transition: transform 0.2s;
+    }
+
+    .link-box a i {
+      margin-right: 10px;
+      font-size: 1.4rem;
+    }
+
+    .link-box a:hover {
+      transform: scale(1.05);
+    }
+
+    h1 {
+      margin-bottom: 20px;
+      font-size: clamp(2.5rem, 5vw, 3.5rem);
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <!-- Fundo -->
+  <div class="background-container">
+    <img id="bgImage" src="fundoindex.jpg" alt="Fundo">
+    <video id="bgVideo" src="fundohome.mp4" autoplay muted loop></video>
+  </div>
+
+  <!-- Overlay -->
+  <div class="overlay"></div>
+
+  <!-- Logo -->
+  <div class="logo-container" id="logo">
+    <img src="logo.jpg" alt="Logo SZXgames">
+    <div class="logo-text">SZX<span>games</span></div>
+  </div>
+
+  <!-- Menu lateral completo -->
+  <div id="sideMenu" class="side-menu">
+    <div class="menu-banner"></div>
+
+    <div class="menu-section">Principal</div>
+    <a href="home.html"><i class="fa fa-house"></i> Início</a>
+    <a href="sobre.html"><i class="fa fa-circle-info"></i> Sobre nós</a>
+    <a href="contato.html"><i class="fa fa-envelope"></i> Contato</a>
+
+    <div class="menu-section">Jogos</div>
+    <a href="jogos.html"><i class="fa fa-gamepad"></i> Jogos em Alta</a>
+    <a href="lancamentos.html"><i class="fa fa-rocket"></i> Lançamentos</a>
+    <a href="reviews.html"><i class="fa fa-star"></i> Reviews</a>
+    <a href="tutoriais.html"><i class="fa fa-lightbulb"></i> Tutoriais & Dicas</a>
+    <a href="mods.html"><i class="fa fa-cubes"></i> Mods & Add-ons</a>
+    <a href="ranking.html"><i class="fa fa-trophy"></i> Ranking / Top Games</a>
+    <a href="classicos.html"><i class="fa fa-dice"></i> Clássicos</a>
+
+    <div class="menu-section">Notícias</div>
+    <a href="noticias.html"><i class="fa fa-newspaper"></i> Notícias</a>
+    <a href="esports.html"><i class="fa fa-headset"></i> E-sports</a>
+    <a href="promocoes.html"><i class="fa fa-tags"></i> Promoções & Ofertas</a>
+    <a href="calendario.html"><i class="fa fa-calendar-days"></i> Calendário</a>
+
+    <div class="menu-section">Comunidade</div>
+    <a href="forum.html"><i class="fa fa-comments"></i> Fórum</a>
+    <a href="discord.html"><i class="fa-brands fa-discord"></i> Discord / Telegram</a>
+    <a href="enquetes.html"><i class="fa fa-poll"></i> Enquetes & Votações</a>
+    <a href="quizpage.html"><i class="fa fa-question"></i> Quiz</a>
+
+    <div class="menu-section">Extras</div>
+    <a href="ferramentas.html"><i class="fa fa-tools"></i> Ferramentas</a>
+    <a href="downloads.html"><i class="fa fa-download"></i> Downloads</a>
+    <a href="loja.html"><i class="fa fa-store"></i> Loja</a>
+  </div>
+
+  <!-- Conteúdo -->
+  <div class="container">
+    <div class="link-box">
+      <h1>Entre para nossa comunidade!</h1>
+      <a href="https://discord.gg/swDqKvdS" target="_blank"><i class="fa-brands fa-discord"></i> Discord</a>
+      <a href="https://t.me/+LU4g9LvG27UzMzNh" target="_blank"><i class="fa-brands fa-telegram"></i> Telegram</a>
+    </div>
+  </div>
+
+  <script>
+    // Menu lateral
+    const logo = document.getElementById("logo");
+    const sideMenu = document.getElementById("sideMenu");
+
+    logo.addEventListener("click", (e) => {
+      e.stopPropagation();
+      sideMenu.classList.toggle("active");
+    });
+
+    document.addEventListener("click", (e) => {
+      if (sideMenu.classList.contains("active") && !sideMenu.contains(e.target) && !logo.contains(e.target)) {
+        sideMenu.classList.remove("active");
+      }
+    });
+
+    // Funções de cookie
+    function setCookie(nome, valor, dias) {
+      const d = new Date();
+      d.setTime(d.getTime() + (dias*24*60*60*1000));
+      const expires = "expires=" + d.toUTCString();
+      document.cookie = nome + "=" + valor + ";" + expires + ";path=/";
+    }
+
+    function getCookie(nome) {
+      const nameEQ = nome + "=";
+      const ca = document.cookie.split(';');
+      for(let i=0;i < ca.length;i++) {
+        let c = ca[i].trim();
+        if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+      }
+      return null;
+    }
+
+    // Fundo dinâmico com cookie
+    const bgImage = document.getElementById('bgImage');
+    const bgVideo = document.getElementById('bgVideo');
+
+    let modo = getCookie("modoFundo") || 'imagem';
+
+    function aplicarFundo(modoAtual){
+      if(modoAtual === 'video'){
+        bgImage.style.display = 'none';
+        bgVideo.style.display = 'block';
+      } else {
+        bgVideo.style.display = 'none';
+        bgImage.style.display = 'block';
+      }
+      modo = modoAtual;
+      setCookie("modoFundo", modo, 30);
+    }
+
+    aplicarFundo(modo);
+  </script>
+</body>
+</html>

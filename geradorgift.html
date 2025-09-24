@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Gerador de Gift Cards</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
+<style>
+/* Geral */
+body, html {
+  margin:0; padding:0;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: url('fundoindex.jpg') no-repeat center center fixed;
+  background-size: cover;
+  color:#fff;
+}
+
+/* Menu lateral */
+.side-menu {
+  position: fixed; top:0; left:0; width:270px; height:100%;
+  background: rgba(0,0,0,0.97); box-shadow:2px 0 10px rgba(0,0,0,0.5);
+  z-index:10; transform:translateX(-100%); transition: transform 0.3s ease; overflow-y:auto;
+}
+.side-menu.active { transform:translateX(0); }
+.menu-banner { width:100%; height:140px; background:url('banner.jpg') center/cover no-repeat; display:flex; align-items:center; justify-content:center; color:#fff; font-weight:bold; }
+.menu-section { padding:10px 20px; font-size:0.9rem; font-weight:bold; text-transform:uppercase; color:#ff4b2b; margin-top:15px; border-top:1px solid rgba(255,255,255,0.08); }
+.side-menu a { display:block; color:#fff; text-decoration:none; font-size:1.05rem; margin:10px 20px; padding:8px 0; transition: color .15s; }
+.side-menu a i { width:20px; margin-right:10px; text-align:center; }
+.side-menu a:hover { color:#ff4b2b; }
+
+/* Logo */
+.logo-container {
+  position: fixed; top:20px; left:30px; z-index:7;
+  display:flex; align-items:center; gap:10px; cursor:pointer;
+}
+.logo-container img { width:70px; display:block; }
+.logo-text { font-weight:bold; font-size:1.2rem; }
+.logo-text span { color:#ff4b2b; }
+
+/* Container gerador */
+.container {
+  background: rgba(30,30,30,0.85);
+  padding: 20px;
+  border-radius: 12px;
+  max-width: 540px;
+  width: 100%;
+  margin: 180px auto 50px auto;
+  position: relative; z-index:5;
+}
+h1 { text-align:center; color:#ff4d4d; margin-bottom:15px; }
+.row{ display:flex; flex-wrap:wrap; gap:10px; justify-content:center; margin-bottom:15px; }
+.option{
+  background:#222; padding:12px 14px; border-radius:12px; cursor:pointer;
+  min-width:120px; text-align:center; user-select:none;
+  border:2px solid transparent; transition:transform .12s, border-color .12s, background .12s;
+}
+.option:hover{ transform:translateY(-4px); }
+.option.selected{
+  border-color: rgba(255,75,43,0.9);
+  box-shadow: 0 6px 18px rgba(255,75,43,0.06);
+  background: linear-gradient(90deg, rgba(255,75,43,0.06), rgba(0,0,0,0.12));
+}
+.option .value{ display:block; font-weight:700; font-size:16px; }
+
+/* Controles */
+.controls{ display:flex; gap:10px; flex-wrap:wrap; justify-content:center; margin-bottom:15px; }
+.btn{ padding:10px 16px; border-radius:10px; border:none; cursor:pointer; font-weight:700; }
+.btn.generate{ background:#ff4b2b; color:#fff; }
+.btn.clear{ background:#444; color:#fff; }
+
+/* Caixa de código */
+.code-box{
+  background:#1b1b1b;
+  border-radius:12px;
+  padding:14px;
+  display:flex; align-items:center; justify-content:space-between; gap:12px;
+  border:1px solid rgba(255,255,255,0.03);
+}
+.code-left{ display:flex; flex-direction:column; }
+.amount{ color:#ff4b2b; font-weight:800; font-size:1.1rem; margin-bottom:6px; }
+.code{ font-family: "Courier New", Courier, monospace; background:transparent; font-size:1.15rem; letter-spacing:2px; }
+.copy-btn{
+  background:transparent;
+  border:2px solid #ff4b2b;
+  color:#ff4b2b;
+  padding:8px 12px;
+  border-radius:10px;
+  cursor:pointer;
+  font-weight:700;
+}
+.copy-btn.copied{ background:#ff4b2b; color:#fff; }
+
+.hint{ text-align:center; font-size:13px; color:#ddd; opacity:0.9; margin-top:10px; }
+
+@media (max-width:420px){
+  .option{ min-width:100px; padding:10px; }
+  .code{ font-size:1rem; }
+}
+</style>
+</head>
+<body>
+
+<!-- Logo -->
+<div class="logo-container" id="logo">
+  <img src="logo.jpg" alt="Logo SZXgames">
+  <div class="logo-text"><span>SZX</span>Games</div>
+</div>
+
+<!-- Menu lateral -->
+<nav id="sideMenu" class="side-menu">
+  <div class="menu-banner"></div>
+
+  <div class="menu-section">Principal</div>
+  <a href="home.html"><i class="fa fa-house"></i> Início</a>
+  <a href="sobre.html"><i class="fa fa-circle-info"></i> Sobre nós</a>
+  <a href="contato.html"><i class="fa fa-envelope"></i> Contato</a>
+
+  <div class="menu-section">Jogos</div>
+  <a href="jogos.html"><i class="fa fa-gamepad"></i> Jogos em Alta</a>
+  <a href="lancamentos.html"><i class="fa fa-rocket"></i> Lançamentos</a>
+  <a href="reviews.html"><i class="fa fa-star"></i> Reviews</a>
+  <a href="tutoriais.html"><i class="fa fa-lightbulb"></i> Tutoriais & Dicas</a>
+  <a href="mods.html"><i class="fa fa-cubes"></i> Mods & Add-ons</a>
+  <a href="ranking.html"><i class="fa fa-trophy"></i> Ranking / Top Games</a>
+  <a href="classicos.html"><i class="fa fa-dice"></i> Clássicos</a>
+
+  <div class="menu-section">Notícias</div>
+  <a href="noticias.html"><i class="fa fa-newspaper"></i> Notícias</a>
+  <a href="esports.html"><i class="fa fa-headset"></i> E-sports</a>
+  <a href="promocoes.html"><i class="fa fa-tags"></i> Promoções & Ofertas</a>
+  <a href="calendario.html"><i class="fa fa-calendar-days"></i> Calendário Gamer</a>
+
+  <div class="menu-section">Comunidade</div>
+  <a href="forum.html"><i class="fa fa-comments"></i> Fórum</a>
+  <a href="discord.html"><i class="fa-brands fa-discord"></i> Discord / Telegram</a>
+  <a href="enquetes.html"><i class="fa fa-poll"></i> Enquetes & Votações</a>
+  <a href="quiz.html"><i class="fa fa-question"></i> Quiz</a>
+  <a href="galeria.html"><i class="fa fa-image"></i> Galeria</a>
+
+  <div class="menu-section">Extras</div>
+  <a href="ferramentas.html"><i class="fa fa-tools"></i> Ferramentas</a>
+  <a href="downloads.html"><i class="fa fa-download"></i> Downloads</a>
+  <a href="loja.html"><i class="fa fa-store"></i> Loja</a>
+</nav>
+
+<!-- Gerador de Gift Cards -->
+<div class="container">
+  <h1>Gerador de Gift Cards </h1>
+
+  <div class="row" id="optionsRow"></div>
+
+  <div class="controls">
+    <button class="btn generate" id="generateBtn">Gerar Código</button>
+    <button class="btn clear" id="clearBtn">Limpar</button>
+  </div>
+
+  <div class="code-box" id="codeBox">
+    <div class="code-left">
+      <div class="amount" id="selectedAmount">Nenhum valor selecionado</div>
+      <div class="code" id="generatedCode">---</div>
+    </div>
+    <div>
+      <button class="copy-btn" id="copyBtn">Copiar</button>
+    </div>
+  </div>
+
+  <div class="hint">Os códigos gerados são fictícios e servem apenas para testes / demonstração.</div>
+</div>
+
+<script>
+// Menu lateral toggle
+const logo = document.getElementById('logo');
+const sideMenu = document.getElementById('sideMenu');
+logo.addEventListener('click', e => { e.stopPropagation(); sideMenu.classList.toggle('active'); });
+document.addEventListener('click', e => {
+  if(sideMenu.classList.contains('active') && !sideMenu.contains(e.target) && !logo.contains(e.target)){
+    sideMenu.classList.remove('active');
+  }
+});
+
+// Gift card options
+const options = [
+  {label: "R$ 5", value: 5, prefix: "A1YX"},
+  {label: "R$ 10", value: 10, prefix: "AG7F"},
+  {label: "R$ 15", value: 15, prefix: "C3XM"},
+  {label: "R$ 20", value: 20, prefix: "DF4R"},
+  {label: "R$ 30", value: 30, prefix: "E5TG"},
+  {label: "R$ 50", value: 50, prefix: "F6ZR"},
+  {label: "R$ 100", value: 100, prefix: "G2XP"}
+];
+
+const optionsRow = document.getElementById("optionsRow");
+const selectedAmountEl = document.getElementById("selectedAmount");
+const generatedCodeEl = document.getElementById("generatedCode");
+const generateBtn = document.getElementById("generateBtn");
+const copyBtn = document.getElementById("copyBtn");
+const clearBtn = document.getElementById("clearBtn");
+
+let selectedOption = null;
+
+// Render options
+function renderOptions(){
+  options.forEach(opt => {
+    const div = document.createElement("div");
+    div.className = "option";
+    div.tabIndex = 0;
+    div.dataset.prefix = opt.prefix;
+    div.dataset.value = opt.value;
+    div.innerHTML = `<span class="value">${opt.label}</span>`;
+    div.addEventListener("click", () => selectOption(opt, div));
+    div.addEventListener("keydown", (e) => { if(e.key==="Enter"||e.key===" ") selectOption(opt, div); });
+    optionsRow.appendChild(div);
+  });
+}
+function selectOption(opt, element){
+  document.querySelectorAll(".option").forEach(o=>o.classList.remove("selected"));
+  element.classList.add("selected");
+  selectedOption = opt;
+  selectedAmountEl.textContent = opt.label;
+  generatedCodeEl.textContent = "---";
+  copyBtn.classList.remove("copied");
+  copyBtn.textContent="Copiar";
+}
+
+// Generate code
+function randChar(){ const chars="ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"; return chars.charAt(Math.floor(Math.random()*chars.length)); }
+function gerarCodigoCompleto(prefix){
+  const groups=[4,4,4];
+  const parts=groups.map(len=>{ let s=""; for(let i=0;i<len;i++) s+=randChar(); return s; });
+  return `${prefix}-${parts.join("-")}`;
+}
+
+generateBtn.addEventListener("click",()=>{
+  if(!selectedOption){ alert("Selecione primeiro um valor de Gift Card."); return; }
+  const code=gerarCodigoCompleto(selectedOption.prefix);
+  generatedCodeEl.textContent=code;
+  copyBtn.classList.remove("copied");
+  copyBtn.textContent="Copiar";
+});
+
+copyBtn.addEventListener("click",async()=>{
+  const code=generatedCodeEl.textContent;
+  if(!code || code==="---"){ alert("Não há código para copiar. Gere um código primeiro."); return; }
+  try{ await navigator.clipboard.writeText(code); copyBtn.classList.add("copied"); copyBtn.textContent="Copiado!";
+    setTimeout(()=>{ copyBtn.classList.remove("copied"); copyBtn.textContent="Copiar"; },2000);
+  }catch(err){ prompt("Copie o código abaixo:", code); }
+});
+
+clearBtn.addEventListener("click",()=>{
+  document.querySelectorAll(".option").forEach(o=>o.classList.remove("selected"));
+  selectedOption=null;
+  selectedAmountEl.textContent="Nenhum valor selecionado";
+  generatedCodeEl.textContent="---";
+  copyBtn.classList.remove("copied");
+  copyBtn.textContent="Copiar";
+});
+
+renderOptions();
+</script>
+</body>
+</html>

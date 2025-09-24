@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SZXgames - Apps do Google</title>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+  <style>
+    body, html {
+      margin: 0;
+      padding: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      color: #fff;
+      height: 100%;
+      overflow-y: auto;
+    }
+
+    .background-container {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: 0;
+      overflow: hidden;
+    }
+    .background-container img,
+    .background-container video {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: none;
+    }
+
+    .overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0,0,0,0.6);
+      z-index: 0;
+    }
+
+    .logo-container {
+      position: fixed;
+      top: 20px;
+      left: 30px;
+      z-index: 3;
+      text-align: center;
+      cursor: pointer;
+    }
+    .logo-container img {
+      width: 70px;
+      height: auto;
+      display: block;
+      margin: 0 auto;
+    }
+    .logo-text {
+      margin-top: 5px;
+      font-size: 1.3rem;
+      font-weight: bold;
+    }
+    .logo-text span { color: #ff4b2b; }
+
+    .side-menu {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 270px;
+      height: 100%;
+      background: rgba(0,0,0,0.97);
+      box-shadow: 2px 0 10px rgba(0,0,0,0.5);
+      z-index: 6;
+      transform: translateX(-100%);
+      transition: transform 0.3s ease;
+      overflow-y: auto;
+    }
+    .side-menu.active { transform: translateX(0); }
+    .side-menu a {
+      display: block;
+      color: #fff;
+      text-decoration: none;
+      font-size: 1.1rem;
+      margin: 10px 20px;
+      padding: 8px 0;
+      transition: color 0.2s;
+    }
+    .side-menu a i { margin-right: 10px; width: 20px; text-align: center; }
+    .side-menu a:hover { color: #ff4b2b; }
+
+    .menu-banner {
+      width: 100%;
+      height: 140px;
+      background: url('banner.jpg') no-repeat center center;
+      background-size: cover;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 2rem;
+      font-weight: bold;
+      color: #fff;
+    }
+
+    .menu-section {
+      padding: 10px 20px;
+      font-size: 0.9rem;
+      font-weight: bold;
+      text-transform: uppercase;
+      color: #ff4b2b;
+      margin-top: 15px;
+      border-top: 1px solid rgba(255,255,255,0.1);
+    }
+
+    .floating-btn {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      width: 55px;
+      height: 55px;
+      border-radius: 100px;
+      border: none;
+      background: linear-gradient(45deg, #6a11cb, #ff4b2b);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.4);
+      transition: transform 0.2s;
+      z-index: 10;
+    }
+    .floating-btn:hover { transform: scale(1.1); }
+
+    .container {
+      position: relative;
+      z-index: 1;
+      min-height: 100vh;
+      padding: 120px 50px 50px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    h1 {
+      font-size: clamp(2.5rem, 5vw, 4rem);
+      margin-bottom: 40px;
+      text-align: center;
+    }
+
+    .tools-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 25px;
+      width: 100%;
+      max-width: 1200px;
+    }
+
+    .tool-card {
+      background: transparent;
+      padding: 25px 15px;
+      border-radius: 12px;
+      text-align: center;
+      cursor: pointer;
+      transition: transform 0.3s, background 0.3s;
+      text-decoration: none;
+      color: #fff;
+    }
+    .tool-card:hover { transform: scale(1.05); background: #444; }
+    .tool-card img {
+      width: 48px;
+      height: 48px;
+      margin-bottom: 15px;
+    }
+    .tool-card span {
+      display: block;
+      font-size: 1.1rem;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+<div class="background-container">
+  <img id="bgImage" src="fundoindex.jpg" alt="Fundo">
+  <video id="bgVideo" src="fundohome.mp4" autoplay muted loop></video>
+</div>
+<div class="overlay"></div>
+
+<div class="logo-container" id="logo">
+  <img src="logo.jpg" alt="Logo SZXgames">
+  <div class="logo-text">SZX<span>games</span></div>
+</div>
+
+<div id="sideMenu" class="side-menu">
+  <div class="menu-banner"></div>
+  <div class="menu-section">Principal</div>
+  <a href="home.html"><i class="fa fa-house"></i> Início</a>
+  <a href="sobre.html"><i class="fa fa-circle-info"></i> Sobre nós</a>
+  <a href="contato.html"><i class="fa fa-envelope"></i> Contato</a>
+  <div class="menu-section">Jogos</div>
+  <a href="jogos.html"><i class="fa fa-gamepad"></i> Jogos em Alta</a>
+  <a href="lancamentos.html"><i class="fa fa-rocket"></i> Lançamentos</a>
+  <a href="reviews.html"><i class="fa fa-star"></i> Reviews</a>
+  <a href="tutoriais.html"><i class="fa fa-lightbulb"></i> Tutoriais & Dicas</a>
+  <a href="mods.html"><i class="fa fa-cubes"></i> Mods & Add-ons</a>
+  <a href="ranking.html"><i class="fa fa-trophy"></i> Ranking / Top Games</a>
+  <a href="classicos.html"><i class="fa fa-dice"></i> Clássicos</a>
+  <div class="menu-section">Notícias</div>
+  <a href="noticias.html"><i class="fa fa-newspaper"></i> Notícias</a>
+  <a href="esports.html"><i class="fa fa-headset"></i> E-sports</a>
+  <a href="promocoes.html"><i class="fa fa-tags"></i> Promoções & Ofertas</a>
+  <a href="calendario.html"><i class="fa fa-calendar-days"></i> Calendário Gamer</a>
+  <div class="menu-section">Comunidade</div>
+  <a href="forum.html"><i class="fa fa-comments"></i> Fórum</a>
+  <a href="discord.html"><i class="fa-brands fa-discord"></i> Discord / Telegram</a>
+  <a href="enquetes.html"><i class="fa fa-poll"></i> Enquetes & Votações</a>
+  <a href="quiz.html"><i class="fa fa-question"></i> Quiz</a>
+  <div class="menu-section">Extras</div>
+  <a href="ferramentas.html"><i class="fa fa-tools"></i> Ferramentas</a>
+  <a href="downloads.html"><i class="fa fa-download"></i> Downloads</a>
+  <a href="loja.html"><i class="fa fa-store"></i> Loja</a>
+</div>
+
+<button id="toggleBtn" class="floating-btn" title="Alternar fundo">
+  <svg id="iconImage" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="26" height="26" fill="#fff">
+    <path d="M21 19V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2zM5 5h14v6.5l-3-3-4 4-3-3-4 4V5z"/>
+  </svg>
+  <svg id="iconVideo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="26" height="26" fill="#fff" style="display:none;">
+    <path d="M17 10.5V7a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-3.5l4 4v-11l-4 4z"/>
+  </svg>
+</button>
+
+<div class="container">
+  <h1>Apps do Google</h1>
+  <div class="tools-grid">
+    <a href="https://www.google.com" class="tool-card"><img src="icons/google.png" alt="Google"><span>Google</span></a>
+    <a href="https://mail.google.com" class="tool-card"><img src="icons/gmail.png" alt="Gmail"><span>Gmail</span></a>
+    <a href="https://drive.google.com" class="tool-card"><img src="icons/drive.png" alt="Drive"><span>Google Drive</span></a>
+    <a href="https://docs.google.com" class="tool-card"><img src="icons/docs.png" alt="Docs"><span>Google Docs</span></a>
+    <a href="https://sheets.google.com" class="tool-card"><img src="icons/sheets.png" alt="Sheets"><span>Google Sheets</span></a>
+    <a href="https://slides.google.com" class="tool-card"><img src="icons/slides.png" alt="Slides"><span>Google Slides</span></a>
+    <a href="https://photos.google.com" class="tool-card"><img src="icons/photos.png" alt="Photos"><span>Google Fotos</span></a>
+    <a href="https://maps.google.com" class="tool-card"><img src="icons/maps.png" alt="Maps"><span>Google Maps</span></a>
+    <a href="https://calendar.google.com" class="tool-card"><img src="icons/calendar.png" alt="Calendar"><span>Google Calendar</span></a>
+    <a href="https://keep.google.com" class="tool-card"><img src="icons/keep.png" alt="Keep"><span>Google Keep</span></a>
+    <a href="https://news.google.com" class="tool-card"><img src="icons/news.png" alt="News"><span>Google News</span></a>
+    <a href="https://meet.google.com" class="tool-card"><img src="icons/meet.png" alt="Meet"><span>Google Meet</span></a>
+    <a href="https://classroom.google.com" class="tool-card"><img src="icons/classroom.png" alt="Classroom"><span>Google Classroom</span></a>
+    <a href="https://domains.google" class="tool-card"><img src="icons/domains.png" alt="Domains"><span>Google Domains</span></a>
+    <a href="https://sites.google.com" class="tool-card"><img src="icons/sites.png" alt="Sites"><span>Google Sites</span></a>
+    <a href="https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin" class="tool-card"><img src="icons/gboard.png" alt="Gboard"><span>Gboard</span></a>
+    <a href="https://play.google.com/store" class="tool-card"><img src="icons/playstore.png" alt="Play Store"><span>Google Play Store</span></a>
+    <a href="https://play.google.com/games" class="tool-card"><img src="icons/playgames.png" alt="Play Games"><span>Google Play Games</span></a>
+    <a href="https://pay.google.com" class="tool-card"><img src="icons/pay.png" alt="Google Pay"><span>Google Pay</span></a>
+    <a href="https://www.google.com/fit/" class="tool-card"><img src="icons/fit.png" alt="Google Fit"><span>Google Fit</span></a>
+    <a href="https://assistant.google.com" class="tool-card"><img src="icons/assistant.png" alt="Assistant"><span>Google Assistant</span></a>
+    <a href="https://lens.google" class="tool-card"><img src="icons/lens.png" alt="Lens"><span>Google Lens</span></a>
+    <a href="https://translate.google.com" class="tool-card"><img src="icons/translate.png" alt="Translate"><span>Google Translate</span></a>
+    <a href="https://shopping.google.com" class="tool-card"><img src="icons/shopping.png" alt="Shopping"><span>Google Shopping</span></a>
+    <a href="https://podcasts.google.com" class="tool-card"><img src="icons/podcasts.png" alt="Podcasts"><span>Google Podcasts</span></a>
+  </div>
+</div>
+
+<script>
+  const logo = document.getElementById("logo");
+  const sideMenu = document.getElementById("sideMenu");
+  const bgImage = document.getElementById('bgImage');
+  const bgVideo = document.getElementById('bgVideo');
+  const toggleBtn = document.getElementById('toggleBtn');
+  const iconImage = document.getElementById('iconImage');
+  const iconVideo = document.getElementById('iconVideo');
+
+  logo.addEventListener("click", (e) => {
+    e.stopPropagation();
+    sideMenu.classList.toggle("active");
+  });
+
+  document.addEventListener("click", (e) => {
+    if (sideMenu.classList.contains("active") && !sideMenu.contains(e.target) && !logo.contains(e.target)) {
+      sideMenu.classList.remove("active");
+    }
+  });
+
+  let modo = 'imagem';
+  bgImage.style.display = 'block';
+  toggleBtn.addEventListener('click', () => {
+    if(modo === 'imagem'){
+      bgImage.style.display = 'none';
+      bgVideo.style.display = 'block';
+      iconImage.style.display = 'none';
+      iconVideo.style.display = 'block';
+      modo = 'video';
+    } else {
+      bgVideo.style.display = 'none';
+      bgImage.style.display = 'block';
+      iconVideo.style.display = 'none';
+      iconImage.style.display = 'block';
+      modo = 'imagem';
+    }
+  });
+</script>
+
+</body>
+</html>

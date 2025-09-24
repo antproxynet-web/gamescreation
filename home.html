@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>SZXgames - Início</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
+
+<style>
+body, html {
+  margin:0;
+  padding:0;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color:#fff;
+  background:#0a0a0a;
+  overflow-x:hidden;
+}
+
+/* Fundo */
+.background-container {
+  position: fixed; top:0; left:0; width:100%; height:100%; z-index:0; overflow:hidden;
+}
+.background-container img,
+.background-container video {
+  width:100%; height:100%;
+  object-fit: cover; display:none;
+}
+.overlay {
+  position: fixed; top:0; left:0; width:100%; height:100%;
+  background: rgba(0,0,0,0.7); z-index:0;
+}
+
+/* Logo */
+.logo-container {
+  position: absolute; top:20px; left:30px; z-index:3;
+  display:flex; align-items:center; gap:10px; cursor:pointer;
+}
+.logo-container img { width:70px; display:block; }
+.logo-text { font-weight:bold; font-size:1.2rem; }
+.logo-text span { color:#ff4b2b; }
+
+/* Pesquisa */
+.search-container {
+  position:absolute; top:25px; left:140px; right:180px;
+  max-width:600px; margin:0 auto; z-index:5;
+}
+#searchInput {
+  width:100%; padding:10px 40px 10px 15px; border-radius:25px;
+  border:2px solid #fff; font-size:1rem; outline:none;
+  background: url('lupa.png') no-repeat right 10px center;
+  background-size:25px; color:#fff;
+}
+
+/* Menu rápido com scroll horizontal */
+.quick-menu {
+  position:absolute; top:110px; left:10px; right:10px;
+  display:flex; gap:12px; padding:12px 10px;
+  border-radius:15px; background:rgba(0,0,0,0.15);
+  box-shadow:0 4px 12px rgba(0,0,0,0.5);
+  overflow-x:auto; scroll-behavior:smooth; z-index:5;
+}
+.quick-menu::-webkit-scrollbar { height:1px; }
+.quick-menu::-webkit-scrollbar-thumb { background:#2BE4FF; border-radius:1px; }
+.quick-menu a {
+  color:#fff; text-decoration:none; padding:8px 14px; border-radius:10px;
+  display:flex; align-items:center; gap:6px; font-size:0.95rem;
+  flex:0 0 auto; transition: background 0.2s, color 0.2s;
+}
+.quick-menu a:hover { background:#ff4b2b; color:#fff; }
+
+/* Menu lateral */
+.side-menu {
+  position: fixed; top:0; left:0; width:270px; height:100%;
+  background: rgba(0,0,0,0.97); box-shadow:2px 0 10px rgba(0,0,0,0.5);
+  z-index:6; transform:translateX(-100%); transition: transform 0.3s ease; overflow-y:auto;
+}
+.side-menu.active { transform:translateX(0); }
+.menu-banner { width:100%; height:140px; background:url('banner.jpg') center/cover no-repeat; display:flex; align-items:center; justify-content:center; color:#fff; font-weight:bold; }
+.menu-section { padding:10px 20px; font-size:0.9rem; font-weight:bold; text-transform:uppercase; color:#ff4b2b; margin-top:15px; border-top:1px solid rgba(255,255,255,0.08); }
+.side-menu a { display:block; color:#fff; text-decoration:none; font-size:1.05rem; margin:10px 20px; padding:8px 0; transition: color .15s; }
+.side-menu a i { width:20px; margin-right:10px; text-align:center; }
+.side-menu a:hover { color:#ff4b2b; }
+
+/* Floating */
+.floating-btn {
+  position: fixed; bottom:20px; right:20px; width:55px; height:55px; border-radius:100px; border:none;
+  background: linear-gradient(45deg,#6a11cb,#ff4b2b); display:flex; align-items:center; justify-content:center; cursor:pointer;
+  box-shadow:0 6px 18px rgba(0,0,0,0.45); z-index:10;
+}
+.floating-btn:hover { transform:scale(1.06); }
+.floating-btn svg { pointer-events:none; }
+
+/* Conteúdo principal */
+.main-content {
+  position:relative; z-index:1; padding:180px 8% 80px; max-width:1400px; margin:0 auto;
+}
+h2 { font-size:1.6rem; margin:18px 0; border-left:5px solid #ff4b2b; padding-left:12px; }
+
+/* Carrossel de cards */
+.cards-carousel { display:flex; overflow-x:auto; gap:18px; scroll-behavior:smooth; padding-bottom:10px; }
+.cards-carousel::-webkit-scrollbar { height:8px; }
+.cards-carousel::-webkit-scrollbar-thumb { background:#ff4b2b; border-radius:4px; }
+.card { flex:0 0 220px; background: rgba(255,255,255,0.04); border-radius:12px; padding:12px; text-align:center; transition: transform 0.18s, background 0.18s; }
+.card img { width:100%; height:120px; object-fit:cover; border-radius:8px; margin-bottom:8px; }
+.card h3 { margin:8px 0; font-size:1.05rem; }
+.card p { color:#ccc; font-size:0.95rem; }
+.card a.btn { display:inline-block; margin-top:8px; padding:8px 16px; border-radius:22px; background: linear-gradient(45deg,#6a11cb,#ff4b2b); color:#fff; text-decoration:none; font-weight:700; }
+.card:hover { transform: translateY(-6px); background: rgba(255,255,255,0.08); }
+
+/* Responsivo */
+@media (max-width:720px){
+  .search-container { left:90px; right:90px; }
+  .logo-text { display:none; }
+  .main-content { padding-top:200px; }
+  .quick-menu { left:20px; right:20px; flex-direction:row; gap:8px; overflow-x:auto; }
+}
+</style>
+</head>
+<body>
+
+<!-- Fundo -->
+<div class="background-container">
+  <img id="bgImage" src="fundoindex.jpg" alt="Fundo">
+  <video id="bgVideo" src="fundohome.mp4" autoplay muted loop></video>
+</div>
+<div class="overlay"></div>
+
+<!-- Topo: logo e busca -->
+<div class="logo-container" id="logo">
+  <img src="logo.jpg" alt="Logo SZXgames">
+  <div class="logo-text"><span></span></div>
+</div>
+
+<div class="search-container">
+  <input id="searchInput" type="text" placeholder="Pesquisar...">
+</div>
+
+<!-- Menu rápido -->
+<div class="quick-menu">
+  <!-- Adicione aqui os links do menu lateral, exceto Perfil e Sair -->
+  <a href="home.html"><i class="fa fa-house"></i> Início</a>
+  <a href="sobre.html"><i class="fa fa-circle-info"></i> Sobre nós</a>
+  <a href="contato.html"><i class="fa fa-envelope"></i> Contato</a>
+  <a href="jogos.html"><i class="fa fa-gamepad"></i> Jogos em Alta</a>
+  <a href="lancamentos.html"><i class="fa fa-rocket"></i> Lançamentos</a>
+  <a href="reviews.html"><i class="fa fa-star"></i> Reviews</a>
+  <a href="tutoriais.html"><i class="fa fa-lightbulb"></i> Tutoriais & Dicas</a>
+  <a href="mods.html"><i class="fa fa-cubes"></i> Mods & Add-ons</a>
+  <a href="ranking.html"><i class="fa fa-trophy"></i> Ranking / Top Games</a>
+  <a href="classicos.html"><i class="fa fa-dice"></i> Clássicos</a>
+  <a href="noticias.html"><i class="fa fa-newspaper"></i> Notícias</a>
+  <a href="esports.html"><i class="fa fa-headset"></i> E-sports</a>
+  <a href="promocoes.html"><i class="fa fa-tags"></i> Promoções & Ofertas</a>
+  <a href="calendario.html"><i class="fa fa-calendar-days"></i> Calendário Gamer</a>
+  <a href="forum.html"><i class="fa fa-comments"></i> Fórum</a>
+  <a href="discord.html"><i class="fa-brands fa-discord"></i> Discord / Telegram</a>
+  <a href="enquetes.html"><i class="fa fa-poll"></i> Enquetes & Votações</a>
+  <a href="quiz.html"><i class="fa fa-question"></i> Quiz</a>
+  <a href="galeria.html"><i class="fa fa-image"></i> Galeria</a>
+  <a href="ferramentas.html"><i class="fa fa-tools"></i> Ferramentas</a>
+  <a href="downloads.html"><i class="fa fa-download"></i> Downloads</a>
+  <a href="loja.html"><i class="fa fa-store"></i> Loja</a>
+</div>
+
+<!-- Menu lateral COMPLETO -->
+<nav id="sideMenu" class="side-menu" aria-label="Menu principal">
+  <div class="menu-banner"></div>
+
+  <div class="menu-section">Principal</div>
+  <a href="home.html"><i class="fa fa-house"></i> Início</a>
+  <a href="sobre.html"><i class="fa fa-circle-info"></i> Sobre nós</a>
+  <a href="contato.html"><i class="fa fa-envelope"></i> Contato</a>
+
+  <div class="menu-section">Jogos</div>
+  <a href="jogos.html"><i class="fa fa-gamepad"></i> Jogos em Alta</a>
+  <a href="lancamentos.html"><i class="fa fa-rocket"></i> Lançamentos</a>
+  <a href="reviews.html"><i class="fa fa-star"></i> Reviews</a>
+  <a href="tutoriais.html"><i class="fa fa-lightbulb"></i> Tutoriais & Dicas</a>
+  <a href="mods.html"><i class="fa fa-cubes"></i> Mods & Add-ons</a>
+  <a href="ranking.html"><i class="fa fa-trophy"></i> Ranking / Top Games</a>
+  <a href="classicos.html"><i class="fa fa-dice"></i> Clássicos</a>
+
+  <div class="menu-section">Notícias</div>
+  <a href="noticias.html"><i class="fa fa-newspaper"></i> Notícias</a>
+  <a href="esports.html"><i class="fa fa-headset"></i> E-sports</a>
+  <a href="promocoes.html"><i class="fa fa-tags"></i> Promoções & Ofertas</a>
+  <a href="calendario.html"><i class="fa fa-calendar-days"></i> Calendário</a>
+
+  <div class="menu-section">Comunidade</div>
+  <a href="forum.html"><i class="fa fa-comments"></i> Fórum</a>
+  <a href="discord.html"><i class="fa-brands fa-discord"></i> Discord / Telegram</a>
+  <a href="enquetes.html"><i class="fa fa-poll"></i> Enquetes & Votações</a>
+  <a href="quizpage.html"><i class="fa fa-question"></i> Quiz</a>
+  <a href="galeria.html"><i class="fa fa-image"></i> Galeria</a>
+
+  <div class="menu-section">Extras</div>
+  <a href="ferramentas.html"><i class="fa fa-tools"></i> Ferramentas</a>
+  <a href="downloads.html"><i class="fa fa-download"></i> Downloads</a>
+  <a href="loja.html"><i class="fa fa-store"></i> Loja</a>
+
+  <div class="menu-section">Conta</div>
+  <a href="perfil.html"><i class="fa fa-user"></i> Perfil</a>
+  <a href="sair.html" id="logoutLink"><i class="fa fa-right-from-bracket"></i> Sair</a>
+</nav>
+
+<!-- Botão alternar fundo -->
+<button id="toggleBtn" class="floating-btn" title="Alternar fundo">
+  <svg id="iconImage" xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill="#fff" viewBox="0 0 24 24">
+    <path d="M21 19V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2zM5 5h14v6.5l-3-3-4 4-3-3-4 4V5z"/>
+  </svg>
+  <svg id="iconVideo" xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill="#fff" viewBox="0 0 24 24" style="display:none;">
+    <path d="M17 10.5V7a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-3.5l4 4v-11l-4 4z"/>
+  </svg>
+</button>
+
+<!-- Conteúdo principal -->
+<main class="main-content" role="main">
+  <h2>Jogos em Destaque</h2>
+  <div class="cards-carousel" id="carousel"></div>
+
+  <h2>Últimas Notícias</h2>
+  <section class="cards" aria-label="Últimas notícias">
+    <div class="card"><h3>Novo Lançamento</h3><p>O RPG mais esperado chega este mês.</p></div>
+    <div class="card"><h3>Promoções Ativas</h3><p>Jogos com até 70% de desconto.</p></div>
+    <div class="card"><h3>Campeonato Gamer</h3><p>Inscrições abertas para torneio global.</p></div>
+  </section>
+</main>
+
+<script>
+// Menu lateral toggle
+const logo = document.getElementById('logo');
+const sideMenu = document.getElementById('sideMenu');
+logo.addEventListener('click', e => { e.stopPropagation(); sideMenu.classList.toggle('active'); });
+document.addEventListener('click', e => {
+  if(sideMenu.classList.contains('active') && !sideMenu.contains(e.target) && !logo.contains(e.target)){
+    sideMenu.classList.remove('active');
+  }
+});
+
+// Alternar fundo (imagem <-> vídeo)
+const bgImage = document.getElementById('bgImage');
+const bgVideo = document.getElementById('bgVideo');
+const toggleBtn = document.getElementById('toggleBtn');
+const iconImage = document.getElementById('iconImage');
+const iconVideo = document.getElementById('iconVideo');
+let modo = 'imagem';
+function aplicarFundo(modoAtual){
+  if(modoAtual === 'video'){
+    bgImage.style.display = 'none';
+    bgVideo.style.display = 'block';
+    iconImage.style.display = 'none';
+    iconVideo.style.display = 'block';
+  } else {
+    bgVideo.style.display = 'none';
+    bgImage.style.display = 'block';
+    iconVideo.style.display = 'none';
+    iconImage.style.display = 'block';
+  }
+  modo = modoAtual;
+}
+aplicarFundo(modo);
+toggleBtn.addEventListener('click', ()=> aplicarFundo(modo==='imagem'?'video':'imagem'));
+
+// Logout
+const logoutLink = document.getElementById('logoutLink');
+logoutLink.addEventListener('click', e=>{
+  e.preventDefault();
+  try{ localStorage.clear(); sessionStorage.clear(); } catch(err){}
+  document.cookie.split(';').forEach(c=>{
+    document.cookie=c.replace(/^ +/,'').replace(/=.*/,'=;expires='+new Date().toUTCString()+';path=/');
+  });
+  window.location.href='login.html';
+});
+
+// Carrossel com 50 cards
+const carousel = document.getElementById('carousel');
+const cardsData = [
+  { img: 'gt1.jpeg', title: 'Apex', desc: 'Entre em batalhas intensas e forme esquadrões de heróis únicos.', link: '#' },
+  { img: 'gt2.jpeg', title: 'Free Fire', desc: 'Sobreviva em ilhas cheias de ação e enfrente outros jogadores.', link: '#' },
+  { img: 'gt3.jpeg', title: 'Minecraft', desc: 'Explore, construa e crie aventuras em mundos infinitos.', link: '#' },
+  { img: 'gt4.jpeg', title: 'Roblox', desc: 'Crie e jogue em milhões de mundos criados por jogadores.', link: '#' },
+  { img: 'gt5.jpeg', title: 'Standoff 2', desc: 'Combates táticos em primeira pessoa com armas realistas.', link: '#' },
+  { img: 'gt6.jpeg', title: 'Bomber Friend', desc: 'Estoure obstáculos e vença os inimigos com estratégia.', link: '#' },
+  { img: 'gt7.jpeg', title: 'Call of Duty: Modern Warfare', desc: 'Participe de batalhas modernas cheias de ação intensa.', link: '#' },
+  { img: 'gt8.jpeg', title: 'Subway Surfers', desc: 'Corra, desvie e colete moedas em trilhos movimentados.', link: '#' },
+  { img: 'gt9.jpeg', title: 'Pou', desc: 'Cuide do seu alienígena virtual e divirta-se com mini games.', link: '#' },
+  { img: 'gt10.jpeg', title: 'Hollow Knight', desc: 'Explore cavernas misteriosas e enfrente criaturas sombrias.', link: '#' },
+  { img: 'gt11.jpeg', title: 'Fortnite', desc: 'Construa, lute e sobreviva em partidas de Battle Royale.', link: '#' },
+  { img: 'gt12.jpeg', title: 'Fortzone', desc: 'Entre em batalhas estratégicas e conquiste o território.', link: '#' },
+  { img: 'gt13.jpeg', title: 'Battlerite Royale', desc: 'Lute em arenas com heróis únicos e habilidades poderosas.', link: '#' },
+  { img: 'gt14.jpeg', title: 'Fashion Design', desc: 'Crie looks incríveis e mostre seu estilo único.', link: '#' },
+  { img: 'gt15.jpeg', title: 'Mobile Legends', desc: 'Participe de batalhas 5v5 com heróis estratégicos.', link: '#' },
+  { img: 'gt16.jpeg', title: 'FIFA', desc: 'Monte seu time e dispute partidas emocionantes de futebol.', link: '#' },
+  { img: 'gt17.jpeg', title: 'Moto X3M', desc: 'Realize manobras radicais em pistas cheias de desafios.', link: '#' },
+  { img: 'gt18.jpeg', title: 'Snake.io', desc: 'Cresça sua cobra e domine o campo de batalha.', link: '#' },
+  { img: 'gt19.jpeg', title: 'Delta Force', desc: 'Missões militares intensas com ação estratégica.', link: '#' },
+  { img: 'gt20.jpeg', title: 'DriftCe', desc: 'Corridas de drift emocionantes em pistas desafiadoras.', link: '#' },
+  { img: 'gt21.jpeg', title: 'Hectic Combats', desc: 'Combate rápido e intenso em arenas cheias de ação.', link: '#' },
+  { img: 'gt22.jpeg', title: 'Drift Hunters', desc: 'Mostre suas habilidades de drift em carros potentes.', link: '#' },
+  { img: 'gt23.jpeg', title: 'GTA San Andreas', desc: 'Explore a cidade, complete missões e viva aventuras criminosas.', link: '#' }
+];
+
+// Renderizar cards
+function renderCards(container, cards){
+  cards.forEach(card=>{
+    const el = document.createElement('div');
+    el.className='card';
+    el.innerHTML=`
+      <img src="${card.img}" alt="${card.title}">
+      <h3>${card.title}</h3>
+      <p>${card.desc}</p>
+      <a class="btn" href="${card.link}" target="_blank">Ver mais</a>
+    `;
+    container.appendChild(el);
+  });
+}
+
+// Adiciona cards ao carrossel
+renderCards(carousel, cardsData);
+</script>
+
+</body>
+</html>

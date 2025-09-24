@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>SZXgames - Calendário</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
+
+<style>
+/* === Corpo e centralização === */
+html, body {
+  margin:0;
+  padding:0;
+  height:100%;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color:#fff;
+  background:#0a0a0a;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  overflow:hidden;
+  transition: background 0.5s;
+}
+
+/* Fundo */
+.background-container {
+  position: fixed; top:0; left:0; width:100%; height:100%; z-index:0; overflow:hidden;
+}
+.background-container img,
+.background-container video {
+  width:100%; height:100%;
+  object-fit: cover; display:none;
+}
+.overlay {
+  position: fixed; top:0; left:0; width:100%; height:100%;
+  background: rgba(0,0,0,0.7); z-index:0;
+}
+
+/* Logo */
+.logo-container {
+  position: absolute; top:20px; left:30px; z-index:3;
+  display:flex; align-items:center; gap:10px; cursor:pointer;
+}
+.logo-container img { width:70px; display:block; }
+.logo-text { font-weight:bold; font-size:1.2rem; }
+.logo-text span { color:#ff4b2b; }
+
+/* Menu lateral */
+.side-menu {
+  position: fixed; top:0; left:0; width:270px; height:100%;
+  background: rgba(0,0,0,0.97); box-shadow:2px 0 10px rgba(0,0,0,0.5);
+  z-index:6; transform:translateX(-100%); transition: transform 0.3s ease; overflow-y:auto;
+}
+.side-menu.active { transform:translateX(0); }
+.menu-banner { width:100%; height:140px; background:url('banner.jpg') center/cover no-repeat; display:flex; align-items:center; justify-content:center; color:#fff; font-weight:bold; }
+.menu-section { padding:10px 20px; font-size:0.9rem; font-weight:bold; text-transform:uppercase; color:#ff4b2b; margin-top:15px; border-top:1px solid rgba(255,255,255,0.08); }
+.side-menu a { display:block; color:#fff; text-decoration:none; font-size:1.05rem; margin:10px 20px; padding:8px 0; transition: color .15s; }
+.side-menu a i { width:20px; margin-right:10px; text-align:center; }
+.side-menu a:hover { color:#ff4b2b; }
+
+/* Botão alternar fundo */
+.floating-btn {
+  position: fixed; bottom:20px; right:20px; width:55px; height:55px; border-radius:100px; border:none;
+  background: linear-gradient(45deg,#6a11cb,#ff4b2b); display:flex; align-items:center; justify-content:center; cursor:pointer;
+  box-shadow:0 6px 18px rgba(0,0,0,0.45); z-index:10;
+}
+.floating-btn:hover { transform:scale(1.06); }
+.floating-btn svg { pointer-events:none; }
+
+/* === Calendário === */
+.main-content {
+  position: relative;
+  z-index:1;
+  width:100%;
+  max-width:900px;
+  padding:0;
+  box-sizing:border-box;
+}
+
+.calendar-container {
+  width:100%;
+  padding:20px;
+  box-sizing:border-box;
+}
+
+.calendar-header {
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  flex-wrap:wrap;
+  margin-bottom:15px;
+}
+
+.calendar-header h1 { margin:0; font-size:1.8rem; }
+#clock { font-size:18px; font-weight:bold; color:#ff4b2b; }
+
+.calendar-nav button {
+  background:#ff4b2b; border:none; color:#fff; padding:6px 12px; border-radius:8px;
+  cursor:pointer; font-size:16px; margin:2px;
+}
+.calendar-nav button:hover { background:#6a11cb; }
+
+.calendar table {
+  width:100%; border-collapse:collapse; background:rgba(255,255,255,0.05); border-radius:12px; overflow:hidden;
+}
+.calendar th, .calendar td {
+  width:14.28%; text-align:center; padding:15px; border-bottom:1px solid rgba(255,255,255,0.1);
+}
+.calendar th { background:#333; }
+.calendar td:hover { background:rgba(255,255,255,0.1); cursor:pointer; border-radius:6px; }
+.calendar .today { background:#ff4b2b; color:#fff; font-weight:bold; }
+
+/* Responsivo */
+@media (max-width:720px){
+  .calendar-header { flex-direction:column; gap:8px; }
+}
+</style>
+</head>
+<body>
+
+<!-- Fundo -->
+<div class="background-container">
+  <img id="bgImage" src="fundoindex.jpg" alt="Fundo">
+  <video id="bgVideo" src="fundohome.mp4" autoplay muted loop></video>
+</div>
+<div class="overlay"></div>
+
+<!-- Logo -->
+<div class="logo-container" id="logo">
+  <img src="logo.jpg" alt="Logo SZXgames">
+  <div class="logo-text"><span>SZX</span>games</div>
+</div>
+
+<!-- Menu lateral -->
+<nav id="sideMenu" class="side-menu" aria-label="Menu principal">
+  <div class="menu-banner"></div>
+  <div class="menu-section">Principal</div>
+  <a href="home.html"><i class="fa fa-house"></i> Início</a>
+  <a href="sobre.html"><i class="fa fa-circle-info"></i> Sobre nós</a>
+  <a href="contato.html"><i class="fa fa-envelope"></i> Contato</a>
+  <div class="menu-section">Jogos</div>
+  <a href="jogos.html"><i class="fa fa-gamepad"></i> Jogos em Alta</a>
+  <a href="lancamentos.html"><i class="fa fa-rocket"></i> Lançamentos</a>
+  <a href="reviews.html"><i class="fa fa-star"></i> Reviews</a>
+  <a href="tutoriais.html"><i class="fa fa-lightbulb"></i> Tutoriais & Dicas</a>
+  <a href="mods.html"><i class="fa fa-cubes"></i> Mods & Add-ons</a>
+  <a href="ranking.html"><i class="fa fa-trophy"></i> Ranking / Top Games</a>
+  <a href="classicos.html"><i class="fa fa-dice"></i> Clássicos</a>
+  <div class="menu-section">Notícias</div>
+  <a href="noticias.html"><i class="fa fa-newspaper"></i> Notícias</a>
+  <a href="esports.html"><i class="fa fa-headset"></i> E-sports</a>
+  <a href="promocoes.html"><i class="fa fa-tags"></i> Promoções & Ofertas</a>
+  <a href="calendario.html"><i class="fa fa-calendar-days"></i> Calendário</a>
+  <div class="menu-section">Comunidade</div>
+  <a href="forum.html"><i class="fa fa-comments"></i> Fórum</a>
+  <a href="discord.html"><i class="fa-brands fa-discord"></i> Discord / Telegram</a>
+  <a href="enquetes.html"><i class="fa fa-poll"></i> Enquetes & Votações</a>
+  <a href="quiz.html"><i class="fa fa-question"></i> Quiz</a>
+  <a href="galeria.html"><i class="fa fa-image"></i> Galeria</a>
+  <div class="menu-section">Extras</div>
+  <a href="ferramentas.html"><i class="fa fa-tools"></i> Ferramentas</a>
+  <a href="downloads.html"><i class="fa fa-download"></i> Downloads</a>
+  <a href="loja.html"><i class="fa fa-store"></i> Loja</a>
+  <div class="menu-section">Conta</div>
+  <a href="perfil.html"><i class="fa fa-user"></i> Perfil</a>
+  <a href="sair.html" id="logoutLink"><i class="fa fa-right-from-bracket"></i> Sair</a>
+</nav>
+
+<!-- Botão alternar fundo -->
+<button id="toggleBtn" class="floating-btn" title="Alternar fundo">
+  <svg id="iconImage" xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill="#fff" viewBox="0 0 24 24">
+    <path d="M21 19V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2zM5 5h14v6.5l-3-3-4 4-3-3-4 4V5z"/>
+  </svg>
+  <svg id="iconVideo" xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill="#fff" viewBox="0 0 24 24" style="display:none;">
+    <path d="M17 10.5V7a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-3.5l4 4v-11l-4 4z"/>
+  </svg>
+</button>
+
+<!-- Conteúdo principal -->
+<main class="main-content">
+  <div class="calendar-container">
+    <div class="calendar-header">
+      <div class="calendar-nav">
+        <button id="prevMonth"><i class="fa fa-chevron-left"></i></button>
+        <button id="nextMonth"><i class="fa fa-chevron-right"></i></button>
+      </div>
+      <h1 id="monthYear">Setembro 2025</h1>
+      <div id="clock"></div>
+    </div>
+    <table class="calendar">
+      <thead>
+        <tr>
+          <th>Dom</th>
+          <th>Seg</th>
+          <th>Ter</th>
+          <th>Qua</th>
+          <th>Qui</th>
+          <th>Sex</th>
+          <th>Sáb</th>
+        </tr>
+      </thead>
+      <tbody id="calendarBody"></tbody>
+    </table>
+  </div>
+</main>
+
+<script>
+// Menu lateral toggle
+const logo = document.getElementById('logo');
+const sideMenu = document.getElementById('sideMenu');
+logo.addEventListener('click', e => { e.stopPropagation(); sideMenu.classList.toggle('active'); });
+document.addEventListener('click', e => { if(sideMenu.classList.contains('active') && !sideMenu.contains(e.target) && !logo.contains(e.target)){ sideMenu.classList.remove('active'); } });
+
+// Alternar fundo
+const bgImage = document.getElementById('bgImage');
+const bgVideo = document.getElementById('bgVideo');
+const toggleBtn = document.getElementById('toggleBtn');
+const iconImage = document.getElementById('iconImage');
+const iconVideo = document.getElementById('iconVideo');
+let modo = 'imagem';
+function aplicarFundo(modoAtual){ if(modoAtual==='video'){ bgImage.style.display='none'; bgVideo.style.display='block'; iconImage.style.display='none'; iconVideo.style.display='block'; } else{ bgVideo.style.display='none'; bgImage.style.display='block'; iconVideo.style.display='none'; iconImage.style.display='block'; } modo=modoAtual; }
+aplicarFundo(modo);
+toggleBtn.addEventListener('click', ()=>{
+    aplicarFundo(modo==='imagem'?'video':'imagem');
+});
+
+// Logout
+const logoutLink = document.getElementById('logoutLink');
+logoutLink.addEventListener('click', e=>{
+    e.preventDefault();
+    try{ localStorage.clear(); sessionStorage.clear(); } catch(err){}
+    document.cookie.split(';').forEach(c=>{
+        document.cookie=c.replace(/^ +/,'').replace(/=.*/,'=;expires='+new Date().toUTCString()+';path=/');
+    });
+    window.location.href='login.html';
+});
+
+// === Relógio dinâmico ===
+function updateClock(){
+    const now = new Date();
+    const h = String(now.getHours()).padStart(2,'0');
+    const m = String(now.getMinutes()).padStart(2,'0');
+    const s = String(now.getSeconds()).padStart(2,'0');
+    document.getElementById('clock').textContent = `${h}:${m}:${s}`;
+}
+setInterval(updateClock, 1000);
+updateClock();
+
+// === Calendário Dinâmico ===
+const calendarBody = document.getElementById('calendarBody');
+const monthYear = document.getElementById('monthYear');
+const prevMonth = document.getElementById('prevMonth');
+const nextMonth = document.getElementById('nextMonth');
+
+let today = new Date();
+let currentMonth = today.getMonth();
+let currentYear = today.getFullYear();
+
+function renderCalendar(month, year){
+    calendarBody.innerHTML = '';
+    const firstDay = new Date(year, month, 1).getDay();
+    const daysInMonth = new Date(year, month+1, 0).getDate();
+    const months = ["Janeiro","Fevereiro","Março","Abril","Maio","Junho","Julho","Agosto","Setembro","Outubro","Novembro","Dezembro"];
+    monthYear.textContent = `${months[month]} ${year}`;
+
+    let date = 1;
+    for(let i=0; i<6; i++){
+        const row = document.createElement('tr');
+        for(let j=0; j<7; j++){
+            const cell = document.createElement('td');
+            if(i===0 && j<firstDay){ cell.textContent=''; }
+            else if(date > daysInMonth){ cell.textContent=''; }
+            else{
+                cell.textContent = date;
+                if(date===today.getDate() && month===today.getMonth() && year===today.getFullYear()){
+                    cell.classList.add('today');
+                }
+                date++;
+            }
+            row.appendChild(cell);
+        }
+        calendarBody.appendChild(row);
+    }
+}
+
+// Navegação meses
+prevMonth.addEventListener('click', ()=>{
+    currentMonth--;
+    if(currentMonth<0){ currentMonth=11; currentYear--; }
+    renderCalendar(currentMonth,currentYear);
+});
+nextMonth.addEventListener('click', ()=>{
+    currentMonth++;
+    if(currentMonth>11){ currentMonth=0; currentYear++; }
+    renderCalendar(currentMonth,currentYear);
+});
+
+// Inicializar calendário
+renderCalendar(currentMonth,currentYear);
+</script>
+</body>
+</html>

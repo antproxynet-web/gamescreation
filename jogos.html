@@ -1,0 +1,623 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SZXgames - Jogos</title>
+
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+  <style>
+    body, html {
+      margin: 0;
+      padding: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      color: #fff;
+      overflow-y: auto; /* permite rolagem vertical */
+    }
+
+    /* Fundo */
+    .background-container {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: 0;
+      overflow: hidden;
+    }
+
+    .background-container img,
+    .background-container video {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: none;
+    }
+
+    .overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0,0,0,0.6);
+      z-index: 0;
+    }
+
+    /* Logo */
+    .logo-container {
+      position: absolute;
+      top: 20px;
+      left: 30px;
+      z-index: 3;
+      text-align: center;
+      cursor: pointer;
+    }
+
+    .logo-container img {
+      width: 70px;
+      height: auto;
+      display: block;
+      margin: 0 auto;
+    }
+
+    .logo-text {
+      margin-top: 5px;
+      font-size: 1.3rem;
+      font-weight: bold;
+    }
+
+    .logo-text span {
+      color: #ff4b2b;
+    }
+
+    /* Menu lateral */
+    .side-menu {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 270px;
+      height: 100%;
+      background: rgba(0,0,0,0.97);
+      box-shadow: 2px 0 10px rgba(0,0,0,0.5);
+      z-index: 6;
+      transform: translateX(-100%);
+      transition: transform 0.3s ease;
+      overflow-y: auto;
+    }
+
+    .side-menu.active {
+      transform: translateX(0);
+    }
+
+    .side-menu a {
+      display: block;
+      color: #fff;
+      text-decoration: none;
+      font-size: 1.1rem;
+      margin: 10px 20px;
+      padding: 8px 0;
+      transition: color 0.2s;
+    }
+
+    .side-menu a i {
+      margin-right: 10px;
+      width: 20px;
+      text-align: center;
+    }
+
+    .side-menu a:hover {
+      color: #ff4b2b;
+    }
+
+    .menu-banner {
+      width: 100%;
+      height: 140px;
+      background: url('banner.jpg') no-repeat center center;
+      background-size: cover;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 2rem;
+      font-weight: bold;
+      color: #fff;
+    }
+
+    .menu-section {
+      padding: 10px 20px;
+      font-size: 0.9rem;
+      font-weight: bold;
+      text-transform: uppercase;
+      color: #ff4b2b;
+      margin-top: 15px;
+      border-top: 1px solid rgba(255,255,255,0.1);
+    }
+
+    /* Botão flutuante */
+    .floating-btn {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      width: 55px;
+      height: 55px;
+      border-radius: 100px;
+      border: none;
+      background: linear-gradient(45deg, #6a11cb, #ff4b2b);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.4);
+      transition: transform 0.2s;
+      z-index: 10;
+    }
+
+    .floating-btn:hover {
+      transform: scale(1.1);
+    }
+
+    .floating-btn svg {
+      pointer-events: none;
+    }
+
+    /* Conteúdo principal */
+    .container {
+      position: relative;
+      z-index: 1;
+      padding: 20px 40px;
+      text-align: center;
+    }
+
+    .content-box {
+      background: rgba(0,0,0,0.0);
+      padding: 30px;
+      border-radius: 15px;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+
+    h1 {
+      font-size: 2.8rem;
+      color: #ff4b2b;
+      margin-bottom: 15px;
+    }
+
+    p {
+      color: #ddd;
+      font-size: 1.2rem;
+    }
+
+    /* Grid de Jogos */
+    .games-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+  gap: 20px;
+  margin-top: 30px;
+}
+
+.game-card {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  background: rgba(0,0,0,0.0);
+  border-radius: 15px;
+  padding: 10px;
+  cursor: pointer;
+  transition: transform 0.2s, box-shadow 0.2s;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.game-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 15px;
+}
+
+.game-card p {
+  margin-top: 8px;
+  font-weight: bold;
+  color: #B9B9B9;
+  font-size: 1.1rem;
+  text-align: center;
+}
+
+.game-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 5px 15px rgba(255,75,43,0.0);
+}
+  </style>
+</head>
+<body>
+  <!-- Fundo -->
+  <div class="background-container">
+    <img id="bgImage" src="fundoindex.jpg" alt="Fundo">
+    <video id="bgVideo" src="fundohome.mp4" autoplay muted loop></video>
+  </div>
+
+  <!-- Overlay -->
+  <div class="overlay"></div>
+
+  <!-- Logo -->
+  <div class="logo-container" id="logo">
+    <img src="logo.jpg" alt="Logo SZXgames">
+    <div class="logo-text"><span></span></div>
+  </div>
+
+  <!-- Menu lateral -->
+  <div id="sideMenu" class="side-menu">
+    <div class="menu-banner"></div>
+
+    <div class="menu-section">Principal</div>
+    <a href="home.html"><i class="fa fa-house"></i> Início</a>
+    <a href="sobre.html"><i class="fa fa-circle-info"></i> Sobre nós</a>
+    <a href="contato.html"><i class="fa fa-envelope"></i> Contato</a>
+
+    <div class="menu-section">Jogos</div>
+    <a href="jogos.html"><i class="fa fa-gamepad"></i> Jogos em alta</a>
+    <a href="lancamentos.html"><i class="fa fa-rocket"></i> Lançamentos</a>
+    <a href="reviews.html"><i class="fa fa-star"></i> Reviews</a>
+    <a href="tutoriais.html"><i class="fa fa-lightbulb"></i> Tutoriais & Dicas</a>
+    <a href="mods.html"><i class="fa fa-cubes"></i> Mods & Add-ons</a>
+    <a href="ranking.html"><i class="fa fa-trophy"></i> Ranking / Top Games</a>
+    <a href="classicos.html"><i class="fa fa-dice"></i> Clássicos</a>
+
+    <div class="menu-section">Notícias</div>
+    <a href="noticias.html"><i class="fa fa-newspaper"></i> Notícias</a>
+    <a href="esports.html"><i class="fa fa-headset"></i> E-sports</a>
+    <a href="promocoes.html"><i class="fa fa-tags"></i> Promoções & Ofertas</a>
+    <a href="calendario.html"><i class="fa fa-calendar-days"></i> Calendário</a>
+
+    <div class="menu-section">Comunidade</div>
+    <a href="forum.html"><i class="fa fa-comments"></i> Fórum</a>
+    <a href="discord.html"><i class="fa-brands fa-discord"></i> Discord / Telegram</a>
+    <a href="enquetes.html"><i class="fa fa-poll"></i> Enquetes & Votações</a>
+    <a href="quiz.html"><i class="fa fa-question"></i> Quiz</a>
+
+    <div class="menu-section">Extras</div>
+    <a href="ferramentas.html"><i class="fa fa-tools"></i> Ferramentas</a>
+    <a href="downloads.html"><i class="fa fa-download"></i> Downloads</a>
+    <a href="loja.html"><i class="fa fa-store"></i> Loja</a>
+  </div>
+
+  <!-- Botão flutuante -->
+  <button id="toggleBtn" class="floating-btn" title="Alternar fundo">
+    <svg id="iconImage" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="26" height="26" fill="#fff">
+      <path d="M21 19V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2zM5 5h14v6.5l-3-3-4 4-3-3-4 4V5z"/>
+    </svg>
+    <svg id="iconVideo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="26" height="26" fill="#fff" style="display:none;">
+      <path d="M17 10.5V7a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-3.5l4 4v-11l-4 4z"/>
+    </svg>
+  </button>
+
+  <!-- Conteúdo -->
+  <div class="container">
+    <div class="content-box">
+      <h1>𝙹𝙾𝙶𝙾𝚂 𝙴𝙼 𝙰𝙻𝚃𝙰 2025</h1>
+      <p>Aqui estão os top 50 jogos mais jogados do momento segundo informações da Google play story.</p>
+    </div>
+
+    <!-- Grid de Jogos -->
+<div class="games-grid">
+  <!-- Jogos 1 a 50 -->
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.roblox.client','_blank')">
+    <img src="roblox.png" alt="Jogo 1">
+    <p>Roblox</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.ningningstudio.kpopmagictiles','_blank')">
+    <img src="kpoppianostar.jpeg" alt="Jogo 2">
+    <p>kpop piano star</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.tfgco.apps.coloring.free.color.by.number','_blank')">
+    <img src="colorbynumber.jpeg" alt="Jogo 3">
+    <p>color by number</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.abi.cook.chill','_blank')">
+    <img src="cookingdom.jpeg" alt="Jogo 4">
+    <p>cookingdom</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.mmircil.cnb2','_blank')">
+    <img src="crafting.jpeg" alt="Jogo 5">
+    <p>crafting and building</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf','_blank')">
+    <img src="subwaysurfs.jpeg" alt="Jogo 6">
+    <p>subway surfers</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.pazugames.avatarworld','_blank')">
+    <img src="avatarworld.jpeg" alt="Jogo 7">
+    <p>avatar world</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.anime.magic.princess.doll.avatar.dressup.games','_blank')">
+    <img src="magicprincess.jpeg" alt="Jogo 8">
+    <p>magic princess</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.amelosinteractive.snake','_blank')">
+    <img src="snakeio.jpeg" alt="Jogo 9">
+    <p>snake.io</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.dts.freefireth','_blank')">
+    <img src="freefire.jpeg" alt="Jogo 10">
+    <p>FreeFire</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.bunbunstudio.magicblocktiles','_blank')">
+    <img src="piano7.jpeg" alt="Jogo 11">
+    <p>music piano 7</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.prison.escape.journey.simulator','_blank')">
+    <img src="prisonescape.jpeg" alt="Jogo 12">
+    <p>prison escape journey</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.higame.annoying.tricky.story.puzzle.game','_blank')">
+    <img src="trickprank.jpeg" alt="Jogo 13">
+    <p>trick prank</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.uc.minigame.relax','_blank')">
+    <img src="minigames.jpeg" alt="Jogo 14">
+    <p>mini games calm & relax</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.block.juggle','_blank')">
+    <img src="blockblast.jpeg" alt="Jogo 15">
+    <p>block blast</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.supercell.clashroyale','_blank')">
+    <img src="clashroyale.jpeg" alt="Jogo 16">
+    <p>Clash Royale</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.movile.playkids.pkxd','_blank')">
+    <img src="PKXD.jpeg" alt="Jogo 17">
+    <p>PKXD</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=me.pou.app','_blank')">
+    <img src="pou.jpeg" alt="Jogo 18">
+    <p>Pou</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangela2','_blank')">
+    <img src="angela.jpeg" alt="Jogo 19">
+    <p>Minha talking angela 2</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.tocaboca.tocalifeworld','_blank')">
+    <img src="tocaboca.jpeg" alt="Jogo 20">
+    <p>Toca boca World</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.Earthkwak.Platformer','_blank')">
+    <img src="superbear.jpeg" alt="Jogo 21">
+    <p>Super bear adventure</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.cliffs.pro.cell.building.crazy.clever.craft','_blank')">
+    <img src="blockcrazy.jpeg" alt="Jogo 22">
+    <p>Block Crazy</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.ahaworld.ahaworld','_blank')">
+    <img src="ahaworld.jpeg" alt="Jogo 23">
+    <p>Aha World</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtom2','_blank')">
+    <img src="talkingtom.jpeg" alt="Jogo 24">
+    <p>Talking Tom</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.orange.kidspiano.music.songs','_blank')">
+    <img src="pianocrianca.jpeg" alt="Jogo 25">
+    <p>Piano crianças</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.kitkagames.fallbuddies','_blank')">
+    <img src="stumbleguys.jpeg" alt="Jogo 26">
+    <p>Stumble Guys</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.youmusic.magictiles','_blank')">
+    <img src="magictiles3.jpeg" alt="Jogo 27">
+    <p>Magic Tiles 3</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.Aria.TidyMaster.mi','_blank')">
+    <img src="perfectgirl.jpeg" alt="Jogo 28">
+    <p>Perfect girl:ASMR</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.outfit7.mytalkingtomfriends2','_blank')">
+    <img src="meutalkingtom.jpeg" alt="Jogo 29">
+    <p>Meu Talking Tom Amigos 2</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.fc.goods.sort.matching.puzzle.triplemaster','_blank')">
+    <img src="goodssorting.jpeg" alt="Jogo 30">
+    <p>Goods Sorting</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.newnormalgames.phonecasediy','_blank')">
+    <img src="suacapinha.jpeg" alt="Jogo 31">
+    <p>Sua Capinha</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.kkz.antistress.satisfying.relax.toys.games','_blank')">
+    <img src="antistress.jpeg" alt="Jogo 32">
+    <p>Antistress Fun Mini Games</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.pixel.art.coloring.color.number','_blank')">
+    <img src="happycolor.png" alt="Jogo 33">
+    <p>Happy Color® Jogo de pintar</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.game.fashion.magic.princess.dressup','_blank')">
+    <img src="magicfashion.jpeg" alt="Jogo 34">
+    <p>Magic Fashion:Doll Dressup</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.sh.fidget.toys.mini.relaxing.antistress.games','_blank')">
+    <img src="minijogosrelax.jpeg" alt="Jogo 35">
+    <p>Mini Jogos relaxantes-pop it</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.fc.p.cp.jelly.mukbang.asmr.live.diy','_blank')">
+    <img src="mestregeleia.jpeg" alt="Jogo 36">
+    <p>Mestre de geleia</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.budgestudios.googleplay.BlueyBLU','_blank')">
+    <img src="Bluey.jpeg" alt="Jogo 37">
+    <p>Bluey- Vamos brincar</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.brainy.prankster.puzzle','_blank')">
+    <img src="Brainyprankster.webp" alt="Jogo 38">
+    <p>Brainy Prankster</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.fun.brain.game','_blank')">
+    <img src="brainpuzzle.png" alt="Jogo 39">
+    <p>Brain Puzzle: Tricky Quest</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.miniclip.eightballpool','_blank')">
+    <img src="8ballpool.jpeg" alt="Jogo 40">
+    <p>8 ball pool</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=io.voodoo.holeio','_blank')">
+    <img src="holeio.jpg" alt="Jogo 41">
+    <p>Hole.io</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.mojang.minecrafttrialpe','_blank')">
+    <img src="minetrial.png" alt="Jogo 42">
+    <p>Teste do Minecraft</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.mad1.stresscrusher.relaxing.games','_blank')">
+    <img src="stresscrusher.png" alt="Jogo 43">
+    <p>Stress Crusher relaxing game</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.sinyee.babybus.gameworld.design.home.friends.fun.life.story','_blank')">
+    <img src="gameworld.png" alt="Jogo 44">
+    <p>Game world: História</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.vizta.wefly','_blank')">
+    <img src="acecraft.png" alt="Jogo 45">
+    <p>Acecraft</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.kayac.ball_run','_blank')">
+    <img src="ballrun.jpeg" alt="Jogo 46">
+    <p>Ball Run 2048:merge number</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.master.hotelmaster','_blank')">
+    <img src="myperfecthotel.webp" alt="Jogo 47">
+    <p>My Perfect Hotel</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.playgendary.kickthebuddy','_blank')">
+    <img src="kickthebuddy.jpeg" alt="Jogo 48">
+    <p>Kick The Buddy</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.craftsman.go','_blank')">
+    <img src="craftsman.jpeg" alt="Jogo 49">
+    <p>Craftsman Building Craft</p>
+  </div>
+
+  <div class="game-card" onclick="window.open('https://play.google.com/store/apps/details?id=com.playrix.township','_blank')">
+    <img src="Township.jpeg" alt="Jogo 50">
+    <p>Township</p>
+  </div>
+</div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const logo = document.getElementById("logo");
+    const sideMenu = document.getElementById("sideMenu");
+
+    // Abrir/fechar menu
+    logo.addEventListener("click", (e) => {
+      e.stopPropagation();
+      sideMenu.classList.toggle("active");
+    });
+
+    document.addEventListener("click", (e) => {
+      if (sideMenu.classList.contains("active") && !sideMenu.contains(e.target) && !logo.contains(e.target)) {
+        sideMenu.classList.remove("active");
+      }
+    });
+
+    // Cookies: salvar e recuperar modo de fundo
+    function setCookie(name, value, days) {
+      const d = new Date();
+      d.setTime(d.getTime() + (days*24*60*60*1000));
+      document.cookie = name + "=" + value + ";path=/;expires=" + d.toUTCString();
+    }
+
+    function getCookie(name) {
+      const value = "; " + document.cookie;
+      const parts = value.split("; " + name + "=");
+      if (parts.length === 2) return parts.pop().split(";").shift();
+      return null;
+    }
+
+    // Fundo dinâmico
+    const bgImage = document.getElementById('bgImage');
+    const bgVideo = document.getElementById('bgVideo');
+    const toggleBtn = document.getElementById('toggleBtn');
+    const iconImage = document.getElementById('iconImage');
+    const iconVideo = document.getElementById('iconVideo');
+
+    let modo = getCookie('modoFundo') || 'imagem';
+
+    function aplicarModo() {
+      if (modo === 'imagem') {
+        bgImage.style.display = 'block';
+        bgVideo.style.display = 'none';
+        iconImage.style.display = 'block';
+        iconVideo.style.display = 'none';
+      } else {
+        bgImage.style.display = 'none';
+        bgVideo.style.display = 'block';
+        iconImage.style.display = 'none';
+        iconVideo.style.display = 'block';
+      }
+    }
+
+    aplicarModo();
+
+    toggleBtn.addEventListener('click', () => {
+      modo = (modo === 'imagem') ? 'video' : 'imagem';
+      setCookie('modoFundo', modo, 365);
+      aplicarModo();
+    });
+  </script>
+</body>
+</html>
