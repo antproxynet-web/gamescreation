@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual é a fórmula do volume de um cubo de aresta a?",
+    "o": ["a²", "a³", "6a²", "4a³"],
+    "a": 1
+  },
+  {
+    "q": "O volume de uma esfera de raio r é dado por:",
+    "o": ["(4/3)πr³", "πr²", "2πr", "πr³/2"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a área total de um paralelepípedo retângulo?",
+    "o": ["2(ab + bc + ac)", "abc", "a² + b² + c²", "ab + bc + ac"],
+    "a": 0
+  },
+  {
+    "q": "O que é uma pirâmide regular?",
+    "o": ["Base triangular", "Todas as arestas iguais", "Base poligonal regular e vértice alinhado ao centro", "Volume igual à área da base"],
+    "a": 2
+  },
+  {
+    "q": "O cilindro é formado por:",
+    "o": ["Duas bases triangulares", "Duas bases circulares paralelas", "Uma base quadrada", "Uma base poligonal qualquer"],
+    "a": 1
+  },
+  {
+    "q": "Qual é o volume de um prisma reto?",
+    "o": ["Área da base × altura", "Perímetro da base × altura", "Área lateral × altura", "Área total ÷ altura"],
+    "a": 0
+  },
+  {
+    "q": "Um cone é definido como:",
+    "o": ["Prisma triangular", "Pirâmide de base quadrada", "Sólido com base circular e vértice", "Esfera achatada"],
+    "a": 2
+  },
+  {
+    "q": "O número de vértices de um cubo é:",
+    "o": ["6", "8", "12", "4"],
+    "a": 1
+  },
+  {
+    "q": "Quantas faces tem um dodecaedro regular?",
+    "o": ["12", "20", "8", "10"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a soma dos ângulos de um triângulo em uma superfície plana?",
+    "o": ["90°", "180°", "270°", "360°"],
+    "a": 1
+  },
+  {
+    "q": "O volume de um cone é:",
+    "o": ["(1/2)πr²h", "(1/3)πr²h", "πr²h", "(2/3)πr²h"],
+    "a": 1
+  },
+  {
+    "q": "O comprimento da diagonal de um cubo de aresta a é:",
+    "o": ["a√2", "a√3", "2a", "3a"],
+    "a": 1
+  },
+  {
+    "q": "A relação de Euler para poliedros é:",
+    "o": ["F + A = V", "V + A = F + 2", "V - A + F = 2", "V × A × F = 0"],
+    "a": 2
+  },
+  {
+    "q": "Qual é a área lateral de um cilindro de raio r e altura h?",
+    "o": ["2πr²", "πrh", "2πrh", "πr²h"],
+    "a": 2
+  },
+  {
+    "q": "Quantas arestas tem uma pirâmide de base quadrada?",
+    "o": ["6", "8", "10", "12"],
+    "a": 1
+  },
+  {
+    "q": "O volume de um paralelepípedo é dado por:",
+    "o": ["abc", "2(ab+bc+ac)", "a+b+c", "abc/2"],
+    "a": 0
+  },
+  {
+    "q": "Quantas faces triangulares possui um tetraedro regular?",
+    "o": ["3", "4", "6", "8"],
+    "a": 1
+  },
+  {
+    "q": "Qual sólido possui 20 faces triangulares?",
+    "o": ["Dodecaedro", "Icosaedro", "Octaedro", "Tetraedro"],
+    "a": 1
+  },
+  {
+    "q": "Qual é o volume de um prisma triangular de base área Ab e altura h?",
+    "o": ["Ab × h", "(Ab × h)/2", "2Ab × h", "Ab + h"],
+    "a": 0
+  },
+  {
+    "q": "O raio da esfera é sempre:",
+    "o": ["Metade do diâmetro", "Igual ao diâmetro", "Dois diâmetros", "Um quarto do diâmetro"],
+    "a": 0
+  }
+]

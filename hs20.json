@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Em que ano ocorreu a queda do Império Romano do Ocidente?",
+    "o": ["476", "410", "395", "500"],
+    "a": 0
+  },
+  {
+    "q": "Em que ano Cristóvão Colombo chegou à América?",
+    "o": ["1492", "1500", "1485", "1512"],
+    "a": 0
+  },
+  {
+    "q": "Qual evento marcou o início da Revolução Francesa?",
+    "o": ["Queda da Bastilha", "Execução de Luís XVI", "Revolta dos Camponeses", "Assinatura da Constituição"],
+    "a": 0
+  },
+  {
+    "q": "Em que ano começou a Primeira Guerra Mundial?",
+    "o": ["1914", "1918", "1939", "1905"],
+    "a": 0
+  },
+  {
+    "q": "Qual evento marcou o fim da Segunda Guerra Mundial na Europa?",
+    "o": ["Rendição da Alemanha", "Bombardeio de Hiroshima", "Dia D", "Ataque a Pearl Harbor"],
+    "a": 0
+  },
+  {
+    "q": "Em que ano ocorreu a Revolução Industrial na Inglaterra?",
+    "o": ["Século XVIII", "Século XVII", "Século XIX", "Século XVI"],
+    "a": 0
+  },
+  {
+    "q": "Qual evento iniciou a Guerra Fria?",
+    "o": ["Fim da Segunda Guerra Mundial", "Queda do Muro de Berlim", "Revolução Russa", "Guerra da Coreia"],
+    "a": 0
+  },
+  {
+    "q": "Em que ano caiu o Muro de Berlim?",
+    "o": ["1989", "1991", "1980", "1995"],
+    "a": 0
+  },
+  {
+    "q": "Qual evento marcou a assinatura da Declaração da Independência dos EUA?",
+    "o": ["4 de julho de 1776", "14 de julho de 1789", "1 de janeiro de 1800", "12 de outubro de 1492"],
+    "a": 0
+  },
+  {
+    "q": "Em que ano começou a Revolução Russa?",
+    "o": ["1917", "1905", "1922", "1914"],
+    "a": 0
+  },
+  {
+    "q": "Qual evento foi o início da Reforma Protestante?",
+    "o": ["95 Teses de Martinho Lutero", "Concilio de Trento", "Inquisição", "Paz de Augsburgo"],
+    "a": 0
+  },
+  {
+    "q": "Em que ano aconteceu a Revolução Industrial nos Estados Unidos?",
+    "o": ["Século XIX", "Século XVIII", "Século XX", "Século XVII"],
+    "a": 0
+  },
+  {
+    "q": "Qual evento marcou o início da Era Napoleônica?",
+    "o": ["Golpe de 18 de Brumário", "Batalha de Waterloo", "Invasão da Rússia", "Tratado de Amiens"],
+    "a": 0
+  },
+  {
+    "q": "Em que ano ocorreu a Revolução Americana?",
+    "o": ["1775", "1789", "1812", "1750"],
+    "a": 0
+  },
+  {
+    "q": "Qual evento marcou o início da Primeira Guerra Mundial?",
+    "o": ["Assassinato de Franz Ferdinand", "Queda da Bastilha", "Ataque a Pearl Harbor", "Revolução Russa"],
+    "a": 0
+  },
+  {
+    "q": "Em que ano começou a Segunda Guerra Mundial?",
+    "o": ["1939", "1914", "1941", "1929"],
+    "a": 0
+  },
+  {
+    "q": "Qual evento marcou a independência do Brasil?",
+    "o": ["7 de setembro de 1822", "15 de novembro de 1889", "1 de janeiro de 1808", "22 de abril de 1500"],
+    "a": 0
+  },
+  {
+    "q": "Qual evento marcou a Revolução Industrial no mundo?",
+    "o": ["Invenção da máquina a vapor", "Descoberta do fogo", "Queda de Constantinopla", "Revolução Francesa"],
+    "a": 0
+  },
+  {
+    "q": "Em que ano foi proclamada a República no Brasil?",
+    "o": ["1889", "1822", "1871", "1891"],
+    "a": 0
+  },
+  {
+    "q": "Qual evento marcou o fim do Apartheid na África do Sul?",
+    "o": ["Libertação de Nelson Mandela", "Fim da Segunda Guerra Mundial", "Revolução de 1994", "Assinatura da ONU"],
+    "a": 0
+  }
+]

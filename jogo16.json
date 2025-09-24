@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual é o objetivo principal em Tomb Raider?",
+    "o": ["Explorar tumbas e resolver enigmas", "Construir bases", "Coletar moedas", "Lutar em arenas"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a protagonista da série Tomb Raider?",
+    "o": ["Lara Croft", "Aloy", "Chun-Li", "Samus Aran"],
+    "a": 0
+  },
+  {
+    "q": "Em qual jogo Lara Croft faz sua estreia?",
+    "o": ["Tomb Raider (1996)", "Tomb Raider: Legend", "Tomb Raider: Underworld", "Tomb Raider (2013)"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a arma icônica de Lara Croft?",
+    "o": ["Pistolas duplas", "Espada", "Arco e flecha", "Martelo"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome do reboot de Tomb Raider lançado em 2013?",
+    "o": ["Tomb Raider", "Tomb Raider: Legend", "Tomb Raider: Underworld", "Tomb Raider: Anniversary"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o principal vilão da série clássica de Tomb Raider?",
+    "o": ["Natla", "Travis", "Drake", "Rochefort"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a habilidade especial de Lara Croft nos jogos mais recentes?",
+    "o": ["Escalar paredes e pular obstáculos", "Voar", "Teleportar", "Controlar animais"],
+    "a": 0
+  },
+  {
+    "q": "Qual jogo da série se passa principalmente na ilha de Yamatai?",
+    "o": ["Tomb Raider (2013)", "Tomb Raider: Legend", "Tomb Raider: Underworld", "Tomb Raider: Anniversary"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o veículo que Lara Croft mais utiliza para explorar?",
+    "o": ["Nenhum veículo específico", "Carro", "Barco", "Helicóptero"],
+    "a": 0
+  },
+  {
+    "q": "Qual elemento é central nas aventuras de Tomb Raider?",
+    "o": ["Artefatos antigos e tumbas secretas", "Dinheiro e riqueza", "Combates em arenas", "Construção de bases"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome da sequência direta do reboot de 2013?",
+    "o": ["Rise of the Tomb Raider", "Shadow of the Tomb Raider", "Tomb Raider: Legend", "Tomb Raider: Underworld"],
+    "a": 0
+  },
+  {
+    "q": "Em qual jogo Lara Croft descobre a cidade perdida de Kitezh?",
+    "o": ["Shadow of the Tomb Raider", "Tomb Raider: Legend", "Tomb Raider (2013)", "Tomb Raider: Underworld"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o principal gênero da série Tomb Raider?",
+    "o": ["Ação e aventura", "Tiro em primeira pessoa", "RPG", "Estratégia"],
+    "a": 0
+  },
+  {
+    "q": "Qual habilidade de combate Lara desenvolve nos reboots recentes?",
+    "o": ["Arco e flecha, armas de fogo e combate corpo a corpo", "Espada e escudo", "Magia", "Armas futuristas"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a função dos puzzles nas tumbas de Tomb Raider?",
+    "o": ["Abrir caminhos e desbloquear artefatos", "Ganhar pontos extras", "Fugir de inimigos", "Decorar o cenário"],
+    "a": 0
+  },
+  {
+    "q": "Qual antagonista é central em Shadow of the Tomb Raider?",
+    "o": ["Trinity", "Natla", "Rochefort", "Amanda Evert"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o estilo de exploração predominante em Tomb Raider?",
+    "o": ["Livre com foco em escalada e parkour", "Linear com combate direto", "Estratégico e baseado em turnos", "Corrida contra o tempo"],
+    "a": 0
+  },
+  {
+    "q": "Qual habilidade de sobrevivência Lara precisa desenvolver nos reboots?",
+    "o": ["Caçar, pescar e criar equipamentos", "Voar com asas", "Controlar elementos da natureza", "Construir cidades"],
+    "a": 0
+  },
+  {
+    "q": "Qual jogo da série foca em cultura Maia e civilizações antigas na América Central?",
+    "o": ["Shadow of the Tomb Raider", "Rise of the Tomb Raider", "Tomb Raider (2013)", "Tomb Raider: Legend"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o ambiente típico das aventuras de Tomb Raider?",
+    "o": ["Florestas, montanhas e ruínas antigas", "Cidades futuristas", "Espaço sideral", "Escolas assombradas"],
+    "a": 0
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual é o objetivo principal em Clash Royale?",
+    "o": ["Destruir as torres do inimigo e proteger as suas", "Construir cidades", "Coletar moedas", "Resolver enigmas"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o tipo de cartas usadas no jogo?",
+    "o": ["Cartas de tropas, feitiços e construções", "Cartas de habilidade", "Cartas de magia", "Cartas de personagens históricos"],
+    "a": 0
+  },
+  {
+    "q": "Quantos tipos de torres existem na arena inicial?",
+    "o": ["Três", "Quatro", "Duas", "Cinco"],
+    "a": 0
+  },
+  {
+    "q": "Qual recurso é usado para jogar cartas em Clash Royale?",
+    "o": ["Elixir", "Ouro", "Gemas", "Mana"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a função das coroas?",
+    "o": ["Determinar o vencedor da partida", "Comprar cartas", "Desbloquear personagens", "Ganhar moedas extras"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o objetivo do modo 2v2?",
+    "o": ["Jogar em dupla contra outra dupla", "Desafiar apenas amigos", "Construir torres em conjunto", "Treinar tropas"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o personagem mascote que aparece em Clash Royale?",
+    "o": ["Rei", "Princesa", "Bárbaro", "Gigante"],
+    "a": 0
+  },
+  {
+    "q": "Qual carta voadora causa dano à distância?",
+    "o": ["Mago", "P.E.K.K.A", "Bárbaro", "Cavaleiro"],
+    "a": 0
+  },
+  {
+    "q": "Qual carta é famosa por suas explosões em área?",
+    "o": ["Bola de Fogo", "Mago", "Príncipe", "Mini P.E.K.K.A"],
+    "a": 0
+  },
+  {
+    "q": "Como se chama a barra que indica quanto Elixir você tem?",
+    "o": ["Barra de Elixir", "Barra de Mana", "Barra de Energia", "Barra de Ouro"],
+    "a": 0
+  },
+  {
+    "q": "Qual carta é usada para atacar torres com grande força de corpo a corpo?",
+    "o": ["Gigante", "Arqueiro", "Bola de Fogo", "Mago"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o tipo de carta que não morre, mas dura um tempo limitado?",
+    "o": ["Feitiço", "Tropa", "Construção", "Herói"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a função das arenas em Clash Royale?",
+    "o": ["Determinar o nível das cartas e adversários", "Decorar o cenário", "Aumentar a velocidade do jogo", "Dar bônus de ouro"],
+    "a": 0
+  },
+  {
+    "q": "Qual carta é conhecida por lançar flechas em linha reta?",
+    "o": ["Arqueiras", "Bárbaro", "Príncipe", "Mago"],
+    "a": 0
+  },
+  {
+    "q": "Qual carta é capaz de se dividir em múltiplas unidades pequenas?",
+    "o": ["Esqueletos", "Bárbaro", "Mini P.E.K.K.A", "Golem"],
+    "a": 0
+  },
+  {
+    "q": "Qual carta de defesa constrói um prédio para gerar tropas?",
+    "o": ["Canhão", "Torre Inferno", "Cemitério", "Espinhos"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o recurso premium usado para comprar gemas e acelerar progresso?",
+    "o": ["Gemas", "Elixir", "Ouro", "Coroas"],
+    "a": 0
+  },
+  {
+    "q": "Qual carta é famosa por voar sobre a arena e atacar torres?",
+    "o": ["Balão", "Mago", "Gigante", "Mini P.E.K.K.A"],
+    "a": 0
+  },
+  {
+    "q": "Qual carta causa dano em área mas é barata para usar?",
+    "o": ["Zap", "Bola de Fogo", "Mago", "Príncipe"],
+    "a": 0
+  },
+  {
+    "q": "Qual carta voadora é lenta, mas causa grande dano explosivo na torre?",
+    "o": ["Balão", "Mago", "Dragão Infernal", "Príncipe"],
+    "a": 0
+  }
+]

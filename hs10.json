@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual país iniciou os grandes descobrimentos marítimos no século XV?",
+    "o": ["Portugal", "Espanha", "Inglaterra", "França"],
+    "a": 0
+  },
+  {
+    "q": "Quem descobriu o caminho marítimo para a Índia?",
+    "o": ["Vasco da Gama", "Cristóvão Colombo", "Fernão de Magalhães", "Bartolomeu Dias"],
+    "a": 0
+  },
+  {
+    "q": "Quem chegou à América em 1492?",
+    "o": ["Cristóvão Colombo", "Vasco da Gama", "Fernão de Magalhães", "Pedro Álvares Cabral"],
+    "a": 0
+  },
+  {
+    "q": "Qual navegador português contornou o Cabo da Boa Esperança?",
+    "o": ["Bartolomeu Dias", "Vasco da Gama", "Fernão de Magalhães", "Pedro Álvares Cabral"],
+    "a": 0
+  },
+  {
+    "q": "Quem realizou a primeira circum-navegação do globo?",
+    "o": ["Fernão de Magalhães", "Cristóvão Colombo", "Vasco da Gama", "Bartolomeu Dias"],
+    "a": 0
+  },
+  {
+    "q": "Qual tratado dividiu o mundo entre Portugal e Espanha?",
+    "o": ["Tratado de Tordesilhas", "Tratado de Utrecht", "Paz de Westfália", "Tratado de Paris"],
+    "a": 0
+  },
+  {
+    "q": "Quem descobriu o Brasil em 1500?",
+    "o": ["Pedro Álvares Cabral", "Cristóvão Colombo", "Vasco da Gama", "Amerigo Vespucci"],
+    "a": 0
+  },
+  {
+    "q": "Qual navegador italiano deu nome ao continente americano?",
+    "o": ["Américo Vespúcio", "Cristóvão Colombo", "Bartolomeu Dias", "Ferdinando Magalhães"],
+    "a": 0
+  },
+  {
+    "q": "Qual era a principal motivação econômica dos descobrimentos?",
+    "o": ["Buscar novas rotas comerciais", "Exploração científica", "Missões religiosas", "Arte renascentista"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o primeiro europeu a cruzar o Atlântico em direção ao Caribe?",
+    "o": ["Cristóvão Colombo", "Vasco da Gama", "Pedro Álvares Cabral", "Bartolomeu Dias"],
+    "a": 0
+  },
+  {
+    "q": "Qual navegador português explorou a costa da África?",
+    "o": ["Bartolomeu Dias", "Fernão de Magalhães", "Cristóvão Colombo", "Pedro Álvares Cabral"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o primeiro europeu a chegar às Filipinas durante os descobrimentos?",
+    "o": ["Fernão de Magalhães", "Vasco da Gama", "Cristóvão Colombo", "Américo Vespúcio"],
+    "a": 0
+  },
+  {
+    "q": "Qual caravelas foram usadas por navegadores portugueses?",
+    "o": ["Caravelas", "Galés", "Naos", "Fragatas"],
+    "a": 0
+  },
+  {
+    "q": "Quem estabeleceu feitorias na costa africana?",
+    "o": ["Portugal", "Espanha", "Inglaterra", "França"],
+    "a": 0
+  },
+  {
+    "q": "Qual foi o principal impacto dos descobrimentos marítimos?",
+    "o": ["Expansão do comércio e colonização", "Fim da Idade Média", "Guerras europeias", "Criação das universidades"],
+    "a": 0
+  },
+  {
+    "q": "Quem realizou viagens exploratórias pelo Brasil inicialmente?",
+    "o": ["Portugueses", "Espanhóis", "Ingleses", "Holandeses"],
+    "a": 0
+  },
+  {
+    "q": "Qual tratado definiu a posse de novas terras entre Portugal e Espanha?",
+    "o": ["Tratado de Tordesilhas", "Tratado de Madri", "Tratado de Utrecht", "Paz de Westfália"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o navegador português responsável pela abertura do caminho marítimo para a Índia?",
+    "o": ["Vasco da Gama", "Bartolomeu Dias", "Pedro Álvares Cabral", "Fernão de Magalhães"],
+    "a": 0
+  },
+  {
+    "q": "Qual navegador espanhol participou da primeira circum-navegação do globo?",
+    "o": ["Fernão de Magalhães", "Cristóvão Colombo", "Américo Vespúcio", "Vasco da Gama"],
+    "a": 0
+  },
+  {
+    "q": "Quem financiou a viagem de Colombo em 1492?",
+    "o": ["Reis Católicos da Espanha", "Rei de Portugal", "Papa Leão X", "Duque de Veneza"],
+    "a": 0
+  }
+]

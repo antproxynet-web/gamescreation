@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que é programação?",
+    "o": ["Processo de escrever instruções que um computador pode executar", "Instalação de hardware", "Configuração de rede", "Uso de planilhas"],
+    "a": 0
+  },
+  {
+    "q": "O que é uma variável em programação?",
+    "o": ["Espaço de armazenamento que guarda valores durante a execução do programa", "Função matemática", "Arquivo de texto", "Programa completo"],
+    "a": 0
+  },
+  {
+    "q": "O que é uma função?",
+    "o": ["Bloco de código que realiza uma tarefa específica e pode ser reutilizado", "Variável global", "Comando de hardware", "Arquivo de configuração"],
+    "a": 0
+  },
+  {
+    "q": "O que é um loop (laço)?",
+    "o": ["Estrutura que repete um bloco de código várias vezes", "Variável condicional", "Função de saída", "Erro de compilação"],
+    "a": 0
+  },
+  {
+    "q": "O que é uma condicional?",
+    "o": ["Estrutura que executa diferentes blocos de código dependendo de uma condição", "Loop infinito", "Função recursiva", "Erro de sintaxe"],
+    "a": 0
+  },
+  {
+    "q": "O que é um array (ou vetor)?",
+    "o": ["Estrutura que armazena múltiplos valores em uma única variável", "Função matemática", "Variável de texto", "Arquivo de código"],
+    "a": 0
+  },
+  {
+    "q": "O que é orientação a objetos?",
+    "o": ["Paradigma de programação baseado em objetos que contêm dados e métodos", "Programação linear", "Uso exclusivo de funções", "Criação de banco de dados"],
+    "a": 0
+  },
+  {
+    "q": "O que é classe em programação orientada a objetos?",
+    "o": ["Modelo que define a estrutura e comportamento de objetos", "Variável global", "Função recursiva", "Arquivo de configuração"],
+    "a": 0
+  },
+  {
+    "q": "O que é um objeto?",
+    "o": ["Instância de uma classe com propriedades e métodos", "Função matemática", "Comando do sistema", "Arquivo de texto"],
+    "a": 0
+  },
+  {
+    "q": "O que é recursão?",
+    "o": ["Função que chama a si mesma até atingir uma condição de parada", "Loop infinito", "Variável global", "Função de biblioteca"],
+    "a": 0
+  },
+  {
+    "q": "O que é depuração (debugging)?",
+    "o": ["Processo de encontrar e corrigir erros no código", "Compilar o código", "Instalar o programa", "Criar documentação"],
+    "a": 0
+  },
+  {
+    "q": "O que é compilação?",
+    "o": ["Processo de transformar código-fonte em código executável", "Executar o código manualmente", "Escrever comentários", "Testar em planilhas"],
+    "a": 0
+  },
+  {
+    "q": "O que é um comentário no código?",
+    "o": ["Texto no código que explica partes do programa e não é executado", "Comando do sistema", "Função matemática", "Erro intencional"],
+    "a": 0
+  },
+  {
+    "q": "O que é Git?",
+    "o": ["Sistema de controle de versão usado para gerenciar mudanças em projetos de software", "Linguagem de programação", "Editor de texto", "Banco de dados"],
+    "a": 0
+  },
+  {
+    "q": "O que é algoritmo?",
+    "o": ["Sequência de passos para resolver um problema ou realizar uma tarefa", "Loop infinito", "Função recursiva", "Erro de programação"],
+    "a": 0
+  },
+  {
+    "q": "O que é pseudocódigo?",
+    "o": ["Representação de um algoritmo em linguagem informal antes de programar", "Código real em Python", "Erro de sintaxe", "Banco de dados relacional"],
+    "a": 0
+  },
+  {
+    "q": "O que é estrutura de dados?",
+    "o": ["Forma de organizar e armazenar dados para uso eficiente", "Função recursiva", "Loop condicional", "Variável global"],
+    "a": 0
+  },
+  {
+    "q": "O que é software de código aberto (open source)?",
+    "o": ["Programa cujo código-fonte é público e pode ser modificado por qualquer pessoa", "Programa proprietário", "Software comercial fechado", "Aplicativo offline apenas"],
+    "a": 0
+  },
+  {
+    "q": "O que é IDE (Integrated Development Environment)?",
+    "o": ["Ambiente de desenvolvimento que integra editor, compilador e depurador", "Sistema operacional", "Banco de dados", "Editor de texto simples"],
+    "a": 0
+  },
+  {
+    "q": "O que é teste de software?",
+    "o": ["Processo de verificar se um programa funciona corretamente e atende aos requisitos", "Escrever código novo", "Instalar hardware", "Criar documentação"],
+    "a": 0
+  }
+]

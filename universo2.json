@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual é a estrela mais próxima da Terra depois do Sol?",
+    "o": ["Proxima Centauri", "Sirius", "Vega", "Betelgeuse"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a estrela que fornece luz e calor para a Terra?",
+    "o": ["Sol", "Sirius", "Aldebaran", "Rigel"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a estrela mais brilhante do céu noturno?",
+    "o": ["Sirius", "Proxima Centauri", "Polaris", "Antares"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a constelação onde está localizada a Estrela Polar?",
+    "o": ["Ursa Menor", "Órion", "Escorpião", "Cruz do Sul"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome da estrela supergigante vermelha na constelação de Órion?",
+    "o": ["Betelgeuse", "Rigel", "Aldebaran", "Sirius"],
+    "a": 0
+  },
+  {
+    "q": "Qual estrela marca o ombro direito da constelação de Órion?",
+    "o": ["Betelgeuse", "Rigel", "Bellatrix", "Mintaka"],
+    "a": 0
+  },
+  {
+    "q": "Qual estrela marca o pé esquerdo da constelação de Órion?",
+    "o": ["Rigel", "Betelgeuse", "Bellatrix", "Antares"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o destino final de uma estrela massiva?",
+    "o": ["Buraco negro ou estrela de nêutrons", "Gigante azul", "Anã marrom", "Planeta"],
+    "a": 0
+  },
+  {
+    "q": "O que é uma supernova?",
+    "o": ["Explosão de uma estrela massiva", "Nascimento de uma estrela", "Fusão de duas galáxias", "Uma estrela apagada"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a fase final do Sol quando acabar seu combustível?",
+    "o": ["Anã branca", "Buraco negro", "Supernova", "Estrela de nêutrons"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a principal reação que gera energia no interior das estrelas?",
+    "o": ["Fusão nuclear de hidrogênio em hélio", "Fissão nuclear", "Combustão química", "Radioatividade"],
+    "a": 0
+  },
+  {
+    "q": "Como são chamadas as estrelas que aparecem agrupadas no céu?",
+    "o": ["Aglomerados estelares", "Nebulosas", "Buracos negros", "Cometas"],
+    "a": 0
+  },
+  {
+    "q": "Qual estrela guia navegadores do hemisfério norte?",
+    "o": ["Estrela Polar", "Sirius", "Rigel", "Altair"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a estrela gigante vermelha que fica na constelação de Touro?",
+    "o": ["Aldebaran", "Rigel", "Vega", "Capella"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a estrela mais brilhante da constelação de Lira?",
+    "o": ["Vega", "Altair", "Deneb", "Sirius"],
+    "a": 0
+  },
+  {
+    "q": "Como são chamadas as estrelas que pulsam em brilho?",
+    "o": ["Cefeidas", "Púlsares", "Supernovas", "Quasares"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a estrela que marca o coração da constelação de Escorpião?",
+    "o": ["Antares", "Rigel", "Vega", "Betelgeuse"],
+    "a": 0
+  },
+  {
+    "q": "O que são nebulosas estelares?",
+    "o": ["Nuvens de gás e poeira onde estrelas nascem", "Estrelas apagadas", "Galáxias distantes", "Planetas rochosos"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a cor de uma estrela mais quente?",
+    "o": ["Azul", "Amarela", "Vermelha", "Branca"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a cor de uma estrela mais fria?",
+    "o": ["Vermelha", "Azul", "Branca", "Amarela"],
+    "a": 0
+  }
+]

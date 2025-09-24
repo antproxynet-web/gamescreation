@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que significa que o universo está em expansão?",
+    "o": ["As galáxias estão se afastando umas das outras ao longo do tempo", "O tamanho da Terra está aumentando", "O Sol está crescendo rapidamente", "A Lua está se afastando da Terra"],
+    "a": 0
+  },
+  {
+    "q": "Quem descobriu que o universo está em expansão?",
+    "o": ["Edwin Hubble", "Albert Einstein", "Isaac Newton", "Galileu Galilei"],
+    "a": 0
+  },
+  {
+    "q": "O que é a Lei de Hubble?",
+    "o": ["A velocidade de afastamento das galáxias é proporcional à sua distância", "A gravidade mantém o universo estático", "A luz viaja mais rápido em galáxias distantes", "O universo não muda de tamanho"],
+    "a": 0
+  },
+  {
+    "q": "O que é o redshift observado em galáxias distantes?",
+    "o": ["O deslocamento da luz para o vermelho devido à expansão do universo", "Um aumento de temperatura", "A luz ficando azul", "Uma mudança na massa da galáxia"],
+    "a": 0
+  },
+  {
+    "q": "O que é a constante de Hubble?",
+    "o": ["A taxa de expansão do universo", "A gravidade de uma galáxia", "A velocidade da luz", "O período de rotação da Terra"],
+    "a": 0
+  },
+  {
+    "q": "O que é o Big Bang?",
+    "o": ["A teoria que descreve a origem do universo a partir de um estado extremamente denso e quente", "A explosão do Sol", "A formação da Lua", "A colisão de galáxias"],
+    "a": 0
+  },
+  {
+    "q": "O que são galáxias elípticas?",
+    "o": ["Galáxias com formato oval e geralmente mais antigas", "Galáxias espirais com braços", "Galáxias irregulares sem forma definida", "Pequenas galáxias anãs"],
+    "a": 0
+  },
+  {
+    "q": "O que são galáxias espirais?",
+    "o": ["Galáxias com braços espirais saindo do centro", "Galáxias sem forma", "Galáxias compostas apenas de gás", "Pequenos aglomerados de estrelas"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o papel da energia escura na expansão do universo?",
+    "o": ["Acelera a expansão do universo", "Diminui a gravidade", "Cria galáxias novas", "Formação de buracos negros"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a densidade crítica do universo?",
+    "o": ["A densidade necessária para que a expansão seja equilibrada entre aberta e fechada", "A densidade da Terra", "A densidade do Sol", "A densidade de uma galáxia"],
+    "a": 0
+  },
+  {
+    "q": "O que são galáxias anãs?",
+    "o": ["Galáxias menores com poucas estrelas em comparação com grandes galáxias", "Galáxias muito antigas", "Galáxias em colisão", "Buracos negros supermassivos"],
+    "a": 0
+  },
+  {
+    "q": "O que é a radiação cósmica de fundo em micro-ondas?",
+    "o": ["Radiação remanescente do Big Bang detectável em todo o universo", "Energia liberada por supernovas", "Luz refletida pelas galáxias", "Energia do Sol"],
+    "a": 0
+  },
+  {
+    "q": "O que é a teoria do universo inflacionário?",
+    "o": ["Modelo que descreve uma rápida expansão inicial do universo logo após o Big Bang", "Colisão de galáxias", "Formação de estrelas", "Explosão de supernovas"],
+    "a": 0
+  },
+  {
+    "q": "O que é uma galáxia irregular?",
+    "o": ["Galáxia sem forma definida, geralmente devido a interações gravitacionais", "Galáxia espiral", "Galáxia elíptica", "Pequeno aglomerado de estrelas"],
+    "a": 0
+  },
+  {
+    "q": "O que é a massa do universo observável?",
+    "o": ["Toda a matéria e energia que podemos detectar dentro do horizonte observável", "A massa da Terra", "A massa do Sol", "A massa da Via Láctea"],
+    "a": 0
+  },
+  {
+    "q": "O que são superaglomerados de galáxias?",
+    "o": ["Grandes estruturas compostas por muitos aglomerados de galáxias", "Buracos negros gigantes", "Pequenos planetas", "Estrelas em formação"],
+    "a": 0
+  },
+  {
+    "q": "O que é a expansão acelerada do universo?",
+    "o": ["O fenômeno em que a velocidade de afastamento das galáxias aumenta com o tempo", "O aumento do tamanho da Terra", "O movimento da Lua ao redor da Terra", "A colisão de galáxias"],
+    "a": 0
+  },
+  {
+    "q": "O que são quasares?",
+    "o": ["Fontes extremamente luminosas de energia nos centros de algumas galáxias distantes", "Pequenos planetas", "Estrelas próximas", "Buracos negros isolados"],
+    "a": 0
+  },
+  {
+    "q": "O que é o universo observável?",
+    "o": ["A parte do universo que podemos observar com a luz e radiação que chega até nós", "Todo o universo infinito", "Somente a Via Láctea", "Somente o Sistema Solar"],
+    "a": 0
+  },
+  {
+    "q": "O que sugere a observação do redshift nas galáxias distantes?",
+    "o": ["Que o universo está em expansão e que essas galáxias estão se afastando", "Que estão se aproximando da Terra", "Que estão paradas no espaço", "Que desaparecerão em breve"],
+    "a": 0
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual é o único número que não pode ser representado em algarismos romanos?",
+    "o": ["0", "1", "50", "100"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o menor número primo?",
+    "o": ["0", "1", "2", "3"],
+    "a": 2
+  },
+  {
+    "q": "Qual é o único número primo par?",
+    "o": ["1", "2", "3", "5"],
+    "a": 1
+  },
+  {
+    "q": "Qual é o número conhecido como 'o número da perfeição' na matemática pitagórica?",
+    "o": ["3", "6", "7", "10"],
+    "a": 1
+  },
+  {
+    "q": "O número π (pi) é:",
+    "o": ["Racional", "Irracional", "Inteiro", "Primo"],
+    "a": 1
+  },
+  {
+    "q": "Qual é o primeiro número da sequência de Fibonacci?",
+    "o": ["0", "1", "2", "3"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o quadrado perfeito de 12?",
+    "o": ["124", "132", "144", "156"],
+    "a": 2
+  },
+  {
+    "q": "Qual é o maior número de um dado comum?",
+    "o": ["5", "6", "7", "8"],
+    "a": 1
+  },
+  {
+    "q": "O número 7 é considerado:",
+    "o": ["Número perfeito", "Número da sorte", "Número triangular", "Número quadrado"],
+    "a": 1
+  },
+  {
+    "q": "Qual é o valor de 0 elevado a qualquer número positivo?",
+    "o": ["0", "1", "Infinito", "Indefinido"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o único número que é igual à soma de seus divisores próprios?",
+    "o": ["6", "8", "10", "12"],
+    "a": 0
+  },
+  {
+    "q": "Quantos zeros tem um milhão?",
+    "o": ["4", "5", "6", "7"],
+    "a": 2
+  },
+  {
+    "q": "Qual destes números é primo?",
+    "o": ["21", "29", "33", "35"],
+    "a": 1
+  },
+  {
+    "q": "O número 0 é considerado:",
+    "o": ["Par", "Ímpar", "Primo", "Nenhum"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o menor número que é múltiplo de 2 e 3 ao mesmo tempo?",
+    "o": ["2", "3", "4", "6"],
+    "a": 3
+  },
+  {
+    "q": "Qual é o nome do número que tem 100 zeros?",
+    "o": ["Trilhão", "Googol", "Quadrilhão", "Centilhão"],
+    "a": 1
+  },
+  {
+    "q": "Qual é o inverso multiplicativo de 5?",
+    "o": ["1/2", "1/5", "5", "10"],
+    "a": 1
+  },
+  {
+    "q": "Qual é a raiz quadrada de 81?",
+    "o": ["8", "9", "10", "11"],
+    "a": 1
+  },
+  {
+    "q": "O número áureo (φ) é aproximadamente:",
+    "o": ["1,31", "1,41", "1,61", "1,71"],
+    "a": 2
+  },
+  {
+    "q": "Qual é o próximo número após 21 na sequência de Fibonacci?",
+    "o": ["22", "33", "34", "55"],
+    "a": 2
+  }
+]

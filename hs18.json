@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual civilização antiga construiu Machu Picchu?",
+    "o": ["Inca", "Maia", "Asteca", "Egípcia"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização é famosa pelos templos de Angkor Wat?",
+    "o": ["Khmer", "Egípcia", "Maia", "Grega"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização habitava a região do atual México antes dos espanhóis?",
+    "o": ["Asteca", "Inca", "Maia", "Olmeca"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização pré-colombiana construiu cidades em terraços nas montanhas?",
+    "o": ["Inca", "Asteca", "Maia", "Olmeca"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização é conhecida pelas pirâmides de Chichén Itzá?",
+    "o": ["Maia", "Asteca", "Inca", "Egípcia"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização antiga habitava a região da Mesopotâmia?",
+    "o": ["Suméria", "Egípcia", "Maia", "Asteca"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização deixou gigantescas cabeças de pedra na Mesoamérica?",
+    "o": ["Olmeca", "Maia", "Asteca", "Inca"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização construiu a cidade de Tikal?",
+    "o": ["Maia", "Asteca", "Inca", "Olmeca"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização dominava grande parte da América do Sul antes dos europeus?",
+    "o": ["Inca", "Maia", "Asteca", "Olmeca"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização antiga deixou textos em hieróglifos?",
+    "o": ["Egípcia", "Inca", "Maia", "Suméria"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização era famosa por suas estradas e aquedutos nas montanhas?",
+    "o": ["Inca", "Maia", "Asteca", "Olmeca"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização antiga construiu o Palácio de Knossos?",
+    "o": ["Minoica", "Micênica", "Grega", "Egípcia"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização antiga habitava a região da Anatólia, atual Turquia?",
+    "o": ["Hitita", "Egípcia", "Persa", "Grega"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização antiga construiu zigurates na Mesopotâmia?",
+    "o": ["Suméria", "Egípcia", "Maia", "Assíria"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização antiga é famosa pelas linhas de Nazca?",
+    "o": ["Nazca", "Inca", "Maia", "Olmeca"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização antiga tinha um sistema avançado de escrita cuneiforme?",
+    "o": ["Suméria", "Egípcia", "Maia", "Asteca"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização antiga habitava Creta durante a Idade do Bronze?",
+    "o": ["Minoica", "Grega", "Egípcia", "Hitita"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização antiga foi conquistada pelos espanhóis no México?",
+    "o": ["Asteca", "Maia", "Inca", "Olmeca"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização antiga é conhecida por seu calendário avançado?",
+    "o": ["Maia", "Inca", "Asteca", "Olmeca"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização antiga construía templos em pedras enormes na América Central?",
+    "o": ["Maia", "Asteca", "Inca", "Olmeca"],
+    "a": 0
+  }
+]

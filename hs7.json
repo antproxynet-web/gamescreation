@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual cidade foi o centro do Império Romano?",
+    "o": ["Roma", "Atenas", "Esparta", "Cartago"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização antiga é conhecida por suas cidades-estado como Atenas e Esparta?",
+    "o": ["Grécia", "Roma", "Egito", "Mesopotâmia"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o líder militar que se tornou ditador em Roma antes de ser assassinado?",
+    "o": ["Júlio César", "Augusto", "Pericles", "Alexandre, o Grande"],
+    "a": 0
+  },
+  {
+    "q": "Qual guerra famosa ocorreu entre Roma e Cartago?",
+    "o": ["Guerras Púnicas", "Guerras Médicas", "Guerra do Peloponeso", "Guerra Civil Romana"],
+    "a": 0
+  },
+  {
+    "q": "Qual filósofo grego ensinou Alexandre, o Grande?",
+    "o": ["Aristóteles", "Sócrates", "Platão", "Pitágoras"],
+    "a": 0
+  },
+  {
+    "q": "Qual era a principal forma de governo em Atenas antiga?",
+    "o": ["Democracia", "Monarquia", "Oligarquia", "Tiranias"],
+    "a": 0
+  },
+  {
+    "q": "Qual deus romano era equivalente a Zeus na mitologia grega?",
+    "o": ["Júpiter", "Marte", "Netuno", "Plutão"],
+    "a": 0
+  },
+  {
+    "q": "Qual estrutura romana era usada para combates de gladiadores?",
+    "o": ["Coliseu", "Partenon", "Zigurate", "Acrópole"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o líder grego durante a Guerra do Peloponeso?",
+    "o": ["Pericles", "Alexandre, o Grande", "Júlio César", "Leônidas"],
+    "a": 0
+  },
+  {
+    "q": "Qual imperador romano se tornou cristão e mudou a religião do império?",
+    "o": ["Constantino", "Augusto", "Nero", "César Augusto"],
+    "a": 0
+  },
+  {
+    "q": "Qual cidade era rival de Atenas durante a Grécia Antiga?",
+    "o": ["Esparta", "Corinto", "Tebas", "Argos"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o autor de 'A República', obra sobre política na Grécia Antiga?",
+    "o": ["Platão", "Aristóteles", "Sócrates", "Heródoto"],
+    "a": 0
+  },
+  {
+    "q": "Qual imperador romano construiu uma muralha na Britânia para proteção?",
+    "o": ["Adriano", "Júlio César", "Augusto", "Trajano"],
+    "a": 0
+  },
+  {
+    "q": "Qual filósofo grego fundou a Academia em Atenas?",
+    "o": ["Platão", "Aristóteles", "Sócrates", "Pitágoras"],
+    "a": 0
+  },
+  {
+    "q": "Qual guerra envolveu o cerco de Troia, famosa na literatura grega?",
+    "o": ["Guerra de Troia", "Guerra do Peloponeso", "Guerras Púnicas", "Guerras Médicas"],
+    "a": 0
+  },
+  {
+    "q": "Qual estrutura grega era dedicada aos deuses, como Atena?",
+    "o": ["Templo", "Coliseu", "Zigurate", "Aqueduto"],
+    "a": 0
+  },
+  {
+    "q": "Quem liderou Roma durante a transição de república para império?",
+    "o": ["Augusto", "Júlio César", "Nero", "Cícero"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização antiga tinha jogos Olímpicos como tradição?",
+    "o": ["Grécia", "Roma", "Egito", "Mesopotâmia"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o rei espartano famoso na Batalha das Termópilas?",
+    "o": ["Leônidas", "Pericles", "Alexandre", "Hércules"],
+    "a": 0
+  },
+  {
+    "q": "Qual obra literária descreve a guerra de Troia?",
+    "o": ["Ilíada", "Odisseia", "Eneida", "Metamorfoses"],
+    "a": 0
+  }
+]

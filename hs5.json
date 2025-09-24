@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quem foi o líder do Império Romano durante o auge de sua expansão?",
+    "o": ["Júlio César", "Alexandre, o Grande", "Napoleão Bonaparte", "Ciro, o Grande"],
+    "a": 0
+  },
+  {
+    "q": "Quem liderou a independência dos Estados Unidos?",
+    "o": ["George Washington", "Thomas Jefferson", "Benjamin Franklin", "Abraham Lincoln"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o imperador francês famoso por suas conquistas militares na Europa?",
+    "o": ["Napoleão Bonaparte", "Júlio César", "Alexandre, o Grande", "Ciro, o Grande"],
+    "a": 0
+  },
+  {
+    "q": "Quem unificou a Alemanha no século XIX?",
+    "o": ["Otto von Bismarck", "Napoleão Bonaparte", "Júlio César", "George Washington"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o líder do movimento de independência da Índia?",
+    "o": ["Mahatma Gandhi", "Nelson Mandela", "Abraham Lincoln", "Winston Churchill"],
+    "a": 0
+  },
+  {
+    "q": "Quem liderou a Revolução Russa de 1917?",
+    "o": ["Vladimir Lenin", "Joseph Stalin", "Leon Trotsky", "Mikhail Gorbachev"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o faraó do Egito conhecido por suas construções monumentais?",
+    "o": ["Tutancâmon", "Ramsés II", "Cleópatra", "Khufu"],
+    "a": 3
+  },
+  {
+    "q": "Quem conquistou a maior parte do mundo conhecido na Antiguidade?",
+    "o": ["Alexandre, o Grande", "Júlio César", "Napoleão Bonaparte", "Ciro, o Grande"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o primeiro imperador da China unificada?",
+    "o": ["Qin Shi Huang", "Sun Tzu", "Mao Zedong", "Confúcio"],
+    "a": 0
+  },
+  {
+    "q": "Quem liderou o movimento de independência do Brasil?",
+    "o": ["Dom Pedro I", "José Bonifácio", "Tiradentes", "Getúlio Vargas"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o líder sul-africano que lutou contra o apartheid?",
+    "o": ["Nelson Mandela", "Mahatma Gandhi", "Abraham Lincoln", "Martin Luther King Jr."],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o chanceler alemão durante a Segunda Guerra Mundial?",
+    "o": ["Adolf Hitler", "Otto von Bismarck", "Napoleão Bonaparte", "Júlio César"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o imperador romano assassinado em 44 a.C.?",
+    "o": ["Júlio César", "Augusto", "Nero", "Calígula"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o líder revolucionário da Cuba comunista?",
+    "o": ["Fidel Castro", "Che Guevara", "Hugo Chávez", "Simón Bolívar"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o líder do movimento abolicionista nos EUA?",
+    "o": ["Abraham Lincoln", "George Washington", "Thomas Jefferson", "Frederick Douglass"],
+    "a": 0
+  },
+  {
+    "q": "Quem unificou a Itália no século XIX?",
+    "o": ["Giuseppe Garibaldi", "Otto von Bismarck", "Napoleão Bonaparte", "Júlio César"],
+    "a": 0
+  },
+  {
+    "q": "Quem liderou a Revolução Francesa durante o período do Terror?",
+    "o": ["Maximilien Robespierre", "Napoleão Bonaparte", "Louis XVI", "Jean-Jacques Rousseau"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o líder do Império Persa conhecido por sua tolerância religiosa?",
+    "o": ["Ciro, o Grande", "Dario I", "Xerxes I", "Alexandre, o Grande"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o primeiro presidente dos Estados Unidos?",
+    "o": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "John Adams"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o líder do movimento de independência da Argentina?",
+    "o": ["José de San Martín", "Simón Bolívar", "Dom Pedro I", "Che Guevara"],
+    "a": 0
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Em que ano foi assinado o Tratado de Tordesilhas?",
+    "o": ["1494", "1500", "1580", "1453"],
+    "a": 0
+  },
+  {
+    "q": "O Tratado de Tordesilhas dividia terras entre quais países?",
+    "o": ["Portugal e Espanha", "Portugal e França", "Inglaterra e Espanha", "França e Espanha"],
+    "a": 0
+  },
+  {
+    "q": "Qual tratado encerrou a Primeira Guerra Mundial?",
+    "o": ["Tratado de Versalhes", "Tratado de Paris", "Tratado de Utrecht", "Tratado de Roma"],
+    "a": 0
+  },
+  {
+    "q": "O Tratado de Versalhes impôs sanções a qual país?",
+    "o": ["Alemanha", "França", "Inglaterra", "Itália"],
+    "a": 0
+  },
+  {
+    "q": "Qual tratado encerrou a Guerra da Sucessão Espanhola?",
+    "o": ["Tratado de Utrecht", "Tratado de Versalhes", "Tratado de Paris", "Tratado de Tordesilhas"],
+    "a": 0
+  },
+  {
+    "q": "O Tratado de Paris de 1783 encerrou qual conflito?",
+    "o": ["Guerra de Independência dos EUA", "Guerra dos Cem Anos", "Guerra do Paraguai", "Guerras Napoleônicas"],
+    "a": 0
+  },
+  {
+    "q": "Qual tratado formalizou a União Europeia?",
+    "o": ["Tratado de Maastricht", "Tratado de Versalhes", "Tratado de Utrecht", "Tratado de Tordesilhas"],
+    "a": 0
+  },
+  {
+    "q": "Qual acordo dividiu a Coreia em Norte e Sul após a Segunda Guerra Mundial?",
+    "o": ["Acordo de Potsdam", "Tratado de Versalhes", "Tratado de Paris", "Tratado de Tordesilhas"],
+    "a": 0
+  },
+  {
+    "q": "O Tratado de Westfália, em 1648, pôs fim a qual guerra?",
+    "o": ["Guerra dos Trinta Anos", "Guerra da Sucessão Espanhola", "Guerra Franco-Prussiana", "Guerra Napoleônica"],
+    "a": 0
+  },
+  {
+    "q": "O Tratado de San Francisco, em 1951, tratou do fim de qual guerra?",
+    "o": ["Segunda Guerra Mundial", "Primeira Guerra Mundial", "Guerra da Coreia", "Guerra do Vietnã"],
+    "a": 0
+  },
+  {
+    "q": "O Acordo de Dayton, em 1995, encerrou qual conflito?",
+    "o": ["Guerra da Bósnia", "Guerra do Kosovo", "Guerra do Vietnã", "Guerra do Golfo"],
+    "a": 0
+  },
+  {
+    "q": "O Tratado de Lausanne, em 1923, redefiniu as fronteiras de qual país?",
+    "o": ["Turquia", "Alemanha", "Itália", "Grécia"],
+    "a": 0
+  },
+  {
+    "q": "O Tratado de Brest-Litovsk, em 1918, foi entre qual país e a Rússia Soviética?",
+    "o": ["Alemanha", "França", "Inglaterra", "Estados Unidos"],
+    "a": 0
+  },
+  {
+    "q": "O Tratado de Campo Formio, em 1797, envolveu qual líder?",
+    "o": ["Napoleão Bonaparte", "Luís XIV", "Otto von Bismarck", "George Washington"],
+    "a": 0
+  },
+  {
+    "q": "O Acordo de Munique, em 1938, envolveu qual país?",
+    "o": ["Alemanha", "Itália", "França", "Inglaterra"],
+    "a": 0
+  },
+  {
+    "q": "O Tratado de Amiens, em 1802, estabeleceu paz entre quais países?",
+    "o": ["França e Inglaterra", "França e Espanha", "Inglaterra e Portugal", "Alemanha e França"],
+    "a": 0
+  },
+  {
+    "q": "O Tratado de Nanking, em 1842, encerrou qual guerra?",
+    "o": ["Primeira Guerra do Ópio", "Segunda Guerra do Ópio", "Guerra Sino-Japonesa", "Guerra das Malvinas"],
+    "a": 0
+  },
+  {
+    "q": "O Tratado de Versailles de 1871 marcou o fim de qual conflito?",
+    "o": ["Guerra Franco-Prussiana", "Guerra dos Cem Anos", "Guerra Napoleônica", "Guerra da Sucessão Espanhola"],
+    "a": 0
+  },
+  {
+    "q": "O Acordo de Camp David, em 1978, envolveu quais países?",
+    "o": ["Egito e Israel", "Egito e Síria", "Israel e Jordânia", "Iraque e Irã"],
+    "a": 0
+  },
+  {
+    "q": "O Tratado de Trianon, em 1920, afetou principalmente qual país?",
+    "o": ["Hungria", "Áustria", "Alemanha", "Polônia"],
+    "a": 0
+  }
+]

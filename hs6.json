@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quem foi o faraó responsável pela construção da Grande Pirâmide de Gizé?",
+    "o": ["Quéops", "Tutancâmon", "Ramsés II", "Cleópatra"],
+    "a": 0
+  },
+  {
+    "q": "Qual era o rio mais importante para a civilização egípcia?",
+    "o": ["Nilo", "Eufrates", "Tigre", "Mississippi"],
+    "a": 0
+  },
+  {
+    "q": "Qual faraó mulher ficou famosa por seu governo e beleza?",
+    "o": ["Cleópatra", "Hatshepsut", "Nefertiti", "Merneith"],
+    "a": 0
+  },
+  {
+    "q": "Qual era a escrita utilizada no Egito Antigo?",
+    "o": ["Hieróglifos", "Cuneiforme", "Alfabeto Fenício", "Latim"],
+    "a": 0
+  },
+  {
+    "q": "Qual deus egípcio era associado à morte e ao submundo?",
+    "o": ["Osíris", "Rá", "Hórus", "Anúbis"],
+    "a": 0
+  },
+  {
+    "q": "Qual faraó foi descoberto quase intacto em seu túmulo em 1922?",
+    "o": ["Tutancâmon", "Ramsés II", "Quéops", "Seti I"],
+    "a": 0
+  },
+  {
+    "q": "Qual estrutura servia como túmulo monumental para os faraós?",
+    "o": ["Pirâmide", "Zigurate", "Templo", "Obelisco"],
+    "a": 0
+  },
+  {
+    "q": "Qual faraó egípcio liderou batalhas contra os hititas e é famoso por tratados de paz?",
+    "o": ["Ramsés II", "Tutancâmon", "Quéops", "Amenófis III"],
+    "a": 0
+  },
+  {
+    "q": "Qual deusa egípcia era associada à fertilidade e à maternidade?",
+    "o": ["Ísis", "Hator", "Sekhmet", "Bastet"],
+    "a": 0
+  },
+  {
+    "q": "Qual era o principal material de escrita dos egípcios antigos?",
+    "o": ["Papiro", "Pergaminho", "Argila", "Pedra"],
+    "a": 0
+  },
+  {
+    "q": "Qual deus egípcio era representado com cabeça de falcão?",
+    "o": ["Hórus", "Osíris", "Rá", "Anúbis"],
+    "a": 0
+  },
+  {
+    "q": "Qual faraó construiu muitos templos e monumentos ao longo do Nilo?",
+    "o": ["Ramsés II", "Tutancâmon", "Cleópatra", "Amenófis III"],
+    "a": 0
+  },
+  {
+    "q": "Qual era a principal função da esfinge no Egito Antigo?",
+    "o": ["Proteger túmulos e templos", "Servir como palácio", "Ser usado em batalhas", "Medir o tempo"],
+    "a": 0
+  },
+  {
+    "q": "Qual faraó foi conhecido por tentar impor o culto ao deus Aton?",
+    "o": ["Akenaton", "Ramsés II", "Tutancâmon", "Quéops"],
+    "a": 0
+  },
+  {
+    "q": "Qual era a escrita cursiva usada pelos egípcios para documentos administrativos?",
+    "o": ["Hierática", "Demótica", "Cuneiforme", "Hieróglifos"],
+    "a": 0
+  },
+  {
+    "q": "Qual deus egípcio era responsável por guiar os mortos no submundo?",
+    "o": ["Anúbis", "Osíris", "Rá", "Hórus"],
+    "a": 0
+  },
+  {
+    "q": "Qual faraó ficou famoso por sua máscara mortuária de ouro?",
+    "o": ["Tutancâmon", "Ramsés II", "Cleópatra", "Amenófis III"],
+    "a": 0
+  },
+  {
+    "q": "Qual era a religião do Egito Antigo baseada em muitos deuses?",
+    "o": ["Politeísmo", "Monoteísmo", "Ateísmo", "Cristianismo"],
+    "a": 0
+  },
+  {
+    "q": "Qual era o propósito das múmias no Egito Antigo?",
+    "o": ["Preservar os corpos para a vida após a morte", "Servir de decoração", "Usar como moeda", "Estudo científico"],
+    "a": 0
+  },
+  {
+    "q": "Qual era a capital do Antigo Egito durante o Império Novo?",
+    "o": ["Tebas", "Mênfis", "Alexandria", "Luxor"],
+    "a": 0
+  }
+]

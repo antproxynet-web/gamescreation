@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual é o objetivo principal em Subway Surfers?",
+    "o": ["Correr o máximo possível sem ser pego pelo inspetor", "Construir trens", "Resolver enigmas", "Coletar moedas para comprar casas"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o personagem principal de Subway Surfers?",
+    "o": ["Jake", "Tricky", "Fresh", "Spike"],
+    "a": 0
+  },
+  {
+    "q": "Quem persegue os jogadores em Subway Surfers?",
+    "o": ["Inspetor e seu cachorro", "Policial de bicicleta", "Zumbi", "Tubarão"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o principal recurso que os jogadores coletam durante a corrida?",
+    "o": ["Moedas", "Ovos", "Pontos de experiência", "Energia"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o principal item usado para voar temporariamente no jogo?",
+    "o": ["Hoverboard", "Jetpack", "Trampolim", "Skate"],
+    "a": 1
+  },
+  {
+    "q": "Qual é o desenvolvedor de Subway Surfers?",
+    "o": ["Kiloo e SYBO Games", "DVloper", "Supercell", "Epic Games"],
+    "a": 0
+  },
+  {
+    "q": "Qual modo permite aos jogadores competir diariamente em eventos especiais?",
+    "o": ["Daily Challenge", "Multiplayer Race", "Endless Mode", "Time Trial"],
+    "a": 0
+  },
+  {
+    "q": "Como os jogadores podem aumentar suas pontuações rapidamente?",
+    "o": ["Coletando moedas e usando power-ups", "Dormindo no jogo", "Ignorando obstáculos", "Comprando moedas"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o item que permite correr sem ser pego por um curto período?",
+    "o": ["Hoverboard", "Jetpack", "Poder invisível", "Trampolim"],
+    "a": 0
+  },
+  {
+    "q": "Como os jogadores podem desbloquear novos personagens?",
+    "o": ["Coletando moedas ou participando de eventos", "Comprando skins online", "Matando inimigos", "Resolvendo enigmas"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o tipo de perspectiva do jogo Subway Surfers?",
+    "o": ["Terceira pessoa atrás do personagem", "Primeira pessoa", "Isométrica", "Lateral 2D"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a função das moedas douradas no jogo?",
+    "o": ["Comprar power-ups e personagens", "Comprar casas", "Ganhar vidas extras", "Aumentar o tamanho do personagem"],
+    "a": 0
+  },
+  {
+    "q": "Qual item especial permite pular automaticamente os obstáculos?",
+    "o": ["Jetpack", "Hoverboard", "Trampolim", "Power-up invisível"],
+    "a": 1
+  },
+  {
+    "q": "Como é chamado o modo sem fim do jogo?",
+    "o": ["Endless Run", "Time Trial", "Daily Challenge", "Speed Run"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a função dos keys (chaves) no Subway Surfers?",
+    "o": ["Reviver o personagem após ser pego", "Comprar power-ups", "Desbloquear personagens", "Ganhar moedas extras"],
+    "a": 0
+  },
+  {
+    "q": "Quantos personagens principais existem no início do jogo?",
+    "o": ["Três", "Cinco", "Dois", "Quatro"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a principal mecânica de movimento do personagem?",
+    "o": ["Deslizar para esquerda, direita, cima e baixo", "Pular automaticamente", "Teletransportar", "Correr sozinho"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o objetivo dos eventos sazonais do Subway Surfers?",
+    "o": ["Dar recompensas exclusivas e moedas", "Aumentar a dificuldade", "Mudar o cenário permanentemente", "Criar novos inimigos"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o animal de estimação que alguns personagens podem ter?",
+    "o": ["Cachorro", "Gato", "Coelho", "Pássaro"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o tipo de power-up que aumenta a pontuação temporariamente?",
+    "o": ["Score Booster", "Jetpack", "Hoverboard", "Magnet"],
+    "a": 0
+  }
+]

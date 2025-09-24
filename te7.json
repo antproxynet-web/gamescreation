@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual empresa desenvolveu o Microsoft Word?",
+    "o": ["Microsoft", "Apple", "Google", "Adobe"],
+    "a": 0
+  },
+  {
+    "q": "O que é o Adobe Photoshop?",
+    "o": ["Software de edição de imagens", "Editor de texto", "Planilha eletrônica", "Navegador web"],
+    "a": 0
+  },
+  {
+    "q": "O que é o Google Chrome?",
+    "o": ["Navegador de internet", "Sistema operacional", "Editor de vídeo", "Antivírus"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o software de planilhas mais famoso da Microsoft?",
+    "o": ["Excel", "Word", "PowerPoint", "Access"],
+    "a": 0
+  },
+  {
+    "q": "O que é o VLC Media Player?",
+    "o": ["Reprodutor de áudio e vídeo", "Editor de fotos", "Navegador web", "Software de backup"],
+    "a": 0
+  },
+  {
+    "q": "Qual empresa desenvolveu o sistema operacional Windows?",
+    "o": ["Microsoft", "Apple", "Linux Foundation", "Google"],
+    "a": 0
+  },
+  {
+    "q": "O que é o Google Docs?",
+    "o": ["Aplicativo online de edição de textos", "Editor de imagens", "Sistema operacional", "Banco de dados"],
+    "a": 0
+  },
+  {
+    "q": "O que é o Slack?",
+    "o": ["Ferramenta de comunicação e colaboração entre equipes", "Editor de vídeo", "Sistema operacional", "Navegador web"],
+    "a": 0
+  },
+  {
+    "q": "O que é o Zoom?",
+    "o": ["Plataforma de videoconferência", "Editor de fotos", "Software de música", "Planilha eletrônica"],
+    "a": 0
+  },
+  {
+    "q": "O que é o AutoCAD?",
+    "o": ["Software de desenho e projeto técnico em 2D e 3D", "Editor de texto", "Planilha eletrônica", "Navegador web"],
+    "a": 0
+  },
+  {
+    "q": "O que é o Spotify?",
+    "o": ["Serviço de streaming de música", "Editor de vídeo", "Aplicativo de mensagens", "Banco de dados"],
+    "a": 0
+  },
+  {
+    "q": "O que é o Adobe Illustrator?",
+    "o": ["Software de desenho vetorial e ilustração", "Editor de texto", "Planilha eletrônica", "Navegador web"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o software de apresentação mais famoso da Microsoft?",
+    "o": ["PowerPoint", "Word", "Excel", "OneNote"],
+    "a": 0
+  },
+  {
+    "q": "O que é o Notepad++?",
+    "o": ["Editor de texto avançado para programação", "Editor de fotos", "Navegador web", "Planilha eletrônica"],
+    "a": 0
+  },
+  {
+    "q": "O que é o Dropbox?",
+    "o": ["Serviço de armazenamento e compartilhamento de arquivos na nuvem", "Editor de texto", "Reprodutor de vídeo", "Sistema operacional"],
+    "a": 0
+  },
+  {
+    "q": "O que é o WhatsApp?",
+    "o": ["Aplicativo de mensagens instantâneas", "Editor de fotos", "Planilha eletrônica", "Navegador web"],
+    "a": 0
+  },
+  {
+    "q": "O que é o Microsoft Teams?",
+    "o": ["Plataforma de colaboração e comunicação para equipes", "Editor de vídeo", "Software de música", "Banco de dados"],
+    "a": 0
+  },
+  {
+    "q": "O que é o Google Sheets?",
+    "o": ["Aplicativo de planilhas online", "Editor de fotos", "Navegador web", "Sistema operacional"],
+    "a": 0
+  },
+  {
+    "q": "O que é o Adobe Premiere Pro?",
+    "o": ["Software de edição de vídeo profissional", "Editor de texto", "Planilha eletrônica", "Reprodutor de áudio"],
+    "a": 0
+  },
+  {
+    "q": "O que é o Linux?",
+    "o": ["Sistema operacional de código aberto", "Editor de fotos", "Navegador web", "Software de backup"],
+    "a": 0
+  }
+]

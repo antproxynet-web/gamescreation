@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual é o objetivo principal em Red Dead Redemption?",
+    "o": ["Explorar o Velho Oeste e cumprir missões", "Construir bases", "Coletar moedas", "Resolver enigmas"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o protagonista de Red Dead Redemption 1?",
+    "o": ["John Marston", "Arthur Morgan", "Dutch van der Linde", "Bill Williamson"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o protagonista de Red Dead Redemption 2?",
+    "o": ["Arthur Morgan", "John Marston", "Dutch van der Linde", "Micah Bell"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a gangue principal em Red Dead Redemption 2?",
+    "o": ["Van der Linde", "Marauders", "Bandidos do Oeste", "Blackwater Gang"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o cenário principal da série Red Dead?",
+    "o": ["O Velho Oeste americano", "Nova York", "Cidade futurista", "Europa medieval"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem é conhecido por ser o líder da gangue Van der Linde?",
+    "o": ["Dutch van der Linde", "John Marston", "Arthur Morgan", "Micah Bell"],
+    "a": 0
+  },
+  {
+    "q": "Qual animal é frequentemente caçado para obter recursos no jogo?",
+    "o": ["Cervo", "Leão", "Elefante", "Tigre"],
+    "a": 0
+  },
+  {
+    "q": "Qual recurso é essencial para se manter saudável no jogo?",
+    "o": ["Comida e bebida", "Dinheiro", "Ouro", "Armas"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a profissão de John Marston antes de se envolver em missões do governo?",
+    "o": ["Ex-bandido", "Fazendeiro", "Xerife", "Caçador de recompensas"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o modo online de Red Dead Redemption 2?",
+    "o": ["Red Dead Online", "Red Dead Multiplayer", "Outlaws Online", "Wild West Online"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a moeda usada no universo de Red Dead?",
+    "o": ["Dólar americano", "Robux", "Ouro", "Peso"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem é conhecido por trair a gangue Van der Linde?",
+    "o": ["Micah Bell", "Arthur Morgan", "John Marston", "Sadie Adler"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome da esposa de John Marston?",
+    "o": ["Abigail Marston", "Sadie Adler", "Karen Jones", "Mary Linton"],
+    "a": 0
+  },
+  {
+    "q": "Qual herói ajuda a caçar recompensas em Red Dead Online?",
+    "o": ["Caçador de recompensas", "Xerife", "Fazendeiro", "Pescador"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome do principal vilão de Red Dead Redemption 1?",
+    "o": ["Bill Williamson", "Dutch van der Linde", "Micah Bell", "Colm O'Driscoll"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a principal arma usada no jogo?",
+    "o": ["Revólver", "Espada", "Arco e flecha", "Lança-chamas"],
+    "a": 0
+  },
+  {
+    "q": "Qual atividade permite ganhar dinheiro em Red Dead Online?",
+    "o": ["Missões, caçadas e comércio", "Construir prédios", "Resolver enigmas", "Pescar apenas"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o papel de Arthur Morgan na gangue?",
+    "o": ["Membro sênior e braço direito de Dutch", "Xerife da cidade", "Caçador de recompensas", "Dono da cidade"],
+    "a": 0
+  },
+  {
+    "q": "Qual animal pode ser montado para transporte rápido?",
+    "o": ["Cavalo", "Cervo", "Elefante", "Lobo"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a cidade famosa no primeiro Red Dead Redemption?",
+    "o": ["Blackwater", "Saint Denis", "Valentine", "Armstrong"],
+    "a": 0
+  }
+]

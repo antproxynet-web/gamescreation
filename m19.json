@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que é o número 0?",
+    "o": ["O menor número primo", "O número neutro da adição", "O número neutro da multiplicação", "O maior número inteiro"],
+    "a": 1
+  },
+  {
+    "q": "Qual é o resultado de qualquer número multiplicado por 0?",
+    "o": ["O próprio número", "0", "1", "Indeterminado"],
+    "a": 1
+  },
+  {
+    "q": "Qual é o resultado de 0 dividido por qualquer número diferente de 0?",
+    "o": ["0", "1", "Indeterminado", "Infinito"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o valor de 1 dividido por 0?",
+    "o": ["0", "1", "Indeterminado", "Infinito"],
+    "a": 2
+  },
+  {
+    "q": "O que significa infinito em matemática?",
+    "o": ["Um número muito grande", "Um conceito que não tem limite", "Um número negativo", "Um número primo"],
+    "a": 1
+  },
+  {
+    "q": "O infinito é considerado um número real?",
+    "o": ["Sim", "Não", "Apenas em algumas operações", "Depende do contexto"],
+    "a": 1
+  },
+  {
+    "q": "O que é um limite que tende a infinito?",
+    "o": ["Um valor finito", "Um valor que cresce sem limite", "Um número negativo", "Um número zero"],
+    "a": 1
+  },
+  {
+    "q": "Qual é o resultado de infinito + 1?",
+    "o": ["Infinito", "1", "0", "Indeterminado"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o resultado de infinito – infinito?",
+    "o": ["0", "Infinito", "Indeterminado", "1"],
+    "a": 2
+  },
+  {
+    "q": "Qual é o resultado de infinito × 2?",
+    "o": ["Infinito", "2", "0", "Indeterminado"],
+    "a": 0
+  },
+  {
+    "q": "O que é uma indeterminação matemática?",
+    "o": ["Uma operação sem resultado definido", "Um número infinito", "O número zero", "Um número negativo"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o resultado de 0 elevado a 0?",
+    "o": ["0", "1", "Indeterminado", "Infinito"],
+    "a": 2
+  },
+  {
+    "q": "Qual é o número neutro da multiplicação?",
+    "o": ["0", "1", "-1", "Infinito"],
+    "a": 1
+  },
+  {
+    "q": "Qual é o número neutro da adição?",
+    "o": ["0", "1", "-1", "Infinito"],
+    "a": 0
+  },
+  {
+    "q": "O que significa infinito positivo?",
+    "o": ["Número grande negativo", "Crescimento sem limite para valores positivos", "Número igual a zero", "Número primo"],
+    "a": 1
+  },
+  {
+    "q": "O que significa infinito negativo?",
+    "o": ["Número grande positivo", "Crescimento sem limite para valores negativos", "Número igual a zero", "Número primo"],
+    "a": 1
+  },
+  {
+    "q": "O que acontece quando você divide um número positivo por infinito?",
+    "o": ["Fica infinito", "Fica zero", "Fica 1", "Indeterminado"],
+    "a": 1
+  },
+  {
+    "q": "O que acontece quando você multiplica 0 por infinito?",
+    "o": ["0", "Infinito", "Indeterminado", "1"],
+    "a": 2
+  },
+  {
+    "q": "O que é um limite que tende a zero?",
+    "o": ["Um valor que cresce sem limite", "Um valor que se aproxima de zero", "Um valor negativo infinito", "Um número primo"],
+    "a": 1
+  },
+  {
+    "q": "O infinito pode ser usado em contagens de elementos infinitos, como números naturais?",
+    "o": ["Sim", "Não", "Apenas até 100", "Depende do autor"],
+    "a": 0
+  }
+]

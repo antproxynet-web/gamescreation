@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que a cosmologia estuda?",
+    "o": ["A origem, evolução e estrutura do universo", "O clima da Terra", "O comportamento humano", "As estrelas isoladas"],
+    "a": 0
+  },
+  {
+    "q": "Qual teoria explica a origem do universo a partir de um ponto extremamente denso e quente?",
+    "o": ["Big Bang", "Teoria da Relatividade", "Panspermia", "Teoria da Gravidade"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o fenômeno que indica que o universo está se expandindo?",
+    "o": ["Desvio para o vermelho (Redshift)", "Eclipse solar", "Supernova", "Radiação cósmica de fundo"],
+    "a": 0
+  },
+  {
+    "q": "O que é a radiação cósmica de fundo?",
+    "o": ["Radiação remanescente do Big Bang", "Radiação emitida pelo Sol", "Radiação de buracos negros", "Radiação das estrelas novas"],
+    "a": 0
+  },
+  {
+    "q": "Quem propôs a teoria do Big Bang?",
+    "o": ["Georges Lemaître", "Albert Einstein", "Edwin Hubble", "Isaac Newton"],
+    "a": 0
+  },
+  {
+    "q": "Qual cientista comprovou a expansão do universo?",
+    "o": ["Edwin Hubble", "Galileu Galilei", "Stephen Hawking", "Carl Sagan"],
+    "a": 0
+  },
+  {
+    "q": "O que são galáxias?",
+    "o": ["Grandes sistemas de estrelas, gás e poeira", "Planetas gigantes", "Buracos negros isolados", "Cometas"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome da galáxia em que vivemos?",
+    "o": ["Via Láctea", "Andrômeda", "Triângulo", "Coração"],
+    "a": 0
+  },
+  {
+    "q": "O que é a matéria escura?",
+    "o": ["Matéria que não emite luz e compõe grande parte do universo", "Planetas invisíveis", "Estrelas apagadas", "Buracos negros"],
+    "a": 0
+  },
+  {
+    "q": "O que é a energia escura?",
+    "o": ["Força que acelera a expansão do universo", "Energia das estrelas", "Energia das galáxias", "Energia dos buracos negros"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a teoria que descreve a gravidade como a curvatura do espaço-tempo?",
+    "o": ["Relatividade Geral", "Big Bang", "Teoria Quântica", "Eletromagnetismo"],
+    "a": 0
+  },
+  {
+    "q": "O que são buracos negros primordiais?",
+    "o": ["Buracos negros formados logo após o Big Bang", "Buracos negros atuais", "Estrelas apagadas", "Planetas densos"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o estudo das propriedades e movimentos das galáxias?",
+    "o": ["Astrofísica extragaláctica", "Cosmologia quântica", "Planetologia", "Mecânica celeste"],
+    "a": 0
+  },
+  {
+    "q": "O que são quasares?",
+    "o": ["Núcleos galácticos extremamente luminosos", "Estrelas de nêutrons", "Buracos negros estelares", "Cometas ativos"],
+    "a": 0
+  },
+  {
+    "q": "O que é a inflação cósmica?",
+    "o": ["Expansão acelerada do universo logo após o Big Bang", "Formação das estrelas", "Movimento dos planetas", "Colapso de galáxias"],
+    "a": 0
+  },
+  {
+    "q": "O que é o horizonte de partículas do universo?",
+    "o": ["Limite do universo observável", "Borda de uma galáxia", "Limite de uma estrela", "Cinturão de asteroides"],
+    "a": 0
+  },
+  {
+    "q": "O que são ondas gravitacionais?",
+    "o": ["Ondas no espaço-tempo causadas por massas aceleradas", "Ondas de luz", "Ondas de rádio", "Ondas de matéria escura"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a galáxia mais próxima da Via Láctea?",
+    "o": ["Andrômeda", "Triângulo", "Grande Nuvem de Magalhães", "Coração"],
+    "a": 0
+  },
+  {
+    "q": "O que são neutrinos cósmicos?",
+    "o": ["Partículas quase sem massa vindas do espaço profundo", "Estrelas minúsculas", "Buracos negros pequenos", "Cometas de gelo"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o destino mais provável do universo segundo a teoria atual?",
+    "o": ["Expansão contínua até o frio e vazio (Big Freeze)", "Colapso em um ponto único", "Transformação em outra dimensão", "Explosão de todas as galáxias"],
+    "a": 0
+  }
+]

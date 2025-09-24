@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que marcou o início da Revolução Industrial?",
+    "o": ["Uso de máquinas a vapor e mecanização da produção", "Invenção do computador", "Criação da Internet", "Desenvolvimento do smartphone"],
+    "a": 0
+  },
+  {
+    "q": "Quem inventou a máquina a vapor moderna?",
+    "o": ["James Watt", "Thomas Edison", "Nikola Tesla", "Henry Ford"],
+    "a": 0
+  },
+  {
+    "q": "O que a eletricidade possibilitou na tecnologia do século XIX?",
+    "o": ["Máquinas, iluminação e comunicação elétrica", "Smartphones", "Redes sociais", "Computadores pessoais"],
+    "a": 0
+  },
+  {
+    "q": "Quem inventou o telefone?",
+    "o": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "Steve Jobs"],
+    "a": 0
+  },
+  {
+    "q": "O que foi a revolução digital?",
+    "o": ["Período marcado pelo avanço da informática e da comunicação digital", "Invenção do motor a vapor", "Criação da imprensa", "Exploração espacial"],
+    "a": 0
+  },
+  {
+    "q": "Quem é considerado o pai do computador moderno?",
+    "o": ["Charles Babbage", "Alan Turing", "Bill Gates", "Steve Jobs"],
+    "a": 0
+  },
+  {
+    "q": "O que foi a popularização do computador pessoal?",
+    "o": ["Difusão de computadores em residências e empresas na década de 1980", "Criação da máquina a vapor", "Invenção do telefone", "Desenvolvimento do rádio"],
+    "a": 0
+  },
+  {
+    "q": "Quem cofundou a Microsoft?",
+    "o": ["Bill Gates", "Steve Jobs", "Mark Zuckerberg", "Elon Musk"],
+    "a": 0
+  },
+  {
+    "q": "Quem fundou a Apple?",
+    "o": ["Steve Jobs", "Bill Gates", "Mark Zuckerberg", "Elon Musk"],
+    "a": 0
+  },
+  {
+    "q": "O que foi a criação da Internet?",
+    "o": ["Rede global que conecta computadores para troca de informações", "Máquina a vapor", "Telefone analógico", "Computador pessoal"],
+    "a": 0
+  },
+  {
+    "q": "O que é IoT (Internet das Coisas)?",
+    "o": ["Conexão de dispositivos físicos à internet para comunicação e coleta de dados", "Rede social", "Software antivírus", "Computador pessoal"],
+    "a": 0
+  },
+  {
+    "q": "Quem é conhecido como o criador do Facebook?",
+    "o": ["Mark Zuckerberg", "Bill Gates", "Steve Jobs", "Elon Musk"],
+    "a": 0
+  },
+  {
+    "q": "O que é inteligência artificial (IA)?",
+    "o": ["Tecnologia que permite que máquinas realizem tarefas inteligentes como humanos", "Computador pessoal", "Rede social", "Software de escritório"],
+    "a": 0
+  },
+  {
+    "q": "O que foi a revolução da impressão?",
+    "o": ["Invenção da imprensa por Gutenberg, permitindo difusão de livros e conhecimento", "Criação do computador", "Desenvolvimento da Internet", "Invenção do telefone"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi Nikola Tesla?",
+    "o": ["Inventor e engenheiro conhecido por contribuições à eletricidade e energia alternada", "Steve Jobs", "Bill Gates", "Mark Zuckerberg"],
+    "a": 0
+  },
+  {
+    "q": "O que é realidade virtual (VR)?",
+    "o": ["Tecnologia que cria ambientes digitais imersivos para usuários", "Software de escritório", "Rede social", "Computador pessoal"],
+    "a": 0
+  },
+  {
+    "q": "O que é a automação industrial?",
+    "o": ["Uso de máquinas e robôs para executar tarefas com mínima intervenção humana", "Programação de smartphones", "Desenvolvimento de aplicativos", "Exploração espacial"],
+    "a": 0
+  },
+  {
+    "q": "O que foi a popularização do smartphone?",
+    "o": ["Difusão de dispositivos móveis inteligentes com acesso à Internet e aplicativos", "Invenção do rádio", "Computador pessoal", "Máquina a vapor"],
+    "a": 0
+  },
+  {
+    "q": "O que é blockchain?",
+    "o": ["Tecnologia de registro descentralizado e seguro de informações digitais", "Sistema operacional", "Software de edição de vídeo", "Rede social"],
+    "a": 0
+  },
+  {
+    "q": "Qual foi um marco da evolução tecnológica na comunicação?",
+    "o": ["Invenção do rádio e depois da televisão", "Criação do carro elétrico", "Primeiro voo humano", "Invenção do motor a vapor"],
+    "a": 0
+  }
+]

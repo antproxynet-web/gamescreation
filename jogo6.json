@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quem é o protagonista de Final Fantasy XV?",
+    "o": ["Noctis", "Gladiolus", "Ignis", "Prompto"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome do carro de Noctis e seus amigos?",
+    "o": ["Regalia", "Chocobo", "Fenrir", "Iron Bull"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o melhor amigo leal de Noctis desde a infância?",
+    "o": ["Prompto", "Gladiolus", "Ignis", "Ardyn"],
+    "a": 1
+  },
+  {
+    "q": "Qual personagem é o estrategista do grupo?",
+    "o": ["Ignis", "Prompto", "Gladiolus", "Noctis"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o principal vilão de Final Fantasy XV?",
+    "o": ["Ardyn Izunia", "Bahamut", "Noctis", "Aranea"],
+    "a": 0
+  },
+  {
+    "q": "Qual criatura mítica Noctis pode invocar no jogo?",
+    "o": ["Titan", "Ifrit", "Leviathan", "Shiva"],
+    "a": 0
+  },
+  {
+    "q": "Qual reino Noctis governa?",
+    "o": ["Lucis", "Niflheim", "Altissia", "Tenebrae"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem do grupo é um fotógrafo habilidoso?",
+    "o": ["Prompto", "Gladiolus", "Ignis", "Noctis"],
+    "a": 0
+  },
+  {
+    "q": "Qual cidade é famosa por seus canais em Final Fantasy XV?",
+    "o": ["Altissia", "Lestallum", "Hammerhead", "Duscae"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome da espada principal de Noctis?",
+    "o": ["Engine Blade", "Ultima Blade", "Masamune", "Excalibur"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o responsável por proteger Noctis como guarda-costas?",
+    "o": ["Gladiolus", "Ignis", "Prompto", "Ardyn"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem possui habilidades em combate à distância?",
+    "o": ["Prompto", "Ignis", "Gladiolus", "Noctis"],
+    "a": 0
+  },
+  {
+    "q": "Qual animal gigante Noctis pode invocar durante batalhas?",
+    "o": ["Titan", "Ifrit", "Shiva", "Leviathan"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome da irmã de Noctis?",
+    "o": ["Lunafreya", "Aranea", "Cindy", "Ardyn"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem é conhecido por seu senso de humor e leveza?",
+    "o": ["Prompto", "Ignis", "Gladiolus", "Noctis"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a função de Ignis no grupo além de lutar?",
+    "o": ["Cozinheiro e estrategista", "Fotógrafo", "Mecânico", "Líder"],
+    "a": 0
+  },
+  {
+    "q": "Qual veículo permite viagens rápidas pelo mundo de Final Fantasy XV?",
+    "o": ["Regalia", "Chocobo", "Fenrir", "Magitek Armor"],
+    "a": 0
+  },
+  {
+    "q": "Qual cidade é famosa por suas cavernas e deserto?",
+    "o": ["Duscae", "Altissia", "Lestallum", "Hammerhead"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o aliado importante que governa Tenebrae?",
+    "o": ["Aranea Highwind", "Ardyn", "Noctis", "Lunafreya"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a principal missão de Noctis no jogo?",
+    "o": ["Recuperar o trono e derrotar Ardyn", "Explorar dungeons", "Coletar armas lendárias", "Treinar chocobos"],
+    "a": 0
+  }
+]

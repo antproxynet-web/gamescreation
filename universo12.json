@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que é um asteroide?",
+    "o": ["Um corpo rochoso ou metálico que orbita o Sol", "Um planeta anão", "Uma estrela cadente", "Um cometa"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o maior asteroide do Sistema Solar?",
+    "o": ["Ceres", "Vesta", "Pallas", "Hygiea"],
+    "a": 0
+  },
+  {
+    "q": "Onde se encontra a maioria dos asteroides do Sistema Solar?",
+    "o": ["Cinturão de asteroides entre Marte e Júpiter", "Órbita da Terra", "Órbita de Saturno", "Na Lua"],
+    "a": 0
+  },
+  {
+    "q": "O que é um asteroide troiano?",
+    "o": ["Asteroide que compartilha a órbita de um planeta, geralmente Júpiter", "Asteroide que orbita Marte", "Asteroide próximo da Terra", "Asteroide do cinturão externo"],
+    "a": 0
+  },
+  {
+    "q": "Qual asteroide foi visitado pela sonda OSIRIS-REx?",
+    "o": ["Bennu", "Ceres", "Vesta", "Eros"],
+    "a": 0
+  },
+  {
+    "q": "Qual asteroide foi visitado pela missão Dawn da NASA?",
+    "o": ["Vesta e Ceres", "Bennu", "Eros", "Pallas"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a diferença entre asteroide e cometa?",
+    "o": ["Asteroides são rochosos/metálicos e cometas possuem gelo e poeira", "Asteroides são maiores", "Cometas são mais próximos da Terra", "Asteroides vêm do espaço interestelar"],
+    "a": 0
+  },
+  {
+    "q": "O que é um asteroide próximo da Terra (NEA)?",
+    "o": ["Asteroide que chega a menos de 1,3 unidades astronômicas da Terra", "Asteroide no cinturão principal", "Asteroide que orbita Marte", "Asteroide que colide sempre com a Terra"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a função das sondas espaciais que visitam asteroides?",
+    "o": ["Estudar composição, forma, rotação e amostras de superfície", "Transportar astronautas", "Observar buracos negros", "Medir gravidade da Terra"],
+    "a": 0
+  },
+  {
+    "q": "Qual asteroide foi o primeiro a ser fotografado de perto?",
+    "o": ["Gaspra", "Ceres", "Vesta", "Eros"],
+    "a": 0
+  },
+  {
+    "q": "Qual asteroide contém grandes quantidades de água e carbono?",
+    "o": ["Ceres", "Vesta", "Pallas", "Hygiea"],
+    "a": 0
+  },
+  {
+    "q": "O que é um asteroide metálico?",
+    "o": ["Asteroide composto principalmente de ferro e níquel", "Asteroide coberto de gelo", "Asteroide com crateras grandes", "Asteroide que orbita a Lua"],
+    "a": 0
+  },
+  {
+    "q": "Qual asteroide foi visitado pela missão japonesa Hayabusa2?",
+    "o": ["Ryugu", "Bennu", "Vesta", "Ceres"],
+    "a": 0
+  },
+  {
+    "q": "O que são asteroides de classe C?",
+    "o": ["Asteroides ricos em carbono", "Asteroides metálicos", "Asteroides de silicato", "Asteroides próximos da Terra"],
+    "a": 0
+  },
+  {
+    "q": "O que são asteroides de classe S?",
+    "o": ["Asteroides rochosos ou silicatados", "Asteroides metálicos", "Asteroides de gelo", "Asteroides gigantes"],
+    "a": 0
+  },
+  {
+    "q": "O que é a NEO (Near-Earth Object) Program da NASA?",
+    "o": ["Programa que monitora asteroides e cometas próximos da Terra", "Programa de exploração lunar", "Programa de telescópios solares", "Programa de sondas para Júpiter"],
+    "a": 0
+  },
+  {
+    "q": "Qual asteroide foi alvo de estudo da missão japonesa Hayabusa original?",
+    "o": ["Itokawa", "Ryugu", "Bennu", "Ceres"],
+    "a": 0
+  },
+  {
+    "q": "O que pode acontecer se um asteroide colidir com a Terra?",
+    "o": ["Impacto potencial causando destruição local ou global", "Nada, ele passa despercebido", "Ele se transforma em cometa", "Cria uma nova lua automaticamente"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o menor asteroide já visitado por uma sonda?",
+    "o": ["Itokawa", "Ryugu", "Bennu", "Gaspra"],
+    "a": 0
+  },
+  {
+    "q": "O que são asteroides binários?",
+    "o": ["Asteroides que possuem uma pequena lua orbitando", "Asteroides que colidem entre si", "Asteroides de gelo", "Asteroides gigantes próximos da Terra"],
+    "a": 0
+  }
+]

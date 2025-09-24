@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual é o valor lógico da proposição 'Verdadeiro E Falso'?",
+    "o": ["Verdadeiro", "Falso", "Indeterminado", "Depende do contexto"],
+    "a": 1
+  },
+  {
+    "q": "Qual é o valor lógico da proposição 'Verdadeiro OU Falso'?",
+    "o": ["Verdadeiro", "Falso", "Indeterminado", "Nenhuma das anteriores"],
+    "a": 0
+  },
+  {
+    "q": "O que é uma proposição?",
+    "o": ["Uma sentença aberta", "Uma sentença que pode ser verdadeira ou falsa", "Um número", "Um símbolo matemático"],
+    "a": 1
+  },
+  {
+    "q": "Qual é o conectivo lógico que representa 'não'?",
+    "o": ["∧", "∨", "¬", "→"],
+    "a": 2
+  },
+  {
+    "q": "Qual é o conectivo lógico que representa 'e'?",
+    "o": ["∧", "∨", "¬", "→"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o conectivo lógico que representa 'ou'?",
+    "o": ["∧", "∨", "¬", "→"],
+    "a": 1
+  },
+  {
+    "q": "Qual é o valor lógico da proposição 'Se V então F' (implicação)?",
+    "o": ["Verdadeiro", "Falso", "Indeterminado", "Verdadeiro apenas se F for V"],
+    "a": 1
+  },
+  {
+    "q": "A tabela-verdade de 'V OU V' é:",
+    "o": ["Verdadeiro", "Falso", "Indeterminado", "Depende do caso"],
+    "a": 0
+  },
+  {
+    "q": "A negação de 'Todos os números são pares' é:",
+    "o": ["Todos os números são ímpares", "Nenhum número é par", "Existe pelo menos um número ímpar", "Todos os números são pares"],
+    "a": 2
+  },
+  {
+    "q": "O que significa uma proposição tautológica?",
+    "o": ["Sempre falsa", "Sempre verdadeira", "Às vezes verdadeira", "Depende da interpretação"],
+    "a": 1
+  },
+  {
+    "q": "O que é uma contradição em lógica matemática?",
+    "o": ["Proposição sempre verdadeira", "Proposição sempre falsa", "Proposição verdadeira ou falsa dependendo do caso", "Proposição aberta"],
+    "a": 1
+  },
+  {
+    "q": "Qual é a negação da proposição 'P OU Q'?",
+    "o": ["¬P OU ¬Q", "¬P E ¬Q", "P E Q", "¬P OU Q"],
+    "a": 1
+  },
+  {
+    "q": "Qual é a negação da proposição 'P E Q'?",
+    "o": ["¬P E ¬Q", "¬P OU ¬Q", "P OU Q", "¬P OU Q"],
+    "a": 1
+  },
+  {
+    "q": "O que representa a implicação 'P → Q'?",
+    "o": ["Se P então Q", "P ou Q", "P e Q", "P é equivalente a Q"],
+    "a": 0
+  },
+  {
+    "q": "A proposição 'P ↔ Q' significa:",
+    "o": ["P implica Q", "Q implica P", "P se e somente se Q", "P ou Q"],
+    "a": 2
+  },
+  {
+    "q": "Qual é o valor lógico de '¬(V E F)'?",
+    "o": ["Verdadeiro", "Falso", "Indeterminado", "Depende do contexto"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o valor lógico de '¬(V OU F)'?",
+    "o": ["Verdadeiro", "Falso", "Indeterminado", "Depende do contexto"],
+    "a": 1
+  },
+  {
+    "q": "Qual é o valor lógico de 'Se F então V'?",
+    "o": ["Verdadeiro", "Falso", "Indeterminado", "Não existe"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a diferença entre proposição aberta e proposição composta?",
+    "o": ["Aberta depende de variáveis; composta combina proposições com conectivos", "Aberta é sempre falsa; composta é sempre verdadeira", "Aberta é lógica; composta é matemática", "Não há diferença"],
+    "a": 0
+  },
+  {
+    "q": "Em lógica, qual é o valor lógico de 'V E V'?",
+    "o": ["Verdadeiro", "Falso", "Indeterminado", "Depende do caso"],
+    "a": 0
+  }
+]

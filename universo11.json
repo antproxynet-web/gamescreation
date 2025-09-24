@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que é um satélite natural?",
+    "o": ["Um corpo celeste que orbita um planeta naturalmente, como a Lua", "Um satélite artificial lançado pelo homem", "Uma estrela próxima", "Um planeta anão"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o maior satélite natural do Sistema Solar?",
+    "o": ["Ganimedes", "Lua", "Titan", "Calisto"],
+    "a": 0
+  },
+  {
+    "q": "Qual foi o primeiro satélite artificial lançado ao espaço?",
+    "o": ["Sputnik 1", "Explorer 1", "Vostok 1", "Telstar 1"],
+    "a": 0
+  },
+  {
+    "q": "Qual país lançou o Sputnik 1?",
+    "o": ["União Soviética", "Estados Unidos", "China", "França"],
+    "a": 0
+  },
+  {
+    "q": "O que é um satélite geoestacionário?",
+    "o": ["Um satélite que orbita a Terra na mesma velocidade da rotação, permanecendo fixo sobre um ponto", "Um satélite natural", "Um satélite em órbita baixa", "Um satélite que orbita Marte"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o satélite natural da Terra?",
+    "o": ["Lua", "Ganimedes", "Titã", "Fobos"],
+    "a": 0
+  },
+  {
+    "q": "O que faz um satélite de observação da Terra?",
+    "o": ["Captura imagens e dados sobre a superfície terrestre", "Emite sinais de rádio para comunicação", "Analisa estrelas distantes", "Transporta astronautas"],
+    "a": 0
+  },
+  {
+    "q": "Qual satélite é conhecido por estudar Saturno e seus anéis?",
+    "o": ["Cassini", "Hubble", "Voyager 1", "Galileo"], 
+    "a": 0
+  },
+  {
+    "q": "Qual é a função de um satélite de comunicação?",
+    "o": ["Transmitir sinais de TV, rádio e internet", "Observar buracos negros", "Medir a gravidade da Lua", "Estudar o clima de Marte"],
+    "a": 0
+  },
+  {
+    "q": "O que é um satélite artificial de órbita baixa?",
+    "o": ["Satélite que orbita próximo à superfície terrestre, geralmente entre 160 e 2.000 km", "Satélite natural", "Satélite que orbita o Sol", "Satélite de comunicação"],
+    "a": 0
+  },
+  {
+    "q": "Qual satélite observa o universo em luz visível e infravermelha?",
+    "o": ["Hubble", "Sputnik 1", "Cassini", "Voyager 2"],
+    "a": 0
+  },
+  {
+    "q": "O que é um satélite de GPS?",
+    "o": ["Satélite que fornece posicionamento e navegação", "Satélite que observa estrelas", "Satélite que mede clima", "Satélite que envia TV"],
+    "a": 0
+  },
+  {
+    "q": "Qual planeta tem o maior número de satélites naturais?",
+    "o": ["Saturno", "Júpiter", "Urano", "Netuno"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a função do satélite Voyager 1?",
+    "o": ["Explorar o Sistema Solar externo e enviar dados sobre planetas e espaço interestelar", "Transmitir TV", "Medir clima terrestre", "Mapear Marte"],
+    "a": 0
+  },
+  {
+    "q": "Qual satélite estudou Júpiter e suas luas entre 1995 e 2003?",
+    "o": ["Galileo", "Hubble", "Cassini", "Sputnik 2"],
+    "a": 0
+  },
+  {
+    "q": "O que é um satélite meteorológico?",
+    "o": ["Satélite que monitora o clima e fenômenos atmosféricos", "Satélite de comunicação", "Satélite de GPS", "Satélite de exploração lunar"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a diferença entre satélite natural e artificial?",
+    "o": ["Natural existe espontaneamente, artificial é lançado pelo homem", "Natural é maior que artificial", "Artificial orbita a Lua, natural orbita o Sol", "Não há diferença"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o satélite mais massivo de Saturno?",
+    "o": ["Titã", "Reia", "Dione", "Mimas"],
+    "a": 0
+  },
+  {
+    "q": "Qual foi o primeiro satélite a transmitir sinais de televisão?",
+    "o": ["Telstar 1", "Sputnik 1", "Hubble", "Explorer 1"],
+    "a": 0
+  },
+  {
+    "q": "Qual satélite permitiu a descoberta de ondas gravitacionais indiretas?",
+    "o": ["Observatórios espaciais como LISA em planejamento", "Hubble", "Sputnik 2", "Galileo"],
+    "a": 0
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual é o objetivo principal em Five Nights at Freddy's?",
+    "o": ["Sobreviver às noites evitando os animatrônicos", "Construir a pizzaria", "Coletar moedas", "Resolver enigmas"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o animatrônico principal do primeiro jogo?",
+    "o": ["Freddy Fazbear", "Bonnie", "Chica", "Foxy"],
+    "a": 0
+  },
+  {
+    "q": "Qual animatrônico é conhecido por se mover rapidamente pelo corredor direito?",
+    "o": ["Foxy", "Bonnie", "Chica", "Freddy"],
+    "a": 0
+  },
+  {
+    "q": "Qual ferramenta você usa para monitorar os animatrônicos?",
+    "o": ["Câmeras de segurança", "Lanterna mágica", "Portas automáticas", "Rádio"],
+    "a": 0
+  },
+  {
+    "q": "Quem criou a série Five Nights at Freddy's?",
+    "o": ["Scott Cawthon", "Toby Fox", "Markiplier", "Gabe Newell"],
+    "a": 0
+  },
+  {
+    "q": "Qual animatrônico é uma galinha e aparece no primeiro jogo?",
+    "o": ["Chica", "Bonnie", "Freddy", "Foxy"],
+    "a": 0
+  },
+  {
+    "q": "Qual animatrônico é um coelho?",
+    "o": ["Bonnie", "Foxy", "Freddy", "Chica"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome do pirata animatrônico do primeiro jogo?",
+    "o": ["Foxy", "Freddy", "Bonnie", "Chica"],
+    "a": 0
+  },
+  {
+    "q": "O que acontece se você ficar sem energia durante a noite?",
+    "o": ["As portas e luzes desligam e você é atacado", "Você ganha pontos extras", "Nada acontece", "Os animatrônicos dormem"],
+    "a": 0
+  },
+  {
+    "q": "Em FNaF, quantas noites você deve sobreviver no primeiro jogo?",
+    "o": ["Cinco noites", "Três noites", "Sete noites", "Dez noites"],
+    "a": 0
+  },
+  {
+    "q": "Qual animatrônico tem dentes afiados e aparece na Pirate Cove?",
+    "o": ["Foxy", "Freddy", "Bonnie", "Chica"],
+    "a": 0
+  },
+  {
+    "q": "Qual animatrônico fica mais ativo à noite e só aparece lentamente?",
+    "o": ["Freddy", "Foxy", "Bonnie", "Chica"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o vigilante noturno no primeiro jogo?",
+    "o": ["Mike Schmidt", "Jeremy Fitzgerald", "William Afton", "Phone Guy"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem deixa mensagens gravadas para o jogador?",
+    "o": ["Phone Guy", "Freddy", "Foxy", "Chica"],
+    "a": 0
+  },
+  {
+    "q": "Em FNaF 2, qual é o animatrônico principal adicionado?",
+    "o": ["Toy Freddy", "Golden Freddy", "Springtrap", "Balloon Boy"],
+    "a": 0
+  },
+  {
+    "q": "Qual animatrônico aparece com um balão e irrita o jogador em FNaF 2?",
+    "o": ["Balloon Boy (BB)", "Mangle", "Foxy", "Chica"],
+    "a": 0
+  },
+  {
+    "q": "Qual animatrônico é conhecido como Springtrap?",
+    "o": ["O animatrônico possuído por William Afton", "Bonnie", "Golden Freddy", "Foxy"],
+    "a": 0
+  },
+  {
+    "q": "Qual animatrônico é famoso por desaparecer e reaparecer aleatoriamente?",
+    "o": ["Golden Freddy", "Freddy", "Chica", "Bonnie"],
+    "a": 0
+  },
+  {
+    "q": "Em qual local os jogos FNaF geralmente se passam?",
+    "o": ["Pizzaria Freddy Fazbear", "Escola assombrada", "Hospital abandonado", "Casa mal-assombrada"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o método principal de defesa contra os animatrônicos?",
+    "o": ["Monitorar câmeras e fechar portas", "Atirar neles", "Fugir pelo corredor", "Dar comida para eles"],
+    "a": 0
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que estuda a física espacial?",
+    "o": ["Fenômenos físicos no espaço, incluindo gravidade, radiação e movimento de corpos celestes", "A formação de planetas na Terra", "O clima terrestre", "A química do solo"],
+    "a": 0
+  },
+  {
+    "q": "O que é a gravidade?",
+    "o": ["Força que atrai corpos com massa uns para os outros", "Força que cria luz", "Força que gera calor", "Força que forma estrelas"],
+    "a": 0
+  },
+  {
+    "q": "O que é a órbita de um planeta?",
+    "o": ["Trajetória curva que um corpo celeste percorre ao redor de outro devido à gravidade", "Linha reta no espaço", "Movimento da Lua ao redor da Terra", "Movimento das estrelas no céu"],
+    "a": 0
+  },
+  {
+    "q": "O que é a velocidade de escape?",
+    "o": ["Velocidade mínima para um corpo escapar da gravidade de um planeta ou estrela", "Velocidade máxima de um cometa", "Velocidade da luz", "Velocidade de rotação da Terra"],
+    "a": 0
+  },
+  {
+    "q": "O que é a força centrípeta?",
+    "o": ["Força que mantém um objeto em movimento circular apontando para o centro", "Força que empurra para fora", "Força de colisão entre estrelas", "Força de expansão do universo"],
+    "a": 0
+  },
+  {
+    "q": "O que é a inércia no espaço?",
+    "o": ["Tendência de um corpo de manter seu estado de movimento ou repouso", "Força que acelera corpos", "Gravidade do Sol", "Fusão nuclear de estrelas"],
+    "a": 0
+  },
+  {
+    "q": "O que é a radiação cósmica?",
+    "o": ["Partículas de alta energia provenientes do espaço profundo", "Energia do Sol apenas", "Luz da Lua", "Brilho de planetas"],
+    "a": 0
+  },
+  {
+    "q": "O que é microgravidade?",
+    "o": ["Condição de quase ausência de gravidade, como em estações espaciais", "Gravidade da Terra", "Força da luz solar", "Força centrípeta"],
+    "a": 0
+  },
+  {
+    "q": "O que é efeito Doppler no espaço?",
+    "o": ["Mudança na frequência da luz ou som devido ao movimento da fonte", "Colisão de planetas", "Aceleração de satélites", "Movimento das estrelas fixas"],
+    "a": 0
+  },
+  {
+    "q": "O que é uma maré gravitacional?",
+    "o": ["Variação da gravidade causada pela presença de corpos próximos", "Movimento do vento solar", "Formação de buracos negros", "Explosão de supernovas"],
+    "a": 0
+  },
+  {
+    "q": "O que é um buraco negro?",
+    "o": ["Região do espaço com gravidade tão intensa que nada escapa", "Estrela gigante", "Planeta gasoso", "Nebulosa"],
+    "a": 0
+  },
+  {
+    "q": "O que é a pressão no espaço?",
+    "o": ["Força por unidade de área; praticamente zero no vácuo espacial", "Força da gravidade", "Força do vento solar", "Força de colisão de estrelas"],
+    "a": 0
+  },
+  {
+    "q": "O que é a velocidade orbital?",
+    "o": ["Velocidade necessária para que um corpo permaneça em órbita estável", "Velocidade da luz", "Velocidade de um foguete em lançamento", "Velocidade do vento solar"],
+    "a": 0
+  },
+  {
+    "q": "O que é a energia cinética de uma nave espacial?",
+    "o": ["Energia associada ao movimento da nave", "Energia da fusão nuclear", "Energia do Sol", "Energia gravitacional"],
+    "a": 0
+  },
+  {
+    "q": "O que é a radiação solar?",
+    "o": ["Energia emitida pelo Sol na forma de luz, calor e partículas", "Energia da Lua", "Energia da Terra", "Energia de cometas"],
+    "a": 0
+  },
+  {
+    "q": "O que é uma onda gravitacional?",
+    "o": ["Ondulação no espaço-tempo causada por massas aceleradas, como fusões de buracos negros", "Onda de luz visível", "Vento solar", "Explosão de supernovas"],
+    "a": 0
+  },
+  {
+    "q": "O que é o efeito de maré em planetas e luas?",
+    "o": ["Deformação causada pela gravidade de outro corpo", "Movimento orbital rápido", "Explosão nuclear", "Colisão de asteroides"],
+    "a": 0
+  },
+  {
+    "q": "O que é a força de gravidade em microgravidade?",
+    "o": ["Muito reduzida, quase nula, permitindo flutuação", "Aumentada drasticamente", "Igual à da Terra", "Negativa"],
+    "a": 0
+  },
+  {
+    "q": "O que é o efeito da luz em corpos no espaço?",
+    "o": ["Pode aquecer, ionizar partículas e criar pressão de radiação", "Não tem efeito algum", "Cria gravidade", "Destrói planetas"],
+    "a": 0
+  },
+  {
+    "q": "O que é órbita geossíncrona?",
+    "o": ["Órbita onde um satélite mantém posição fixa relativa à Terra", "Órbita de planetas", "Órbita de cometas", "Órbita de estrelas binárias"],
+    "a": 0
+  }
+]

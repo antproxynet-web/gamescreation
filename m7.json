@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quem é considerado o 'pai da matemática' na Grécia Antiga?",
+    "o": ["Pitágoras", "Euclides", "Aristóteles", "Arquimedes"],
+    "a": 0
+  },
+  {
+    "q": "O Teorema de Pitágoras relaciona quais elementos de um triângulo?",
+    "o": ["Altura e base", "Lados do triângulo", "Catetos e hipotenusa", "Ângulos"],
+    "a": 2
+  },
+  {
+    "q": "A Teoria dos Conjuntos foi formalizada principalmente por:",
+    "o": ["Euler", "Cantor", "Descartes", "Pascal"],
+    "a": 1
+  },
+  {
+    "q": "O Teorema de Fermat que ficou famoso é chamado de:",
+    "o": ["Pequeno Teorema de Fermat", "Último Teorema de Fermat", "Teorema Fundamental da Aritmética", "Teorema de Gauss"],
+    "a": 1
+  },
+  {
+    "q": "A Teoria dos Números estuda principalmente:",
+    "o": ["Funções", "Inteiros", "Geometria", "Probabilidade"],
+    "a": 1
+  },
+  {
+    "q": "A lógica matemática foi profundamente desenvolvida por:",
+    "o": ["Pascal", "Gödel", "Turing", "Newton"],
+    "a": 1
+  },
+  {
+    "q": "Qual é o teorema central do cálculo integral e diferencial?",
+    "o": ["Teorema de Lagrange", "Teorema de Bolzano", "Teorema Fundamental do Cálculo", "Teorema de Pitágoras"],
+    "a": 2
+  },
+  {
+    "q": "A Teoria da Relatividade de Einstein depende fortemente de qual ramo da matemática?",
+    "o": ["Álgebra Linear", "Geometria Riemanniana", "Teoria dos Números", "Estatística"],
+    "a": 1
+  },
+  {
+    "q": "A conjectura de Goldbach propõe que todo número par maior que 2 é a soma de:",
+    "o": ["Dois ímpares", "Dois primos", "Dois quadrados", "Dois múltiplos de 3"],
+    "a": 1
+  },
+  {
+    "q": "O que afirma o Teorema Fundamental da Aritmética?",
+    "o": ["Todo número é divisível por 2", "Todo número primo é par", "Todo número inteiro maior que 1 pode ser fatorado em primos", "Existem infinitos números primos"],
+    "a": 2
+  },
+  {
+    "q": "Quem demonstrou os Teoremas da Incompletude?",
+    "o": ["Leibniz", "Gauss", "Gödel", "Hilbert"],
+    "a": 2
+  },
+  {
+    "q": "A Teoria do Caos estuda sistemas:",
+    "o": ["Lineares", "Periódicos", "Determinísticos mas imprevisíveis", "Estáticos"],
+    "a": 2
+  },
+  {
+    "q": "Qual teorema prova que existem infinitos números primos?",
+    "o": ["Teorema de Euclides", "Teorema de Pitágoras", "Teorema de Fermat", "Teorema de Cauchy"],
+    "a": 0
+  },
+  {
+    "q": "A Teoria dos Grafos foi iniciada por qual problema?",
+    "o": ["Os sete problemas do milênio", "Os sete pontos de Euler", "As sete pontes de Königsberg", "O cubo mágico"],
+    "a": 2
+  },
+  {
+    "q": "A Hipótese de Riemann está relacionada com:",
+    "o": ["Distribuição dos primos", "Geometria Euclidiana", "Conjuntos infinitos", "Números complexos"],
+    "a": 0
+  },
+  {
+    "q": "O Teorema de Bayes pertence a qual área da matemática?",
+    "o": ["Probabilidade", "Geometria", "Aritmética", "Álgebra"],
+    "a": 0
+  },
+  {
+    "q": "A Teoria dos Jogos foi formalizada por:",
+    "o": ["Pascal", "Von Neumann", "Nash", "Euler"],
+    "a": 1
+  },
+  {
+    "q": "O Teorema de Gödel mostrou que sistemas matemáticos formais são:",
+    "o": ["Sempre completos", "Sempre inconsistentes", "Ou incompletos ou inconsistentes", "Perfeitamente previsíveis"],
+    "a": 2
+  },
+  {
+    "q": "O Teorema de Tales é aplicado em qual área?",
+    "o": ["Geometria", "Álgebra", "Teoria dos Números", "Probabilidade"],
+    "a": 0
+  },
+  {
+    "q": "A demonstração de Andrew Wiles em 1994 solucionou qual problema?",
+    "o": ["Hipótese de Riemann", "Último Teorema de Fermat", "Conjectura de Goldbach", "Problema das quatro cores"],
+    "a": 1
+  }
+]

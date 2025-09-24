@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que é Ciência da Computação?",
+    "o": ["Estudo dos fundamentos, algoritmos e sistemas de computadores", "Uso de aplicativos móveis", "Edição de vídeos", "Trabalho manual em escritório"],
+    "a": 0
+  },
+  {
+    "q": "O que é um algoritmo?",
+    "o": ["Conjunto de instruções para resolver um problema", "Aplicativo de edição", "Computador físico", "Rede social"],
+    "a": 0
+  },
+  {
+    "q": "O que é programação?",
+    "o": ["Criação de software e instruções para computadores executarem tarefas", "Desenho artístico", "Edição de fotos", "Redação de textos"],
+    "a": 0
+  },
+  {
+    "q": "O que é uma estrutura de dados?",
+    "o": ["Forma de organizar e armazenar dados para uso eficiente", "Documento de texto", "Planilha de Excel", "Aplicativo de rede social"],
+    "a": 0
+  },
+  {
+    "q": "O que é Inteligência Artificial?",
+    "o": ["Tecnologia que permite que sistemas realizem tarefas inteligentes automaticamente", "Antivírus", "Editor de imagens", "Aplicativo de música"],
+    "a": 0
+  },
+  {
+    "q": "O que é aprendizado de máquina (Machine Learning)?",
+    "o": ["Subárea da IA que permite que sistemas aprendam a partir de dados", "Redes sociais", "Software de edição", "Banco de dados físico"],
+    "a": 0
+  },
+  {
+    "q": "O que é banco de dados?",
+    "o": ["Sistema que armazena e organiza grandes volumes de informações", "Documento de Word", "Planilha simples", "Editor de vídeos"],
+    "a": 0
+  },
+  {
+    "q": "O que é rede de computadores?",
+    "o": ["Conexão de dispositivos para compartilhar informações e recursos", "Computador isolado", "Aplicativo de edição", "Software musical"],
+    "a": 0
+  },
+  {
+    "q": "O que é segurança da informação?",
+    "o": ["Proteção de dados e sistemas contra acesso não autorizado ou ataques", "Impressão de arquivos", "Edição de planilhas", "Criação de documentos"],
+    "a": 0
+  },
+  {
+    "q": "O que é criptografia?",
+    "o": ["Transformação de informações para que só possam ser lidas por quem tem a chave", "Desenho gráfico", "Software de música", "Aplicativo de redes sociais"],
+    "a": 0
+  },
+  {
+    "q": "O que é um compilador?",
+    "o": ["Programa que traduz código fonte para linguagem de máquina executável", "Editor de textos", "Planilha de Excel", "Software gráfico"],
+    "a": 0
+  },
+  {
+    "q": "O que é um interpretador?",
+    "o": ["Programa que executa código linha a linha sem gerar arquivo executável", "Compilador", "Editor de imagens", "Aplicativo móvel"],
+    "a": 0
+  },
+  {
+    "q": "O que é Big Data?",
+    "o": ["Análise e processamento de grandes volumes de dados complexos", "Planilha pequena", "Documento de texto", "Aplicativo de mensagens"],
+    "a": 0
+  },
+  {
+    "q": "O que é computação em nuvem (cloud computing)?",
+    "o": ["Uso de servidores remotos para armazenamento e processamento de dados", "Computador local apenas", "Software offline", "Aplicativo de redes sociais"],
+    "a": 0
+  },
+  {
+    "q": "O que é desenvolvimento de software?",
+    "o": ["Processo de criação, manutenção e atualização de programas de computador", "Desenho artístico", "Impressão manual", "Redação de textos"],
+    "a": 0
+  },
+  {
+    "q": "O que é sistema operacional?",
+    "o": ["Software que gerencia hardware, recursos e serviços do computador", "Editor de textos", "Aplicativo de música", "Redes sociais"],
+    "a": 0
+  },
+  {
+    "q": "O que é teoria da computação?",
+    "o": ["Estudo de modelos e limites do que pode ser computado", "Redes sociais", "Planilha de Excel", "Editor de imagens"],
+    "a": 0
+  },
+  {
+    "q": "O que é programação orientada a objetos (POO)?",
+    "o": ["Paradigma que organiza software em objetos com atributos e métodos", "Programa linear", "Editor de textos", "Software musical"],
+    "a": 0
+  },
+  {
+    "q": "O que é engenharia de software?",
+    "o": ["Disciplina que aplica princípios de engenharia no desenvolvimento de software", "Desenho artístico", "Impressão manual", "Redes sociais"],
+    "a": 0
+  },
+  {
+    "q": "O que é computação paralela?",
+    "o": ["Execução simultânea de múltiplos processos ou tarefas para aumentar desempenho", "Execução sequencial apenas", "Planilha offline", "Editor de imagens"],
+    "a": 0
+  }
+]

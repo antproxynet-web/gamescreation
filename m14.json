@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual é a probabilidade de tirar um número 3 em um dado justo de 6 faces?",
+    "o": ["1/6", "1/3", "1/2", "1/4"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a probabilidade de tirar um número par em um dado de 6 faces?",
+    "o": ["1/2", "1/3", "2/3", "1/4"],
+    "a": 0
+  },
+  {
+    "q": "A probabilidade de um evento impossível é:",
+    "o": ["0", "1", "1/2", "Indeterminada"],
+    "a": 0
+  },
+  {
+    "q": "A probabilidade de um evento certo é:",
+    "o": ["0", "1", "1/2", "Indeterminada"],
+    "a": 1
+  },
+  {
+    "q": "Em um baralho padrão de 52 cartas, qual é a probabilidade de tirar um Ás?",
+    "o": ["1/13", "1/12", "1/4", "1/52"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a probabilidade de tirar uma carta vermelha em um baralho padrão?",
+    "o": ["1/4", "1/2", "1/3", "2/3"],
+    "a": 1
+  },
+  {
+    "q": "Se lançamos duas moedas, qual é a probabilidade de sair cara em ambas?",
+    "o": ["1/2", "1/4", "1/3", "1/8"],
+    "a": 1
+  },
+  {
+    "q": "Se lançamos um dado, a probabilidade de não sair número 6 é:",
+    "o": ["1/6", "5/6", "1/2", "1/3"],
+    "a": 1
+  },
+  {
+    "q": "A soma das probabilidades de todos os eventos possíveis de um experimento é:",
+    "o": ["0", "1", "Depende do experimento", "Não tem soma definida"],
+    "a": 1
+  },
+  {
+    "q": "A probabilidade de sair um número ímpar em um dado de 6 faces é:",
+    "o": ["1/2", "1/3", "2/3", "1/6"],
+    "a": 0
+  },
+  {
+    "q": "Se a probabilidade de chover amanhã é 0,3, qual é a probabilidade de não chover?",
+    "o": ["0,3", "0,5", "0,7", "0,9"],
+    "a": 2
+  },
+  {
+    "q": "A probabilidade de tirar uma figura (Valete, Dama ou Rei) em um baralho de 52 cartas é:",
+    "o": ["1/13", "3/13", "1/4", "3/52"],
+    "a": 1
+  },
+  {
+    "q": "Se lançamos dois dados, qual é a probabilidade de a soma ser 7?",
+    "o": ["1/6", "1/12", "1/8", "1/9"],
+    "a": 0
+  },
+  {
+    "q": "O que é um evento complementar?",
+    "o": ["Evento que não pode acontecer", "Evento que sempre acontece", "Evento formado pelos casos em que o evento original não ocorre", "Evento dependente do original"],
+    "a": 2
+  },
+  {
+    "q": "Se um saco contém 3 bolas vermelhas e 2 bolas azuis, a probabilidade de tirar uma vermelha é:",
+    "o": ["2/5", "3/5", "1/2", "3/2"],
+    "a": 1
+  },
+  {
+    "q": "Se um experimento tem 10 resultados igualmente prováveis, qual é a probabilidade de ocorrer um resultado específico?",
+    "o": ["1/10", "1/5", "1/2", "1/20"],
+    "a": 0
+  },
+  {
+    "q": "A probabilidade de dois eventos independentes acontecerem simultaneamente é:",
+    "o": ["Soma das probabilidades", "Produto das probabilidades", "Máxima das probabilidades", "Mínima das probabilidades"],
+    "a": 1
+  },
+  {
+    "q": "A probabilidade de tirar uma carta preta ou um Ás em um baralho é:",
+    "o": ["27/52", "28/52", "29/52", "30/52"],
+    "a": 2
+  },
+  {
+    "q": "Se lançamos três moedas, qual é a probabilidade de sair exatamente duas caras?",
+    "o": ["1/8", "3/8", "1/2", "3/4"],
+    "a": 1
+  },
+  {
+    "q": "A probabilidade de tirar um número maior que 4 em um dado é:",
+    "o": ["1/6", "1/3", "1/2", "2/3"],
+    "a": 1
+  }
+]

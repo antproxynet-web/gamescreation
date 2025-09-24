@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual é o objetivo principal em Call of Duty: Mobile?",
+    "o": ["Derrotar inimigos e completar partidas", "Construir bases", "Coletar moedas", "Resolver enigmas"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o modo de jogo mais famoso de Call of Duty: Mobile?",
+    "o": ["Battle Royale", "Team Deathmatch", "Capture the Flag", "Zombies"],
+    "a": 1
+  },
+  {
+    "q": "Qual é a arma padrão mais popular no início do jogo?",
+    "o": ["AK-47", "M4", "PDW-57", "SKS"],
+    "a": 1
+  },
+  {
+    "q": "Qual é o modo de jogo em que o objetivo é capturar e manter pontos?",
+    "o": ["Domination", "Free-for-All", "Search & Destroy", "Battle Royale"],
+    "a": 0
+  },
+  {
+    "q": "Qual operador é famoso por suas habilidades táticas e furtivas?",
+    "o": ["Ghost", "Soap", "Price", "Alex"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome do mapa clássico baseado em Call of Duty: Modern Warfare?",
+    "o": ["Nuketown", "Crash", "Hijacked", "Rust"],
+    "a": 0
+  },
+  {
+    "q": "Qual modo permite lutar até o último sobrevivente em um mapa grande?",
+    "o": ["Battle Royale", "Team Deathmatch", "Hardpoint", "Search & Destroy"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o tipo de equipamento usado para lançar granadas ou táticas?",
+    "o": ["Tactical Equipment", "Primary Weapon", "Melee", "Scorestreaks"],
+    "a": 0
+  },
+  {
+    "q": "Qual scorestreak clássico permite chamar um ataque aéreo?",
+    "o": ["UAV", "Predator Missile", "Care Package", "Chopper Gunner"],
+    "a": 1
+  },
+  {
+    "q": "Qual é o modo de jogo em que cada equipe tem apenas uma vida por rodada?",
+    "o": ["Search & Destroy", "Team Deathmatch", "Domination", "Battle Royale"],
+    "a": 0
+  },
+  {
+    "q": "Qual arma de longa distância é usada para sniping?",
+    "o": ["DL Q33", "M4", "PDW-57", "AK-47"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem é conhecido por seu chapéu icônico e voz de comando?",
+    "o": ["Price", "Ghost", "Soap", "Alex"],
+    "a": 0
+  },
+  {
+    "q": "Qual arma de curto alcance é ideal para combates próximos?",
+    "o": ["Shotgun", "Sniper", "Assault Rifle", "SMG"],
+    "a": 0
+  },
+  {
+    "q": "Qual operador feminino é popular por sua precisão e agilidade?",
+    "o": ["Alex", "Ghost", "Price", "Soap"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o equipamento que revela a posição inimiga no mapa?",
+    "o": ["UAV", "Smoke Grenade", "Flashbang", "Frag Grenade"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o recurso que permite personalizar armas com acessórios?",
+    "o": ["Gunsmith", "Loadout", "Inventory", "Armory"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o objetivo do modo Hardpoint?",
+    "o": ["Controlar áreas específicas do mapa", "Sobreviver sozinho", "Eliminar chefes", "Coletar recursos"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem é conhecido por ser silencioso e furtivo?",
+    "o": ["Ghost", "Price", "Soap", "Alex"],
+    "a": 0
+  },
+  {
+    "q": "Qual arma permite disparos rápidos em média distância?",
+    "o": ["Assault Rifle", "Shotgun", "Sniper Rifle", "Launcher"],
+    "a": 0
+  },
+  {
+    "q": "Qual modo é inspirado em batalhas massivas de sobrevivência?",
+    "o": ["Battle Royale", "Team Deathmatch", "Domination", "Search & Destroy"],
+    "a": 0
+  }
+]

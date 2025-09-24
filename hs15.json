@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual civilização é conhecida pelas pirâmides de Gizé?",
+    "o": ["Egípcia", "Romana", "Grega", "Mesopotâmica"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização criou o Partenon?",
+    "o": ["Grega", "Egípcia", "Romana", "Mesopotâmica"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização desenvolveu a escrita cuneiforme?",
+    "o": ["Mesopotâmica", "Egípcia", "Grega", "Romana"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização antiga é famosa por suas esculturas de deuses e heróis?",
+    "o": ["Grega", "Egípcia", "Romana", "Mesopotâmica"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização construiu o Coliseu?",
+    "o": ["Romana", "Grega", "Egípcia", "Mesopotâmica"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização antiga criou mosaicos elaborados?",
+    "o": ["Romana", "Grega", "Egípcia", "Mesopotâmica"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização antiga pintava murais nas paredes de tumbas?",
+    "o": ["Egípcia", "Romana", "Grega", "Mesopotâmica"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização antiga é conhecida pelo uso de colunas dóricas, jônicas e coríntias?",
+    "o": ["Grega", "Romana", "Egípcia", "Mesopotâmica"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização antiga desenvolveu o aqueduto como técnica arquitetônica?",
+    "o": ["Romana", "Grega", "Egípcia", "Mesopotâmica"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização antiga é famosa pelos templos zigurates?",
+    "o": ["Mesopotâmica", "Egípcia", "Grega", "Romana"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização antiga produziu esculturas monumentais como a Vênus de Milo?",
+    "o": ["Grega", "Egípcia", "Romana", "Mesopotâmica"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização antiga usava papiro para escrever?",
+    "o": ["Egípcia", "Grega", "Romana", "Mesopotâmica"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização antiga é conhecida pelos mosaicos do piso de casas e templos?",
+    "o": ["Romana", "Grega", "Egípcia", "Mesopotâmica"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização antiga construiu a Acrópole de Atenas?",
+    "o": ["Grega", "Romana", "Egípcia", "Mesopotâmica"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização antiga esculpiu esfinges monumentais?",
+    "o": ["Egípcia", "Grega", "Romana", "Mesopotâmica"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização antiga produziu cerâmica pintada com cenas da vida cotidiana?",
+    "o": ["Grega", "Egípcia", "Romana", "Mesopotâmica"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização antiga criou os arcos como técnica arquitetônica?",
+    "o": ["Romana", "Grega", "Egípcia", "Mesopotâmica"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização antiga esculpiu relevos de reis e deuses em zigurates?",
+    "o": ["Mesopotâmica", "Egípcia", "Grega", "Romana"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização antiga produziu estatuária em mármore?",
+    "o": ["Grega", "Egípcia", "Romana", "Mesopotâmica"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização antiga criou sarcófagos decorados com cenas religiosas?",
+    "o": ["Egípcia", "Romana", "Grega", "Mesopotâmica"],
+    "a": 0
+  }
+]

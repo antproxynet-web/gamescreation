@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual é a soma dos ângulos internos de um triângulo?",
+    "o": ["90°", "180°", "270°", "360°"],
+    "a": 1
+  },
+  {
+    "q": "Quantos lados tem um hexágono?",
+    "o": ["5", "6", "7", "8"],
+    "a": 1
+  },
+  {
+    "q": "Como se chama um polígono de 8 lados?",
+    "o": ["Hexágono", "Pentágono", "Octógono", "Decágono"],
+    "a": 2
+  },
+  {
+    "q": "Qual é a fórmula da área de um quadrado?",
+    "o": ["A = b × h", "A = πr²", "A = l × l", "A = (d × d)/2"],
+    "a": 2
+  },
+  {
+    "q": "Qual é a soma dos ângulos internos de um quadrilátero?",
+    "o": ["180°", "270°", "360°", "540°"],
+    "a": 2
+  },
+  {
+    "q": "Qual é a fórmula da circunferência de um círculo?",
+    "o": ["C = πd", "C = 2r", "C = d²", "C = πr²"],
+    "a": 0
+  },
+  {
+    "q": "Quantas diagonais tem um pentágono?",
+    "o": ["3", "5", "7", "10"],
+    "a": 1
+  },
+  {
+    "q": "Qual é a área de um triângulo de base 10 e altura 6?",
+    "o": ["30", "60", "40", "20"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a soma dos ângulos externos de qualquer polígono?",
+    "o": ["90°", "180°", "270°", "360°"],
+    "a": 3
+  },
+  {
+    "q": "Qual é o nome de um triângulo com todos os lados diferentes?",
+    "o": ["Equilátero", "Isósceles", "Escaleno", "Retângulo"],
+    "a": 2
+  },
+  {
+    "q": "Qual é a fórmula do volume de um cubo?",
+    "o": ["V = l³", "V = l²", "V = b × h", "V = 4/3 πr³"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a diagonal de um quadrado de lado 4?",
+    "o": ["4√2", "8", "2√2", "16"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome do polígono de 12 lados?",
+    "o": ["Decágono", "Dodecágono", "Hexágono", "Octógono"],
+    "a": 1
+  },
+  {
+    "q": "Qual é a fórmula da área de um círculo?",
+    "o": ["A = πr²", "A = πd", "A = 2πr", "A = r²"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome do ângulo maior que 90° e menor que 180°?",
+    "o": ["Reto", "Agudo", "Obtuso", "Raso"],
+    "a": 2
+  },
+  {
+    "q": "Um prisma com base triangular tem quantas faces?",
+    "o": ["4", "5", "6", "8"],
+    "a": 2
+  },
+  {
+    "q": "Qual é a soma dos ângulos internos de um pentágono?",
+    "o": ["360°", "540°", "720°", "900°"],
+    "a": 1
+  },
+  {
+    "q": "Qual é o raio de um círculo com diâmetro 10?",
+    "o": ["2", "4", "5", "10"],
+    "a": 2
+  },
+  {
+    "q": "Qual é a altura de um triângulo equilátero de lado 6?",
+    "o": ["3", "3√2", "3√3", "6√3"],
+    "a": 2
+  },
+  {
+    "q": "Qual é o polígono com todos os lados iguais e ângulos iguais?",
+    "o": ["Polígono irregular", "Polígono regular", "Trapézio", "Escaleno"],
+    "a": 1
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Em que ano foi descoberto o Brasil?",
+    "o": ["1500", "1492", "1530", "1600"],
+    "a": 0
+  },
+  {
+    "q": "Quem comandou a expedição que descobriu o Brasil?",
+    "o": ["Pedro Álvares Cabral", "Vasco da Gama", "Cristóvão Colombo", "Fernão de Magalhães"],
+    "a": 0
+  },
+  {
+    "q": "Qual era o principal produto explorado na economia colonial do Brasil?",
+    "o": ["Açúcar", "Café", "Ouro", "Algodão"],
+    "a": 0
+  },
+  {
+    "q": "Qual foi a primeira capital do Brasil?",
+    "o": ["Salvador", "Rio de Janeiro", "Brasília", "São Paulo"],
+    "a": 0
+  },
+  {
+    "q": "Em que ano o Brasil tornou-se independente de Portugal?",
+    "o": ["1822", "1808", "1889", "1815"],
+    "a": 0
+  },
+  {
+    "q": "Quem proclamou a independência do Brasil?",
+    "o": ["Dom Pedro I", "Dom João VI", "Tiradentes", "Getúlio Vargas"],
+    "a": 0
+  },
+  {
+    "q": "Qual movimento ficou conhecido como Inconfidência Mineira?",
+    "o": ["Movimento de luta pela independência", "Revolta Farroupilha", "Revolução de 1930", "Guerra do Paraguai"],
+    "a": 0
+  },
+  {
+    "q": "Quando ocorreu a Proclamação da República no Brasil?",
+    "o": ["1889", "1822", "1888", "1891"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o primeiro presidente do Brasil?",
+    "o": ["Deodoro da Fonseca", "Floriano Peixoto", "Getúlio Vargas", "Prudente de Morais"],
+    "a": 0
+  },
+  {
+    "q": "Qual foi a última princesa regente de Portugal que governou o Brasil?",
+    "o": ["D. Maria I", "D. Carlota Joaquina", "D. Leopoldina", "D. Teresa Cristina"],
+    "a": 2
+  },
+  {
+    "q": "Quando foi assinada a Lei Áurea que aboliu a escravidão no Brasil?",
+    "o": ["1888", "1822", "1871", "1890"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi Tiradentes?",
+    "o": ["Líder da Inconfidência Mineira", "Imperador do Brasil", "Primeiro presidente", "Escritor famoso"],
+    "a": 0
+  },
+  {
+    "q": "Qual guerra envolveu Brasil, Argentina, Uruguai e Paraguai no século XIX?",
+    "o": ["Guerra do Paraguai", "Revolução Farroupilha", "Guerra dos Emboabas", "Revolução de 1930"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o responsável por transferir a corte portuguesa para o Brasil?",
+    "o": ["Dom João VI", "Dom Pedro I", "Napoleão Bonaparte", "Marquês de Pombal"],
+    "a": 0
+  },
+  {
+    "q": "Quando foi inaugurada Brasília como capital do Brasil?",
+    "o": ["1960", "1950", "1945", "1970"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o imperador durante a maior parte do período imperial brasileiro?",
+    "o": ["Dom Pedro II", "Dom Pedro I", "Dom João VI", "Getúlio Vargas"],
+    "a": 0
+  },
+  {
+    "q": "Qual foi a principal atividade econômica durante o ciclo do ouro no Brasil?",
+    "o": ["Mineração", "Café", "Açúcar", "Pecuária"],
+    "a": 0
+  },
+  {
+    "q": "O que foi a Revolta dos Malês?",
+    "o": ["Rebelião de escravos africanos muçulmanos em Salvador", "Movimento político em Minas Gerais", "Guerra de fronteira", "Conflito indígena"],
+    "a": 0
+  },
+  {
+    "q": "Quem liderou a Revolução de 1930, que levou Getúlio Vargas ao poder?",
+    "o": ["Getúlio Vargas", "Deodoro da Fonseca", "Prudente de Morais", "Juscelino Kubitschek"],
+    "a": 0
+  },
+  {
+    "q": "Qual movimento proclamou a República no Brasil?",
+    "o": ["Proclamação da República de 1889", "Inconfidência Mineira", "Revolta da Armada", "Revolução Farroupilha"],
+    "a": 0
+  }
+]

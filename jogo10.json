@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual é o objetivo principal em Mobile Legends?",
+    "o": ["Destruir a base inimiga", "Coletar moedas", "Resolver enigmas", "Construir bases"],
+    "a": 0
+  },
+  {
+    "q": "Quantos jogadores formam um time em uma partida padrão de Mobile Legends?",
+    "o": ["5", "3", "4", "6"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o mapa clássico de Mobile Legends?",
+    "o": ["Land of Dawn", "Summoner's Rift", "Arena of Valor", "Wild Rift"],
+    "a": 0
+  },
+  {
+    "q": "Qual tipo de herói é especializado em causar grande dano em curto período?",
+    "o": ["Assassino", "Tanque", "Suporte", "Mago"],
+    "a": 0
+  },
+  {
+    "q": "Qual herói é famoso por causar dano em área com magias?",
+    "o": ["Eudora", "Miya", "Tigreal", "Franco"],
+    "a": 0
+  },
+  {
+    "q": "Qual herói é conhecido por sua habilidade de cura e suporte ao time?",
+    "o": ["Angela", "Gusion", "Alucard", "Hayabusa"],
+    "a": 0
+  },
+  {
+    "q": "Qual herói é especializado em tank e proteção de aliados?",
+    "o": ["Tigreal", "Eudora", "Lancelot", "Lesley"],
+    "a": 0
+  },
+  {
+    "q": "Qual tipo de herói se destaca em ataques à distância com armas?",
+    "o": ["Atirador", "Assassino", "Tanque", "Suporte"],
+    "a": 0
+  },
+  {
+    "q": "Qual herói pode teletransportar-se e atacar inimigos rapidamente?",
+    "o": ["Gusion", "Tigreal", "Eudora", "Miya"],
+    "a": 0
+  },
+  {
+    "q": "Qual herói é famoso por sua ultimate que causa dano em área e atordoa inimigos?",
+    "o": ["Franco", "Alucard", "Layla", "Angela"],
+    "a": 0
+  },
+  {
+    "q": "Qual herói é especialista em eliminar inimigos rapidamente com habilidades furtivas?",
+    "o": ["Hayabusa", "Tigreal", "Eudora", "Miya"],
+    "a": 0
+  },
+  {
+    "q": "Qual herói de Mobile Legends é conhecido por ser rápido e causar dano contínuo?",
+    "o": ["Alucard", "Tigreal", "Angela", "Eudora"],
+    "a": 0
+  },
+  {
+    "q": "Qual herói pode aumentar a velocidade de movimento e ataque dos aliados?",
+    "o": ["Angela", "Franco", "Gusion", "Lesley"],
+    "a": 0
+  },
+  {
+    "q": "Qual tipo de herói é mais resistente e absorve dano para o time?",
+    "o": ["Tanque", "Mago", "Atirador", "Assassino"],
+    "a": 0
+  },
+  {
+    "q": "Qual herói é conhecido por suas habilidades de longo alcance e precisão?",
+    "o": ["Lesley", "Alucard", "Tigreal", "Angela"],
+    "a": 0
+  },
+  {
+    "q": "Qual herói pode criar escudos e controlar inimigos com habilidades de crowd control?",
+    "o": ["Tigreal", "Miya", "Eudora", "Gusion"],
+    "a": 0
+  },
+  {
+    "q": "Qual herói é especialista em explodir torres inimigas rapidamente?",
+    "o": ["Miya", "Alucard", "Angela", "Tigreal"],
+    "a": 0
+  },
+  {
+    "q": "Qual herói é famoso por habilidades que combinam ataques físicos e mágicos?",
+    "o": ["Gusion", "Layla", "Franco", "Tigreal"],
+    "a": 0
+  },
+  {
+    "q": "Qual tipo de herói é ideal para causar dano de longo alcance enquanto mantém distância segura?",
+    "o": ["Atirador", "Assassino", "Tanque", "Suporte"],
+    "a": 0
+  },
+  {
+    "q": "Qual herói é conhecido por habilidades que permitem reaparecer rapidamente e voltar à luta?",
+    "o": ["Alucard", "Eudora", "Tigreal", "Angela"],
+    "a": 0
+  }
+]

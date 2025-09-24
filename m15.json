@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que é uma tabela de frequência?",
+    "o": ["Uma tabela que organiza dados em categorias e quantidades", "Uma tabela de números primos", "Uma tabela de cálculos matemáticos", "Uma tabela de fórmulas"],
+    "a": 0
+  },
+  {
+    "q": "Em um gráfico de barras, o que o eixo vertical geralmente representa?",
+    "o": ["Categorias", "Valores ou frequências", "Tempo", "Porcentagem apenas"],
+    "a": 1
+  },
+  {
+    "q": "Em um gráfico de barras, o que o eixo horizontal geralmente representa?",
+    "o": ["Valores", "Frequências", "Categorias ou classes", "Probabilidades"],
+    "a": 2
+  },
+  {
+    "q": "O que um gráfico de linhas geralmente representa?",
+    "o": ["Relação entre duas variáveis ao longo do tempo", "Número de categorias", "Porcentagem de um todo", "Frequência absoluta apenas"],
+    "a": 0
+  },
+  {
+    "q": "Em um gráfico de pizza, cada fatia representa:",
+    "o": ["Valor absoluto", "Proporção ou porcentagem do total", "Frequência relativa", "Tempo de observação"],
+    "a": 1
+  },
+  {
+    "q": "O que significa frequência relativa?",
+    "o": ["Número absoluto de ocorrências", "Proporção em relação ao total", "Média dos valores", "Soma dos valores"],
+    "a": 1
+  },
+  {
+    "q": "Se uma tabela mostra 10 pessoas comprando maçãs, 15 comprando bananas e 5 comprando laranjas, qual é a frequência total?",
+    "o": ["25", "30", "20", "15"],
+    "a": 1
+  },
+  {
+    "q": "Como se calcula a porcentagem de uma categoria em uma tabela?",
+    "o": ["Dividindo o total pelo valor da categoria", "Multiplicando o valor da categoria pelo total", "Dividindo o valor da categoria pelo total e multiplicando por 100", "Somando o valor da categoria ao total"],
+    "a": 2
+  },
+  {
+    "q": "O que é uma tabela de contingência?",
+    "o": ["Tabela com apenas uma variável", "Tabela que mostra a relação entre duas ou mais variáveis", "Tabela de probabilidades", "Tabela de gráficos de pizza"],
+    "a": 1
+  },
+  {
+    "q": "Em um gráfico de barras horizontais, qual eixo mostra os valores?",
+    "o": ["Horizontal", "Vertical", "Diagonal", "Não existe eixo"],
+    "a": 0
+  },
+  {
+    "q": "Em um gráfico de linhas, o ponto de interseção entre linha e eixo horizontal representa:",
+    "o": ["Valor zero", "Valor da variável dependente", "Valor da variável independente", "Soma dos valores"],
+    "a": 2
+  },
+  {
+    "q": "O que indica a inclinação de uma linha em um gráfico de linhas?",
+    "o": ["Valor inicial", "Taxa de variação entre as variáveis", "Frequência absoluta", "Porcentagem relativa"],
+    "a": 1
+  },
+  {
+    "q": "Se uma fatia de pizza representa 25%, quantos graus ela possui no círculo?",
+    "o": ["90°", "100°", "120°", "75°"],
+    "a": 0
+  },
+  {
+    "q": "O que significa uma barra mais alta em um gráfico de barras?",
+    "o": ["Menor valor", "Maior frequência ou valor", "Erro de cálculo", "Proporção igual"],
+    "a": 1
+  },
+  {
+    "q": "Como se chama o eixo horizontal em um gráfico de linha?",
+    "o": ["Eixo X", "Eixo Y", "Eixo Z", "Eixo W"],
+    "a": 0
+  },
+  {
+    "q": "Como se chama o eixo vertical em um gráfico de linha?",
+    "o": ["Eixo X", "Eixo Y", "Eixo Z", "Eixo W"],
+    "a": 1
+  },
+  {
+    "q": "O que é uma frequência acumulada?",
+    "o": ["Soma dos valores da variável", "Soma das frequências das categorias até a atual", "Valor médio da categoria", "Proporção relativa"],
+    "a": 1
+  },
+  {
+    "q": "Em uma tabela, a coluna que mostra os intervalos de classes é chamada de:",
+    "o": ["Frequência absoluta", "Classes ou categorias", "Frequência relativa", "Média"],
+    "a": 1
+  },
+  {
+    "q": "Se uma categoria tem frequência 8 em um total de 32, qual é sua frequência relativa?",
+    "o": ["1/2", "1/4", "1/8", "1/16"],
+    "a": 1
+  },
+  {
+    "q": "O que é um histograma?",
+    "o": ["Gráfico de linhas", "Gráfico de barras que mostra frequências de intervalos contínuos", "Gráfico de pizza", "Tabela de dados brutos"],
+    "a": 1
+  }
+]

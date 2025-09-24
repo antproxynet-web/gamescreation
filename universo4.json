@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que é um buraco negro?",
+    "o": ["Uma região do espaço com gravidade tão forte que nada escapa", "Uma estrela gigante", "Um planeta superdenso", "Um cometa"],
+    "a": 0
+  },
+  {
+    "q": "Qual físico teorizou a existência dos buracos negros?",
+    "o": ["Albert Einstein", "Isaac Newton", "Stephen Hawking", "Galileu Galilei"],
+    "a": 2
+  },
+  {
+    "q": "O que é o horizonte de eventos de um buraco negro?",
+    "o": ["Limite além do qual nada pode escapar", "A superfície do buraco negro", "A órbita de planetas ao redor", "O núcleo do buraco negro"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o tipo de buraco negro formado pelo colapso de estrelas massivas?",
+    "o": ["Buraco negro estelar", "Buraco negro supermassivo", "Buraco negro intermediário", "Buraco negro primordial"],
+    "a": 0
+  },
+  {
+    "q": "Onde geralmente se encontra um buraco negro supermassivo?",
+    "o": ["No centro das galáxias", "No espaço interestelar vazio", "Ao redor de planetas", "Dentro de estrelas"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o fenômeno que ocorre quando algo se aproxima do horizonte de eventos?",
+    "o": ["Spaghettificação", "Fusão nuclear", "Explosão de supernova", "Refração da luz"],
+    "a": 0
+  },
+  {
+    "q": "Qual cientista explicou que buracos negros podem emitir radiação (Hawking Radiation)?",
+    "o": ["Stephen Hawking", "Albert Einstein", "Carl Sagan", "Neil deGrasse Tyson"],
+    "a": 0
+  },
+  {
+    "q": "O que é um buraco negro supermassivo comparado a um buraco negro estelar?",
+    "o": ["Muito mais massivo, milhões a bilhões de vezes a massa do Sol", "Menor e mais denso", "Igual em massa, mas maior em volume", "Composto por plasma estelar"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome do buraco negro supermassivo no centro da Via Láctea?",
+    "o": ["Sagittarius A*", "M87*", "Cygnus X-1", "Andrômeda X"],
+    "a": 0
+  },
+  {
+    "q": "O que acontece com a luz que passa perto de um buraco negro?",
+    "o": ["Ela se curva devido à gravidade", "Ela acelera", "Ela é destruída", "Ela se transforma em matéria"],
+    "a": 0
+  },
+  {
+    "q": "Como os astrônomos podem detectar buracos negros se eles não emitem luz?",
+    "o": ["Observando o efeito gravitacional em estrelas próximas", "Fotografando diretamente", "Escutando sons no espaço", "Medindo a temperatura do vácuo"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o limite teórico mínimo de massa para um buraco negro estelar?",
+    "o": ["Algumas vezes a massa do Sol", "A massa de Júpiter", "A massa da Terra", "A massa de Mercúrio"],
+    "a": 0
+  },
+  {
+    "q": "O que é um buraco negro primordial?",
+    "o": ["Buraco negro formado no início do universo", "Buraco negro estelar comum", "Buraco negro gigante no centro da galáxia", "Buraco negro artificial criado pelo homem"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o fenômeno chamado quando dois buracos negros se fundem?",
+    "o": ["Ondas gravitacionais", "Supernova", "Pulso eletromagnético", "Ejeção de matéria"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a velocidade de escape dentro do horizonte de eventos?",
+    "o": ["Maior que a velocidade da luz", "Menor que a velocidade da luz", "Igual à velocidade da luz", "Zero"],
+    "a": 0
+  },
+  {
+    "q": "O que é a singularidade de um buraco negro?",
+    "o": ["Ponto de densidade infinita e gravidade extrema", "O horizonte de eventos", "A órbita de estrelas próximas", "A região de gás quente ao redor"],
+    "a": 0
+  },
+  {
+    "q": "Qual buraco negro foi fotografado pela primeira vez em 2019?",
+    "o": ["M87*", "Sagittarius A*", "Cygnus X-1", "NGC 1277"],
+    "a": 0
+  },
+  {
+    "q": "Como os buracos negros afetam o tempo próximo a eles?",
+    "o": ["O tempo passa mais devagar devido à dilatação gravitacional", "O tempo passa mais rápido", "O tempo para completamente", "Não afeta o tempo"],
+    "a": 0
+  },
+  {
+    "q": "O que é um buraco negro rotativo ou Kerr?",
+    "o": ["Buraco negro que gira e distorce o espaço-tempo ao redor", "Buraco negro estático", "Buraco negro primitivo", "Buraco negro artificial"],
+    "a": 0
+  },
+  {
+    "q": "Qual fenômeno permite que buracos negros emitam partículas mesmo não deixando a luz escapar?",
+    "o": ["Radiação Hawking", "Supernova", "Fusão nuclear", "Ejeção de jatos cósmicos"],
+    "a": 0
+  }
+]

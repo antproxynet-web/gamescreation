@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual período histórico é conhecido como Idade Média?",
+    "o": ["476 a 1453", "300 a 476", "1453 a 1789", "800 a 1500"],
+    "a": 0
+  },
+  {
+    "q": "Qual foi a queda que marca o início da Idade Média?",
+    "o": ["Queda do Império Romano do Ocidente", "Queda de Constantinopla", "Queda de Cartago", "Queda de Atenas"],
+    "a": 0
+  },
+  {
+    "q": "Quem eram os senhores feudais?",
+    "o": ["Nobres que controlavam terras", "Camponeses que trabalhavam na terra", "Sacerdotes da Igreja", "Mercadores"],
+    "a": 0
+  },
+  {
+    "q": "Qual sistema econômico predominava na Idade Média?",
+    "o": ["Feudalismo", "Capitalismo", "Socialismo", "Mercantilismo"],
+    "a": 0
+  },
+  {
+    "q": "Qual instituição tinha grande poder durante a Idade Média?",
+    "o": ["Igreja Católica", "Reino Unido", "Império Romano", "Grécia Antiga"],
+    "a": 0
+  },
+  {
+    "q": "Qual foi a principal forma de defesa dos senhores feudais?",
+    "o": ["Castelos", "Muradas de madeira", "Pirâmides", "Tropas nômades"],
+    "a": 0
+  },
+  {
+    "q": "Quem eram os cavaleiros medievais?",
+    "o": ["Guerreiros a serviço do senhor feudal", "Camponeses", "Sacerdotes", "Mercadores"],
+    "a": 0
+  },
+  {
+    "q": "Qual evento marcou o fim da Idade Média?",
+    "o": ["Queda de Constantinopla em 1453", "Descobrimento da América em 1492", "Revolução Francesa", "Fim do Império Romano"],
+    "a": 0
+  },
+  {
+    "q": "Qual doença devastou a Europa na Idade Média?",
+    "o": ["Peste Negra", "Varíola", "Cólera", "Gripe Espanhola"],
+    "a": 0
+  },
+  {
+    "q": "O que eram as Cruzadas?",
+    "o": ["Expedições militares religiosas", "Festivais agrícolas", "Guerras entre reinos africanos", "Conquistas vikings"],
+    "a": 0
+  },
+  {
+    "q": "Qual era a classe mais baixa na sociedade feudal?",
+    "o": ["Camponeses", "Nobres", "Cavaleiros", "Sacerdotes"],
+    "a": 0
+  },
+  {
+    "q": "Quem era o rei francês durante a Guerra dos Cem Anos?",
+    "o": ["Vários reis, como Carlos VI", "Luís XIV", "Henrique VIII", "Otto von Bismarck"],
+    "a": 0
+  },
+  {
+    "q": "O que eram guildas medievais?",
+    "o": ["Associações de comerciantes e artesãos", "Tropas de cavaleiros", "Castelos fortificados", "Monastérios religiosos"],
+    "a": 0
+  },
+  {
+    "q": "Qual era a principal língua da Igreja na Idade Média?",
+    "o": ["Latim", "Grego", "Francês", "Inglês"],
+    "a": 0
+  },
+  {
+    "q": "Qual rei inglês assinou a Magna Carta em 1215?",
+    "o": ["João Sem Terra", "Henrique II", "Ricardo Coração de Leão", "Eduardo I"],
+    "a": 0
+  },
+  {
+    "q": "O que caracterizava a arquitetura gótica?",
+    "o": ["Arcos ogivais e vitrais", "Cúpulas romanas", "Pirâmides", "Muralhas baixas"],
+    "a": 0
+  },
+  {
+    "q": "Quem eram os mongóis durante a Idade Média?",
+    "o": ["Povo nômade da Ásia que invadiu partes da Europa", "Cavaleiros europeus", "Sacerdotes", "Comerciantes italianos"],
+    "a": 0
+  },
+  {
+    "q": "O que era a Inquisição?",
+    "o": ["Instituição da Igreja para julgar heresias", "Uma guerra civil na França", "Um tratado de paz", "Uma epidemia"],
+    "a": 0
+  },
+  {
+    "q": "Qual era a principal forma de transporte durante a Idade Média?",
+    "o": ["Cavalos e carroças", "Trens", "Navios a vapor", "Automóveis"],
+    "a": 0
+  },
+  {
+    "q": "Quem fundou o Império Carolíngio?",
+    "o": ["Carlos Magno", "Clóvis", "Otão I", "Vercingetórix"],
+    "a": 0
+  }
+]

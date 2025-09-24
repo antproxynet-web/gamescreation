@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que é um smartphone?",
+    "o": ["Dispositivo móvel com funções de telefonia e computador", "Aparelho de televisão", "Computador de mesa", "Console de videogame"],
+    "a": 0
+  },
+  {
+    "q": "O que é um tablet?",
+    "o": ["Dispositivo móvel com tela sensível ao toque e funções de computador portátil", "Telefone fixo", "Notebook", "Smartwatch"],
+    "a": 0
+  },
+  {
+    "q": "O que é um smartwatch?",
+    "o": ["Relógio inteligente que se conecta a dispositivos móveis", "Relógio comum", "Tablet pequeno", "Telefone antigo"],
+    "a": 0
+  },
+  {
+    "q": "O que é um sistema operacional móvel?",
+    "o": ["Software que gerencia o hardware e aplicativos de smartphones e tablets", "Aplicativo de mensagens", "Placa-mãe do celular", "Rede de internet"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o sistema operacional mais usado em smartphones?",
+    "o": ["Android", "Windows", "iOS", "Linux"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o segundo sistema operacional mais popular em smartphones?",
+    "o": ["iOS", "Android", "Windows Phone", "BlackBerry OS"],
+    "a": 0
+  },
+  {
+    "q": "O que é um aplicativo móvel?",
+    "o": ["Software projetado para dispositivos móveis", "Computador portátil", "Relógio inteligente", "Console de videogame"],
+    "a": 0
+  },
+  {
+    "q": "O que é a memória interna de um celular?",
+    "o": ["Espaço de armazenamento integrado para apps, fotos e arquivos", "Memória RAM", "Cartão SIM", "Bateria"],
+    "a": 0
+  },
+  {
+    "q": "O que é a memória RAM em dispositivos móveis?",
+    "o": ["Memória volátil que permite executar aplicativos rapidamente", "Armazenamento permanente", "Tela sensível ao toque", "Placa de som"],
+    "a": 0
+  },
+  {
+    "q": "O que é um processador móvel?",
+    "o": ["Chip que realiza cálculos e processa tarefas no smartphone ou tablet", "Bateria", "Tela", "Câmera"],
+    "a": 0
+  },
+  {
+    "q": "O que é a câmera traseira de um celular?",
+    "o": ["Câmera principal usada para fotos e vídeos", "Câmera frontal", "Microfone", "Sensor de proximidade"],
+    "a": 0
+  },
+  {
+    "q": "O que é a câmera frontal de um celular?",
+    "o": ["Câmera usada para selfies e videochamadas", "Câmera principal", "Sensor de impressão digital", "Bateria"],
+    "a": 0
+  },
+  {
+    "q": "O que é uma bateria de lítio?",
+    "o": ["Fonte de energia recarregável usada em dispositivos móveis", "Memória interna", "Processador", "Tela sensível ao toque"],
+    "a": 0
+  },
+  {
+    "q": "O que é um cartão SIM?",
+    "o": ["Chip que identifica o usuário na rede de telefonia móvel", "Memória RAM", "Bateria", "Tela do celular"],
+    "a": 0
+  },
+  {
+    "q": "O que é conectividade 4G?",
+    "o": ["Rede móvel de alta velocidade para acesso à internet", "Rede Wi-Fi", "Bluetooth", "Conexão USB"],
+    "a": 0
+  },
+  {
+    "q": "O que é conectividade 5G?",
+    "o": ["Nova geração de rede móvel mais rápida e com menor latência", "Rede Wi-Fi antiga", "Bluetooth", "Cabo de rede"],
+    "a": 0
+  },
+  {
+    "q": "O que é NFC em dispositivos móveis?",
+    "o": ["Tecnologia que permite comunicação de curta distância para pagamentos e troca de dados", "Rede 4G", "Bluetooth", "Wi-Fi"],
+    "a": 0
+  },
+  {
+    "q": "O que é um sensor de impressão digital?",
+    "o": ["Dispositivo que permite desbloquear o celular usando a digital do usuário", "Câmera frontal", "Botão físico", "Tela sensível ao toque"],
+    "a": 0
+  },
+  {
+    "q": "O que é um display OLED?",
+    "o": ["Tela que emite luz própria, oferecendo cores mais vivas e contraste elevado", "Tela LCD antiga", "Tela de projeção", "Tela de e-paper"],
+    "a": 0
+  },
+  {
+    "q": "O que é um smartphone dobrável?",
+    "o": ["Dispositivo móvel com tela flexível que pode ser dobrada", "Tablet tradicional", "Relógio inteligente", "Computador portátil"],
+    "a": 0
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual guerra ocorreu entre 1914 e 1918?",
+    "o": ["Primeira Guerra Mundial", "Segunda Guerra Mundial", "Guerra Fria", "Guerra do Vietnã"],
+    "a": 0
+  },
+  {
+    "q": "Qual guerra começou em 1939 e terminou em 1945?",
+    "o": ["Segunda Guerra Mundial", "Primeira Guerra Mundial", "Guerra do Vietnã", "Guerra da Coreia"],
+    "a": 0
+  },
+  {
+    "q": "Qual guerra ficou conhecida pelo conflito entre os Estados do Norte e do Sul nos EUA?",
+    "o": ["Guerra Civil Americana", "Guerra de Secessão", "Guerra do Vietnã", "Guerra das Malvinas"],
+    "a": 0
+  },
+  {
+    "q": "Qual guerra envolveu Napoleão Bonaparte na Europa?",
+    "o": ["Guerras Napoleônicas", "Guerra dos Cem Anos", "Guerra Fria", "Guerras Púnicas"],
+    "a": 0
+  },
+  {
+    "q": "Qual guerra antiga ocorreu entre Roma e Cartago?",
+    "o": ["Guerras Púnicas", "Guerras Médicas", "Guerras Napoleônicas", "Guerra Civil Romana"],
+    "a": 0
+  },
+  {
+    "q": "Qual conflito ficou conhecido como Guerra das Malvinas?",
+    "o": ["Guerra entre Argentina e Reino Unido", "Guerra do Vietnã", "Guerra Civil Espanhola", "Guerra do Golfo"],
+    "a": 0
+  },
+  {
+    "q": "Qual guerra durou de 1337 a 1453 entre França e Inglaterra?",
+    "o": ["Guerra dos Cem Anos", "Guerras Púnicas", "Guerras Napoleônicas", "Guerra Civil Americana"],
+    "a": 0
+  },
+  {
+    "q": "Qual conflito foi conhecido como a Guerra do Vietnã?",
+    "o": ["Conflito entre Vietnã do Norte e Vietnã do Sul", "Guerra Civil Americana", "Segunda Guerra Mundial", "Guerra das Malvinas"],
+    "a": 0
+  },
+  {
+    "q": "Qual guerra ocorreu entre 1950 e 1953 na península coreana?",
+    "o": ["Guerra da Coreia", "Segunda Guerra Mundial", "Guerra Fria", "Guerra do Vietnã"],
+    "a": 0
+  },
+  {
+    "q": "Qual guerra é conhecida pelo uso das trincheiras na Europa?",
+    "o": ["Primeira Guerra Mundial", "Segunda Guerra Mundial", "Guerra Fria", "Guerras Napoleônicas"],
+    "a": 0
+  },
+  {
+    "q": "Qual guerra envolveu a invasão da Polônia em 1939?",
+    "o": ["Segunda Guerra Mundial", "Primeira Guerra Mundial", "Guerra da Coreia", "Guerra Civil Espanhola"],
+    "a": 0
+  },
+  {
+    "q": "Qual guerra ficou famosa pela Batalha de Stalingrado?",
+    "o": ["Segunda Guerra Mundial", "Primeira Guerra Mundial", "Guerras Napoleônicas", "Guerra Civil Americana"],
+    "a": 0
+  },
+  {
+    "q": "Qual guerra ocorreu entre 1917 e 1922 e envolveu a Rússia?",
+    "o": ["Guerra Civil Russa", "Guerra do Vietnã", "Guerra da Coreia", "Guerras Napoleônicas"],
+    "a": 0
+  },
+  {
+    "q": "Qual guerra ocorreu entre 1936 e 1939 na Espanha?",
+    "o": ["Guerra Civil Espanhola", "Segunda Guerra Mundial", "Primeira Guerra Mundial", "Guerra do Vietnã"],
+    "a": 0
+  },
+  {
+    "q": "Qual guerra ficou conhecida pelo conflito entre Iraque e coalizão internacional em 1990?",
+    "o": ["Guerra do Golfo", "Segunda Guerra Mundial", "Guerra Civil Americana", "Guerra do Vietnã"],
+    "a": 0
+  },
+  {
+    "q": "Qual guerra ocorreu entre 1861 e 1865 nos Estados Unidos?",
+    "o": ["Guerra Civil Americana", "Guerra do Vietnã", "Segunda Guerra Mundial", "Guerra Fria"],
+    "a": 0
+  },
+  {
+    "q": "Qual guerra é famosa pela Batalha de Waterloo?",
+    "o": ["Guerras Napoleônicas", "Guerras Púnicas", "Guerra Civil Americana", "Guerra Fria"],
+    "a": 0
+  },
+  {
+    "q": "Qual guerra envolveu o confronto entre Grécia e Pérsia no século V a.C.?",
+    "o": ["Guerras Médicas", "Guerras Púnicas", "Guerras Napoleônicas", "Guerra Civil Americana"],
+    "a": 0
+  },
+  {
+    "q": "Qual guerra marcou o fim do Império Romano do Ocidente?",
+    "o": ["Invasões Bárbaras", "Guerras Púnicas", "Guerras Napoleônicas", "Guerras Médicas"],
+    "a": 0
+  },
+  {
+    "q": "Qual guerra foi conhecida pelo lançamento das bombas atômicas em Hiroshima e Nagasaki?",
+    "o": ["Segunda Guerra Mundial", "Primeira Guerra Mundial", "Guerra Fria", "Guerra do Vietnã"],
+    "a": 0
+  }
+]

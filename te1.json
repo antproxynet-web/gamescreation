@@ -1,0 +1,97 @@
+[
+  {
+    "q": "O que é Inteligência Artificial (IA)?",
+    "o": ["Área da ciência da computação que cria sistemas capazes de executar tarefas que exigem inteligência humana", "Programação de sites", "Robótica sem aprendizado", "Banco de dados apenas"],
+    "a": 0
+  },
+  {
+    "q": "O que é aprendizado de máquina (Machine Learning)?",
+    "o": ["Subcampo da IA em que sistemas aprendem a partir de dados sem programação explícita", "Robótica básica", "Redes sociais", "Banco de dados"],
+    "a": 0
+  },
+  {
+    "q": "O que é aprendizado profundo (Deep Learning)?",
+    "o": ["Tipo de Machine Learning que utiliza redes neurais profundas para modelar dados complexos", "Programação linear", "Banco de dados relacional", "Árvores de decisão simples"],
+    "a": 0
+  },
+  {
+    "q": "O que é rede neural artificial?",
+    "o": ["Modelo computacional inspirado no cérebro humano que processa informações em camadas", "Rede de computadores", "Sistema de sensores elétricos", "Banco de dados neural"],
+    "a": 0
+  },
+  {
+    "q": "O que é NLP (Natural Language Processing)?",
+    "o": ["Processamento de linguagem natural, para que computadores entendam texto ou fala humana", "Programação de aplicativos móveis", "Gráficos de jogos", "Criação de planilhas"],
+    "a": 0
+  },
+  {
+    "q": "O que é reconhecimento de imagem em IA?",
+    "o": ["Capacidade de um sistema identificar e classificar objetos em imagens", "Fotografia digital", "Gravação de vídeo", "Processamento de áudio apenas"],
+    "a": 0
+  },
+  {
+    "q": "O que é um algoritmo em IA?",
+    "o": ["Conjunto de regras e passos que um sistema segue para resolver um problema", "Programa de edição de texto", "Sensor eletrônico", "Banco de dados"],
+    "a": 0
+  },
+  {
+    "q": "O que é treinamento de IA?",
+    "o": ["Processo de ajustar parâmetros de um modelo usando dados de entrada e saída desejada", "Instalar software", "Criar planilhas", "Salvar arquivos"],
+    "a": 0
+  },
+  {
+    "q": "O que é overfitting em IA?",
+    "o": ["Quando um modelo aprende muito bem os dados de treinamento, mas não generaliza para novos dados", "Modelo que nunca aprende", "Erro de hardware", "Problema de memória RAM"],
+    "a": 0
+  },
+  {
+    "q": "O que é aprendizado supervisionado?",
+    "o": ["Método de Machine Learning em que o modelo aprende a partir de dados rotulados", "Aprendizado sem dados", "Aprendizado de robôs apenas", "Treinamento manual de hardware"],
+    "a": 0
+  },
+  {
+    "q": "O que é aprendizado não supervisionado?",
+    "o": ["Método de Machine Learning em que o modelo encontra padrões em dados sem rótulos", "Aprendizado supervisionado", "Programação manual", "Treinamento humano apenas"],
+    "a": 0
+  },
+  {
+    "q": "O que é aprendizado por reforço?",
+    "o": ["Método de Machine Learning em que o agente aprende a tomar decisões através de recompensas e punições", "Aprendizado profundo", "Redes neurais simples", "Processamento de texto"],
+    "a": 0
+  },
+  {
+    "q": "O que é chatbot?",
+    "o": ["Programa de IA que simula conversas humanas", "Aplicativo de fotos", "Banco de dados", "Programa de edição de vídeo"],
+    "a": 0
+  },
+  {
+    "q": "O que é visão computacional?",
+    "o": ["Área da IA que permite aos computadores interpretar e processar imagens e vídeos", "Fotografia digital", "Programação de hardware", "Análise de textos"],
+    "a": 0
+  },
+  {
+    "q": "O que é ética em IA?",
+    "o": ["Estudo de como usar IA de forma segura, justa e responsável", "Programação de jogos", "Banco de dados ético", "Processamento de sinais"],
+    "a": 0
+  },
+  {
+    "q": "O que é geração de conteúdo por IA?",
+    "o": ["Criação de texto, imagens, áudio ou vídeo usando modelos de IA", "Criação manual de imagens", "Fotografia tradicional", "Produção de planilhas"],
+    "a": 0
+  },
+  {
+    "q": "O que é IA fraca (narrow AI)?",
+    "o": ["IA projetada para executar tarefas específicas, sem consciência ou inteligência geral", "IA superinteligente", "Robô humanoide consciente", "Programa de banco de dados"],
+    "a": 0
+  },
+  {
+    "q": "O que é IA forte (general AI)?",
+    "o": ["IA hipotética capaz de realizar qualquer tarefa intelectual humana", "Aplicativo de celular", "Robô industrial simples", "Assistente de planilhas"],
+    "a": 0
+  },
+  {
+    "q": "Qual é um exemplo de IA aplicada no dia a dia?",
+    "o": ["Assistentes virtuais, como Alexa e Siri", "Fotografia analógica", "Relógios mecânicos", "Calculadoras básicas"],
+    "a": 0
+  }
+]

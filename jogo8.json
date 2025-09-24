@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual é o principal objetivo do Roblox?",
+    "o": ["Criar e jogar jogos feitos por outros usuários", "Derrotar chefes finais", "Completar missões lineares", "Coletar moedas"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a moeda virtual usada no Roblox?",
+    "o": ["Robux", "V-Bucks", "Coins", "Gems"],
+    "a": 0
+  },
+  {
+    "q": "Qual ferramenta é usada para criar jogos no Roblox?",
+    "o": ["Roblox Studio", "Unity", "Unreal Engine", "Game Maker"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o personagem padrão masculino em Roblox?",
+    "o": ["Builderman", "Noob", "Robloxian", "Guest"],
+    "a": 1
+  },
+  {
+    "q": "Qual é o personagem padrão feminino em Roblox?",
+    "o": ["Noob Girl", "Robloxian", "Guest", "Builderman"],
+    "a": 0
+  },
+  {
+    "q": "Qual jogo popular de Roblox envolve fugir de um assassino?",
+    "o": ["Murder Mystery 2", "Adopt Me!", "Bloxburg", "Arsenal"],
+    "a": 0
+  },
+  {
+    "q": "Qual jogo popular de Roblox permite adotar e cuidar de pets?",
+    "o": ["Adopt Me!", "Tower of Hell", "Arsenal", "Brookhaven"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o popular jogo de parkour em Roblox conhecido por sua dificuldade?",
+    "o": ["Tower of Hell", "Jailbreak", "Pet Simulator", "Bee Swarm Simulator"],
+    "a": 0
+  },
+  {
+    "q": "Qual jogo de Roblox permite que você assalte bancos e dirija carros?",
+    "o": ["Jailbreak", "Arsenal", "Murder Mystery 2", "Bloxburg"],
+    "a": 0
+  },
+  {
+    "q": "Qual jogo de Roblox é famoso por batalhas de tiro entre jogadores?",
+    "o": ["Arsenal", "Tower of Hell", "Adopt Me!", "Jailbreak"],
+    "a": 0
+  },
+  {
+    "q": "Qual jogo de Roblox simula a vida em uma cidade?",
+    "o": ["Bloxburg", "Adopt Me!", "Murder Mystery 2", "Tower of Hell"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem é considerado o criador do Roblox?",
+    "o": ["David Baszucki", "Noob", "Builderman", "Guest"],
+    "a": 0
+  },
+  {
+    "q": "Qual jogo de Roblox envolve coletar e treinar abelhas?",
+    "o": ["Bee Swarm Simulator", "Adopt Me!", "Arsenal", "Tower of Hell"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o popular modo de roleplay em Roblox onde você vive na cidade?",
+    "o": ["Brookhaven", "Jailbreak", "Adopt Me!", "Tower of Hell"],
+    "a": 0
+  },
+  {
+    "q": "Qual ferramenta permite criar roupas e acessórios para personagens no Roblox?",
+    "o": ["Roblox Studio", "Unity", "Photoshop", "Blender"],
+    "a": 0
+  },
+  {
+    "q": "Qual item é necessário para comprar roupas e acessórios no Roblox?",
+    "o": ["Robux", "Coins", "Gems", "Tickets"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o modo de jogo em Roblox onde os jogadores competem para completar desafios de plataforma?",
+    "o": ["Obby", "Jailbreak", "Adopt Me!", "Arsenal"],
+    "a": 0
+  },
+  {
+    "q": "Qual jogo de Roblox envolve criar e vender itens para ganhar dinheiro virtual?",
+    "o": ["Tycoon", "Tower of Hell", "Arsenal", "Murder Mystery 2"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome do evento anual em Roblox com itens e desafios especiais?",
+    "o": ["Bloxy Awards", "Roblox Expo", "Game Awards", "Robux Fest"],
+    "a": 0
+  },
+  {
+    "q": "Qual jogo de Roblox permite que você explore mundos infinitos criados por outros jogadores?",
+    "o": ["Roblox Platform", "Adopt Me!", "Arsenal", "Tower of Hell"],
+    "a": 0
+  }
+]

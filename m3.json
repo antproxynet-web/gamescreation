@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quanto é 25 + 37?",
+    "o": ["52", "62", "72", "82"],
+    "a": 1
+  },
+  {
+    "q": "Qual é o resultado de 84 - 29?",
+    "o": ["45", "55", "65", "75"],
+    "a": 1
+  },
+  {
+    "q": "Quanto é 12 × 8?",
+    "o": ["80", "88", "92", "96"],
+    "a": 3
+  },
+  {
+    "q": "Qual é o resultado de 144 ÷ 12?",
+    "o": ["10", "11", "12", "13"],
+    "a": 2
+  },
+  {
+    "q": "Quanto é 2³?",
+    "o": ["4", "6", "8", "9"],
+    "a": 2
+  },
+  {
+    "q": "Qual é a metade de 250?",
+    "o": ["100", "120", "125", "150"],
+    "a": 2
+  },
+  {
+    "q": "Qual é o dobro de 37?",
+    "o": ["64", "72", "74", "76"],
+    "a": 2
+  },
+  {
+    "q": "Qual é 15% de 200?",
+    "o": ["20", "25", "30", "35"],
+    "a": 2
+  },
+  {
+    "q": "Quanto é 3/4 de 100?",
+    "o": ["25", "50", "75", "80"],
+    "a": 2
+  },
+  {
+    "q": "Qual é o valor de 7²?",
+    "o": ["42", "47", "49", "56"],
+    "a": 2
+  },
+  {
+    "q": "Qual é o mínimo múltiplo comum (MMC) de 6 e 8?",
+    "o": ["12", "18", "24", "36"],
+    "a": 2
+  },
+  {
+    "q": "Qual é o máximo divisor comum (MDC) de 24 e 36?",
+    "o": ["6", "8", "12", "18"],
+    "a": 2
+  },
+  {
+    "q": "Se um produto custa 80 reais e tem 25% de desconto, qual será o preço final?",
+    "o": ["55", "60", "65", "70"],
+    "a": 1
+  },
+  {
+    "q": "Qual é o sucessor de 999?",
+    "o": ["1000", "1001", "9999", "10001"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o antecessor de 300?",
+    "o": ["200", "299", "301", "310"],
+    "a": 1
+  },
+  {
+    "q": "Qual é a média aritmética de 6, 8 e 10?",
+    "o": ["6", "7", "8", "9"],
+    "a": 2
+  },
+  {
+    "q": "Quanto é 1/2 + 1/4?",
+    "o": ["3/4", "2/4", "5/4", "1"],
+    "a": 0
+  },
+  {
+    "q": "Se um número é par, qual das alternativas sempre é verdadeira?",
+    "o": ["É divisível por 2", "É divisível por 3", "É ímpar", "É primo"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a fração equivalente a 2/3?",
+    "o": ["4/5", "6/9", "8/11", "10/16"],
+    "a": 1
+  },
+  {
+    "q": "Qual é o resto da divisão de 17 por 5?",
+    "o": ["2", "3", "4", "5"],
+    "a": 0
+  }
+]

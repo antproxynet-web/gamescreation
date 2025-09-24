@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual é a constelação onde está localizada a Estrela Polar?",
+    "o": ["Ursa Menor", "Órion", "Escorpião", "Cruz do Sul"],
+    "a": 0
+  },
+  {
+    "q": "Qual constelação é conhecida como o Caçador?",
+    "o": ["Órion", "Virgem", "Leão", "Cisne"],
+    "a": 0
+  },
+  {
+    "q": "Qual constelação é símbolo do hemisfério sul?",
+    "o": ["Cruz do Sul", "Ursa Maior", "Órion", "Escorpião"],
+    "a": 0
+  },
+  {
+    "q": "Qual constelação lembra uma balança?",
+    "o": ["Libra", "Câncer", "Capricórnio", "Áries"],
+    "a": 0
+  },
+  {
+    "q": "Qual constelação tem a estrela Sirius, a mais brilhante do céu?",
+    "o": ["Cão Maior", "Órion", "Touro", "Virgem"],
+    "a": 0
+  },
+  {
+    "q": "Qual constelação é conhecida como o Escorpião?",
+    "o": ["Escorpião", "Leão", "Aquário", "Cisne"],
+    "a": 0
+  },
+  {
+    "q": "Qual constelação contém as Três Marias?",
+    "o": ["Órion", "Touro", "Cisne", "Ursa Maior"],
+    "a": 0
+  },
+  {
+    "q": "Qual constelação é representada por um touro?",
+    "o": ["Touro", "Capricórnio", "Leão", "Áries"],
+    "a": 0
+  },
+  {
+    "q": "Qual constelação é associada ao mito de Hércules?",
+    "o": ["Hércules", "Andrômeda", "Perseu", "Cisne"],
+    "a": 0
+  },
+  {
+    "q": "Qual constelação marca o zodíaco com um peixe?",
+    "o": ["Peixes", "Aquário", "Câncer", "Capricórnio"],
+    "a": 0
+  },
+  {
+    "q": "Qual constelação tem a estrela Aldebaran?",
+    "o": ["Touro", "Órion", "Escorpião", "Virgem"],
+    "a": 0
+  },
+  {
+    "q": "Qual constelação tem o aglomerado estelar Plêiades?",
+    "o": ["Touro", "Cisne", "Cão Menor", "Aquário"],
+    "a": 0
+  },
+  {
+    "q": "Qual constelação contém a estrela Antares?",
+    "o": ["Escorpião", "Leão", "Virgem", "Hércules"],
+    "a": 0
+  },
+  {
+    "q": "Qual constelação é representada por um leão?",
+    "o": ["Leão", "Cisne", "Órion", "Áries"],
+    "a": 0
+  },
+  {
+    "q": "Qual constelação é conhecida como o Cisne?",
+    "o": ["Cisne", "Virgem", "Andrômeda", "Libra"],
+    "a": 0
+  },
+  {
+    "q": "Qual constelação tem a estrela Vega?",
+    "o": ["Lira", "Cisne", "Andrômeda", "Aquário"],
+    "a": 0
+  },
+  {
+    "q": "Qual constelação é representada por um carneiro?",
+    "o": ["Áries", "Capricórnio", "Touro", "Libra"],
+    "a": 0
+  },
+  {
+    "q": "Qual constelação é associada ao mito de Andrômeda?",
+    "o": ["Andrômeda", "Perseu", "Cassiopeia", "Cisne"],
+    "a": 0
+  },
+  {
+    "q": "Qual constelação tem formato parecido com a letra 'W'?",
+    "o": ["Cassiopeia", "Órion", "Virgem", "Libra"],
+    "a": 0
+  },
+  {
+    "q": "Qual constelação está ligada ao mito do aguadeiro?",
+    "o": ["Aquário", "Peixes", "Virgem", "Câncer"],
+    "a": 0
+  }
+]

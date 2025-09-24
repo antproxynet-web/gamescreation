@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual foi o primeiro telescópio famoso usado para observações astronômicas?",
+    "o": ["Telescópio de Galileu", "Hubble", "Kepler", "James Webb"],
+    "a": 0
+  },
+  {
+    "q": "Qual telescópio espacial é famoso por imagens detalhadas do universo em luz visível e infravermelha?",
+    "o": ["Hubble", "Kepler", "Galileu", "Spitzer"],
+    "a": 0
+  },
+  {
+    "q": "Qual telescópio foi lançado em 2021 para estudar o universo em infravermelho?",
+    "o": ["James Webb", "Hubble", "Chandra", "Spitzer"],
+    "a": 0
+  },
+  {
+    "q": "Qual telescópio é especializado na observação de raios-X?",
+    "o": ["Chandra", "Hubble", "James Webb", "Kepler"],
+    "a": 0
+  },
+  {
+    "q": "Qual telescópio descobriu milhares de exoplanetas usando o método de trânsito?",
+    "o": ["Kepler", "Hubble", "James Webb", "Spitzer"],
+    "a": 0
+  },
+  {
+    "q": "Qual telescópio é famoso por estudar o céu em infravermelho desde 2003 até 2020?",
+    "o": ["Spitzer", "Hubble", "Kepler", "James Webb"],
+    "a": 0
+  },
+  {
+    "q": "Qual telescópio está em operação no Chile e é famoso por observações ópticas de alta precisão?",
+    "o": ["Very Large Telescope (VLT)", "Hubble", "James Webb", "Kepler"],
+    "a": 0
+  },
+  {
+    "q": "Qual telescópio ajudou a detectar ondas gravitacionais indiretamente observando pulsares?",
+    "o": ["Arecibo", "Hubble", "Chandra", "James Webb"],
+    "a": 0
+  },
+  {
+    "q": "Qual foi o primeiro telescópio espacial projetado para estudar o universo em raios gama?",
+    "o": ["Fermi Gamma-ray Space Telescope", "Hubble", "Kepler", "Chandra"],
+    "a": 0
+  },
+  {
+    "q": "Qual telescópio estudou a radiação cósmica de fundo em micro-ondas?",
+    "o": ["WMAP", "Hubble", "James Webb", "Kepler"],
+    "a": 0
+  },
+  {
+    "q": "Qual telescópio é famoso por capturar a primeira imagem direta de um buraco negro?",
+    "o": ["Event Horizon Telescope", "Hubble", "James Webb", "Chandra"],
+    "a": 0
+  },
+  {
+    "q": "Qual telescópio foi lançado para estudar exoplanetas e sua atmosfera a partir de 2009?",
+    "o": ["Kepler", "Hubble", "Spitzer", "James Webb"],
+    "a": 0
+  },
+  {
+    "q": "Qual telescópio está localizado no Observatório Palomar e é famoso por pesquisas em óptico?",
+    "o": ["Hale Telescope", "VLT", "James Webb", "Kepler"],
+    "a": 0
+  },
+  {
+    "q": "Qual telescópio é conhecido por estudar ondas gravitacionais diretamente?",
+    "o": ["LIGO", "Hubble", "James Webb", "Chandra"],
+    "a": 0
+  },
+  {
+    "q": "Qual telescópio espacial é projetado para observar exoplanetas e formação de estrelas?",
+    "o": ["James Webb", "Hubble", "Kepler", "Chandra"],
+    "a": 0
+  },
+  {
+    "q": "Qual telescópio foi responsável pela descoberta de centenas de quasares?",
+    "o": ["Sloan Digital Sky Survey (SDSS)", "Hubble", "Kepler", "James Webb"],
+    "a": 0
+  },
+  {
+    "q": "Qual telescópio estudou a colisão de galáxias e evolução estelar detalhadamente?",
+    "o": ["Hubble", "James Webb", "Chandra", "Kepler"],
+    "a": 0
+  },
+  {
+    "q": "Qual telescópio ajudou a mapear a estrutura do universo em larga escala?",
+    "o": ["Sloan Digital Sky Survey (SDSS)", "Hubble", "Kepler", "James Webb"],
+    "a": 0
+  },
+  {
+    "q": "Qual telescópio espacial observa principalmente em raios ultravioleta?",
+    "o": ["GALEX", "Hubble", "James Webb", "Chandra"],
+    "a": 0
+  },
+  {
+    "q": "Qual telescópio é famoso por estudar supernovas e expandindo o conhecimento do universo?",
+    "o": ["Hubble", "James Webb", "Kepler", "Spitzer"],
+    "a": 0
+  }
+]

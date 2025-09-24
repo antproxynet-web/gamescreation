@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Em qual país começou a Revolução Industrial?",
+    "o": ["Inglaterra", "França", "Alemanha", "Estados Unidos"],
+    "a": 0
+  },
+  {
+    "q": "Qual invenção de James Watt foi fundamental para a Revolução Industrial?",
+    "o": ["Máquina a vapor", "Telégrafo", "Motor a combustão", "Roda hidráulica"],
+    "a": 0
+  },
+  {
+    "q": "Qual setor foi o primeiro a ser industrializado?",
+    "o": ["Têxtil", "Metalúrgico", "Automobilístico", "Naval"],
+    "a": 0
+  },
+  {
+    "q": "Qual fonte de energia substituiu o trabalho manual e animal?",
+    "o": ["Carvão e vapor", "Madeira", "Água", "Sol"],
+    "a": 0
+  },
+  {
+    "q": "Qual invenção de Eli Whitney revolucionou a produção de algodão?",
+    "o": ["Descaroçador de algodão", "Máquina de fiar", "Telar mecânico", "Prensa a vapor"],
+    "a": 0
+  },
+  {
+    "q": "Qual inventor criou a locomotiva a vapor?",
+    "o": ["George Stephenson", "James Watt", "Thomas Edison", "Nikola Tesla"],
+    "a": 0
+  },
+  {
+    "q": "Qual transformação social ocorreu com a Revolução Industrial?",
+    "o": ["Urbanização e crescimento das cidades", "Feudalismo", "Nomadismo", "Colonialismo direto"],
+    "a": 0
+  },
+  {
+    "q": "Qual setor cresceu com a industrialização no século XIX?",
+    "o": ["Fábricas e indústrias", "Agricultura de subsistência", "Pesca artesanal", "Comércio de especiarias"],
+    "a": 0
+  },
+  {
+    "q": "Quem inventou a fiadeira mecânica, acelerando a produção têxtil?",
+    "o": ["Richard Arkwright", "James Watt", "Henry Ford", "Samuel Morse"],
+    "a": 0
+  },
+  {
+    "q": "Qual invenção de Samuel Morse transformou as comunicações?",
+    "o": ["Telégrafo", "Telefone", "Rádio", "Imprensa"],
+    "a": 0
+  },
+  {
+    "q": "Qual transporte se desenvolveu com a Revolução Industrial?",
+    "o": ["Ferrovias e navios a vapor", "Carros elétricos", "Aviões", "Bicicletas"],
+    "a": 0
+  },
+  {
+    "q": "Qual foi um impacto negativo da Revolução Industrial?",
+    "o": ["Condições precárias de trabalho nas fábricas", "Fim do comércio", "Fim das cidades", "Redução da produção agrícola"],
+    "a": 0
+  },
+  {
+    "q": "Qual invenção de Henry Bessemer mudou a indústria metalúrgica?",
+    "o": ["Processo de fabricação de aço", "Máquina a vapor", "Telégrafo", "Locomotiva"],
+    "a": 0
+  },
+  {
+    "q": "Qual país se industrializou depois da Inglaterra?",
+    "o": ["Bélgica", "Espanha", "Portugal", "Noruega"],
+    "a": 0
+  },
+  {
+    "q": "Qual setor agrícola se beneficiou da mecanização?",
+    "o": ["Produção de grãos", "Pecuária", "Pesca", "Viticultura"],
+    "a": 0
+  },
+  {
+    "q": "Qual invenção de Eli Whitney acelerou a produção de algodão?",
+    "o": ["Descaroçador de algodão", "Máquina de fiar", "Prensa hidráulica", "Locomotiva a vapor"],
+    "a": 0
+  },
+  {
+    "q": "Qual inventor criou o telar mecânico?",
+    "o": ["Edmund Cartwright", "James Watt", "Richard Arkwright", "Samuel Morse"],
+    "a": 0
+  },
+  {
+    "q": "Qual revolução mudou o trabalho artesanal para o industrial?",
+    "o": ["Revolução Industrial", "Revolução Francesa", "Revolução Agrícola", "Revolução Gloriosa"],
+    "a": 0
+  },
+  {
+    "q": "Qual país liderou a segunda Revolução Industrial?",
+    "o": ["Alemanha", "Inglaterra", "França", "Itália"],
+    "a": 0
+  },
+  {
+    "q": "Qual invenção de Alexander Graham Bell revolucionou as comunicações?",
+    "o": ["Telefone", "Telégrafo", "Rádio", "Máquina de escrever"],
+    "a": 0
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual império teve sua capital em Roma?",
+    "o": ["Império Romano", "Império Otomano", "Império Persa", "Império Bizantino"],
+    "a": 0
+  },
+  {
+    "q": "Qual império foi governado por Alexandre, o Grande?",
+    "o": ["Império Macedônio", "Império Romano", "Império Persa", "Império Otomano"],
+    "a": 0
+  },
+  {
+    "q": "Qual império dominou grande parte do Oriente Médio antes de Alexandre?",
+    "o": ["Império Persa", "Império Romano", "Império Macedônio", "Império Egípcio"],
+    "a": 0
+  },
+  {
+    "q": "Qual império durou mais de mil anos no Oriente Médio?",
+    "o": ["Império Otomano", "Império Romano", "Império Chinês", "Império Mongol"],
+    "a": 0
+  },
+  {
+    "q": "Qual império se expandiu na África e Ásia com Genghis Khan?",
+    "o": ["Império Mongol", "Império Romano", "Império Otomano", "Império Bizantino"],
+    "a": 0
+  },
+  {
+    "q": "Qual império foi fundado por Qin Shi Huang?",
+    "o": ["Império Chinês", "Império Romano", "Império Persa", "Império Otomano"],
+    "a": 0
+  },
+  {
+    "q": "Qual império tinha como religião principal o cristianismo ortodoxo?",
+    "o": ["Império Bizantino", "Império Romano", "Império Persa", "Império Otomano"],
+    "a": 0
+  },
+  {
+    "q": "Qual império tinha como língua oficial o latim?",
+    "o": ["Império Romano", "Império Bizantino", "Império Otomano", "Império Persa"],
+    "a": 0
+  },
+  {
+    "q": "Qual império foi derrotado na Batalha de Actium em 31 a.C.?",
+    "o": ["Império Romano", "Império Persa", "Império Macedônio", "Império Bizantino"],
+    "a": 0
+  },
+  {
+    "q": "Qual império foi famoso por suas construções como o Taj Mahal?",
+    "o": ["Império Mogol", "Império Otomano", "Império Persa", "Império Romano"],
+    "a": 0
+  },
+  {
+    "q": "Qual império teve como líder Napoleão Bonaparte?",
+    "o": ["Império Francês", "Império Romano", "Império Otomano", "Império Britânico"],
+    "a": 0
+  },
+  {
+    "q": "Qual império foi conhecido por seus samurais?",
+    "o": ["Império Japonês", "Império Romano", "Império Mongol", "Império Chinês"],
+    "a": 0
+  },
+  {
+    "q": "Qual império foi responsável pelo descobrimento e colonização do Brasil?",
+    "o": ["Império Português", "Império Espanhol", "Império Britânico", "Império Holandês"],
+    "a": 0
+  },
+  {
+    "q": "Qual império tinha como capital Constantinopla?",
+    "o": ["Império Bizantino", "Império Romano", "Império Otomano", "Império Persa"],
+    "a": 0
+  },
+  {
+    "q": "Qual império dominava grande parte da América do Norte antes da independência dos EUA?",
+    "o": ["Império Britânico", "Império Espanhol", "Império Francês", "Império Português"],
+    "a": 0
+  },
+  {
+    "q": "Qual império governou grande parte da Índia entre os séculos XVI e XIX?",
+    "o": ["Império Mogol", "Império Persa", "Império Otomano", "Império Britânico"],
+    "a": 0
+  },
+  {
+    "q": "Qual império era governado pelo czar?",
+    "o": ["Império Russo", "Império Otomano", "Império Chinês", "Império Romano"],
+    "a": 0
+  },
+  {
+    "q": "Qual império foi derrotado na Batalha de Waterloo em 1815?",
+    "o": ["Império Francês", "Império Britânico", "Império Russo", "Império Otomano"],
+    "a": 0
+  },
+  {
+    "q": "Qual império foi conhecido pela construção da Muralha da China?",
+    "o": ["Império Chinês", "Império Mongol", "Império Persa", "Império Romano"],
+    "a": 0
+  },
+  {
+    "q": "Qual império teve como símbolo o leão e dominava territórios na Índia e África?",
+    "o": ["Império Britânico", "Império Francês", "Império Espanhol", "Império Português"],
+    "a": 0
+  }
+]

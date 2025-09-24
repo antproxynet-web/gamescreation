@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual é o objetivo principal em Apex Legends?",
+    "o": ["Ser o último time sobrevivente", "Coletar moedas", "Resolver enigmas", "Construir bases"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome do mapa original de Apex Legends lançado em 2019?",
+    "o": ["Kings Canyon", "World's Edge", "Olympus", "Storm Point"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem é conhecido por suas habilidades de mobilidade e escalada?",
+    "o": ["Pathfinder", "Gibraltar", "Caustic", "Wattson"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem é especialista em defesa e escudos?",
+    "o": ["Gibraltar", "Octane", "Wraith", "Bloodhound"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome do modo principal de jogo em Apex Legends?",
+    "o": ["Battle Royale", "Team Deathmatch", "Capture the Flag", "Zombie Mode"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem pode teleportar e desaparecer de ataques inimigos?",
+    "o": ["Wraith", "Bangalore", "Lifeline", "Fuse"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem revive companheiros de equipe com um drone?",
+    "o": ["Lifeline", "Crypto", "Mirage", "Horizon"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem é conhecido por lançar granadas de fumaça e explosivos?",
+    "o": ["Bangalore", "Revenant", "Pathfinder", "Gibraltar"],
+    "a": 0
+  },
+  {
+    "q": "Qual lenda usa habilidades de rastreamento para localizar inimigos?",
+    "o": ["Bloodhound", "Wattson", "Horizon", "Octane"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome do rifle de precisão disponível no jogo?",
+    "o": ["Longbow DMR", "R-301", "Peacekeeper", "Spitfire"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem é famoso por usar habilidades de movimento rápido e turbo?",
+    "o": ["Octane", "Gibraltar", "Lifeline", "Wraith"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem pode manipular a gravidade para levantar inimigos?",
+    "o": ["Horizon", "Fuse", "Caustic", "Revenant"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem pode colocar armadilhas de gás para atacar inimigos?",
+    "o": ["Caustic", "Wattson", "Pathfinder", "Bangalore"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem pode criar barreiras elétricas para proteger a equipe?",
+    "o": ["Wattson", "Lifeline", "Bloodhound", "Crypto"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem é especialista em hologramas e enganar inimigos?",
+    "o": ["Mirage", "Gibraltar", "Horizon", "Bangalore"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem usa drones para hackear inimigos e coletar informações?",
+    "o": ["Crypto", "Caustic", "Pathfinder", "Bloodhound"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o veículo utilizado em Kings Canyon para transporte rápido?",
+    "o": ["Tridente", "Quad Bike", "Hoverboard", "Speeder"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem pode colocar portais para transporte rápido do time?",
+    "o": ["Wraith", "Horizon", "Bangalore", "Fuse"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem é conhecido por suas habilidades de ataque aéreo com granadas?",
+    "o": ["Fuse", "Octane", "Pathfinder", "Mirage"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem é especialista em reviver companheiros de forma segura com escudos?",
+    "o": ["Gibraltar", "Lifeline", "Wattson", "Bloodhound"],
+    "a": 0
+  }
+]

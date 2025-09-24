@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual é o planeta mais próximo do Sol?",
+    "o": ["Mercúrio", "Vênus", "Terra", "Marte"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o maior planeta do Sistema Solar?",
+    "o": ["Júpiter", "Saturno", "Urano", "Netuno"],
+    "a": 0
+  },
+  {
+    "q": "Qual planeta é conhecido como o Planeta Vermelho?",
+    "o": ["Marte", "Vênus", "Mercúrio", "Júpiter"],
+    "a": 0
+  },
+  {
+    "q": "Qual planeta possui os anéis mais famosos?",
+    "o": ["Saturno", "Júpiter", "Urano", "Netuno"],
+    "a": 0
+  },
+  {
+    "q": "Qual planeta é conhecido por seu intenso calor devido ao efeito estufa?",
+    "o": ["Vênus", "Mercúrio", "Marte", "Terra"],
+    "a": 0
+  },
+  {
+    "q": "Qual planeta é conhecido por ter ventos extremamente fortes e cor azul?",
+    "o": ["Netuno", "Urano", "Saturno", "Júpiter"],
+    "a": 0
+  },
+  {
+    "q": "Qual planeta tem o maior número de luas conhecidas?",
+    "o": ["Saturno", "Júpiter", "Urano", "Netuno"],
+    "a": 0
+  },
+  {
+    "q": "Qual planeta é o mais rápido em sua rotação?",
+    "o": ["Júpiter", "Saturno", "Terra", "Marte"],
+    "a": 0
+  },
+  {
+    "q": "Qual planeta é chamado de 'gêmeo da Terra' por seu tamanho semelhante?",
+    "o": ["Vênus", "Marte", "Mercúrio", "Netuno"],
+    "a": 0
+  },
+  {
+    "q": "Qual planeta tem um dia mais longo do que seu ano?",
+    "o": ["Vênus", "Mercúrio", "Terra", "Netuno"],
+    "a": 0
+  },
+  {
+    "q": "Qual planeta possui o maior vulcão do Sistema Solar, o Monte Olimpo?",
+    "o": ["Marte", "Vênus", "Mercúrio", "Júpiter"],
+    "a": 0
+  },
+  {
+    "q": "Qual planeta é conhecido por sua cor amarela e tempestades gigantescas?",
+    "o": ["Júpiter", "Saturno", "Urano", "Netuno"],
+    "a": 0
+  },
+  {
+    "q": "Qual planeta é conhecido como o planeta gasoso frio?",
+    "o": ["Urano", "Netuno", "Júpiter", "Saturno"],
+    "a": 0
+  },
+  {
+    "q": "Qual planeta tem a maior inclinação de eixo, girando quase de lado?",
+    "o": ["Urano", "Netuno", "Marte", "Saturno"],
+    "a": 0
+  },
+  {
+    "q": "Qual planeta demora cerca de 165 anos para dar uma volta completa ao redor do Sol?",
+    "o": ["Netuno", "Urano", "Saturno", "Júpiter"],
+    "a": 0
+  },
+  {
+    "q": "Qual planeta é mais denso do Sistema Solar?",
+    "o": ["Terra", "Mercúrio", "Marte", "Vênus"],
+    "a": 0
+  },
+  {
+    "q": "Qual planeta possui o satélite natural mais conhecido, a Lua?",
+    "o": ["Terra", "Marte", "Júpiter", "Saturno"],
+    "a": 0
+  },
+  {
+    "q": "Qual planeta tem a famosa tempestade chamada Grande Mancha Vermelha?",
+    "o": ["Júpiter", "Saturno", "Urano", "Netuno"],
+    "a": 0
+  },
+  {
+    "q": "Qual planeta é considerado o mais frio do Sistema Solar?",
+    "o": ["Netuno", "Urano", "Saturno", "Júpiter"],
+    "a": 0
+  },
+  {
+    "q": "Qual planeta possui uma lua chamada Titã?",
+    "o": ["Saturno", "Júpiter", "Urano", "Netuno"],
+    "a": 0
+  }
+]

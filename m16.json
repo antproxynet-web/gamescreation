@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que é um número primo?",
+    "o": ["Número divisível apenas por 1 e por ele mesmo", "Número divisível por 2 e 3", "Número par", "Número ímpar"],
+    "a": 0
+  },
+  {
+    "q": "Qual dos seguintes números é primo?",
+    "o": ["21", "29", "35", "45"],
+    "a": 1
+  },
+  {
+    "q": "Qual é o menor número primo?",
+    "o": ["0", "1", "2", "3"],
+    "a": 2
+  },
+  {
+    "q": "Qual número primo é par?",
+    "o": ["2", "3", "5", "7"],
+    "a": 0
+  },
+  {
+    "q": "Qual dos seguintes números NÃO é primo?",
+    "o": ["11", "13", "15", "17"],
+    "a": 2
+  },
+  {
+    "q": "Os números primos são infinitos?",
+    "o": ["Sim", "Não", "Apenas até 100", "Apenas números pares"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o maior divisor de um número primo?",
+    "o": ["Ele mesmo e 1", "Qualquer número menor que ele", "Somente 1", "Somente ele mesmo"],
+    "a": 0
+  },
+  {
+    "q": "O número 31 é primo?",
+    "o": ["Sim", "Não", "Não se sabe", "Apenas em casos especiais"],
+    "a": 0
+  },
+  {
+    "q": "O número 1 é considerado primo?",
+    "o": ["Sim", "Não", "Depende do autor", "Às vezes"],
+    "a": 1
+  },
+  {
+    "q": "Qual é a soma dos primeiros três números primos?",
+    "o": ["2+3+5=10", "2+3+5=9", "1+2+3=6", "3+5+7=15"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o próximo número primo após 7?",
+    "o": ["9", "10", "11", "12"],
+    "a": 2
+  },
+  {
+    "q": "O que é um número primo geminado?",
+    "o": ["Dois números primos consecutivos", "Dois números primos separados por 2", "Dois números primos ímpares", "Dois números primos pares"],
+    "a": 1
+  },
+  {
+    "q": "O número 37 é primo?",
+    "o": ["Sim", "Não", "Apenas em alguns casos", "Depende do contexto"],
+    "a": 0
+  },
+  {
+    "q": "O número 51 é primo?",
+    "o": ["Sim", "Não", "Apenas em casos especiais", "Depende do autor"],
+    "a": 1
+  },
+  {
+    "q": "O número 97 é primo?",
+    "o": ["Sim", "Não", "Apenas até 90", "Depende do autor"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a diferença entre números primos e compostos?",
+    "o": ["Primos têm dois divisores; compostos têm mais de dois", "Primos são ímpares; compostos são pares", "Primos são pares; compostos são ímpares", "Primos são menores que 10; compostos maiores que 10"],
+    "a": 0
+  },
+  {
+    "q": "O número 53 é primo?",
+    "o": ["Sim", "Não", "Depende do contexto", "Apenas se for ímpar"],
+    "a": 0
+  },
+  {
+    "q": "O número 91 é primo?",
+    "o": ["Sim", "Não", "Apenas até 90", "Depende do autor"],
+    "a": 1
+  },
+  {
+    "q": "Qual é a soma dos dois primeiros números primos pares e ímpares?",
+    "o": ["2+3=5", "2+5=7", "2+7=9", "2+11=13"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o próximo número primo após 89?",
+    "o": ["90", "91", "97", "99"],
+    "a": 2
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual civilização construiu as pirâmides do Egito?",
+    "o": ["Egípcia", "Mesopotâmica", "Grega", "Romana"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização é considerada a primeira da Mesopotâmia?",
+    "o": ["Suméria", "Egípcia", "Fenícia", "Hitita"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização criou a escrita cuneiforme?",
+    "o": ["Suméria", "Egípcia", "Fenícia", "Romana"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização antiga tinha deuses como Zeus, Atena e Apolo?",
+    "o": ["Grega", "Egípcia", "Romana", "Mesopotâmica"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização foi famosa por sua engenharia, como aquedutos e estradas?",
+    "o": ["Romana", "Egípcia", "Grega", "Fenícia"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização antiga habitava a região do atual Iraque?",
+    "o": ["Mesopotâmica", "Egípcia", "Fenícia", "Grega"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização desenvolveu o alfabeto fonético?",
+    "o": ["Fenícia", "Egípcia", "Suméria", "Romana"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização criou o Código de Hamurábi?",
+    "o": ["Babilônica", "Egípcia", "Fenícia", "Hitita"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização teve cidades-estados como Atenas e Esparta?",
+    "o": ["Grega", "Romana", "Egípcia", "Mesopotâmica"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização é conhecida pelos faraós e templos monumentais?",
+    "o": ["Egípcia", "Grega", "Romana", "Mesopotâmica"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização fundou a cidade de Cartago?",
+    "o": ["Fenícia", "Egípcia", "Grega", "Romana"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização antiga foi governada por imperadores e senadores?",
+    "o": ["Romana", "Grega", "Egípcia", "Mesopotâmica"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização utilizava papiro para escrever?",
+    "o": ["Egípcia", "Suméria", "Fenícia", "Grega"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização antiga era famosa por seu comércio marítimo no Mediterrâneo?",
+    "o": ["Fenícia", "Egípcia", "Romana", "Grega"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização antiga criou o Coliseu e o Fórum Romano?",
+    "o": ["Romana", "Egípcia", "Grega", "Mesopotâmica"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização antiga é famosa pelo templo de Partenon?",
+    "o": ["Grega", "Romana", "Egípcia", "Mesopotâmica"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização antiga desenvolveu um calendário preciso baseado no sol e na lua?",
+    "o": ["Egípcia", "Mesopotâmica", "Grega", "Romana"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização construiu zigurates, grandes templos em degraus?",
+    "o": ["Mesopotâmica", "Egípcia", "Grega", "Romana"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização antiga produzia vinhos e azeites como produtos tradicionais?",
+    "o": ["Grega", "Egípcia", "Romana", "Mesopotâmica"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização antiga expandiu seu território com legiões militares poderosas?",
+    "o": ["Romana", "Grega", "Egípcia", "Mesopotâmica"],
+    "a": 0
+  }
+]

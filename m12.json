@@ -1,0 +1,97 @@
+[
+  {
+    "q": "O número π é aproximadamente igual a:",
+    "o": ["3,1415", "2,718", "1,618", "3,732"],
+    "a": 0
+  },
+  {
+    "q": "O número π é classificado como:",
+    "o": ["Racional", "Irracional", "Inteiro", "Primo"],
+    "a": 1
+  },
+  {
+    "q": "Quem é conhecido por calcular π com grande precisão na Antiguidade?",
+    "o": ["Arquimedes", "Pitágoras", "Euclides", "Newton"],
+    "a": 0
+  },
+  {
+    "q": "O número π é usado principalmente em cálculos de:",
+    "o": ["Áreas e perímetros de polígonos", "Áreas e volumes de círculos e esferas", "Números primos", "Equações lineares"],
+    "a": 1
+  },
+  {
+    "q": "Qual é a relação entre o diâmetro e a circunferência de um círculo?",
+    "o": ["Circunferência = diâmetro × π", "Circunferência = diâmetro + π", "Circunferência = diâmetro ÷ π", "Circunferência = diâmetro – π"],
+    "a": 0
+  },
+  {
+    "q": "O símbolo π foi popularizado por:",
+    "o": ["Euler", "Archimedes", "Gauss", "Newton"],
+    "a": 0
+  },
+  {
+    "q": "O número π é uma constante que aparece em:",
+    "o": ["Apenas geometria", "Geometria e trigonometria", "Geometria, trigonometria e cálculo", "Apenas cálculo"],
+    "a": 2
+  },
+  {
+    "q": "O que é um número irracional?",
+    "o": ["Número que pode ser escrito como fração", "Número com dízimas periódicas", "Número que não pode ser expresso como fração exata", "Número inteiro"],
+    "a": 2
+  },
+  {
+    "q": "Em qual data é comemorado o Dia do Pi?",
+    "o": ["14 de março", "22 de julho", "1 de janeiro", "25 de dezembro"],
+    "a": 0
+  },
+  {
+    "q": "O valor de π em fração aproximada é:",
+    "o": ["22/7", "7/22", "3/2", "355/113"],
+    "a": 0
+  },
+  {
+    "q": "O número π aparece em qual fórmula da área de círculo?",
+    "o": ["A = π × r²", "A = 2π × r", "A = π × d", "A = π² × r"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a circunferência de um círculo de raio 5 usando π?",
+    "o": ["10π", "25π", "5π", "50π"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o volume de uma esfera de raio r em função de π?",
+    "o": ["(4/3)πr²", "(4/3)πr³", "πr²h", "2πr³"],
+    "a": 1
+  },
+  {
+    "q": "O número π tem infinitos dígitos decimais?",
+    "o": ["Sim", "Não", "Apenas 100 dígitos", "Apenas 10 dígitos"],
+    "a": 0
+  },
+  {
+    "q": "O valor de π é periódico em sua forma decimal?",
+    "o": ["Sim", "Não", "Apenas em algumas casas", "Não se sabe"],
+    "a": 1
+  },
+  {
+    "q": "π aparece em quais funções matemáticas além da geometria?",
+    "o": ["Somente álgebra", "Trigonometria e cálculo", "Apenas estatística", "Apenas probabilidade"],
+    "a": 1
+  },
+  {
+    "q": "Qual é o nome da aproximação fracionária famosa de π: 355/113?",
+    "o": ["Fracionamento de Gauss", "Aproximação chinesa", "Aproximação de Euler", "Fração pitagórica"],
+    "a": 1
+  },
+  {
+    "q": "O que significa dizer que π é transcendental?",
+    "o": ["É inteiro", "Não é solução de nenhuma equação polinomial com coeficientes racionais", "É um número primo", "É uma raiz quadrada exata"],
+    "a": 1
+  },
+  {
+    "q": "Qual é a diferença entre π e 3,14?",
+    "o": ["Não há diferença", "3,14 é apenas uma aproximação de π", "3,14 é maior que π", "3,14 é menor que π por definição exata"],
+    "a": 1
+  }
+]

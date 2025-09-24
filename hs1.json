@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual civilização construiu as pirâmides do Egito?",
+    "o": ["Egípcia", "Mesopotâmica", "Grega", "Romana"],
+    "a": 0
+  },
+  {
+    "q": "Qual foi a primeira grande civilização da Mesopotâmia?",
+    "o": ["Suméria", "Egípcia", "Fenícia", "Hitita"],
+    "a": 0
+  },
+  {
+    "q": "Qual invenção é atribuída aos sumérios?",
+    "o": ["Escrita cuneiforme", "Papel", "Imprensa", "Alfabeto"],
+    "a": 0
+  },
+  {
+    "q": "Qual cidade foi famosa por seu código de leis escrito por Hamurábi?",
+    "o": ["Babilônia", "Nínive", "Tebas", "Roma"],
+    "a": 0
+  },
+  {
+    "q": "Qual povo é conhecido por sua escrita hieroglífica?",
+    "o": ["Egípcios", "Fenícios", "Mesopotâmicos", "Gregos"],
+    "a": 0
+  },
+  {
+    "q": "Qual cidade foi a capital do Império Romano durante a Idade Antiga?",
+    "o": ["Roma", "Atenas", "Alexandria", "Cartago"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o líder militar que conquistou grande parte do mundo conhecido na Antiguidade?",
+    "o": ["Alexandre, o Grande", "Júlio César", "Hércules", "Ciro, o Grande"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização criou o alfabeto fonético?",
+    "o": ["Fenícios", "Egípcios", "Sumérios", "Romanos"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização antiga era famosa por seus templos e deuses?",
+    "o": ["Egípcia", "Romana", "Grega", "Mesopotâmica"],
+    "a": 0
+  },
+  {
+    "q": "Qual era a principal cidade-estado da Grécia Antiga?",
+    "o": ["Atenas", "Esparta", "Corinto", "Tebas"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o grande filósofo grego da Antiguidade?",
+    "o": ["Sócrates", "Platão", "Aristóteles", "Todos os anteriores"],
+    "a": 3
+  },
+  {
+    "q": "Qual povo da Antiguidade é conhecido por suas caravanas comerciais e colônias no Mediterrâneo?",
+    "o": ["Fenícios", "Egípcios", "Sumérios", "Romanos"],
+    "a": 0
+  },
+  {
+    "q": "Qual guerra famosa ocorreu entre gregos e troianos?",
+    "o": ["Guerra de Troia", "Guerras Médicas", "Guerra do Peloponeso", "Guerras Púnicas"],
+    "a": 0
+  },
+  {
+    "q": "Qual cidade foi destruída pelo vulcão Vesúvio?",
+    "o": ["Pompeia", "Roma", "Cartago", "Atenas"],
+    "a": 0
+  },
+  {
+    "q": "Qual império antigo se destacou pelo sistema de estradas e aquedutos?",
+    "o": ["Romano", "Egípcio", "Grego", "Persa"],
+    "a": 0
+  },
+  {
+    "q": "Quem era considerado deus-sol no Egito Antigo?",
+    "o": ["Rá", "Osíris", "Hórus", "Anúbis"],
+    "a": 0
+  },
+  {
+    "q": "Qual foi a famosa biblioteca da Antiguidade localizada no Egito?",
+    "o": ["Biblioteca de Alexandria", "Biblioteca de Pérgamo", "Biblioteca de Nínive", "Biblioteca de Roma"],
+    "a": 0
+  },
+  {
+    "q": "Qual civilização criou o código de leis conhecido como Código de Hamurábi?",
+    "o": ["Babilônica", "Egípcia", "Fenícia", "Hitita"],
+    "a": 0
+  },
+  {
+    "q": "Qual famoso imperador romano foi assassinado em 44 a.C.?",
+    "o": ["Júlio César", "Augusto", "Nero", "César Augusto"],
+    "a": 0
+  },
+  {
+    "q": "Qual povo antigo foi famoso por sua engenharia e aquedutos?",
+    "o": ["Romanos", "Gregos", "Egípcios", "Mesopotâmicos"],
+    "a": 0
+  }
+]

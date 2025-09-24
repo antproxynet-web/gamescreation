@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual é o valor de sen(90°)?",
+    "o": ["0", "1", "1/2", "√2/2"],
+    "a": 1
+  },
+  {
+    "q": "Qual é o valor de cos(0°)?",
+    "o": ["0", "1", "1/2", "√3/2"],
+    "a": 1
+  },
+  {
+    "q": "Qual é o valor de tan(45°)?",
+    "o": ["0", "1", "√3", "√2"],
+    "a": 1
+  },
+  {
+    "q": "Qual é a relação fundamental da trigonometria?",
+    "o": ["sen²θ + cos²θ = 1", "senθ + cosθ = 1", "tanθ = senθ × cosθ", "sen²θ – cos²θ = 1"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a fórmula de tanθ em termos de senθ e cosθ?",
+    "o": ["tanθ = senθ + cosθ", "tanθ = senθ / cosθ", "tanθ = cosθ / senθ", "tanθ = sen²θ + cos²θ"],
+    "a": 1
+  },
+  {
+    "q": "Qual é o valor de sen(30°)?",
+    "o": ["1/2", "√2/2", "√3/2", "1"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o valor de cos(60°)?",
+    "o": ["1/2", "√2/2", "√3/2", "0"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o valor de tan(0°)?",
+    "o": ["0", "1", "∞", "Indefinido"],
+    "a": 0
+  },
+  {
+    "q": "O que representa o cateto oposto em um triângulo retângulo?",
+    "o": ["O lado adjacente ao ângulo", "O lado oposto ao ângulo", "A hipotenusa", "O perímetro do triângulo"],
+    "a": 1
+  },
+  {
+    "q": "O que representa o cateto adjacente em um triângulo retângulo?",
+    "o": ["O lado oposto ao ângulo", "O lado adjacente ao ângulo", "A hipotenusa", "O ângulo reto"],
+    "a": 1
+  },
+  {
+    "q": "A hipotenusa é:",
+    "o": ["O lado mais curto", "O lado mais longo em um triângulo retângulo", "O cateto oposto", "O ângulo do triângulo"],
+    "a": 1
+  },
+  {
+    "q": "Qual é o valor de sen²45° + cos²45°?",
+    "o": ["0", "1", "1/2", "√2/2"],
+    "a": 1
+  },
+  {
+    "q": "Qual é a fórmula do cosseno da soma de dois ângulos?",
+    "o": ["cos(A + B) = cosA × cosB – senA × senB", "cos(A + B) = cosA + cosB", "cos(A + B) = senA + senB", "cos(A + B) = senA × cosB + cosA × senB"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a fórmula do seno da soma de dois ângulos?",
+    "o": ["sen(A + B) = senA + senB", "sen(A + B) = senA × senB", "sen(A + B) = senA × cosB + cosA × senB", "sen(A + B) = cosA × cosB – senA × senB"],
+    "a": 2
+  },
+  {
+    "q": "Qual é o valor de cos²60° + sen²30°?",
+    "o": ["1/2", "1", "3/4", "3/2"],
+    "a": 1
+  },
+  {
+    "q": "Em um triângulo retângulo, senθ = 3/5. Qual é o cosθ?",
+    "o": ["4/5", "5/3", "3/4", "1/2"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o valor de tan(60°)?",
+    "o": ["√3", "1/√3", "1", "2"],
+    "a": 0
+  },
+  {
+    "q": "O que é o ângulo de 90° chamado?",
+    "o": ["Ângulo reto", "Ângulo agudo", "Ângulo obtuso", "Ângulo complementar"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a função trigonométrica recíproca de senθ?",
+    "o": ["cosθ", "tanθ", "cosecθ", "cotθ"],
+    "a": 2
+  },
+  {
+    "q": "Qual é a função trigonométrica recíproca de cosθ?",
+    "o": ["secθ", "cosecθ", "cotθ", "tanθ"],
+    "a": 0
+  }
+]

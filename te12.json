@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que é o WhatsApp?",
+    "o": ["Aplicativo de mensagens instantâneas", "Editor de fotos", "Planilha eletrônica", "Navegador web"],
+    "a": 0
+  },
+  {
+    "q": "O que é o Instagram?",
+    "o": ["Aplicativo de compartilhamento de fotos e vídeos", "Editor de texto", "Plataforma de e-mail", "Software de música"],
+    "a": 0
+  },
+  {
+    "q": "O que é o TikTok?",
+    "o": ["Aplicativo para criação e compartilhamento de vídeos curtos", "Editor de fotos", "Software de mensagens", "Plataforma de compras online"],
+    "a": 0
+  },
+  {
+    "q": "O que é o Spotify?",
+    "o": ["Serviço de streaming de música e podcasts", "Editor de vídeo", "Navegador web", "Planilha eletrônica"],
+    "a": 0
+  },
+  {
+    "q": "O que é o Google Maps?",
+    "o": ["Aplicativo de mapas e navegação", "Editor de texto", "Aplicativo de fotos", "Rede social"],
+    "a": 0
+  },
+  {
+    "q": "O que é o Zoom?",
+    "o": ["Plataforma de videoconferência e reuniões online", "Editor de imagens", "Plataforma de música", "Planilha eletrônica"],
+    "a": 0
+  },
+  {
+    "q": "O que é o Gmail?",
+    "o": ["Serviço de e-mail do Google", "Aplicativo de mensagens instantâneas", "Editor de fotos", "Planilha eletrônica"],
+    "a": 0
+  },
+  {
+    "q": "O que é o Facebook?",
+    "o": ["Rede social para compartilhar posts, fotos e vídeos", "Aplicativo de mapas", "Editor de vídeos", "Plataforma de música"],
+    "a": 0
+  },
+  {
+    "q": "O que é o YouTube?",
+    "o": ["Plataforma de compartilhamento de vídeos", "Editor de fotos", "Aplicativo de mensagens", "Planilha eletrônica"],
+    "a": 0
+  },
+  {
+    "q": "O que é o Telegram?",
+    "o": ["Aplicativo de mensagens instantâneas com foco em privacidade", "Rede social", "Editor de vídeo", "Software de música"],
+    "a": 0
+  },
+  {
+    "q": "O que é o Microsoft Teams?",
+    "o": ["Aplicativo de colaboração e comunicação entre equipes", "Editor de fotos", "Plataforma de música", "Planilha eletrônica"],
+    "a": 0
+  },
+  {
+    "q": "O que é o Netflix?",
+    "o": ["Serviço de streaming de filmes e séries", "Editor de fotos", "Aplicativo de mensagens", "Plataforma de música"],
+    "a": 0
+  },
+  {
+    "q": "O que é o Google Drive?",
+    "o": ["Serviço de armazenamento e compartilhamento de arquivos na nuvem", "Editor de fotos", "Aplicativo de mensagens", "Rede social"],
+    "a": 0
+  },
+  {
+    "q": "O que é o Snapchat?",
+    "o": ["Aplicativo de mensagens com fotos e vídeos temporários", "Editor de vídeos", "Plataforma de música", "Planilha eletrônica"],
+    "a": 0
+  },
+  {
+    "q": "O que é o PayPal?",
+    "o": ["Aplicativo de pagamentos e transferências online", "Editor de fotos", "Aplicativo de música", "Plataforma de vídeos"],
+    "a": 0
+  },
+  {
+    "q": "O que é o Uber?",
+    "o": ["Aplicativo de transporte e mobilidade urbana", "Editor de fotos", "Rede social", "Plataforma de música"],
+    "a": 0
+  },
+  {
+    "q": "O que é o LinkedIn?",
+    "o": ["Rede social profissional para networking e empregos", "Aplicativo de vídeos", "Editor de fotos", "Plataforma de música"],
+    "a": 0
+  },
+  {
+    "q": "O que é o Duolingo?",
+    "o": ["Aplicativo para aprendizado de idiomas", "Editor de fotos", "Rede social", "Planilha eletrônica"],
+    "a": 0
+  },
+  {
+    "q": "O que é o Canva?",
+    "o": ["Aplicativo para design gráfico e criação de conteúdo visual", "Editor de vídeos", "Plataforma de música", "Aplicativo de mensagens"],
+    "a": 0
+  },
+  {
+    "q": "O que é o Google Calendar?",
+    "o": ["Aplicativo de agenda e gerenciamento de compromissos", "Editor de fotos", "Plataforma de vídeos", "Aplicativo de música"],
+    "a": 0
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que é uma startup?",
+    "o": ["Empresa inovadora em estágio inicial com alto potencial de crescimento", "Empresa tradicional de grande porte", "Loja física de bairro", "Fábrica industrial"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a principal característica de uma startup?",
+    "o": ["Inovação e busca rápida por crescimento", "Tradição centenária", "Baixo investimento inicial", "Produção em massa"],
+    "a": 0
+  },
+  {
+    "q": "O que é um MVP (Minimum Viable Product)?",
+    "o": ["Versão inicial de um produto com funcionalidades básicas para testar o mercado", "Produto final completo", "Plano de negócios formal", "Protótipo físico complexo"],
+    "a": 0
+  },
+  {
+    "q": "O que é um investidor anjo?",
+    "o": ["Pessoa que investe dinheiro em startups iniciantes em troca de participação", "Banco tradicional", "Funcionário da startup", "Consultor financeiro"],
+    "a": 0
+  },
+  {
+    "q": "O que é aceleração de startups?",
+    "o": ["Programa que ajuda startups a crescer rapidamente oferecendo mentoria, recursos e networking", "Venda de produtos", "Expansão internacional automática", "Produção em massa de mercadorias"],
+    "a": 0
+  },
+  {
+    "q": "O que é capital de risco (venture capital)?",
+    "o": ["Investimento em startups com alto potencial de crescimento, assumindo riscos", "Empréstimo bancário", "Subvenção governamental", "Doação sem retorno financeiro"],
+    "a": 0
+  },
+  {
+    "q": "O que é uma startup unicórnio?",
+    "o": ["Startup avaliada em mais de 1 bilhão de dólares", "Startup com menos de 10 funcionários", "Empresa estatal", "Pequena loja online"],
+    "a": 0
+  },
+  {
+    "q": "O que é pitch de startup?",
+    "o": ["Apresentação curta para investidores mostrando a ideia e o potencial do negócio", "Treinamento de funcionários", "Relatório financeiro anual", "Anúncio em redes sociais"],
+    "a": 0
+  },
+  {
+    "q": "O que é bootstrapping em startups?",
+    "o": ["Criar e crescer a empresa usando recursos próprios, sem investimentos externos", "Investimento de capital de risco", "Parceria com grandes empresas", "Doação de investidores"],
+    "a": 0
+  },
+  {
+    "q": "O que é incubadora de startups?",
+    "o": ["Organização que oferece suporte, estrutura e mentoria para empresas iniciantes", "Escritório corporativo tradicional", "Universidade", "Banco de investimento"],
+    "a": 0
+  },
+  {
+    "q": "O que é pivotar em uma startup?",
+    "o": ["Mudar a estratégia ou modelo de negócio para atender melhor o mercado", "Fechar a empresa", "Vender ações na bolsa", "Aumentar o preço dos produtos"],
+    "a": 0
+  },
+  {
+    "q": "O que é growth hacking?",
+    "o": ["Estratégia de marketing criativa e de baixo custo para crescimento rápido", "Plano de negócios tradicional", "Consultoria financeira", "Expansão internacional lenta"],
+    "a": 0
+  },
+  {
+    "q": "O que é equity em startups?",
+    "o": ["Participação acionária que investidores ou fundadores possuem na empresa", "Salário do funcionário", "Investimento em marketing", "Bônus de produtividade"],
+    "a": 0
+  },
+  {
+    "q": "O que é tração em startups?",
+    "o": ["Capacidade de uma startup de crescer, gerar clientes e receita", "Investimento externo", "Número de funcionários", "Aparência do escritório"],
+    "a": 0
+  },
+  {
+    "q": "O que é uma startup B2B?",
+    "o": ["Empresa que oferece produtos ou serviços para outras empresas", "Empresa que vende ao consumidor final", "Empresa estatal", "ONG tecnológica"],
+    "a": 0
+  },
+  {
+    "q": "O que é uma startup B2C?",
+    "o": ["Empresa que oferece produtos ou serviços diretamente ao consumidor final", "Empresa que vende para outras empresas", "ONG", "Empresa estatal"],
+    "a": 0
+  },
+  {
+    "q": "O que é equity crowdfunding?",
+    "o": ["Investimento coletivo em startups, onde várias pessoas adquirem participação na empresa", "Venda de produtos online", "Doação sem retorno", "Crédito bancário tradicional"],
+    "a": 0
+  },
+  {
+    "q": "O que é um co-founder?",
+    "o": ["Fundador ou cofundador que ajuda a criar a startup", "Investidor anjo", "Funcionário contratado", "Consultor externo"],
+    "a": 0
+  },
+  {
+    "q": "O que é validação de mercado em startups?",
+    "o": ["Processo de testar se há demanda real pelo produto ou serviço", "Criação do produto final", "Contratação de funcionários", "Expansão internacional"],
+    "a": 0
+  },
+  {
+    "q": "O que é um exit em startups?",
+    "o": ["Momento em que os fundadores vendem a empresa ou recebem retorno sobre investimento", "Fechamento da empresa por falência", "Lançamento do produto", "Contratação de investidores"],
+    "a": 0
+  }
+]

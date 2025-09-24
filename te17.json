@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que é automação?",
+    "o": ["Uso de tecnologia para realizar tarefas automaticamente", "Trabalho manual contínuo", "Redação de textos", "Desenho artístico"],
+    "a": 0
+  },
+  {
+    "q": "O que é automação industrial?",
+    "o": ["Uso de máquinas e sistemas automáticos em fábricas e produção", "Trabalho artesanal", "Escritório manual", "Transporte manual de produtos"],
+    "a": 0
+  },
+  {
+    "q": "O que é automação residencial?",
+    "o": ["Uso de dispositivos inteligentes para controlar iluminação, clima e segurança em casa", "Controle manual de eletrodomésticos", "Plantas automáticas", "Rede social doméstica"],
+    "a": 0
+  },
+  {
+    "q": "O que são sensores na automação?",
+    "o": ["Dispositivos que detectam mudanças no ambiente e enviam sinais ao sistema", "Aparelhos de TV", "Computadores portáteis", "Câmeras comuns"],
+    "a": 0
+  },
+  {
+    "q": "O que são atuadores na automação?",
+    "o": ["Dispositivos que executam ações físicas baseadas em sinais do sistema", "Sensores apenas", "Software de edição", "Rede social"],
+    "a": 0
+  },
+  {
+    "q": "O que é PLC (Controlador Lógico Programável)?",
+    "o": ["Computador industrial usado para controlar processos automáticos", "Processador de celular", "Computador pessoal", "Servidor de internet"],
+    "a": 0
+  },
+  {
+    "q": "O que é automação de processos (RPA)?",
+    "o": ["Uso de software para automatizar tarefas repetitivas em computadores", "Robôs industriais apenas", "Controle manual", "Desenho gráfico"],
+    "a": 0
+  },
+  {
+    "q": "O que é IoT (Internet das Coisas) na automação?",
+    "o": ["Conexão de dispositivos inteligentes para monitoramento e controle remoto", "Rede social", "Software de mensagens", "Editor de fotos"],
+    "a": 0
+  },
+  {
+    "q": "O que é SCADA?",
+    "o": ["Sistema de supervisão e controle de processos industriais", "Aplicativo de celular", "Software de edição", "Banco de dados"],
+    "a": 0
+  },
+  {
+    "q": "O que é automação de testes de software?",
+    "o": ["Uso de ferramentas para executar testes repetitivos automaticamente", "Teste manual apenas", "Desenho gráfico", "Rede social"],
+    "a": 0
+  },
+  {
+    "q": "O que é um robô colaborativo (cobot)?",
+    "o": ["Robô projetado para trabalhar junto com humanos em segurança", "Robô industrial isolado", "Software de mensagens", "Drone apenas"],
+    "a": 0
+  },
+  {
+    "q": "O que é automação de marketing?",
+    "o": ["Uso de softwares para gerenciar campanhas e comunicação de forma automática", "Redação manual de e-mails", "Plataforma de jogos", "Banco de dados"],
+    "a": 0
+  },
+  {
+    "q": "O que é automação predial?",
+    "o": ["Controle automatizado de iluminação, climatização e segurança em edifícios", "Controle manual de edifícios", "Software de edição", "Redes sociais"],
+    "a": 0
+  },
+  {
+    "q": "O que é inteligência artificial na automação?",
+    "o": ["Uso de algoritmos que permitem sistemas tomarem decisões automáticas", "Apenas sensores mecânicos", "Controle manual", "Software de edição gráfica"],
+    "a": 0
+  },
+  {
+    "q": "O que é automação logística?",
+    "o": ["Uso de sistemas e robôs para gerenciar transporte, armazenamento e distribuição", "Transporte manual", "Software de mensagens", "Plataforma de redes sociais"],
+    "a": 0
+  },
+  {
+    "q": "O que é manutenção preditiva em automação?",
+    "o": ["Monitoramento de equipamentos para prever falhas e realizar manutenção antes de quebrar", "Manutenção periódica fixa", "Troca aleatória de peças", "Desligamento manual"],
+    "a": 0
+  },
+  {
+    "q": "O que é automação em veículos?",
+    "o": ["Tecnologia que permite que carros e drones funcionem parcialmente ou totalmente sozinhos", "Condução manual apenas", "Bicicletas", "Aplicativos móveis"],
+    "a": 0
+  },
+  {
+    "q": "O que é feedback em sistemas automatizados?",
+    "o": ["Sinal que informa ao sistema sobre o estado de um processo para ajuste automático", "Mensagem de texto", "E-mail automático", "Alerta manual"],
+    "a": 0
+  },
+  {
+    "q": "O que é automação de processos financeiros?",
+    "o": ["Uso de softwares para processar pagamentos, faturamento e relatórios automaticamente", "Controle manual de contas", "Planilhas offline", "Software de edição de vídeo"],
+    "a": 0
+  },
+  {
+    "q": "O que é automação de energia?",
+    "o": ["Uso de sistemas inteligentes para otimizar consumo e geração de energia", "Uso de energia manual", "Geradores tradicionais", "Lâmpadas comuns"],
+    "a": 0
+  }
+]

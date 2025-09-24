@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que é uma estrela?",
+    "o": ["Uma esfera de plasma que gera energia por fusão nuclear", "Um planeta brilhante", "Um cometa", "Uma lua distante"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a estrela mais próxima da Terra após o Sol?",
+    "o": ["Proxima Centauri", "Sirius", "Betelgeuse", "Vega"],
+    "a": 0
+  },
+  {
+    "q": "O que é uma supernova?",
+    "o": ["Explosão de uma estrela no fim de sua vida", "Nascimento de uma estrela", "Formação de um planeta", "Colisão de dois asteroides"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o destino de uma estrela massiva após supernova?",
+    "o": ["Buraco negro ou estrela de nêutrons", "Planeta gigante", "Cometa", "Anã branca"],
+    "a": 0
+  },
+  {
+    "q": "O que é uma estrela anã branca?",
+    "o": ["Estrela que terminou a fusão nuclear e é remanescente de massa média", "Estrela em formação", "Estrela massiva antes da supernova", "Planeta gigante"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a estrela mais luminosa visível da Terra?",
+    "o": ["Sirius", "Sol", "Betelgeuse", "Rigel"],
+    "a": 0
+  },
+  {
+    "q": "O que é uma supernova tipo Ia?",
+    "o": ["Explosão de uma anã branca em sistema binário", "Explosão de estrela massiva", "Formação de planeta", "Colisão de cometas"],
+    "a": 0
+  },
+  {
+    "q": "O que é uma supernova tipo II?",
+    "o": ["Explosão de uma estrela massiva no fim da vida", "Explosão de anã branca", "Criação de estrela nova", "Colisão de asteroides"],
+    "a": 0
+  },
+  {
+    "q": "Qual elemento é produzido em grandes quantidades durante supernovas?",
+    "o": ["Ferro e elementos mais pesados", "Hidrogênio", "Hélio", "Oxigênio apenas"],
+    "a": 0
+  },
+  {
+    "q": "O que é uma estrela de nêutrons?",
+    "o": ["Remanescente extremamente denso de uma estrela massiva", "Estrela gigante", "Anã branca", "Planeta massivo"],
+    "a": 0
+  },
+  {
+    "q": "O que é a fusão nuclear em estrelas?",
+    "o": ["Processo que converte hidrogênio em hélio liberando energia", "Processo de rotação da estrela", "Colisão de estrelas", "Expansão da galáxia"],
+    "a": 0
+  },
+  {
+    "q": "Qual estrela é famosa por seu tamanho enorme e coloração vermelha?",
+    "o": ["Betelgeuse", "Sirius", "Proxima Centauri", "Rigel"],
+    "a": 0
+  },
+  {
+    "q": "O que é uma supergigante azul?",
+    "o": ["Estrela massiva, quente e muito luminosa", "Estrela pequena e fria", "Anã branca", "Estrela moribunda pequena"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o destino provável do Sol após bilhões de anos?",
+    "o": ["Tornar-se uma anã branca", "Explodir como supernova", "Virar buraco negro", "Transformar-se em cometa"],
+    "a": 0
+  },
+  {
+    "q": "O que são estrelas binárias?",
+    "o": ["Duas estrelas que orbitam um centro de massa comum", "Estrela e planeta juntos", "Dois cometas próximos", "Duas galáxias pequenas"],
+    "a": 0
+  },
+  {
+    "q": "Qual estrela é conhecida como a gigante vermelha mais próxima da Terra?",
+    "o": ["Betelgeuse", "Sirius", "Vega", "Proxima Centauri"],
+    "a": 0
+  },
+  {
+    "q": "O que são pulsares?",
+    "o": ["Estrelas de nêutrons que emitem radiação periódica", "Supernovas em explosão", "Estrelas jovens", "Planetas distantes"],
+    "a": 0
+  },
+  {
+    "q": "O que é um quasar?",
+    "o": ["Fonte extremamente luminosa no centro de galáxias distantes", "Estrela próxima massiva", "Estrela cadente", "Cometa brilhante"],
+    "a": 0
+  },
+  {
+    "q": "O que é a luminosidade absoluta de uma estrela?",
+    "o": ["A quantidade total de energia que ela emite por segundo", "O brilho aparente visto da Terra", "O tamanho da estrela", "A massa da estrela"],
+    "a": 0
+  },
+  {
+    "q": "O que é uma estrela variável?",
+    "o": ["Estrela cujo brilho muda com o tempo", "Estrela em formação", "Estrela que nunca muda", "Estrela moribunda"],
+    "a": 0
+  }
+]

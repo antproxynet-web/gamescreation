@@ -1,0 +1,74 @@
+[
+  {
+    "q": "Qual revolução começou em 1789 na França?",
+    "o": ["Revolução Francesa", "Revolução Industrial", "Revolução Americana", "Revolução Russa"],
+    "a": 0
+  },
+  {
+    "q": "Qual revolução marcou a independência dos Estados Unidos?",
+    "o": ["Revolução Americana", "Revolução Francesa", "Revolução Industrial", "Revolução Russa"],
+    "a": 0
+  },
+  {
+    "q": "Qual revolução ocorreu em 1917 na Rússia?",
+    "o": ["Revolução Russa", "Revolução Francesa", "Revolução Industrial", "Revolução Americana"],
+    "a": 0
+  },
+  {
+    "q": "Qual revolução transformou processos produtivos com máquinas a vapor?",
+    "o": ["Revolução Industrial", "Revolução Francesa", "Revolução Americana", "Revolução Russa"],
+    "a": 0
+  },
+  {
+    "q": "Qual revolução aboliu o sistema feudal na França e mudou a sociedade?",
+    "o": ["Revolução Francesa", "Revolução Industrial", "Revolução Americana", "Revolução Russa"],
+    "a": 0
+  },
+  {
+    "q": "Qual revolução ocorreu no final do século XVIII e começou nas colônias inglesas na América do Norte?",
+    "o": ["Revolução Americana", "Revolução Francesa", "Revolução Industrial", "Revolução Russa"],
+    "a": 0
+  },
+  {
+    "q": "Qual revolução levou à criação da União Soviética?",
+    "o": ["Revolução Russa", "Revolução Francesa", "Revolução Industrial", "Revolução Americana"],
+    "a": 0
+  },
+  {
+    "q": "Qual revolução resultou na Declaração dos Direitos do Homem e do Cidadão?",
+    "o": ["Revolução Francesa", "Revolução Americana", "Revolução Russa", "Revolução Industrial"],
+    "a": 0
+  },
+  {
+    "q": "Qual revolução inspirou movimentos de independência na América Latina?",
+    "o": ["Revolução Americana", "Revolução Francesa", "Revolução Industrial", "Revolução Russa"],
+    "a": 0
+  },
+  {
+    "q": "Qual revolução ficou conhecida pelo uso de máquinas e fábricas na produção de bens?",
+    "o": ["Revolução Industrial", "Revolução Russa", "Revolução Francesa", "Revolução Americana"],
+    "a": 0
+  },
+  {
+    "q": "Qual revolução começou com a tomada da Bastilha?",
+    "o": ["Revolução Francesa", "Revolução Industrial", "Revolução Russa", "Revolução Americana"],
+    "a": 0
+  },
+  {
+    "q": "Qual revolução culminou na execução do rei Luís XVI?",
+    "o": ["Revolução Francesa", "Revolução Russa", "Revolução Industrial", "Revolução Americana"],
+    "a": 0
+  },
+  {
+    "q": "Qual revolução teve como líder figuras como George Washington e Thomas Jefferson?",
+    "o": ["Revolução Americana", "Revolução Francesa", "Revolução Russa", "Revolução Industrial"],
+    "a": 0
+  },
+  {
+    "q": "Qual revolução resultou na queda da monarquia russa e ascensão dos bolcheviques?",
+    "o": ["Revolução Russa", "Revolução Francesa", "Revolução Americana", "Revolução Industrial"],
+    "a": 0
+  },
+  {
+    "q": "Qual revolução provocou mudanças econômicas com fábricas e produção em massa?",
+    "o": ["Revolução Industrial", "Revolução Russa", "Revolução Francesa",

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que é a Internet?",
+    "o": ["Rede global de computadores interconectados que compartilham informações", "Programa de computador", "Aplicativo de celular", "Banco de dados local"],
+    "a": 0
+  },
+  {
+    "q": "O que significa URL?",
+    "o": ["Uniform Resource Locator, endereço de um recurso na web", "User Resource Login", "Universal Router Link", "Unique Remote Location"],
+    "a": 0
+  },
+  {
+    "q": "O que é HTTP?",
+    "o": ["Protocolo de transferência de hipertexto usado para acessar páginas web", "Protocolo de email", "Software antivírus", "Banco de dados"],
+    "a": 0
+  },
+  {
+    "q": "O que é HTTPS?",
+    "o": ["Versão segura do HTTP que usa criptografia para proteger dados", "Protocolo de email", "Rede local", "VPN privada"],
+    "a": 0
+  },
+  {
+    "q": "O que é IP (Internet Protocol)?",
+    "o": ["Endereço que identifica dispositivos na Internet", "Programa de navegação", "Firewall de segurança", "Servidor web"],
+    "a": 0
+  },
+  {
+    "q": "O que é DNS?",
+    "o": ["Sistema que traduz nomes de domínio em endereços IP", "Protocolo de email", "Servidor web", "Firewall"],
+    "a": 0
+  },
+  {
+    "q": "O que é um servidor web?",
+    "o": ["Computador que hospeda sites e responde a requisições de navegadores", "Roteador doméstico", "Firewall", "Tablet de uso remoto"],
+    "a": 0
+  },
+  {
+    "q": "O que é um navegador (browser)?",
+    "o": ["Programa usado para acessar e visualizar páginas da web", "Servidor web", "Protocolo de rede", "Endereço IP"],
+    "a": 0
+  },
+  {
+    "q": "O que é banda larga?",
+    "o": ["Capacidade de transmitir grandes volumes de dados por segundo", "Firewall de proteção", "Servidor de backup", "Rede sem fio doméstica"],
+    "a": 0
+  },
+  {
+    "q": "O que é Wi-Fi?",
+    "o": ["Tecnologia que permite conexão sem fio à Internet", "Cabo de rede", "Servidor de dados", "Software antivírus"],
+    "a": 0
+  },
+  {
+    "q": "O que é streaming?",
+    "o": ["Transmissão contínua de áudio ou vídeo pela Internet sem precisar baixar o arquivo", "Download de arquivos", "Backup em nuvem", "E-mail marketing"],
+    "a": 0
+  },
+  {
+    "q": "O que é nuvem (cloud computing)?",
+    "o": ["Serviços de armazenamento e processamento de dados acessíveis pela Internet", "Servidor local", "Tablet de armazenamento", "Rede doméstica"],
+    "a": 0
+  },
+  {
+    "q": "O que é rede social?",
+    "o": ["Plataforma online para interação, compartilhamento de conteúdo e comunicação entre pessoas", "Servidor web", "Protocolo de IP", "Banco de dados local"],
+    "a": 0
+  },
+  {
+    "q": "O que é VPN (Virtual Private Network)?",
+    "o": ["Rede privada que protege a conexão e mantém anonimato online", "Rede doméstica simples", "Servidor público", "Software antivírus"],
+    "a": 0
+  },
+  {
+    "q": "O que é blog?",
+    "o": ["Site ou plataforma usada para publicar artigos, opiniões ou conteúdos pessoais", "Rede social", "Servidor web", "Protocolo de dados"],
+    "a": 0
+  },
+  {
+    "q": "O que é e-mail?",
+    "o": ["Sistema de envio e recebimento de mensagens eletrônicas pela Internet", "Chat em tempo real", "Rede social", "Protocolo de FTP"],
+    "a": 0
+  },
+  {
+    "q": "O que é HTML?",
+    "o": ["Linguagem de marcação usada para criar páginas web", "Software antivírus", "Protocolo de rede", "Servidor de dados"],
+    "a": 0
+  },
+  {
+    "q": "O que é CSS?",
+    "o": ["Linguagem usada para estilizar páginas web e definir layout e aparência", "HTML básico", "Protocolo de FTP", "Servidor web"],
+    "a": 0
+  },
+  {
+    "q": "O que é JavaScript?",
+    "o": ["Linguagem de programação usada para criar páginas web interativas", "Servidor web", "Protocolo de rede", "Banco de dados"],
+    "a": 0
+  },
+  {
+    "q": "O que é phishing?",
+    "o": ["Golpe online que tenta enganar usuários para obter informações pessoais", "Software de backup", "Navegador seguro", "VPN"],
+    "a": 0
+  }
+]

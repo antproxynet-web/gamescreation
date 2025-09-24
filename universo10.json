@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quem propôs o modelo heliocêntrico do sistema solar?",
+    "o": ["Nicolau Copérnico", "Galileu Galilei", "Tycho Brahe", "Isaac Newton"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o primeiro a usar um telescópio para observar os astros?",
+    "o": ["Galileu Galilei", "Johannes Kepler", "Tycho Brahe", "Nicolau Copérnico"],
+    "a": 0
+  },
+  {
+    "q": "Qual astrônomo formulou as três leis do movimento planetário?",
+    "o": ["Johannes Kepler", "Galileu Galilei", "Isaac Newton", "Nicolau Copérnico"],
+    "a": 0
+  },
+  {
+    "q": "Quem é conhecido como o 'pai da astronomia moderna'?",
+    "o": ["Galileu Galilei", "Nicolau Copérnico", "Johannes Kepler", "Tycho Brahe"],
+    "a": 0
+  },
+  {
+    "q": "Quem compilou observações precisas dos planetas antes do modelo heliocêntrico?",
+    "o": ["Tycho Brahe", "Galileu Galilei", "Johannes Kepler", "Isaac Newton"],
+    "a": 0
+  },
+  {
+    "q": "Qual cientista descobriu a lei da gravitação universal?",
+    "o": ["Isaac Newton", "Galileu Galilei", "Johannes Kepler", "Nicolau Copérnico"],
+    "a": 0
+  },
+  {
+    "q": "Qual astrônomo grego antigo acreditava que a Terra era o centro do universo?",
+    "o": ["Cláudio Ptolomeu", "Aristóteles", "Hiparco", "Galileu Galilei"],
+    "a": 0
+  },
+  {
+    "q": "Quem criou o modelo geocêntrico do universo?",
+    "o": ["Cláudio Ptolomeu", "Nicolau Copérnico", "Johannes Kepler", "Galileu Galilei"],
+    "a": 0
+  },
+  {
+    "q": "Qual astrônomo fez um catálogo de estrelas e mediu sua posição com precisão?",
+    "o": ["Hiparco", "Galileu Galilei", "Tycho Brahe", "Johannes Kepler"],
+    "a": 0
+  },
+  {
+    "q": "Quem observou as luas de Júpiter, provando que nem tudo orbitava a Terra?",
+    "o": ["Galileu Galilei", "Nicolau Copérnico", "Johannes Kepler", "Tycho Brahe"],
+    "a": 0
+  },
+  {
+    "q": "Qual astrônomo sugeriu que os planetas se movem em órbitas elípticas?",
+    "o": ["Johannes Kepler", "Galileu Galilei", "Isaac Newton", "Cláudio Ptolomeu"],
+    "a": 0
+  },
+  {
+    "q": "Quem formulou a primeira teoria heliocêntrica detalhada?",
+    "o": ["Nicolau Copérnico", "Galileu Galilei", "Tycho Brahe", "Johannes Kepler"],
+    "a": 0
+  },
+  {
+    "q": "Qual astrônomo antigo calculou a circunferência da Terra?",
+    "o": ["Eratóstenes", "Hiparco", "Galileu Galilei", "Ptolomeu"],
+    "a": 0
+  },
+  {
+    "q": "Quem descobriu as manchas solares?",
+    "o": ["Galileu Galilei", "Johannes Kepler", "Tycho Brahe", "Cláudio Ptolomeu"],
+    "a": 0
+  },
+  {
+    "q": "Qual astrônomo estudou o cometa de 1577 e provou que eles estavam além da Lua?",
+    "o": ["Tycho Brahe", "Galileu Galilei", "Johannes Kepler", "Nicolau Copérnico"],
+    "a": 0
+  },
+  {
+    "q": "Quem criou a lei da gravitação universal explicando a órbita dos planetas?",
+    "o": ["Isaac Newton", "Johannes Kepler", "Galileu Galilei", "Nicolau Copérnico"],
+    "a": 0
+  },
+  {
+    "q": "Qual astrônomo descobriu o planeta Urano em 1781?",
+    "o": ["William Herschel", "Johannes Kepler", "Galileu Galilei", "Isaac Newton"],
+    "a": 0
+  },
+  {
+    "q": "Quem desenvolveu as tabelas astronômicas chamadas 'Rudolphinas'?",
+    "o": ["Johannes Kepler", "Galileu Galilei", "Tycho Brahe", "Nicolau Copérnico"],
+    "a": 0
+  },
+  {
+    "q": "Quem propôs que a luz das estrelas poderia ser desviada pela gravidade?",
+    "o": ["Isaac Newton", "Galileu Galilei", "Johannes Kepler", "Cláudio Ptolomeu"],
+    "a": 0
+  },
+  {
+    "q": "Qual astrônomo observou as fases de Vênus, apoiando o heliocentrismo?",
+    "o": ["Galileu Galilei", "Johannes Kepler", "Tycho Brahe", "Nicolau Copérnico"],
+    "a": 0
+  }
+]

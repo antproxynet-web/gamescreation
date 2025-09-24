@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Em que ano começou a Primeira Guerra Mundial?",
+    "o": ["1914", "1918", "1939", "1945"],
+    "a": 0
+  },
+  {
+    "q": "Qual evento desencadeou a Primeira Guerra Mundial?",
+    "o": ["Assassinato do arquiduque Francisco Ferdinando", "Ataque a Pearl Harbor", "Revolução Russa", "Tratado de Versalhes"],
+    "a": 0
+  },
+  {
+    "q": "Quais eram os principais países da Tríplice Entente?",
+    "o": ["França, Rússia e Reino Unido", "Alemanha, Áustria-Hungria e Itália", "Estados Unidos, França e Alemanha", "Itália, Reino Unido e Japão"],
+    "a": 0
+  },
+  {
+    "q": "Qual tratado encerrou a Primeira Guerra Mundial?",
+    "o": ["Tratado de Versalhes", "Tratado de Tordesilhas", "Paz de Westfália", "Tratado de Paris"],
+    "a": 0
+  },
+  {
+    "q": "Em que ano começou a Segunda Guerra Mundial?",
+    "o": ["1939", "1914", "1945", "1929"],
+    "a": 0
+  },
+  {
+    "q": "Qual país invadiu a Polônia, dando início à Segunda Guerra Mundial?",
+    "o": ["Alemanha", "Itália", "Japão", "União Soviética"],
+    "a": 0
+  },
+  {
+    "q": "Quem era o líder da Alemanha nazista durante a Segunda Guerra Mundial?",
+    "o": ["Adolf Hitler", "Benito Mussolini", "Winston Churchill", "Joseph Stalin"],
+    "a": 0
+  },
+  {
+    "q": "Qual país foi atacado em Pearl Harbor em 1941?",
+    "o": ["Estados Unidos", "Japão", "Alemanha", "Itália"],
+    "a": 0
+  },
+  {
+    "q": "O que foi o Holocausto?",
+    "o": ["Extermínio de judeus e minorias pelo regime nazista", "Batalha da Normandia", "Invasão da União Soviética", "Acordo de Munique"],
+    "a": 0
+  },
+  {
+    "q": "Quem liderava a União Soviética durante a Segunda Guerra Mundial?",
+    "o": ["Joseph Stalin", "Vladimir Lenin", "Leon Trotsky", "Mikhail Gorbachev"],
+    "a": 0
+  },
+  {
+    "q": "Qual foi a principal batalha do front ocidental na Primeira Guerra Mundial?",
+    "o": ["Batalha de Verdun", "Batalha de Stalingrado", "Batalha de Midway", "Batalha de Normandia"],
+    "a": 0
+  },
+  {
+    "q": "Qual foi o principal ataque aéreo que marcou a Segunda Guerra Mundial no Pacífico?",
+    "o": ["Pearl Harbor", "Hiroshima", "Dresden", "Normandia"],
+    "a": 0
+  },
+  {
+    "q": "Qual conferência definiu o pós-guerra da Segunda Guerra Mundial?",
+    "o": ["Conferência de Potsdam", "Tratado de Versalhes", "Conferência de Viena", "Tratado de Paris"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o primeiro-ministro britânico durante grande parte da Segunda Guerra Mundial?",
+    "o": ["Winston Churchill", "Neville Chamberlain", "David Lloyd George", "Clement Attlee"],
+    "a": 0
+  },
+  {
+    "q": "O que foi o Dia D?",
+    "o": ["Invasão da Normandia pelos Aliados em 1944", "Ataque a Pearl Harbor", "Queda de Berlim", "Batalha de Midway"],
+    "a": 0
+  },
+  {
+    "q": "Qual bomba foi lançada sobre Hiroshima?",
+    "o": ["Bomba atômica", "Bomba de fósforo", "Bomba convencional", "Bomba de napalm"],
+    "a": 0
+  },
+  {
+    "q": "Qual país foi invadido pela Alemanha na operação Barbarossa?",
+    "o": ["União Soviética", "França", "Polônia", "Noruega"],
+    "a": 0
+  },
+  {
+    "q": "Qual foi o tratado que encerrou oficialmente a Primeira Guerra Mundial?",
+    "o": ["Tratado de Versalhes", "Paz de Westfália", "Tratado de Tordesilhas", "Tratado de Utrecht"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o presidente dos EUA durante a Segunda Guerra Mundial?",
+    "o": ["Franklin D. Roosevelt", "Harry S. Truman", "Woodrow Wilson", "Theodore Roosevelt"],
+    "a": 0
+  },
+  {
+    "q": "Qual evento marcou o fim da Segunda Guerra Mundial?",
+    "o": ["Capitulação da Alemanha e Japão em 1945", "Invasão da Normandia", "Ataque a Pearl Harbor", "Tratado de Versalhes"],
+    "a": 0
+  }
+]

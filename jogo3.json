@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual é o objetivo principal em World of Warships?",
+    "o": ["Destruir navios inimigos e capturar áreas", "Construir bases", "Coletar moedas", "Explorar ilhas"],
+    "a": 0
+  },
+  {
+    "q": "Qual tipo de navio é mais rápido e ágil?",
+    "o": ["Destroyer", "Battleship", "Cruiser", "Aircraft Carrier"],
+    "a": 0
+  },
+  {
+    "q": "Qual navio possui maior poder de fogo e blindagem?",
+    "o": ["Battleship", "Destroyer", "Cruiser", "Submarine"],
+    "a": 0
+  },
+  {
+    "q": "Qual navio lança aeronaves para atacar inimigos a distância?",
+    "o": ["Aircraft Carrier", "Cruiser", "Battleship", "Destroyer"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o papel principal dos cruzadores?",
+    "o": ["Equilibrar ataque e defesa", "Explodir navios grandes", "Somente suporte", "Lançar torpedos a longa distância"],
+    "a": 0
+  },
+  {
+    "q": "Qual recurso é usado para melhorar os navios?",
+    "o": ["XP e créditos", "Diamantes", "Tokens", "Pontos de mana"],
+    "a": 0
+  },
+  {
+    "q": "Qual país é famoso pelos destroyers rápidos e torpedos letais?",
+    "o": ["Japão", "EUA", "Alemanha", "Rússia"],
+    "a": 0
+  },
+  {
+    "q": "Qual armamento é ideal para combate a curta distância?",
+    "o": ["Torpedos", "Canhões de longo alcance", "Aeronaves", "Mísseis de cruzeiro"],
+    "a": 0
+  },
+  {
+    "q": "Qual navio é especializado em suporte e ataque equilibrado?",
+    "o": ["Cruiser", "Destroyer", "Battleship", "Aircraft Carrier"],
+    "a": 0
+  },
+  {
+    "q": "Qual tipo de munição pode penetrar blindagem pesada?",
+    "o": ["AP (Armor Piercing)", "HE (High Explosive)", "Torpedos", "Mísseis"],
+    "a": 0
+  },
+  {
+    "q": "Qual navio é mais difícil de detectar?",
+    "o": ["Destroyer", "Battleship", "Cruiser", "Aircraft Carrier"],
+    "a": 0
+  },
+  {
+    "q": "Qual país possui navios conhecidos pela blindagem forte e canhões pesados?",
+    "o": ["EUA", "Japão", "Alemanha", "Rússia"],
+    "a": 2
+  },
+  {
+    "q": "Qual recurso é usado para reparar navios durante a batalha?",
+    "o": ["Consumíveis", "Créditos", "XP", "V-Bucks"],
+    "a": 0
+  },
+  {
+    "q": "Qual navio tem capacidade de lançar ataques aéreos de longo alcance?",
+    "o": ["Aircraft Carrier", "Destroyer", "Cruiser", "Battleship"],
+    "a": 0
+  },
+  {
+    "q": "Qual armamento é usado por destroyers para atacar navios grandes?",
+    "o": ["Torpedos", "Canhões leves", "Aeronaves", "Mísseis guiados"],
+    "a": 0
+  },
+  {
+    "q": "Qual país é famoso pelos cruzadores equilibrados entre ataque e defesa?",
+    "o": ["Japão", "EUA", "Alemanha", "Reino Unido"],
+    "a": 3
+  },
+  {
+    "q": "Qual navio é vulnerável a ataques aéreos mas tem grande poder de fogo?",
+    "o": ["Battleship", "Destroyer", "Cruiser", "Aircraft Carrier"],
+    "a": 0
+  },
+  {
+    "q": "Qual habilidade de capitão aumenta a velocidade de recarga dos canhões?",
+    "o": ["Reload Boost", "Damage Control", "Torpedo Acceleration", "Aiming Assist"],
+    "a": 0
+  },
+  {
+    "q": "Qual navio é especializado em ataques furtivos e rápidos?",
+    "o": ["Destroyer", "Battleship", "Cruiser", "Aircraft Carrier"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a estratégia para vencer batalhas em World of Warships?",
+    "o": ["Combinar ataque, defesa e posicionamento tático", "Atacar sem estratégia", "Somente usar torpedos", "Focar apenas em aviação"],
+    "a": 0
+  }
+]

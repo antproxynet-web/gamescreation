@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quem foi o faraó mais famoso do Egito antigo?",
+    "o": ["Tutancâmon", "Ramsés II", "Cleópatra", "Akhenaton"],
+    "a": 0
+  },
+  {
+    "q": "Qual rainha governou o Egito e teve alianças com Júlio César e Marco Antônio?",
+    "o": ["Cleópatra", "Nefertiti", "Hatshepsut", "Tiye"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o rei da Macedônia que conquistou grande parte do mundo antigo?",
+    "o": ["Alexandre, o Grande", "Filipo II", "Dario III", "Hannibal"],
+    "a": 0
+  },
+  {
+    "q": "Qual rainha liderou a Inglaterra durante a era elisabetana?",
+    "o": ["Rainha Elizabeth I", "Rainha Vitória", "Rainha Mary I", "Rainha Anne"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o imperador romano que transformou o cristianismo em religião oficial?",
+    "o": ["Constantino I", "Júlio César", "Augusto", "Nero"],
+    "a": 0
+  },
+  {
+    "q": "Qual rei francês foi conhecido como o Rei Sol?",
+    "o": ["Luís XIV", "Francisco I", "Carlos V", "Henrique IV"],
+    "a": 0
+  },
+  {
+    "q": "Qual imperador romano foi assassinado em 44 a.C.?",
+    "o": ["Júlio César", "Augusto", "Nero", "César Augusto"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi a rainha que governou a Inglaterra após Elizabeth I?",
+    "o": ["Rainha Maria I", "Rainha Vitória", "Rainha Ana", "Rainha Isabel II"],
+    "a": 2
+  },
+  {
+    "q": "Qual faraó feminino governou o Egito como rei, usando a coroa masculina?",
+    "o": ["Hatshepsut", "Cleópatra", "Nefertiti", "Tiye"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o rei que unificou a Pérsia e criou o Império Aquemênida?",
+    "o": ["Ciro, o Grande", "Dario I", "Xerxes", "Cambises II"],
+    "a": 0
+  },
+  {
+    "q": "Qual rei inglês assinou a Magna Carta em 1215?",
+    "o": ["João Sem Terra", "Ricardo Coração de Leão", "Henrique II", "Eduardo I"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o rei de Esparta durante a Batalha das Termópilas?",
+    "o": ["Leônidas I", "Alexandre, o Grande", "Dario III", "Filipo II"],
+    "a": 0
+  },
+  {
+    "q": "Qual imperador romano construiu a famosa Muralha na Britânia?",
+    "o": ["Adriano", "Augusto", "Trajano", "César Augusto"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi a rainha francesa executada durante a Revolução Francesa?",
+    "o": ["Maria Antonieta", "Luísa de Lorena", "Isabel de Aragão", "Catarina de Médici"],
+    "a": 0
+  },
+  {
+    "q": "Qual rei francês ficou famoso por suas guerras e expansões territoriais no século XVII?",
+    "o": ["Luís XIV", "Francisco I", "Henrique IV", "Carlos IX"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o imperador romano que começou a Pax Romana?",
+    "o": ["Augusto", "Júlio César", "Nero", "Trajano"],
+    "a": 0
+  },
+  {
+    "q": "Qual faraó do Egito antigo construiu a famosa pirâmide de Quéops?",
+    "o": ["Quéops", "Ramsés II", "Tutancâmon", "Kefrén"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi a rainha egípcia famosa por seu culto a Aton e reformas religiosas?",
+    "o": ["Nefertiti", "Cleópatra", "Hatshepsut", "Tiye"],
+    "a": 0
+  },
+  {
+    "q": "Qual rei persa enfrentou Alexandre, o Grande, nas batalhas de Grânico e Issos?",
+    "o": ["Dario III", "Ciro, o Grande", "Xerxes I", "Artaxerxes"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o rei francês que reinou durante a Revolução Francesa e o período Napoleônico?",
+    "o": ["Luís XVI", "Luís XIV", "Henrique IV", "Carlos X"],
+    "a": 0
+  }
+]

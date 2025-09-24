@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual é o principal objetivo do jogo Pou?",
+    "o": ["Cuidar e alimentar seu Pou", "Construir cidades", "Resolver enigmas", "Batalhar com inimigos"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a primeira coisa que você precisa fazer ao começar o jogo Pou?",
+    "o": ["Dar comida ao Pou", "Lavar o Pou", "Comprar roupas", "Brincar em minigames"],
+    "a": 0
+  },
+  {
+    "q": "Como você pode aumentar a experiência do Pou?",
+    "o": ["Jogando minigames e cuidando dele", "Assistindo vídeos", "Dormindo", "Comprando itens"],
+    "a": 0
+  },
+  {
+    "q": "Qual recurso do jogo permite personalizar a aparência do Pou?",
+    "o": ["Roupas e acessórios", "Moedas", "Experiência", "Alimentos"],
+    "a": 0
+  },
+  {
+    "q": "Qual tipo de minigame permite ganhar moedas rapidamente?",
+    "o": ["Jogos de habilidade", "Quebra-cabeças", "Esportes", "Corridas de carros"],
+    "a": 0
+  },
+  {
+    "q": "Como você mantém o Pou saudável e feliz?",
+    "o": ["Alimentando, limpando e brincando com ele", "Comprando roupas", "Decorando a casa", "Assistindo vídeos"],
+    "a": 0
+  },
+  {
+    "q": "Qual recurso do jogo Pou permite decorar o ambiente dele?",
+    "o": ["Quarto do Pou", "Roupas", "Moedas", "Minigames"],
+    "a": 0
+  },
+  {
+    "q": "Como o Pou pode ganhar moedas dentro do jogo?",
+    "o": ["Jogando minigames e completando tarefas", "Dormindo", "Assistindo vídeos", "Fazendo compras"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a função das poções no jogo Pou?",
+    "o": ["Restaurar energia ou aumentar habilidades", "Comprar roupas", "Decorar a casa", "Ganhar moedas"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a principal forma de evoluir o Pou?",
+    "o": ["Aumentando seus níveis com cuidados e minigames", "Comprando roupas", "Decorando a casa", "Assistindo vídeos"],
+    "a": 0
+  },
+  {
+    "q": "Como você pode interagir com o Pou?",
+    "o": ["Tocando, alimentando, brincando e limpando", "Só observando", "Comprando itens", "Assistindo vídeos"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a função das roupas no Pou?",
+    "o": ["Personalizar a aparência", "Aumentar habilidades", "Ganhar moedas", "Cuidar da saúde"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a idade mínima recomendada para jogar Pou?",
+    "o": ["Livre para todas as idades", "12 anos", "16 anos", "18 anos"],
+    "a": 0
+  },
+  {
+    "q": "Qual item é usado para deixar o Pou limpo?",
+    "o": ["Sabonete e banho", "Comida", "Roupas", "Poções mágicas"],
+    "a": 0
+  },
+  {
+    "q": "Qual tipo de alimento o Pou pode comer?",
+    "o": ["Comida variada do jogo", "Somente frutas", "Somente doces", "Nenhuma"],
+    "a": 0
+  },
+  {
+    "q": "Como você pode aumentar a felicidade do Pou?",
+    "o": ["Brincando e cuidando dele regularmente", "Comprando roupas caras", "Dormindo com ele", "Decorando o quarto"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome do jogo que permite cuidar de um alienzinho virtual?",
+    "o": ["Pou", "Tamagotchi", "My Talking Tom", "Poulet"],
+    "a": 0
+  },
+  {
+    "q": "Como você pode personalizar o quarto do Pou?",
+    "o": ["Comprando móveis e itens decorativos", "Mudando a roupa dele", "Dando comida", "Jogando minigames"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o minigame mais popular dentro do Pou?",
+    "o": ["Pou Jump", "Pou Race", "Pou Puzzle", "Pou Soccer"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a recompensa principal por jogar minigames no Pou?",
+    "o": ["Moedas", "Roupas", "Decoração", "Poções"],
+    "a": 0
+  }
+]

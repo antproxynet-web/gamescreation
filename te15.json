@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que é inovação tecnológica?",
+    "o": ["Criação ou melhoria de produtos, processos ou serviços usando tecnologia", "Uso de tecnologia sem mudanças", "Trabalho manual", "Marketing tradicional"],
+    "a": 0
+  },
+  {
+    "q": "O que caracteriza uma inovação disruptiva?",
+    "o": ["Tecnologia que transforma um mercado e substitui soluções existentes", "Pequena melhoria em produto", "Treinamento de funcionários", "Promoção de vendas"],
+    "a": 0
+  },
+  {
+    "q": "O que é inovação incremental?",
+    "o": ["Melhoria contínua e gradual de produtos ou processos existentes", "Mudança radical do mercado", "Invenção de novos dispositivos", "Desenvolvimento de aplicativos apenas"],
+    "a": 0
+  },
+  {
+    "q": "Qual é um exemplo de inovação tecnológica no transporte?",
+    "o": ["Carros elétricos e autônomos", "Bicicletas comuns", "Caminhões a diesel antigos", "Trens a vapor"],
+    "a": 0
+  },
+  {
+    "q": "Qual é um exemplo de inovação tecnológica na comunicação?",
+    "o": ["Internet de alta velocidade e redes sociais", "Cartas e telegramas", "Telefone fixo apenas", "Rádio analógico"],
+    "a": 0
+  },
+  {
+    "q": "O que é tecnologia emergente?",
+    "o": ["Tecnologia em fase inicial com potencial de impacto futuro", "Ferramenta já consolidada no mercado", "Produto descartado", "Tecnologia obsoleta"],
+    "a": 0
+  },
+  {
+    "q": "O que é inteligência artificial (IA)?",
+    "o": ["Tecnologia que permite que máquinas realizem tarefas inteligentes como humanos", "Processador de computador", "Smartphone apenas", "Rede social"],
+    "a": 0
+  },
+  {
+    "q": "O que é blockchain?",
+    "o": ["Tecnologia de registro descentralizado e seguro de informações digitais", "Rede Wi-Fi comum", "Software de edição de imagens", "Aplicativo de música"],
+    "a": 0
+  },
+  {
+    "q": "O que são drones?",
+    "o": ["Veículos aéreos não tripulados usados para transporte, monitoramento ou lazer", "Robôs domésticos", "Smartphones voadores", "Carros autônomos"],
+    "a": 0
+  },
+  {
+    "q": "O que é realidade aumentada (AR)?",
+    "o": ["Tecnologia que sobrepõe elementos digitais ao mundo real", "Computador portátil", "Software de planilha", "Rede social"],
+    "a": 0
+  },
+  {
+    "q": "O que é realidade virtual (VR)?",
+    "o": ["Tecnologia que cria ambientes digitais imersivos", "Rede social", "Aplicativo de mensagens", "Processador de computador"],
+    "a": 0
+  },
+  {
+    "q": "O que é impressão 3D?",
+    "o": ["Tecnologia que permite criar objetos físicos a partir de modelos digitais", "Fotocopiadora comum", "Scanner 2D", "Software de design apenas"],
+    "a": 0
+  },
+  {
+    "q": "O que é internet das coisas (IoT)?",
+    "o": ["Conexão de dispositivos físicos à internet para troca de dados e automação", "Rede social", "Aplicativo de fotos", "Computador desktop"],
+    "a": 0
+  },
+  {
+    "q": "O que é computação em nuvem?",
+    "o": ["Uso de servidores remotos para armazenamento e processamento de dados", "Computador local apenas", "Software offline", "Hardware físico tradicional"],
+    "a": 0
+  },
+  {
+    "q": "O que é um smartwatch?",
+    "o": ["Relógio inteligente conectado a dispositivos móveis e aplicativos", "Relógio comum", "Tablet portátil", "Smartphone pequeno"],
+    "a": 0
+  },
+  {
+    "q": "O que é um carro autônomo?",
+    "o": ["Veículo que dirige sozinho usando sensores, IA e softwares avançados", "Carro comum", "Bicicleta elétrica", "Ônibus convencional"],
+    "a": 0
+  },
+  {
+    "q": "O que é big data?",
+    "o": ["Análise de grandes volumes de dados para tomar decisões estratégicas", "Planilha comum", "Rede social", "Software de edição de imagem"],
+    "a": 0
+  },
+  {
+    "q": "O que é tecnologia verde?",
+    "o": ["Tecnologia que reduz impactos ambientais e promove sustentabilidade", "Computador antigo", "Carro a diesel", "Software offline"],
+    "a": 0
+  },
+  {
+    "q": "O que é inovação aberta?",
+    "o": ["Prática de buscar ideias e soluções externas para desenvolver novos produtos", "Criação de tecnologia internamente apenas", "Produção em massa sem pesquisa", "Treinamento de funcionários"],
+    "a": 0
+  },
+  {
+    "q": "O que é um laboratório de inovação?",
+    "o": ["Espaço onde se testam e desenvolvem novas tecnologias e soluções", "Escritório administrativo", "Sala de reunião comum", "Fábrica de produtos tradicionais"],
+    "a": 0
+  }
+]

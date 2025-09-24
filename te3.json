@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual empresa lançou o primeiro iPhone?",
+    "o": ["Apple", "Samsung", "Nokia", "Microsoft"],
+    "a": 0
+  },
+  {
+    "q": "Qual foi o primeiro console de videogame popular da Nintendo?",
+    "o": ["Nintendo Entertainment System (NES)", "GameCube", "Wii", "Switch"],
+    "a": 0
+  },
+  {
+    "q": "O que é o Oculus Rift?",
+    "o": ["Um headset de realidade virtual", "Um smartwatch", "Um tablet", "Um smartphone antigo"],
+    "a": 0
+  },
+  {
+    "q": "Qual foi o primeiro smartwatch famoso da Apple?",
+    "o": ["Apple Watch", "Pebble", "Fitbit Versa", "Samsung Galaxy Watch"],
+    "a": 0
+  },
+  {
+    "q": "Qual empresa lançou o smartphone Galaxy?",
+    "o": ["Samsung", "Apple", "Huawei", "LG"],
+    "a": 0
+  },
+  {
+    "q": "O que é o Nintendo Switch?",
+    "o": ["Console híbrido portátil e doméstico", "Console de realidade virtual", "Tablet gamer", "Smartwatch para jogos"],
+    "a": 0
+  },
+  {
+    "q": "Qual empresa é famosa pelos fones de ouvido AirPods?",
+    "o": ["Apple", "Sony", "Bose", "Beats"],
+    "a": 0
+  },
+  {
+    "q": "O que é o Kindle?",
+    "o": ["Leitor de livros digitais da Amazon", "Tablet de desenho", "Smartphone da Amazon", "Console portátil"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o principal recurso do GoPro?",
+    "o": ["Câmera de ação resistente à água e movimento", "Drone de filmagem", "Smartphone gamer", "Tablet fotográfico"],
+    "a": 0
+  },
+  {
+    "q": "O que é o Fitbit?",
+    "o": ["Pulseira ou smartwatch para monitoramento de atividades físicas", "Tablet de saúde", "Câmera de pulso", "Console de exercícios"],
+    "a": 0
+  },
+  {
+    "q": "Qual foi o primeiro smartphone da Google?",
+    "o": ["Google Pixel", "Nexus One", "Android One", "Samsung Galaxy"],
+    "a": 1
+  },
+  {
+    "q": "O que é o Nintendo Game Boy?",
+    "o": ["Console portátil de videogame lançado nos anos 90", "Smartphone antigo", "Tablet de jogos", "Console doméstico"],
+    "a": 0
+  },
+  {
+    "q": "Qual empresa lançou o tablet iPad?",
+    "o": ["Apple", "Samsung", "Microsoft", "Amazon"],
+    "a": 0
+  },
+  {
+    "q": "O que é o DJI Phantom?",
+    "o": ["Drone popular para fotografia e vídeo aéreo", "Console portátil", "Smartwatch avançado", "Tablet profissional"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o gadget famoso por rastrear a saúde do usuário, incluindo batimentos cardíacos?",
+    "o": ["Apple Watch", "Kindle", "AirPods", "Nintendo Switch"],
+    "a": 0
+  },
+  {
+    "q": "O que é o PlayStation VR?",
+    "o": ["Headset de realidade virtual para consoles PlayStation", "Console portátil", "Tablet gamer", "Smartwatch de jogos"],
+    "a": 0
+  },
+  {
+    "q": "Qual empresa fabrica os fones de ouvido Beats?",
+    "o": ["Beats by Dre", "Sony", "Apple", "Samsung"],
+    "a": 0
+  },
+  {
+    "q": "O que é o Raspberry Pi?",
+    "o": ["Computador de placa única usado para projetos e aprendizado de programação", "Smartphone barato", "Console portátil", "Tablet educativo"],
+    "a": 0
+  },
+  {
+    "q": "Qual empresa lançou o smartphone Moto G?",
+    "o": ["Motorola", "Nokia", "Samsung", "Apple"],
+    "a": 0
+  },
+  {
+    "q": "O que é o Oculus Quest?",
+    "o": ["Headset de realidade virtual independente, sem necessidade de PC", "Smartphone gamer", "Console portátil", "Tablet de realidade aumentada"],
+    "a": 0
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual é a solução da equação 2x + 4 = 10?",
+    "o": ["x = 2", "x = 3", "x = 4", "x = 5"],
+    "a": 1
+  },
+  {
+    "q": "Qual é a raiz da equação x² - 9 = 0?",
+    "o": ["x = 9", "x = ±3", "x = ±9", "x = 3"],
+    "a": 1
+  },
+  {
+    "q": "Se f(x) = 2x + 1, qual é f(4)?",
+    "o": ["7", "8", "9", "10"],
+    "a": 2
+  },
+  {
+    "q": "Qual é a solução da equação 5x - 10 = 0?",
+    "o": ["x = -5", "x = 0", "x = 2", "x = 5"],
+    "a": 3
+  },
+  {
+    "q": "Qual é a raiz da equação x² = 25?",
+    "o": ["x = 25", "x = ±5", "x = 5", "x = ±25"],
+    "a": 1
+  },
+  {
+    "q": "Qual é o valor de y quando x = 2 na função y = 3x - 1?",
+    "o": ["3", "4", "5", "6"],
+    "a": 1
+  },
+  {
+    "q": "Qual é a soma das raízes da equação x² - 7x + 12 = 0?",
+    "o": ["5", "6", "7", "12"],
+    "a": 2
+  },
+  {
+    "q": "Qual é o produto das raízes da equação x² - 5x + 6 = 0?",
+    "o": ["-6", "0", "5", "6"],
+    "a": 3
+  },
+  {
+    "q": "Se f(x) = x², qual é f(-3)?",
+    "o": ["-9", "9", "6", "0"],
+    "a": 1
+  },
+  {
+    "q": "Qual é a solução da equação 3x + 2 = 11?",
+    "o": ["x = 2", "x = 3", "x = 4", "x = 5"],
+    "a": 1
+  },
+  {
+    "q": "A equação x² - 16 = 0 tem como soluções:",
+    "o": ["x = 16", "x = -16", "x = ±4", "x = ±8"],
+    "a": 2
+  },
+  {
+    "q": "Qual é o coeficiente angular da função y = 4x + 2?",
+    "o": ["2", "3", "4", "5"],
+    "a": 2
+  },
+  {
+    "q": "Qual é a ordenada na origem da função y = 2x + 5?",
+    "o": ["2", "3", "4", "5"],
+    "a": 3
+  },
+  {
+    "q": "Se f(x) = x + 7, qual é f(0)?",
+    "o": ["0", "1", "7", "14"],
+    "a": 2
+  },
+  {
+    "q": "A equação x² + x - 6 = 0 tem como soluções:",
+    "o": ["x = -3 e x = 2", "x = -2 e x = 3", "x = -6 e x = 1", "x = -1 e x = 6"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o valor de x em 4x - 8 = 0?",
+    "o": ["x = -8", "x = -2", "x = 2", "x = 8"],
+    "a": 2
+  },
+  {
+    "q": "Se f(x) = 2x², qual é f(3)?",
+    "o": ["9", "12", "18", "20"],
+    "a": 2
+  },
+  {
+    "q": "Qual é o gráfico da função y = 2x + 1?",
+    "o": ["Uma parábola", "Uma reta crescente", "Uma reta decrescente", "Uma hipérbole"],
+    "a": 1
+  },
+  {
+    "q": "Qual é o discriminante (Δ) da equação x² - 4x + 4 = 0?",
+    "o": ["0", "4", "8", "16"],
+    "a": 0
+  },
+  {
+    "q": "Se f(x) = √x, qual é f(9)?",
+    "o": ["2", "3", "9", "81"],
+    "a": 1
+  }
+]

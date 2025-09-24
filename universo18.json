@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que é o espaço profundo?",
+    "o": ["Região do universo fora do Sistema Solar e das estrelas próximas", "A órbita da Terra", "A Lua", "O interior do Sol"],
+    "a": 0
+  },
+  {
+    "q": "O que são galáxias?",
+    "o": ["Grandes sistemas de estrelas, gás, poeira e matéria escura", "Pequenos asteroides", "Planetas gigantes", "Buracos negros isolados"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a galáxia onde vivemos?",
+    "o": ["Via Láctea", "Andrômeda", "Triângulo", "Sombrero"],
+    "a": 0
+  },
+  {
+    "q": "O que são nebulosas?",
+    "o": ["Nuvens de gás e poeira onde nascem estrelas", "Pequenos planetas", "Buracos negros", "Cometas"],
+    "a": 0
+  },
+  {
+    "q": "O que é uma galáxia elíptica?",
+    "o": ["Galáxia com formato oval e estrelas antigas", "Galáxia espiral", "Galáxia irregular", "Galáxia anã"],
+    "a": 0
+  },
+  {
+    "q": "O que é uma galáxia espiral?",
+    "o": ["Galáxia com braços em espiral e núcleo brilhante", "Galáxia sem forma definida", "Galáxia elíptica", "Galáxia anã"],
+    "a": 0
+  },
+  {
+    "q": "O que são buracos negros?",
+    "o": ["Regiões do espaço com gravidade tão intensa que nada escapa", "Estrelas gigantes vermelhas", "Planetas gasosos", "Nebulosas"],
+    "a": 0
+  },
+  {
+    "q": "O que são quasares?",
+    "o": ["Fontes extremamente luminosas em galáxias distantes", "Pequenas estrelas próximas", "Cometas de longa órbita", "Estrelas de nêutrons"],
+    "a": 0
+  },
+  {
+    "q": "O que é a radiação cósmica de fundo?",
+    "o": ["Radiação remanescente do Big Bang detectável em todo o universo", "Energia de supernovas", "Luz das estrelas próximas", "Energia da Terra"],
+    "a": 0
+  },
+  {
+    "q": "O que são aglomerados de galáxias?",
+    "o": ["Grandes estruturas de várias galáxias ligadas pela gravidade", "Pequenos planetas", "Nebulosas jovens", "Buracos negros isolados"],
+    "a": 0
+  },
+  {
+    "q": "O que é a matéria escura?",
+    "o": ["Matéria invisível que exerce gravidade mas não emite luz", "Planetas distantes", "Estrelas cadentes", "Cometas"],
+    "a": 0
+  },
+  {
+    "q": "O que é a energia escura?",
+    "o": ["Força que acelera a expansão do universo", "Gravidade de galáxias", "Energia do Sol", "Radiação de supernovas"],
+    "a": 0
+  },
+  {
+    "q": "O que são pulsares?",
+    "o": ["Estrelas de nêutrons que emitem radiação periódica", "Buracos negros supermassivos", "Cometas longínquos", "Estrelas gigantes vermelhas"],
+    "a": 0
+  },
+  {
+    "q": "O que é uma supernova?",
+    "o": ["Explosão de uma estrela no fim de sua vida", "Nascimento de planeta", "Formação de cometa", "Estrela nova jovem"],
+    "a": 0
+  },
+  {
+    "q": "O que é a expansão do universo?",
+    "o": ["Fenômeno em que galáxias se afastam umas das outras", "Rotação da Terra", "Movimento da Lua", "Fusão nuclear no Sol"],
+    "a": 0
+  },
+  {
+    "q": "O que são exoplanetas?",
+    "o": ["Planetas que orbitam estrelas fora do Sistema Solar", "Planetas do Sistema Solar", "Estrelas pequenas", "Aglomerados de poeira"],
+    "a": 0
+  },
+  {
+    "q": "O que é uma estrela de nêutrons?",
+    "o": ["Remanescente extremamente denso de uma estrela massiva", "Estrela pequena e fria", "Planeta gigante", "Nebulosa jovem"],
+    "a": 0
+  },
+  {
+    "q": "O que são cometas?",
+    "o": ["Corpos de gelo e poeira que orbitam o Sol", "Estrelas cadentes", "Pequenos planetas", "Buracos negros pequenos"],
+    "a": 0
+  },
+  {
+    "q": "O que são galáxias irregulares?",
+    "o": ["Galáxias sem forma definida, geralmente devido a interações gravitacionais", "Galáxias elípticas", "Galáxias espirais", "Pequenos aglomerados de estrelas"],
+    "a": 0
+  },
+  {
+    "q": "O que é um quasar ativo?",
+    "o": ["Núcleo galáctico extremamente luminoso devido a buraco negro supermassivo", "Estrela jovem", "Cometa brilhante", "Nebulosa em formação"],
+    "a": 0
+  }
+]

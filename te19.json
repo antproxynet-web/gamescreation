@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que é um sistema operacional (SO)?",
+    "o": ["Software que gerencia hardware e recursos do computador", "Aplicativo de edição", "Navegador de internet", "Antivírus"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a função principal de um sistema operacional?",
+    "o": ["Gerenciar hardware, software e recursos do computador", "Criar planilhas", "Editar vídeos", "Enviar e-mails automaticamente"],
+    "a": 0
+  },
+  {
+    "q": "Qual é um exemplo de sistema operacional de desktop?",
+    "o": ["Windows", "Android", "iOS", "WhatsApp"],
+    "a": 0
+  },
+  {
+    "q": "Qual é um exemplo de sistema operacional de dispositivos móveis?",
+    "o": ["Android", "Linux Ubuntu", "Windows 10", "macOS"],
+    "a": 0
+  },
+  {
+    "q": "Qual é um sistema operacional da Apple para desktops?",
+    "o": ["macOS", "iOS", "Android", "Windows"],
+    "a": 0
+  },
+  {
+    "q": "Qual é um sistema operacional da Apple para dispositivos móveis?",
+    "o": ["iOS", "macOS", "Android", "Linux"],
+    "a": 0
+  },
+  {
+    "q": "O que é kernel em um sistema operacional?",
+    "o": ["Parte central que gerencia comunicação entre hardware e software", "Programa de edição de imagem", "Aplicativo de redes sociais", "Antivírus"],
+    "a": 0
+  },
+  {
+    "q": "O que é multitarefa em sistemas operacionais?",
+    "o": ["Capacidade de executar múltiplos processos ao mesmo tempo", "Execução de apenas um programa", "Impressão de arquivos", "Reinício do computador"],
+    "a": 0
+  },
+  {
+    "q": "O que é gerenciamento de memória em um SO?",
+    "o": ["Controlar a alocação e liberação de memória para programas", "Salvar arquivos manualmente", "Editar planilhas", "Enviar e-mails automaticamente"],
+    "a": 0
+  },
+  {
+    "q": "O que é gerenciamento de processos em um SO?",
+    "o": ["Controle da execução de programas e threads", "Criação de pastas", "Edição de vídeos", "Impressão de arquivos"],
+    "a": 0
+  },
+  {
+    "q": "O que é um sistema operacional de código aberto?",
+    "o": ["SO cujo código fonte pode ser acessado e modificado por qualquer pessoa", "SO pago e fechado", "Aplicativo móvel", "Software de edição"],
+    "a": 0
+  },
+  {
+    "q": "Qual é um exemplo de SO de código aberto?",
+    "o": ["Linux", "Windows", "macOS", "iOS"],
+    "a": 0
+  },
+  {
+    "q": "O que é sistema de arquivos em um SO?",
+    "o": ["Estrutura que organiza dados e diretórios no armazenamento", "Programa de edição de imagens", "Antivírus", "Software de música"],
+    "a": 0
+  },
+  {
+    "q": "O que é interface gráfica (GUI)?",
+    "o": ["Interface que permite interação com o computador usando janelas, ícones e menus", "Linha de comando apenas", "Aplicativo de notas", "Editor de áudio"],
+    "a": 0
+  },
+  {
+    "q": "O que é interface de linha de comando (CLI)?",
+    "o": ["Interface que permite interação via comandos digitados pelo usuário", "Interface gráfica", "Editor de vídeo", "Aplicativo de fotos"],
+    "a": 0
+  },
+  {
+    "q": "O que é virtualização em sistemas operacionais?",
+    "o": ["Execução de múltiplos sistemas operacionais em uma mesma máquina", "Instalação de um único SO", "Aplicativo de edição de planilhas", "Editor de imagens"],
+    "a": 0
+  },
+  {
+    "q": "O que é atualização de sistema operacional?",
+    "o": ["Processo de instalar melhorias e correções de segurança no SO", "Desinstalar aplicativos", "Editar documentos", "Formatar planilhas"],
+    "a": 0
+  },
+  {
+    "q": "O que é driver de dispositivo?",
+    "o": ["Programa que permite o SO comunicar-se com hardware específico", "Software de edição", "Aplicativo de redes sociais", "Navegador de internet"],
+    "a": 0
+  },
+  {
+    "q": "O que é um sistema operacional em tempo real?",
+    "o": ["SO que processa informações e respostas imediatamente ou dentro de prazos rígidos", "SO de desktop comum", "Aplicativo móvel", "Software de edição de imagens"],
+    "a": 0
+  },
+  {
+    "q": "O que é segurança em sistemas operacionais?",
+    "o": ["Proteção do SO contra acessos não autorizados, malware e vulnerabilidades", "Criação de pastas", "Edição de vídeos", "Impressão de arquivos"],
+    "a": 0
+  }
+]

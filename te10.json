@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que é robótica?",
+    "o": ["Ramo da engenharia que projeta, constrói e opera robôs", "Estudo de computadores apenas", "Criação de softwares de escritório", "Desenvolvimento de redes sociais"],
+    "a": 0
+  },
+  {
+    "q": "O que é um robô industrial?",
+    "o": ["Robô usado em fábricas para automatizar tarefas de produção", "Robô doméstico", "Robô de entretenimento", "Aplicativo móvel"],
+    "a": 0
+  },
+  {
+    "q": "O que é um robô autônomo?",
+    "o": ["Robô capaz de operar sem intervenção humana direta", "Robô controlado por controle remoto", "Software de inteligência artificial", "Drone de entrega"],
+    "a": 0
+  },
+  {
+    "q": "O que é um manipulador robótico?",
+    "o": ["Braço robótico usado para manipular objetos", "Robô de entretenimento", "Software de desenho", "Veículo autônomo"],
+    "a": 0
+  },
+  {
+    "q": "O que é um robô humanoide?",
+    "o": ["Robô que imita aparência e movimentos humanos", "Robô industrial simples", "Braço mecânico automatizado", "Dron robotizado"],
+    "a": 0
+  },
+  {
+    "q": "O que é inteligência artificial em robótica?",
+    "o": ["Tecnologia que permite que robôs aprendam e tomem decisões", "Software de edição de fotos", "Rede social", "Sistema operacional"],
+    "a": 0
+  },
+  {
+    "q": "O que é um drone?",
+    "o": ["Veículo aéreo não tripulado que pode ser controlado remotamente ou operar autonomamente", "Robô de fábrica", "Braço robótico", "Computador portátil"],
+    "a": 0
+  },
+  {
+    "q": "O que são sensores em robótica?",
+    "o": ["Dispositivos que permitem ao robô perceber o ambiente", "Software de design", "Placa-mãe do computador", "Dispositivo de armazenamento"],
+    "a": 0
+  },
+  {
+    "q": "O que é um robô cirúrgico?",
+    "o": ["Robô usado para auxiliar cirurgias com precisão e menor invasão", "Robô doméstico", "Software de medicina", "Braço mecânico industrial"],
+    "a": 0
+  },
+  {
+    "q": "O que é robótica móvel?",
+    "o": ["Área da robótica que estuda robôs capazes de se locomover autonomamente", "Robôs fixos em fábricas", "Software de controle", "Redes de computadores"],
+    "a": 0
+  },
+  {
+    "q": "O que é programação de robôs?",
+    "o": ["Processo de criar instruções que o robô deve seguir", "Instalação de hardware", "Criação de redes sociais", "Edição de fotos"],
+    "a": 0
+  },
+  {
+    "q": "O que é um robô colaborativo (cobot)?",
+    "o": ["Robô projetado para trabalhar junto com seres humanos de forma segura", "Robô industrial perigoso", "Drone autônomo", "Software de escritório"],
+    "a": 0
+  },
+  {
+    "q": "O que é robótica educacional?",
+    "o": ["Uso de robôs e kits educativos para ensinar ciência, tecnologia, engenharia e matemática", "Robôs de indústria", "Drones militares", "Programas de computador apenas"],
+    "a": 0
+  },
+  {
+    "q": "O que é um robô de exploração espacial?",
+    "o": ["Robô projetado para investigar outros planetas ou ambientes extraterrestres", "Robô doméstico", "Software de astronomia", "Drone urbano"],
+    "a": 0
+  },
+  {
+    "q": "O que é um atuador em robótica?",
+    "o": ["Dispositivo que converte energia em movimento no robô", "Sensor de ambiente", "Placa-mãe", "Software de controle"],
+    "a": 0
+  },
+  {
+    "q": "O que é aprendizado de máquina em robótica?",
+    "o": ["Método que permite que robôs melhorem seu desempenho a partir de dados e experiências", "Programação básica", "Manual de instruções", "Controle remoto manual"],
+    "a": 0
+  },
+  {
+    "q": "O que é teleoperar um robô?",
+    "o": ["Controlar um robô remotamente a partir de outro local", "Programar autonomamente", "Construir robôs", "Criar sensores artificiais"],
+    "a": 0
+  },
+  {
+    "q": "O que são robôs sociais?",
+    "o": ["Robôs projetados para interagir e comunicar com humanos de forma social", "Robôs industriais", "Software de edição de vídeo", "Drones de entrega"],
+    "a": 0
+  },
+  {
+    "q": "O que é um robô subaquático?",
+    "o": ["Robô projetado para explorar ou trabalhar em ambientes aquáticos", "Robô de cozinha", "Braço mecânico", "Drone aéreo"],
+    "a": 0
+  },
+  {
+    "q": "O que é sensores táteis em robôs?",
+    "o": ["Sensores que permitem ao robô sentir pressão ou toque", "Sensores de vídeo", "Software de inteligência artificial", "Placa-mãe do robô"],
+    "a": 0
+  }
+]

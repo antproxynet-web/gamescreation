@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual é a média aritmética de 10, 20 e 30?",
+    "o": ["15", "20", "25", "30"],
+    "a": 1
+  },
+  {
+    "q": "Qual é a mediana da lista 5, 7, 9?",
+    "o": ["5", "7", "9", "Nenhuma"],
+    "a": 1
+  },
+  {
+    "q": "Na lista 2, 4, 4, 6, 8, qual é a moda?",
+    "o": ["2", "4", "6", "8"],
+    "a": 1
+  },
+  {
+    "q": "Qual é a amplitude dos dados 3, 7, 10, 15?",
+    "o": ["7", "10", "12", "15"],
+    "a": 2
+  },
+  {
+    "q": "Se a média de três números é 12, qual é a soma deles?",
+    "o": ["24", "30", "36", "40"],
+    "a": 2
+  },
+  {
+    "q": "Qual é a média dos números 2, 4, 6, 8?",
+    "o": ["4", "5", "6", "7"],
+    "a": 1
+  },
+  {
+    "q": "Na lista 1, 2, 3, 4, 5, qual é a mediana?",
+    "o": ["2", "3", "4", "5"],
+    "a": 1
+  },
+  {
+    "q": "Se todos os valores de um conjunto aumentam em 5, a média:",
+    "o": ["Diminui 5", "Aumenta 5", "Não muda", "Zera"],
+    "a": 1
+  },
+  {
+    "q": "Qual é a moda dos números 7, 8, 8, 9, 10?",
+    "o": ["7", "8", "9", "10"],
+    "a": 1
+  },
+  {
+    "q": "Em uma prova, as notas foram 6, 7, 7, 8, 10. Qual é a mediana?",
+    "o": ["7", "7.5", "8", "10"],
+    "a": 0
+  },
+  {
+    "q": "A soma dos desvios em relação à média sempre é:",
+    "o": ["Zero", "Positiva", "Negativa", "Indefinida"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a média ponderada das notas 5 (peso 2) e 9 (peso 3)?",
+    "o": ["7", "7.5", "8", "8.5"],
+    "a": 2
+  },
+  {
+    "q": "Na lista 2, 4, 6, 8, 10, qual é a média?",
+    "o": ["5", "6", "7", "8"],
+    "a": 1
+  },
+  {
+    "q": "Qual medida é mais afetada por valores extremos?",
+    "o": ["Média", "Mediana", "Moda", "Amplitude"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a mediana da lista 1, 2, 3, 4, 5, 6?",
+    "o": ["2.5", "3", "3.5", "4"],
+    "a": 2
+  },
+  {
+    "q": "Qual é a moda dos números 1, 2, 3, 4?",
+    "o": ["1", "2", "3", "Não existe"],
+    "a": 3
+  },
+  {
+    "q": "Se a média de 4 números é 8, qual é a soma deles?",
+    "o": ["16", "24", "32", "40"],
+    "a": 2
+  },
+  {
+    "q": "Qual é a amplitude dos valores 12, 15, 18, 30?",
+    "o": ["15", "16", "18", "20"],
+    "a": 3
+  },
+  {
+    "q": "O desvio padrão mede:",
+    "o": ["A soma dos dados", "A dispersão dos dados", "A mediana", "A moda"],
+    "a": 1
+  },
+  {
+    "q": "A média, mediana e moda de 5, 5, 5 são:",
+    "o": ["Iguais a 5", "Diferentes", "Iguais a 0", "Não existem"],
+    "a": 0
+  }
+]

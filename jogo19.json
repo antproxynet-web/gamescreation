@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual é o objetivo principal em The Legend of Zelda?",
+    "o": ["Salvar a princesa Zelda e derrotar Ganon", "Construir cidades", "Coletar moedas", "Resolver enigmas em escolas"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o protagonista da série?",
+    "o": ["Link", "Zelda", "Ganon", "Impa"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o principal vilão em quase todos os jogos?",
+    "o": ["Ganon", "Link", "Zelda", "Impa"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a arma icônica de Link?",
+    "o": ["Espada Mestra", "Arco e flecha", "Lança", "Martelo"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o principal reino onde a história acontece?",
+    "o": ["Hyrule", "Termina", "Koholint", "Lorule"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o objeto mágico que Link muitas vezes precisa coletar?",
+    "o": ["Triforce", "Master Key", "Heart Container", "Rupees"],
+    "a": 0
+  },
+  {
+    "q": "Quem é a princesa que Link deve salvar?",
+    "o": ["Zelda", "Impa", "Midna", "Ruto"],
+    "a": 0
+  },
+  {
+    "q": "Qual instrumento musical é famoso na série Zelda?",
+    "o": ["Ocarina", "Flauta", "Guitarra", "Tambor"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o modo de transporte rápido em muitos jogos de Zelda?",
+    "o": ["Cavalo", "Barco", "Tapete mágico", "Carro"],
+    "a": 0
+  },
+  {
+    "q": "Qual item permite a Link explorar lugares altos e cavernas?",
+    "o": ["Gancho (Hookshot)", "Bumerangue", "Escudo", "Botas de ferro"],
+    "a": 0
+  },
+  {
+    "q": "Qual criatura ajuda Link com dicas ou histórias em alguns jogos?",
+    "o": ["NPCs (personagens não jogáveis)", "Ganon", "Zelda", "Impa"],
+    "a": 0
+  },
+  {
+    "q": "Qual item recupera a vida de Link?",
+    "o": ["Coração (Heart)", "Rupee", "Triforce", "Fairy"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o vilão que se transforma em um porco em Ocarina of Time?",
+    "o": ["Ganondorf", "Ganon", "Dark Link", "Skull Kid"],
+    "a": 0
+  },
+  {
+    "q": "Qual jogo introduziu a exploração em mundo aberto na série recente?",
+    "o": ["Breath of the Wild", "Ocarina of Time", "Twilight Princess", "Skyward Sword"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem acompanha Link e dá dicas em Majora's Mask?",
+    "o": ["Tatl (fada)", "Navi", "Impa", "Midna"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o tipo de puzzle mais comum nas masmorras de Zelda?",
+    "o": ["Acionar alavancas, blocos e chaves", "Quebra-cabeça de números", "Jogo de cartas", "Labirinto de cidade"],
+    "a": 0
+  },
+  {
+    "q": "Qual item mágico lança fogo em alguns jogos?",
+    "o": ["Bastonete de fogo (Fire Rod)", "Espada Mestra", "Escudo", "Arco de gelo"],
+    "a": 0
+  },
+  {
+    "q": "Qual inimigo voador é comum na série?",
+    "o": ["Keese", "Bokoblin", "Lynel", "Darknut"],
+    "a": 0
+  },
+  {
+    "q": "Qual ferramenta permite que Link viaje rapidamente entre pontos?",
+    "o": ["Pontos de teletransporte (Warp Points)", "Cavalo", "Barco", "Tapete mágico"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a moeda principal usada na série?",
+    "o": ["Rupees", "Gold Coins", "Silver", "Crowns"],
+    "a": 0
+  }
+]

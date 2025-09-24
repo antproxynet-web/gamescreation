@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual é o objetivo principal em PUBG Mobile?",
+    "o": ["Ser o último sobrevivente em um campo de batalha", "Construir cidades", "Coletar moedas", "Resolver enigmas"],
+    "a": 0
+  },
+  {
+    "q": "Quantos jogadores podem participar de uma partida clássica?",
+    "o": ["Até 100 jogadores", "Até 50 jogadores", "Até 150 jogadores", "Até 200 jogadores"],
+    "a": 0
+  },
+  {
+    "q": "Qual mapa foi lançado primeiro em PUBG Mobile?",
+    "o": ["Erangel", "Miramar", "Sanhok", "Vikendi"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a moeda premium usada para comprar itens no jogo?",
+    "o": ["UC (Unknown Cash)", "BP (Battle Points)", "RP (Royal Points)", "Gemas"],
+    "a": 0
+  },
+  {
+    "q": "Como é chamado o círculo que diminui durante a partida?",
+    "o": ["Zona Azul", "Zona Vermelha", "Safe Zone", "Danger Zone"],
+    "a": 0
+  },
+  {
+    "q": "Qual arma é famosa por ser uma sniper potente?",
+    "o": ["AWM", "AKM", "M416", "UMP9"],
+    "a": 0
+  },
+  {
+    "q": "Qual item é usado para recuperar vida rapidamente?",
+    "o": ["Kit de Primeiros Socorros", "Bandagem", "Pílula", "Comida"],
+    "a": 0
+  },
+  {
+    "q": "Qual veículo terrestre é icônico em PUBG Mobile?",
+    "o": ["Dacia", "Jeep", "Moto", "Tanque"],
+    "a": 0
+  },
+  {
+    "q": "Qual tipo de armadura reduz o dano recebido?",
+    "o": ["Colete", "Capacete", "Mochila", "Escudo"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome do modo de jogo onde os jogadores enfrentam zumbis?",
+    "o": ["Modo Zumbi", "Modo Sobrevivência", "Modo Apocalipse", "Modo Invasão"],
+    "a": 0
+  },
+  {
+    "q": "Como se chama a área marcada que recebe bombardeios?",
+    "o": ["Zona Vermelha", "Zona Azul", "Safe Zone", "Campo de Batalha"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome do modo competitivo 4v4 com rounds curtos?",
+    "o": ["Clash Squad", "Modo Arena", "Modo Zumbi", "Modo Battle Royale"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome da mochila que aumenta a capacidade de itens?",
+    "o": ["Mochila Nível 3", "Mochila Nível 2", "Mochila Nível 1", "Mochila Extra"],
+    "a": 0
+  },
+  {
+    "q": "Qual veículo aéreo é usado para transporte rápido?",
+    "o": ["Helicóptero", "Avioneta", "Balão", "Parapente"],
+    "a": 1
+  },
+  {
+    "q": "Qual arma de assalto é muito popular no jogo?",
+    "o": ["M416", "AWM", "Kar98k", "UMP9"],
+    "a": 0
+  },
+  {
+    "q": "Qual item aumenta a resistência a tiros na cabeça?",
+    "o": ["Capacete", "Colete", "Escudo", "Máscara"],
+    "a": 0
+  },
+  {
+    "q": "Qual modo de jogo é rápido e arcade, com respawns?",
+    "o": ["Modo Arcade", "Modo Battle Royale", "Modo Clássico", "Modo Zumbi"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome do mapa desértico em PUBG Mobile?",
+    "o": ["Miramar", "Erangel", "Sanhok", "Vikendi"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome do mapa tropical com partidas rápidas?",
+    "o": ["Sanhok", "Erangel", "Miramar", "Vikendi"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o item que permite aumentar a mira da arma?",
+    "o": ["Mira telescópica", "Mochila", "Coletor", "Lanterna"],
+    "a": 0
+  }
+]

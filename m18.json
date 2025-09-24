@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que é uma matriz?",
+    "o": ["Um conjunto de números dispostos em linhas e colunas", "Um vetor em linha", "Um número primo", "Um polinômio"],
+    "a": 0
+  },
+  {
+    "q": "O que é um vetor?",
+    "o": ["Um número único", "Um segmento de reta com direção e sentido", "Uma matriz quadrada", "Um ângulo"],
+    "a": 1
+  },
+  {
+    "q": "Qual é a dimensão de uma matriz 3x2?",
+    "o": ["3 linhas e 2 colunas", "2 linhas e 3 colunas", "3 linhas e 3 colunas", "2 linhas e 2 colunas"],
+    "a": 0
+  },
+  {
+    "q": "Como se chama a matriz com todos os elementos iguais a zero?",
+    "o": ["Matriz identidade", "Matriz nula", "Matriz diagonal", "Matriz inversa"],
+    "a": 1
+  },
+  {
+    "q": "Como se chama a matriz quadrada com 1s na diagonal principal e 0s nos demais elementos?",
+    "o": ["Matriz nula", "Matriz identidade", "Matriz transposta", "Matriz inversa"],
+    "a": 1
+  },
+  {
+    "q": "A soma de duas matrizes só é possível se:",
+    "o": ["Tiverem a mesma dimensão", "Tiverem números primos", "Forem quadradas", "Forem inversas"],
+    "a": 0
+  },
+  {
+    "q": "O que é a transposta de uma matriz?",
+    "o": ["A matriz multiplicada por 2", "A matriz com linhas e colunas trocadas", "A matriz inversa", "A matriz nula"],
+    "a": 1
+  },
+  {
+    "q": "Qual é o resultado de multiplicar uma matriz por um escalar?",
+    "o": ["Cada elemento da matriz multiplicado pelo escalar", "A matriz transposta", "A matriz inversa", "O determinante da matriz"],
+    "a": 0
+  },
+  {
+    "q": "O que é o determinante de uma matriz 2x2 [[a, b],[c, d]]?",
+    "o": ["a + d", "ad – bc", "ab – cd", "a × b × c × d"],
+    "a": 1
+  },
+  {
+    "q": "Um vetor nulo é:",
+    "o": ["Vetor com comprimento zero", "Vetor com comprimento 1", "Vetor de dimensão 2", "Vetor unitário"],
+    "a": 0
+  },
+  {
+    "q": "Como se calcula a soma de dois vetores?",
+    "o": ["Somando módulo e multiplicando direção", "Somando componente a componente", "Somando apenas as direções", "Somando apenas os sentidos"],
+    "a": 1
+  },
+  {
+    "q": "O produto escalar de dois vetores resulta em:",
+    "o": ["Um vetor", "Um número real", "Uma matriz", "Um ângulo"],
+    "a": 1
+  },
+  {
+    "q": "O produto vetorial de dois vetores resulta em:",
+    "o": ["Um vetor", "Um número real", "Uma matriz", "Um escalar zero"],
+    "a": 0
+  },
+  {
+    "q": "Dois vetores são ortogonais se:",
+    "o": ["Tiverem mesmo comprimento", "Seu produto escalar for zero", "Seu produto vetorial for zero", "Estiverem na mesma direção"],
+    "a": 1
+  },
+  {
+    "q": "Uma matriz quadrada é invertível se:",
+    "o": ["Seu determinante for zero", "Seu determinante for diferente de zero", "Tiver linhas iguais", "Tiver colunas nulas"],
+    "a": 1
+  },
+  {
+    "q": "O que é uma matriz diagonal?",
+    "o": ["Matriz com elementos diferentes de zero apenas na diagonal principal", "Matriz com todos os elementos iguais a zero", "Matriz quadrada invertível", "Matriz com linhas iguais"],
+    "a": 0
+  },
+  {
+    "q": "O que é uma matriz identidade multiplicada por qualquer matriz A?",
+    "o": ["Gera a matriz nula", "Gera a própria matriz A", "Gera a transposta de A", "Gera o determinante de A"],
+    "a": 1
+  },
+  {
+    "q": "O comprimento (módulo) de um vetor v = (x, y) é:",
+    "o": ["x + y", "√(x² + y²)", "x² + y²", "xy"],
+    "a": 1
+  },
+  {
+    "q": "O ângulo entre dois vetores u e v pode ser calculado usando:",
+    "o": ["Produto escalar e módulos dos vetores", "Produto vetorial apenas", "Determinante da matriz dos vetores", "Soma das componentes"],
+    "a": 0
+  },
+  {
+    "q": "O que é um vetor unitário?",
+    "o": ["Vetor com módulo 1", "Vetor nulo", "Vetor paralelo a outro vetor", "Vetor perpendicular a outro vetor"],
+    "a": 0
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que é cibersegurança?",
+    "o": ["Prática de proteger sistemas, redes e dados contra ataques digitais", "Uso de redes sociais", "Instalação de hardware", "Programação de jogos"],
+    "a": 0
+  },
+  {
+    "q": "O que é malware?",
+    "o": ["Software malicioso projetado para danificar ou invadir sistemas", "Programa de edição de vídeo", "Aplicativo de mensagens", "Antivírus"],
+    "a": 0
+  },
+  {
+    "q": "O que é phishing?",
+    "o": ["Ataque em que criminosos tentam obter informações confidenciais se passando por fontes confiáveis", "Vírus de computador", "Ataque físico", "Backup de dados"],
+    "a": 0
+  },
+  {
+    "q": "O que é ransomware?",
+    "o": ["Malware que bloqueia ou criptografa arquivos e exige pagamento para liberar", "Software de backup", "Firewall", "Antivírus gratuito"],
+    "a": 0
+  },
+  {
+    "q": "O que é firewall?",
+    "o": ["Sistema que monitora e controla o tráfego de rede para proteger contra acessos não autorizados", "Software de edição", "Aplicativo móvel", "Servidor DNS"],
+    "a": 0
+  },
+  {
+    "q": "O que é autenticação de dois fatores (2FA)?",
+    "o": ["Método que exige duas formas de verificação para acessar uma conta", "Senha única", "Login automático", "Chave USB"],
+    "a": 0
+  },
+  {
+    "q": "O que é criptografia?",
+    "o": ["Processo de codificar informações para que somente destinatários autorizados possam ler", "Backup de arquivos", "Edição de imagem", "Configuração de rede"],
+    "a": 0
+  },
+  {
+    "q": "O que é um ataque DDoS?",
+    "o": ["Ataque que sobrecarrega um servidor ou rede com tráfego intenso, tornando-o indisponível", "Roubo de senha", "Spyware instalado", "Antivírus desativado"],
+    "a": 0
+  },
+  {
+    "q": "O que é engenharia social em cibersegurança?",
+    "o": ["Técnica de manipular pessoas para revelar informações confidenciais", "Ataque físico", "Software malicioso", "Backup automático"],
+    "a": 0
+  },
+  {
+    "q": "O que é um antivírus?",
+    "o": ["Software que detecta, previne e remove malware", "Editor de texto", "Firewall de hardware", "Backup em nuvem"],
+    "a": 0
+  },
+  {
+    "q": "O que é VPN (Virtual Private Network)?",
+    "o": ["Rede privada que protege a conexão do usuário e mantém anonimato online", "Rede local doméstica", "Servidor web", "Computador offline"],
+    "a": 0
+  },
+  {
+    "q": "O que é um trojan?",
+    "o": ["Malware que se disfarça como software legítimo para enganar o usuário", "Programa seguro", "Firewall", "Atualização de sistema"],
+    "a": 0
+  },
+  {
+    "q": "O que é spyware?",
+    "o": ["Software que coleta informações do usuário sem consentimento", "Programa de backup", "Firewall", "Antivírus"],
+    "a": 0
+  },
+  {
+    "q": "O que é brute force attack?",
+    "o": ["Tentativa de descobrir senhas testando todas as combinações possíveis", "Phishing", "Ataque DDoS", "Criptografia avançada"],
+    "a": 0
+  },
+  {
+    "q": "O que é patch de segurança?",
+    "o": ["Atualização que corrige vulnerabilidades em softwares e sistemas", "Nova função em um app", "Arquivo de música", "Backup de arquivos"],
+    "a": 0
+  },
+  {
+    "q": "O que é engenharia reversa?",
+    "o": ["Análise de software para entender seu funcionamento e identificar vulnerabilidades", "Criação de senhas fortes", "Backup de sistemas", "Firewall avançado"],
+    "a": 0
+  },
+  {
+    "q": "O que é autenticação biométrica?",
+    "o": ["Método de acesso usando características físicas, como impressão digital ou reconhecimento facial", "Senha simples", "PIN numérico", "Token físico"],
+    "a": 0
+  },
+  {
+    "q": "O que é honeypot em cibersegurança?",
+    "o": ["Sistema criado para atrair hackers e estudar seus ataques", "Firewall avançado", "VPN segura", "Backup de nuvem"],
+    "a": 0
+  },
+  {
+    "q": "O que é GDPR?",
+    "o": ["Regulamento europeu que protege dados pessoais e privacidade online", "Software antivírus", "Protocolo de rede", "Ataque hacker"],
+    "a": 0
+  },
+  {
+    "q": "O que é segurança em camadas?",
+    "o": ["Estratégia que combina múltiplas medidas de proteção para aumentar a defesa", "Backup único", "Firewall isolado", "Antivírus offline"],
+    "a": 0
+  }
+]

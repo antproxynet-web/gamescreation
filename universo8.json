@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que é uma galáxia?",
+    "o": ["Um grande conjunto de estrelas, gás, poeira e matéria escura", "Um planeta gigante", "Uma estrela isolada", "Um buraco negro"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a galáxia onde vivemos?",
+    "o": ["Via Láctea", "Andrômeda", "Triângulo", "Coração"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a galáxia mais próxima da Via Láctea?",
+    "o": ["Andrômeda", "Triângulo", "Grande Nuvem de Magalhães", "Coração"],
+    "a": 0
+  },
+  {
+    "q": "O que é o buraco negro supermassivo no centro da Via Láctea?",
+    "o": ["Sagittarius A*", "M87*", "Cygnus X-1", "Andrômeda X"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o fenômeno que permite que galáxias distantes sejam detectadas?",
+    "o": ["Desvio para o vermelho (Redshift)", "Supernova", "Radiação de fundo", "Aurora cósmica"],
+    "a": 0
+  },
+  {
+    "q": "O que são galáxias elípticas?",
+    "o": ["Galáxias com formato arredondado ou elíptico, com estrelas antigas", "Galáxias espirais", "Galáxias irregulares", "Galáxias barradas"],
+    "a": 0
+  },
+  {
+    "q": "O que são galáxias espirais?",
+    "o": ["Galáxias com braços em espiral e geralmente com formação estelar ativa", "Galáxias elípticas", "Galáxias irregulares", "Galáxias barradas"],
+    "a": 0
+  },
+  {
+    "q": "O que são galáxias irregulares?",
+    "o": ["Galáxias sem forma definida, frequentemente resultado de colisões", "Galáxias espirais", "Galáxias elípticas", "Galáxias duplas"],
+    "a": 0
+  },
+  {
+    "q": "O que é a matéria escura nas galáxias?",
+    "o": ["Matéria invisível que influencia a gravidade e a rotação galáctica", "Estrelas apagadas", "Buracos negros pequenos", "Cometas"],
+    "a": 0
+  },
+  {
+    "q": "O que são braços espirais em galáxias?",
+    "o": ["Regiões com maior concentração de estrelas, gás e poeira", "Buracos negros", "Núcleos galácticos", "Aglomerados globulares"],
+    "a": 0
+  },
+  {
+    "q": "O que é um quasar?",
+    "o": ["Núcleo galáctico extremamente luminoso com buraco negro supermassivo", "Galáxia elíptica", "Galáxia espiral", "Aglomerado estelar"],
+    "a": 0
+  },
+  {
+    "q": "O que é um aglomerado de galáxias?",
+    "o": ["Conjunto de dezenas ou centenas de galáxias ligadas gravitacionalmente", "Uma galáxia gigante", "Um sistema solar", "Um buraco negro múltiplo"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a galáxia mais massiva já observada?",
+    "o": ["IC 1101", "Andrômeda", "Via Láctea", "M87"],
+    "a": 0
+  },
+  {
+    "q": "O que é um buraco negro ativo em uma galáxia?",
+    "o": ["Um buraco negro que absorve grande quantidade de matéria e emite radiação intensa", "Buraco negro morto", "Estrela massiva", "Supernova"],
+    "a": 0
+  },
+  {
+    "q": "O que são galáxias barradas?",
+    "o": ["Galáxias espirais com uma barra central de estrelas", "Galáxias elípticas", "Galáxias irregulares", "Galáxias duplas"],
+    "a": 0
+  },
+  {
+    "q": "O que é fusão de galáxias?",
+    "o": ["Processo em que duas ou mais galáxias se fundem e formam uma nova", "Formação de uma estrela gigante", "Explosão de supernova", "Criação de buracos negros"],
+    "a": 0
+  },
+  {
+    "q": "O que é o halo galáctico?",
+    "o": ["Região esférica ao redor da galáxia contendo estrelas antigas e matéria escura", "Centro da galáxia", "Braço espiral", "Buraco negro central"],
+    "a": 0
+  },
+  {
+    "q": "O que são galáxias satélites?",
+    "o": ["Pequenas galáxias orbitando galáxias maiores", "Galáxias principais", "Buracos negros centrais", "Estrelas isoladas"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o futuro provável da Via Láctea?",
+    "o": ["Colidir e se fundir com Andrômeda", "Explodir como supernova", "Desaparecer misteriosamente", "Virar buraco negro gigante"],
+    "a": 0
+  },
+  {
+    "q": "O que é um núcleo galáctico ativo (AGN)?",
+    "o": ["Centro de galáxia com buraco negro supermassivo emitindo grande energia", "Estrela comum", "Planeta gigante", "Aglomerado estelar"],
+    "a": 0
+  }
+]

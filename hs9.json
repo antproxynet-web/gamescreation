@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual período histórico é conhecido como Renascença?",
+    "o": ["Séculos XIV a XVI", "Século XVII", "Séculos V a X", "Século XVIII"],
+    "a": 0
+  },
+  {
+    "q": "Em qual país a Renascença começou?",
+    "o": ["Itália", "França", "Inglaterra", "Espanha"],
+    "a": 0
+  },
+  {
+    "q": "Qual artista pintou a Mona Lisa?",
+    "o": ["Leonardo da Vinci", "Michelangelo", "Raphael", "Donatello"],
+    "a": 0
+  },
+  {
+    "q": "Qual artista esculpiu a estátua de David?",
+    "o": ["Michelangelo", "Leonardo da Vinci", "Raphael", "Donatello"],
+    "a": 0
+  },
+  {
+    "q": "Qual invenção de Gutenberg revolucionou a disseminação do conhecimento?",
+    "o": ["Imprensa", "Telescópio", "Bússola", "Régua"],
+    "a": 0
+  },
+  {
+    "q": "Qual era a principal filosofia da Renascença?",
+    "o": ["Humanismo", "Escolástica", "Feudalismo", "Teocentrismo"],
+    "a": 0
+  },
+  {
+    "q": "Quem pintou o teto da Capela Sistina?",
+    "o": ["Michelangelo", "Leonardo da Vinci", "Raphael", "Sandro Botticelli"],
+    "a": 0
+  },
+  {
+    "q": "Qual escritor italiano escreveu 'O Príncipe'?",
+    "o": ["Maquiavel", "Dante", "Boccaccio", "Petrarca"],
+    "a": 0
+  },
+  {
+    "q": "Qual explorador é associado às grandes navegações durante a Renascença?",
+    "o": ["Cristóvão Colombo", "Marco Polo", "Vasco da Gama", "Fernão de Magalhães"],
+    "a": 0
+  },
+  {
+    "q": "Qual cidade italiana era um centro cultural da Renascença?",
+    "o": ["Florença", "Roma", "Milão", "Veneza"],
+    "a": 0
+  },
+  {
+    "q": "Quem pintou 'O Nascimento de Vênus'?",
+    "o": ["Sandro Botticelli", "Leonardo da Vinci", "Michelangelo", "Raphael"],
+    "a": 0
+  },
+  {
+    "q": "Qual cientista desenvolveu a teoria heliocêntrica?",
+    "o": ["Nicolau Copérnico", "Galileu Galilei", "Isaac Newton", "Tycho Brahe"],
+    "a": 0
+  },
+  {
+    "q": "Qual invenção facilitou o estudo da anatomia humana na Renascença?",
+    "o": ["Desenhos anatômicos", "Telescópio", "Régua", "Imprensa"],
+    "a": 0
+  },
+  {
+    "q": "Quem é considerado o pai da perspectiva na pintura?",
+    "o": ["Filippo Brunelleschi", "Leonardo da Vinci", "Michelangelo", "Raphael"],
+    "a": 0
+  },
+  {
+    "q": "Qual movimento artístico e cultural valorizava o homem e a natureza?",
+    "o": ["Humanismo", "Barroco", "Gótico", "Românico"],
+    "a": 0
+  },
+  {
+    "q": "Qual cientista observou as luas de Júpiter com o telescópio?",
+    "o": ["Galileu Galilei", "Nicolau Copérnico", "Isaac Newton", "Tycho Brahe"],
+    "a": 0
+  },
+  {
+    "q": "Quem escreveu 'Divina Comédia'?",
+    "o": ["Dante Alighieri", "Maquiavel", "Boccaccio", "Petrarca"],
+    "a": 0
+  },
+  {
+    "q": "Qual artista pintou a 'Escola de Atenas'?",
+    "o": ["Raphael", "Michelangelo", "Leonardo da Vinci", "Donatello"],
+    "a": 0
+  },
+  {
+    "q": "Qual cientista formulou as leis da gravitação universal?",
+    "o": ["Isaac Newton", "Galileu Galilei", "Copérnico", "Tycho Brahe"],
+    "a": 0
+  },
+  {
+    "q": "Qual era o tema central da filosofia humanista?",
+    "o": ["O valor do ser humano e da razão", "A submissão à Igreja", "O poder dos reis", "A mitologia grega"],
+    "a": 0
+  }
+]

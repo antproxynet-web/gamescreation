@@ -1,0 +1,97 @@
+[
+  {
+    "q": "O que é uma função?",
+    "o": ["Uma relação que associa cada elemento de um conjunto a exatamente um elemento de outro conjunto", "Uma soma de números", "Um número elevado a outro", "Um vetor"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o domínio da função f(x) = √x?",
+    "o": ["Todos os números reais", "x ≥ 0", "x > 0", "x ≤ 0"],
+    "a": 1
+  },
+  {
+    "q": "Qual é o contradomínio da função f(x) = x²?",
+    "o": ["Todos os números reais", "x ≥ 0", "x ≤ 0", "Todos os números inteiros"],
+    "a": 1
+  },
+  {
+    "q": "Qual é a função inversa de f(x) = 2x + 3?",
+    "o": ["f⁻¹(x) = (x + 3)/2", "f⁻¹(x) = 2x – 3", "f⁻¹(x) = (x – 3)/2", "f⁻¹(x) = x/2 + 3"],
+    "a": 2
+  },
+  {
+    "q": "O que é uma função composta?",
+    "o": ["Função multiplicada por um número", "Função aplicada dentro de outra função", "Função inversa", "Função derivada"],
+    "a": 1
+  },
+  {
+    "q": "Se f(x) = x² e g(x) = x + 1, qual é (f ∘ g)(x)?",
+    "o": ["x² + 1", "(x + 1)²", "x² + x + 1", "x² – 1"],
+    "a": 1
+  },
+  {
+    "q": "O que é uma função injetora?",
+    "o": ["Função que não repete valores no contradomínio", "Função com gráfico em linha reta", "Função periódica", "Função sempre crescente"],
+    "a": 0
+  },
+  {
+    "q": "O que é uma função sobrejetora?",
+    "o": ["Função que atinge todo elemento do contradomínio", "Função que nunca atinge o contradomínio", "Função crescente", "Função decrescente"],
+    "a": 0
+  },
+  {
+    "q": "O que é uma função bijetora?",
+    "o": ["Função que é injetora e sobrejetora", "Função linear", "Função constante", "Função periódica"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o gráfico da função f(x) = x²?",
+    "o": ["Parábola voltada para cima", "Parábola voltada para baixo", "Reta crescente", "Reta decrescente"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o gráfico da função f(x) = -x²?",
+    "o": ["Parábola voltada para cima", "Parábola voltada para baixo", "Reta crescente", "Reta decrescente"],
+    "a": 1
+  },
+  {
+    "q": "O que é uma função periódica?",
+    "o": ["Função que se repete em intervalos regulares", "Função crescente", "Função decrescente", "Função linear"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o período da função f(x) = sen(x)?",
+    "o": ["π", "2π", "π/2", "4π"],
+    "a": 1
+  },
+  {
+    "q": "Qual é o período da função f(x) = cos(x)?",
+    "o": ["π", "2π", "π/2", "4π"],
+    "a": 1
+  },
+  {
+    "q": "O que significa uma função crescente?",
+    "o": ["f(x1) ≤ f(x2) para x1 < x2", "f(x1) ≥ f(x2) para x1 < x2", "f(x) constante", "f(x) negativa"],
+    "a": 0
+  },
+  {
+    "q": "O que significa uma função decrescente?",
+    "o": ["f(x1) ≤ f(x2) para x1 < x2", "f(x1) ≥ f(x2) para x1 < x2", "f(x) constante", "f(x) positiva"],
+    "a": 1
+  },
+  {
+    "q": "O que é uma função constante?",
+    "o": ["Função que assume o mesmo valor para todo x", "Função linear", "Função periódica", "Função crescente"],
+    "a": 0
+  },
+  {
+    "q": "O que é o domínio da função f(x) = 1/x?",
+    "o": ["Todos os números reais", "Todos os números reais exceto 0", "x > 0", "x < 0"],
+    "a": 1
+  },
+  {
+    "q": "O que é o contradomínio da função f(x) = 1/x?",
+    "o": ["Todos os números reais", "Todos os números reais exceto 0", "x > 0", "x < 0"],
+    "a": 1
+  }
+]

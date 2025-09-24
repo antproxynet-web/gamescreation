@@ -1,0 +1,262 @@
+[
+  {
+    "q": "Qual bloco foi adicionado no Nether na versão 1.16?",
+    "o": ["Basalto", "Tuff", "Dripstone", "Magma Block"],
+    "a": 0
+  },
+  {
+    "q": "Qual mob é conhecido por explodir quando se aproxima do jogador?",
+    "o": ["Creeper", "Enderman", "Ghast", "Warden"],
+    "a": 0
+  },
+  {
+    "q": "Qual jogador é conhecido como o 'Rei do PvP' no Dream SMP?",
+    "o": ["Dream", "Technoblade", "TommyInnit", "Sapnap"],
+    "a": 1
+  },
+  {
+    "q": "Qual é o nome verdadeiro de Dream?",
+    "o": ["Clay", "George", "Alex", "Tommy"],
+    "a": 0
+  },
+  {
+    "q": "Qual versão introduziu o Warden no Minecraft?",
+    "o": ["1.17", "1.18", "1.19", "1.20"],
+    "a": 2
+  },
+  {
+    "q": "Qual é o novo item que permite localizar pontos de interesse na versão 1.19?",
+    "o": ["Bundle", "Recovery Compass", "Spyglass", "Totem of Undying"],
+    "a": 1
+  },
+  {
+    "q": "Em qual versão foi introduzido o Netherite?",
+    "o": ["1.16", "1.17", "1.18", "1.19"],
+    "a": 0
+  },
+  {
+    "q": "Qual mob dropa a cabeça quando morto por um Creeper explodindo?",
+    "o": ["Zumbi", "Esqueleto", "Enderman", "Cave Spider"],
+    "a": 1
+  },
+  {
+    "q": "Qual é o nome do irmão de Dream que também joga no Dream SMP?",
+    "o": ["GeorgeNotFound", "Sapnap", "BadBoyHalo", "TommyInnit"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a função do Sculk Sensor?",
+    "o": ["Detectar vibrações", "Gerar luz", "Curar mobs", "Aumentar velocidade"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome do cavalo de Technoblade?",
+    "o": ["Carl", "Steve", "Alex", "Bob"],
+    "a": 0
+  },
+  {
+    "q": "Qual bloco é necessário para criar um Beacon?",
+    "o": ["Netherite Block", "Emerald Block", "Diamond Block", "Iron Block"],
+    "a": 3
+  },
+  {
+    "q": "Qual versão adicionou Axolotls ao jogo?",
+    "o": ["1.16", "1.17", "1.18", "1.19"],
+    "a": 3
+  },
+  {
+    "q": "Qual jogador ficou famoso por derrotar o Ender Dragon em Hardcore muitas vezes?",
+    "o": ["Dream", "Technoblade", "TommyInnit", "Tubbo"],
+    "a": 1
+  },
+  {
+    "q": "Qual mob do Nether ataca à distância com bolas de fogo?",
+    "o": ["Blaze", "Ghast", "Piglin", "Magma Cube"],
+    "a": 1
+  },
+  {
+    "q": "Em qual bioma você encontra Shulkers?",
+    "o": ["End Cities", "Savanna", "Desert Temple", "Jungle"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o efeito do Totem of Undying?",
+    "o": ["Revive o jogador", "Dá força extra", "Faz invisível", "Cura fome"],
+    "a": 0
+  },
+  {
+    "q": "Qual versão adicionou o bloco de cobre?",
+    "o": ["1.15", "1.16", "1.17", "1.18"],
+    "a": 2
+  },
+  {
+    "q": "Qual mob é encontrado no End e teleporta quando olhado?",
+    "o": ["Enderman", "Ender Dragon", "Shulker", "Chorus Plant"],
+    "a": 0
+  },
+  {
+    "q": "Quem fundou o Dream SMP?",
+    "o": ["Dream", "Technoblade", "Tubbo", "TommyInnit"],
+    "a": 0
+  },
+  {
+    "q": "Qual bloco é usado para criar um Farol (Beacon)?",
+    "o": ["Quartz Block", "Iron Block", "Gold Block", "Emerald Block"],
+    "a": 1
+  },
+  {
+    "q": "Qual é o nome do efeito que permite mover mais rápido em teias?",
+    "o": ["Weaving", "Wind Charged", "Infested", "Oozing"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o mob mais forte do Minecraft Vanilla?",
+    "o": ["Warden", "Ender Dragon", "Wither", "Elder Guardian"],
+    "a": 0
+  },
+  {
+    "q": "Qual versão adicionou o Goat (cabra) ao jogo?",
+    "o": ["1.16", "1.17", "1.18", "1.19"],
+    "a": 2
+  },
+  {
+    "q": "Qual jogador é famoso por criar estratégias de Redstone no Dream SMP?",
+    "o": ["Technoblade", "Tubbo", "GeorgeNotFound", "Dream"],
+    "a": 0
+  },
+  {
+    "q": "Qual bloco é usado para criar Copper Block?",
+    "o": ["Copper Ingot", "Iron Ingot", "Gold Ingot", "Netherite Ingot"],
+    "a": 0
+  },
+  {
+    "q": "Qual item permite voar no modo Criativo?",
+    "o": ["Elytra", "Feather", "Ender Pearl", "Potion of Levitation"],
+    "a": 0
+  },
+  {
+    "q": "Qual mob dropa prismarina shards?",
+    "o": ["Guardian", "Elder Guardian", "Drowned", "Squid"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome do bloco que detecta vibrações?",
+    "o": ["Sculk Sensor", "Observer", "Tripwire", "Note Block"],
+    "a": 0
+  },
+  {
+    "q": "Qual versão introduziu a Bundle (mochila) no Minecraft?",
+    "o": ["1.17", "1.18", "1.19", "1.20"],
+    "a": 2
+  },
+  {
+    "q": "Qual jogador famoso morreu em um acidente no Dream SMP, causando grande impacto na comunidade?",
+    "o": ["Technoblade", "Dream", "GeorgeNotFound", "Tubbo"],
+    "a": 0
+  },
+  {
+    "q": "Qual mob explode em contato com o jogador, mas pode ser desarmado se atacado de longe?",
+    "o": ["Creeper", "Enderman", "Slime", "Phantom"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o bloco mais resistente do Minecraft Vanilla?",
+    "o": ["Bedrock", "Obsidian", "Ancient Debris", "End Stone"],
+    "a": 0
+  },
+  {
+    "q": "Qual item permite viajar rápido para pontos de interesse?",
+    "o": ["Compass", "Recovery Compass", "Ender Pearl", "Map"],
+    "a": 1
+  },
+  {
+    "q": "Qual mob dropa couro?",
+    "o": ["Cow", "Pig", "Sheep", "Rabbit"],
+    "a": 0
+  },
+  {
+    "q": "Qual mob fica invisível quando molhado?",
+    "o": ["Enderman", "Warden", "Slime", "Phantom"],
+    "a": 0
+  },
+  {
+    "q": "Qual versão adicionou as Lush Caves?",
+    "o": ["1.16", "1.17", "1.18", "1.19"],
+    "a": 2
+  },
+  {
+    "q": "Qual jogador famoso usa o nome Technoblade?",
+    "o": ["Wilbur", "Dream", "George", "Tommy"],
+    "a": 0
+  },
+  {
+    "q": "Qual mob dropa Shulker Shell?",
+    "o": ["Shulker", "Enderman", "Guardian", "Ghast"],
+    "a": 0
+  },
+  {
+    "q": "Qual versão introduziu o Warden na Deep Dark?",
+    "o": ["1.18", "1.19", "1.20", "1.21"],
+    "a": 1
+  },
+  {
+    "q": "Qual item é necessário para criar uma Totem of Undying?",
+    "o": ["Emerald", "Totem", "None, it drops from Evokers", "Netherite Ingot"],
+    "a": 2
+  },
+  {
+    "q": "Qual mob explode em seu spawn quando você está em Hardcore?",
+    "o": ["Creeper", "Ghast", "Slime", "Phantom"],
+    "a": 0
+  },
+  {
+    "q": "Qual versão adicionou a Mangrove Swamp biome?",
+    "o": ["1.17", "1.18", "1.19", "1.20"],
+    "a": 2
+  },
+  {
+    "q": "Qual jogador famoso do Minecraft SMP morreu em 2022?",
+    "o": ["Technoblade", "Dream", "GeorgeNotFound", "Tubbo"],
+    "a": 0
+  },
+  {
+    "q": "Qual mob dropa Prismarine Crystals?",
+    "o": ["Guardian", "Elder Guardian", "Drowned", "Squid"],
+    "a": 0
+  },
+  {
+    "q": "Qual bloco é usado para criar telescópio (Spyglass)?",
+    "o": ["Amethyst Shard", "Copper Ingot", "Iron Ingot", "Glass"],
+    "a": 0
+  },
+  {
+    "q": "Qual jogador famoso ficou conhecido por speedruns de Minecraft?",
+    "o": ["Dream", "Technoblade", "Tubbo", "TommyInnit"],
+    "a": 0
+  },
+  {
+    "q": "Qual versão introduziu a biome de Deep Dark?",
+    "o": ["1.17", "1.18", "1.19", "1.20"],
+    "a": 2
+  },
+  {
+    "q": "Qual mob dropa couro e leite?",
+    "o": ["Cow", "Sheep", "Pig", "Mooshroom"],
+    "a": 0
+  },
+  {
+    "q": "Qual item permite detectar vibrações do Warden?",
+    "o": ["Sculk Sensor", "Observer", "Tripwire", "Note Block"],
+    "a": 0
+  },
+  {
+    "q": "Qual bloco explode quando ativado por redstone e fogo?",
+    "o": ["TNT", "Obsidian", "Sand", "Slime Block"],
+    "a": 0
+  },
+  {
+    "q": "Qual jogador famoso começou a jogar Minecraft usando o nome DreamXD?",
+    "o": ["Dream", "Technoblade", "GeorgeNotFound", "TommyInnit"],
+    "a": 0
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual é o objetivo principal no Free Fire?",
+    "o": ["Sobreviver até o final da partida", "Construir bases", "Coletar pontos", "Destruir edifícios"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem é conhecido por sua habilidade de regenerar HP mais rápido?",
+    "o": ["Alok", "Kelly", "Andrew", "Chrono"],
+    "a": 2
+  },
+  {
+    "q": "Qual arma é famosa pelo dano alto a curta distância?",
+    "o": ["MP40", "AK-47", "M1014", "AUG"],
+    "a": 2
+  },
+  {
+    "q": "Qual modo de jogo permite jogar com equipes de 4 jogadores?",
+    "o": ["Clássico", "Clash Squad", "Treino", "Solo Rush"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem tem habilidade de aumentar a velocidade de corrida?",
+    "o": ["Kelly", "Hayato", "Laura", "Moco"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome do sistema de moedas usado no Free Fire?",
+    "o": ["Diamantes", "Ouros", "Cash", "Tokens"],
+    "a": 0
+  },
+  {
+    "q": "Qual arma é uma sniper popular no Free Fire?",
+    "o": ["AWM", "M4A1", "MP40", "FAMAS"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem tem habilidade de criar uma zona de cura?",
+    "o": ["Chrono", "Alok", "Clu", "Caroline"],
+    "a": 1
+  },
+  {
+    "q": "Qual item é usado para curar imediatamente durante a partida?",
+    "o": ["Medkit", "Granada", "Armadura", "Flashbang"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem tem habilidade de mirar mais rápido?",
+    "o": ["Kelly", "Andrew", "Dasha", "Hayato"],
+    "a": 3
+  },
+  {
+    "q": "Qual é o mapa mais famoso do Free Fire?",
+    "o": ["Bermuda", "Purgatório", "Kalahari", "Titan"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem aumenta a resistência à queda de altura?",
+    "o": ["Jota", "Shani", "Miguel", "Clu"],
+    "a": 2
+  },
+  {
+    "q": "Qual veículo é popular para se deslocar rapidamente no Free Fire?",
+    "o": ["Carro", "Moto", "Barco", "Avião"],
+    "a": 1
+  },
+  {
+    "q": "Qual personagem pode reviver aliados mais rapidamente?",
+    "o": ["Alok", "Chrono", "Dasha", "Caroline"],
+    "a": 1
+  },
+  {
+    "q": "Qual arma é famosa por disparos automáticos a longa distância?",
+    "o": ["M4A1", "AK-47", "UMP", "MP40"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem tem habilidade de aumentar dano por tempo limitado?",
+    "o": ["Hayato", "Kelly", "Jota", "Moco"],
+    "a": 2
+  },
+  {
+    "q": "Qual item protege o jogador de dano por explosões e tiros?",
+    "o": ["Colete", "Capacete", "Medkit", "Granada"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem aumenta a velocidade de recarga de armas?",
+    "o": ["Shani", "Andrew", "Clu", "Dasha"],
+    "a": 0
+  },
+  {
+    "q": "Qual modo de jogo é baseado em rodadas curtas 4v4?",
+    "o": ["Clash Squad", "Clássico", "Treino", "Ranked Solo"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem reduz dano recebido de inimigos?",
+    "o": ["Miguel", "Jota", "Chrono", "Hayato"],
+    "a": 2
+  }
+]

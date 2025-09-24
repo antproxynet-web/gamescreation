@@ -1,0 +1,97 @@
+[
+  {
+    "q": "Qual é o objetivo principal em Granny?",
+    "o": ["Escapar da casa antes que a Granny te encontre", "Caçar a Granny", "Construir armadilhas", "Explorar o porão"],
+    "a": 0
+  },
+  {
+    "q": "Quantos dias o jogador tem para escapar da casa?",
+    "o": ["Cinco dias", "Três dias", "Sete dias", "Dez dias"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome do desenvolvedor de Granny?",
+    "o": ["DVloper", "Keplerians", "Supercell", "Epic Games"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome da personagem principal do jogo?",
+    "o": ["Granny", "Slendrina", "Mãe da Slendrina", "Vovó Malvada"],
+    "a": 0
+  },
+  {
+    "q": "O que acontece se você fizer barulho na casa?",
+    "o": ["A Granny te ouve e vem atrás de você", "Nada acontece", "Você perde pontos", "Você ganha pontos"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a principal estratégia para escapar de Granny?",
+    "o": ["Evitar fazer barulho e encontrar itens para destrancar saídas", "Atacar a Granny", "Ficar parado", "Correr o tempo todo"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome do jogo que é uma sequência de Granny?",
+    "o": ["Granny 2", "Granny's Revenge", "Granny Remake", "Granny Escape"],
+    "a": 0
+  },
+  {
+    "q": "Em Granny 2, quem são os novos antagonistas além da Granny?",
+    "o": ["Gramps e Slendrina", "Slendrina e Mãe da Slendrina", "Gramps e Mãe da Slendrina", "Slendrina e Slendrina's Baby"],
+    "a": 0
+  },
+  {
+    "q": "Onde o jogo Granny se passa?",
+    "o": ["Em uma casa escura e assustadora", "Em uma escola abandonada", "Em uma floresta", "Em um hospital"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a principal mecânica de jogo em Granny?",
+    "o": ["Furtividade e resolução de quebra-cabeças", "Ação e combate", "Exploração e coleta", "Construção e defesa"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome do modo de jogo onde você pode jogar com amigos?",
+    "o": ["Granny Escape Together", "Granny Multiplayer", "Granny Online", "Granny Co-op"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome do antagonista masculino em Granny 2?",
+    "o": ["Gramps", "Grandpa", "Old Man", "Grampsy"],
+    "a": 0
+  },
+  {
+    "q": "O que acontece se você for pego pela Granny?",
+    "o": ["Você perde uma vida", "Você ganha pontos", "Você avança de fase", "Nada acontece"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome da filha da Granny que aparece no jogo?",
+    "o": ["Mãe da Slendrina", "Slendrina", "Slendrina's Baby", "Granny's Daughter"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome do jogo que é uma versão remasterizada de Granny?",
+    "o": ["Granny Remake", "Granny HD", "Granny 3D", "Granny Reborn"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome do jogo que é uma versão mais difícil de Granny?",
+    "o": ["Granny Hard Mode", "Granny Extreme", "Granny Nightmare", "Granny Insane"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome do jogo que é uma versão mais fácil de Granny?",
+    "o": ["Granny Easy Mode", "Granny Lite", "Granny Casual", "Granny Beginner"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome do jogo que é uma versão mais assustadora de Granny?",
+    "o": ["Granny Horror Edition", "Granny Scary", "Granny Terror", "Granny Nightmare Edition"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome do jogo que é uma versão mais divertida de Granny?",
+    "o": ["Granny Fun Mode", "Granny Party", "Granny Arcade", "Granny Casual Mode"],
+    "a": 0
+  }
+]

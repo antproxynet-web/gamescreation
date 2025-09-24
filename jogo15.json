@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual é o objetivo principal em Assassin's Creed?",
+    "o": ["Cumprir missões e eliminar alvos importantes", "Construir cidades", "Coletar moedas", "Resolver enigmas"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o protagonista do primeiro Assassin's Creed?",
+    "o": ["Altair Ibn-La'Ahad", "Ezio Auditore", "Connor Kenway", "Bayek"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o protagonista de Assassin's Creed II?",
+    "o": ["Ezio Auditore", "Altair Ibn-La'Ahad", "Connor Kenway", "Edward Kenway"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a organização que os Assassinos combatem?",
+    "o": ["Ordem dos Templários", "Ordem dos Cavaleiros", "Ordem dos Mercadores", "Ordem dos Conquistadores"],
+    "a": 0
+  },
+  {
+    "q": "Em Assassin's Creed III, qual é o protagonista?",
+    "o": ["Connor Kenway", "Ezio Auditore", "Altair Ibn-La'Ahad", "Edward Kenway"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o protagonista de Assassin's Creed IV: Black Flag?",
+    "o": ["Edward Kenway", "Connor Kenway", "Ezio Auditore", "Altair Ibn-La'Ahad"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o principal recurso do Animus?",
+    "o": ["Reviver memórias genéticas de ancestrais", "Criar novas habilidades", "Decorar cidades", "Construir armas"],
+    "a": 0
+  },
+  {
+    "q": "Qual Assassin's Creed se passa no Antigo Egito?",
+    "o": ["Assassin's Creed Origins", "Assassin's Creed Odyssey", "Assassin's Creed Valhalla", "Assassin's Creed II"],
+    "a": 0
+  },
+  {
+    "q": "Qual Assassin's Creed se passa na Grécia Antiga?",
+    "o": ["Assassin's Creed Odyssey", "Assassin's Creed Origins", "Assassin's Creed Valhalla", "Assassin's Creed III"],
+    "a": 0
+  },
+  {
+    "q": "Qual Assassin's Creed se passa na Era Viking?",
+    "o": ["Assassin's Creed Valhalla", "Assassin's Creed Odyssey", "Assassin's Creed Origins", "Assassin's Creed IV"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a arma icônica dos Assassinos?",
+    "o": ["Lâmina escondida", "Espada longa", "Machado", "Arco e flecha"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o mentor de Ezio Auditore em Assassin's Creed II?",
+    "o": ["Mario Auditore", "Altair Ibn-La'Ahad", "Connor Kenway", "Bayek"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a habilidade especial dos Assassinos?",
+    "o": ["Se mover silenciosamente e assassinar com precisão", "Voar", "Teleportar", "Controlar animais"],
+    "a": 0
+  },
+  {
+    "q": "Qual Assassin's Creed introduziu o modo multijogador competitivo?",
+    "o": ["Assassin's Creed Brotherhood", "Assassin's Creed II", "Assassin's Creed III", "Assassin's Creed IV"],
+    "a": 0
+  },
+  {
+    "q": "Quem é o protagonista de Assassin's Creed Unity?",
+    "o": ["Arno Dorian", "Ezio Auditore", "Connor Kenway", "Edward Kenway"],
+    "a": 0
+  },
+  {
+    "q": "Qual Assassin's Creed permite jogar com Bayek?",
+    "o": ["Assassin's Creed Origins", "Assassin's Creed Odyssey", "Assassin's Creed Valhalla", "Assassin's Creed III"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o objetivo da Irmandade dos Assassinos?",
+    "o": ["Proteger a liberdade e combater os Templários", "Conquistar terras", "Coletar tesouros", "Controlar o governo"],
+    "a": 0
+  },
+  {
+    "q": "Qual Assassin's Creed se passa durante a Revolução Francesa?",
+    "o": ["Assassin's Creed Unity", "Assassin's Creed II", "Assassin's Creed III", "Assassin's Creed IV"],
+    "a": 0
+  },
+  {
+    "q": "Qual Assassin's Creed se passa no período colonial americano?",
+    "o": ["Assassin's Creed III", "Assassin's Creed IV", "Assassin's Creed Unity", "Assassin's Creed Origins"],
+    "a": 0
+  },
+  {
+    "q": "Qual Assassin's Creed foca na vida de piratas no Caribe?",
+    "o": ["Assassin's Creed IV: Black Flag", "Assassin's Creed III", "Assassin's Creed Unity", "Assassin's Creed Odyssey"],
+    "a": 0
+  }
+]

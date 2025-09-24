@@ -1,0 +1,97 @@
+[
+  {
+    "q": "O que é inteligência artificial (IA) no dia a dia?",
+    "o": ["Tecnologia que permite que sistemas realizem tarefas inteligentes automaticamente", "Computador comum", "Rede social", "Aplicativo de edição de fotos"],
+    "a": 0
+  },
+  {
+    "q": "Qual assistente virtual da Apple usa IA?",
+    "o": ["Siri", "Cortana", "Alexa", "Google Assistant"],
+    "a": 0
+  },
+  {
+    "q": "Qual assistente virtual do Google usa IA?",
+    "o": ["Google Assistant", "Siri", "Alexa", "Cortana"],
+    "a": 0
+  },
+  {
+    "q": "Qual assistente virtual da Amazon usa IA?",
+    "o": ["Alexa", "Siri", "Google Assistant", "Cortana"],
+    "a": 0
+  },
+  {
+    "q": "Como IA ajuda em aplicativos de mapas?",
+    "o": ["Calculando rotas, trânsito e previsão de chegada automaticamente", "Somente mostrando mapa estático", "Desenhando mapas manualmente", "Criando posts em redes sociais"],
+    "a": 0
+  },
+  {
+    "q": "Como IA auxilia em aplicativos de tradução?",
+    "o": ["Traduzindo textos e falas automaticamente usando aprendizado de máquina", "Somente com dicionário offline", "Tradução manual pelo usuário", "Criação de documentos PDF"],
+    "a": 0
+  },
+  {
+    "q": "Como IA é usada em recomendações de filmes e séries?",
+    "o": ["Sugerindo conteúdo baseado em preferências e histórico do usuário", "Escolha aleatória de filmes", "Somente top 10 da semana", "Publicando na rede social automaticamente"],
+    "a": 0
+  },
+  {
+    "q": "Como IA auxilia em aplicativos de música?",
+    "o": ["Criando playlists personalizadas e sugerindo faixas similares", "Somente tocando músicas aleatórias", "Download manual de músicas", "Editor de áudio profissional"],
+    "a": 0
+  },
+  {
+    "q": "Como IA é aplicada em smartphones para fotos?",
+    "o": ["Ajustando iluminação, foco e reconhecimento de cena automaticamente", "Somente clicando fotos manualmente", "Editando fotos offline", "Imprimindo fotos automaticamente"],
+    "a": 0
+  },
+  {
+    "q": "Como IA ajuda em compras online?",
+    "o": ["Sugerindo produtos baseados em comportamento de compra e preferências", "Mostrando produtos aleatórios", "Somente exibindo promoções fixas", "Publicando em redes sociais automaticamente"],
+    "a": 0
+  },
+  {
+    "q": "Como IA auxilia em aplicativos de saúde?",
+    "o": ["Monitorando sinais vitais, sugerindo exercícios e alertas de saúde", "Somente oferecendo textos médicos", "Receita manual de medicamentos", "Agendamento automático apenas"],
+    "a": 0
+  },
+  {
+    "q": "Como IA é usada em carros autônomos?",
+    "o": ["Detectando obstáculos, calculando rotas e controlando direção automaticamente", "Somente GPS manual", "Motor elétrico tradicional", "Aplicativos de música apenas"],
+    "a": 0
+  },
+  {
+    "q": "Como IA ajuda em aplicativos de previsão do tempo?",
+    "o": ["Analisando grandes volumes de dados para fornecer previsões precisas", "Somente observando nuvens", "Lendo boletins manuais", "Mostrando mapas antigos"],
+    "a": 0
+  },
+  {
+    "q": "Como IA é usada em e-mails e mensagens?",
+    "o": ["Filtrando spam, sugerindo respostas e priorizando mensagens", "Somente abrindo e-mails manualmente", "Organizando contatos apenas", "Enviando propaganda automaticamente"],
+    "a": 0
+  },
+  {
+    "q": "Como IA auxilia em assistentes domésticos inteligentes?",
+    "o": ["Controlando luzes, temperatura e aparelhos por comando de voz ou automação", "Somente ligando interruptores manualmente", "Ajustando apenas TVs", "Programando celulares manualmente"],
+    "a": 0
+  },
+  {
+    "q": "Como IA ajuda em aplicativos de transporte?",
+    "o": ["Calculando rotas, preços e tempo estimado para viagens", "Somente exibindo mapas estáticos", "Mostrando horários fixos de ônibus", "Vendendo passagens offline"],
+    "a": 0
+  },
+  {
+    "q": "Como IA auxilia em aplicativos de notícias?",
+    "o": ["Selecionando e recomendando conteúdos baseados em interesse do usuário", "Somente mostrando notícias de jornais impressos", "Publicando notícias aleatórias", "Editando vídeos de notícias manualmente"],
+    "a": 0
+  },
+  {
+    "q": "Como IA ajuda em aplicativos de segurança?",
+    "o": ["Reconhecendo rostos, atividades suspeitas e alertando em tempo real", "Somente gravando vídeos", "Bloqueando manualmente portas", "Ligando alarmes manualmente"],
+    "a": 0
+  },
+  {
+    "q": "Como IA é usada em tradução simultânea?",
+    "o": ["Convertendo fala de um idioma para outro quase em tempo real", "Somente traduzindo textos escritos", "Tradução offline manual", "Criando legendas fixas apenas"],
+    "a": 0
+  }
+]

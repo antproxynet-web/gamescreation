@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que é um cometa?",
+    "o": ["Um corpo celeste feito de gelo, poeira e rochas que orbita o Sol", "Um asteroide rochoso", "Uma estrela cadente", "Um planeta anão"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a parte brilhante de um cometa visível da Terra?",
+    "o": ["A coma e a cauda", "O núcleo", "A crosta", "O manto"],
+    "a": 0
+  },
+  {
+    "q": "O que forma a cauda de um cometa?",
+    "o": ["Gás e poeira evaporados pelo calor do Sol", "Rochas derretidas", "Plasma da Terra", "Poeira lunar"],
+    "a": 0
+  },
+  {
+    "q": "Qual cometa ficou famoso por aparecer a cada 76 anos?",
+    "o": ["Halley", "Hale-Bopp", "Encke", "Lovejoy"],
+    "a": 0
+  },
+  {
+    "q": "O que é o núcleo de um cometa?",
+    "o": ["A parte central sólida composta de gelo e poeira", "A cauda", "A coma", "O gás ionizado"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a diferença entre cometa de curto período e longo período?",
+    "o": ["Curto período orbita o Sol em menos de 200 anos; longo período leva mais de 200 anos", "Curto período é menor", "Longo período é sempre maior que Marte", "Não há diferença"],
+    "a": 0
+  },
+  {
+    "q": "Qual missão estudou de perto o cometa 67P/Churyumov–Gerasimenko?",
+    "o": ["Rosetta", "Hayabusa2", "Dawn", "New Horizons"],
+    "a": 0
+  },
+  {
+    "q": "O que é a coma de um cometa?",
+    "o": ["Nuvem de gás e poeira que envolve o núcleo", "A cauda", "O núcleo", "O manto"],
+    "a": 0
+  },
+  {
+    "q": "Qual cometa foi observado no céu em 1997 e ficou muito famoso?",
+    "o": ["Hale-Bopp", "Halley", "Encke", "Lovejoy"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a principal diferença entre um cometa e um asteroide?",
+    "o": ["Cometas contêm gelo e liberam gases; asteroides são rochosos/metálicos", "Asteroides orbitam planetas", "Cometas nunca se aproximam do Sol", "Não há diferença"],
+    "a": 0
+  },
+  {
+    "q": "De onde vêm os cometas de longo período?",
+    "o": ["Nuvem de Oort", "Cinturão de asteroides", "Lua", "Planeta Marte"],
+    "a": 0
+  },
+  {
+    "q": "De onde vêm os cometas de curto período?",
+    "o": ["Cinturão de Kuiper", "Nuvem de Oort", "Cinturão de asteroides", "Júpiter"], 
+    "a": 0
+  },
+  {
+    "q": "Qual cometa foi a primeira vez visitado por uma sonda espacial?",
+    "o": ["Halley", "67P/Churyumov–Gerasimenko", "Hale-Bopp", "Encke"],
+    "a": 0
+  },
+  {
+    "q": "O que provoca a formação da cauda do cometa?",
+    "o": ["A radiação solar que evapora gelo e poeira do núcleo", "O vento da Terra", "A gravidade da Lua", "Explosões internas do núcleo"],
+    "a": 0
+  },
+  {
+    "q": "Qual sonda estudou o cometa Halley em 1986?",
+    "o": ["Giotto", "Rosetta", "Voyager 2", "Dawn"],
+    "a": 0
+  },
+  {
+    "q": "Como os cometas contribuem para a Terra?",
+    "o": ["Podem trazer água e moléculas orgânicas primordiais", "Alteram a órbita da Terra", "Criam tempestades solares", "Protegem a atmosfera"],
+    "a": 0
+  },
+  {
+    "q": "O que é a cauda de íons de um cometa?",
+    "o": ["Cauda formada por partículas carregadas eletricamente", "Núcleo sólido", "Coma de poeira", "Gelo congelado"],
+    "a": 0
+  },
+  {
+    "q": "O que é a cauda de poeira de um cometa?",
+    "o": ["Cauda formada por partículas de poeira refletindo a luz solar", "Núcleo sólido", "Cauda de íons", "Manto rochoso"],
+    "a": 0
+  },
+  {
+    "q": "Qual cometa surpreendeu os astrônomos em 2011 com uma cauda azul brilhante?",
+    "o": ["Lovejoy", "Halley", "Hale-Bopp", "Encke"],
+    "a": 0
+  },
+  {
+    "q": "Como os cometas são classificados?",
+    "o": ["Pelo período orbital, composição e origem", "Pelo tamanho apenas", "Pela cor", "Pela distância da Terra"],
+    "a": 0
+  }
+]

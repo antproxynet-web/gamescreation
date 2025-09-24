@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que é a CPU de um computador?",
+    "o": ["Unidade central de processamento, responsável por executar instruções", "Memória RAM", "Placa de vídeo", "Fonte de energia"],
+    "a": 0
+  },
+  {
+    "q": "O que é a memória RAM?",
+    "o": ["Memória volátil usada para armazenar dados temporariamente durante a execução de programas", "Disco rígido", "Placa-mãe", "Fonte de energia"],
+    "a": 0
+  },
+  {
+    "q": "O que é a placa-mãe?",
+    "o": ["Placa principal que conecta todos os componentes do computador", "Processador", "Placa de vídeo", "Monitor"],
+    "a": 0
+  },
+  {
+    "q": "O que é um SSD?",
+    "o": ["Dispositivo de armazenamento rápido baseado em memória flash", "Disco rígido mecânico", "Placa de rede", "Fonte de energia"],
+    "a": 0
+  },
+  {
+    "q": "O que é a placa de vídeo?",
+    "o": ["Componente que processa imagens e gráficos para exibição no monitor", "Memória RAM", "CPU", "Fonte de energia"],
+    "a": 0
+  },
+  {
+    "q": "O que é a fonte de alimentação?",
+    "o": ["Componente que fornece energia elétrica aos demais componentes do computador", "Placa-mãe", "CPU", "Monitor"],
+    "a": 0
+  },
+  {
+    "q": "O que é um cooler?",
+    "o": ["Dispositivo usado para resfriar componentes eletrônicos", "Placa de som", "HD externo", "Mouse"],
+    "a": 0
+  },
+  {
+    "q": "O que é uma placa de rede?",
+    "o": ["Componente que permite a conexão do computador a uma rede", "Placa de vídeo", "SSD", "Fonte de alimentação"],
+    "a": 0
+  },
+  {
+    "q": "O que é um periférico?",
+    "o": ["Dispositivo externo conectado ao computador, como mouse, teclado ou impressora", "Placa de vídeo", "Processador", "Memória RAM"],
+    "a": 0
+  },
+  {
+    "q": "O que é o HD (Hard Disk)?",
+    "o": ["Dispositivo de armazenamento de dados magnético", "Memória RAM", "Placa-mãe", "Fonte de energia"],
+    "a": 0
+  },
+  {
+    "q": "O que é uma GPU?",
+    "o": ["Unidade de processamento gráfico, usada para renderizar imagens e vídeos", "CPU", "Memória RAM", "SSD"],
+    "a": 0
+  },
+  {
+    "q": "O que é um processador multi-core?",
+    "o": ["CPU que possui múltiplos núcleos para executar várias tarefas simultaneamente", "Placa de vídeo", "HD externo", "Fonte de energia"],
+    "a": 0
+  },
+  {
+    "q": "O que é BIOS?",
+    "o": ["Sistema básico de entrada e saída que inicializa o computador", "Sistema operacional", "Placa-mãe", "SSD"],
+    "a": 0
+  },
+  {
+    "q": "O que é um monitor?",
+    "o": ["Dispositivo de saída que exibe imagens e vídeos do computador", "Placa de som", "Mouse", "SSD"],
+    "a": 0
+  },
+  {
+    "q": "O que é um teclado mecânico?",
+    "o": ["Teclado que utiliza interruptores físicos em cada tecla para digitação", "Teclado virtual", "Mouse", "Monitor"],
+    "a": 0
+  },
+  {
+    "q": "O que é uma impressora 3D?",
+    "o": ["Dispositivo que cria objetos tridimensionais a partir de modelos digitais", "Scanner", "Monitor", "Placa de vídeo"],
+    "a": 0
+  },
+  {
+    "q": "O que é um mouse óptico?",
+    "o": ["Mouse que usa luz LED para detectar movimento sobre uma superfície", "Mouse mecânico", "Touchpad", "Joystick"],
+    "a": 0
+  },
+  {
+    "q": "O que é uma placa de som?",
+    "o": ["Componente que processa e reproduz áudio no computador", "Placa de vídeo", "SSD", "CPU"],
+    "a": 0
+  },
+  {
+    "q": "O que é um gabinete de computador?",
+    "o": ["Estrutura que abriga e protege todos os componentes internos do computador", "Placa-mãe", "Monitor", "Fonte de alimentação"],
+    "a": 0
+  },
+  {
+    "q": "O que é um pen drive?",
+    "o": ["Dispositivo portátil de armazenamento de dados via USB", "SSD interno", "Placa de vídeo", "Fonte de alimentação"],
+    "a": 0
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual é o objetivo principal no Fortnite Battle Royale?",
+    "o": ["Ser o último jogador ou equipe sobrevivente", "Coletar moedas", "Construir bases indefinidamente", "Completar missões diárias"],
+    "a": 0
+  },
+  {
+    "q": "Qual recurso é usado para construir paredes, rampas e plataformas?",
+    "o": ["Materiais de construção", "Poções", "Armas especiais", "Moedas V-Bucks"],
+    "a": 0
+  },
+  {
+    "q": "Quais são os três tipos principais de materiais de construção?",
+    "o": ["Madeira, Pedra e Metal", "Madeira, Pedra e Couro", "Metal, Ouro e Pedra", "Madeira, Ouro e Pedra"],
+    "a": 0
+  },
+  {
+    "q": "Qual arma é famosa por causar alto dano de explosão?",
+    "o": ["Rocket Launcher", "Pistola", "SMG", "Sniper Rifle"],
+    "a": 0
+  },
+  {
+    "q": "O que é o círculo de tempestade no Fortnite?",
+    "o": ["Zona que se reduz e causa dano fora dela", "Área de loot especial", "Zona de construção ilimitada", "Área de resgate de aliados"],
+    "a": 0
+  },
+  {
+    "q": "Qual item permite curar rapidamente durante a partida?",
+    "o": ["Medkit", "Shield Potion", "Slurp Juice", "Bandages"],
+    "a": 0
+  },
+  {
+    "q": "Qual arma é conhecida por combates a curta distância?",
+    "o": ["Shotgun", "Sniper", "SMG", "Assault Rifle"],
+    "a": 0
+  },
+  {
+    "q": "Qual modo de jogo permite jogar sozinho, em dupla ou em esquadrão?",
+    "o": ["Battle Royale", "Salvar o Mundo", "Criativo", "Arena"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem ou skin é famosa no Fortnite?",
+    "o": ["Jonesy", "Peely", "Renegade Raider", "All of the above"],
+    "a": 3
+  },
+  {
+    "q": "Qual item permite voar por curtos períodos?",
+    "o": ["Jetpack", "Glider", "Launch Pad", "Shockwave Grenade"],
+    "a": 0
+  },
+  {
+    "q": "O que são V-Bucks no Fortnite?",
+    "o": ["Moeda do jogo para comprar skins e itens", "Pontuação da partida", "Materiais de construção", "Armas especiais"],
+    "a": 0
+  },
+  {
+    "q": "Qual arma é ideal para combates a longa distância?",
+    "o": ["Sniper Rifle", "Shotgun", "SMG", "Pistol"],
+    "a": 0
+  },
+  {
+    "q": "Qual item aumenta a defesa do jogador temporariamente?",
+    "o": ["Shield Potion", "Medkit", "Slurp Juice", "Bandages"],
+    "a": 0
+  },
+  {
+    "q": "Qual recurso do modo Criativo permite construir mapas personalizados?",
+    "o": ["Ferramentas de construção", "V-Bucks", "Armas de loot", "Itens de missão"],
+    "a": 0
+  },
+  {
+    "q": "Qual veículo permite se deslocar rapidamente pelo mapa?",
+    "o": ["Carro, barco e hoverboard", "Bicicleta", "Jetpack", "Glider"],
+    "a": 0
+  },
+  {
+    "q": "Qual arma é usada para destruição de construções inimigas?",
+    "o": ["Rocket Launcher", "Shotgun", "Sniper Rifle", "Pistol"],
+    "a": 0
+  },
+  {
+    "q": "O que é o Battle Pass no Fortnite?",
+    "o": ["Sistema de recompensas por temporada", "Arma especial", "Área de treino", "Evento temporário"],
+    "a": 0
+  },
+  {
+    "q": "Qual item permite se lançar rapidamente e evitar dano de queda?",
+    "o": ["Launch Pad", "Medkit", "Shield Potion", "Glider"],
+    "a": 0
+  },
+  {
+    "q": "Qual modo de jogo possui partidas rápidas e intensas, geralmente 50 vs 50?",
+    "o": ["Team Rumble", "Battle Royale", "Criativo", "Arena"],
+    "a": 0
+  },
+  {
+    "q": "Qual arma é ideal para combates médios e versátil em qualquer situação?",
+    "o": ["Assault Rifle", "Shotgun", "Sniper Rifle", "SMG"],
+    "a": 0
+  }
+]

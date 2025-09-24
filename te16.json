@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que é um algoritmo?",
+    "o": ["Conjunto de passos ou instruções para resolver um problema", "Programa de computador completo", "Banco de dados", "Rede social"],
+    "a": 0
+  },
+  {
+    "q": "O que é complexidade de um algoritmo?",
+    "o": ["Medida do tempo ou recursos que o algoritmo consome", "Número de linhas de código", "Quantidade de funções", "Tamanho do computador usado"],
+    "a": 0
+  },
+  {
+    "q": "O que é um algoritmo de busca?",
+    "o": ["Algoritmo que encontra elementos em estruturas de dados", "Algoritmo que ordena números", "Programa de edição de fotos", "Rede social"],
+    "a": 0
+  },
+  {
+    "q": "O que é um algoritmo de ordenação?",
+    "o": ["Algoritmo que organiza elementos em uma sequência específica", "Algoritmo de envio de e-mails", "Algoritmo de rede social", "Programa de vídeo"],
+    "a": 0
+  },
+  {
+    "q": "O que é pseudocódigo?",
+    "o": ["Representação de um algoritmo usando linguagem estruturada mas não formal", "Código executável em Python", "Software de edição", "Banco de dados"],
+    "a": 0
+  },
+  {
+    "q": "O que é um algoritmo recursivo?",
+    "o": ["Algoritmo que chama a si mesmo até atingir uma condição de parada", "Algoritmo linear", "Programa gráfico", "Algoritmo de rede social"],
+    "a": 0
+  },
+  {
+    "q": "O que é um algoritmo iterativo?",
+    "o": ["Algoritmo que repete passos usando loops", "Algoritmo recursivo", "Programa de edição de imagens", "Banco de dados"],
+    "a": 0
+  },
+  {
+    "q": "O que é algoritmo guloso (greedy)?",
+    "o": ["Algoritmo que toma decisões locais ótimas na esperança de chegar a solução global", "Algoritmo recursivo", "Algoritmo de busca binária", "Programa de rede social"],
+    "a": 0
+  },
+  {
+    "q": "O que é algoritmo de divisão e conquista?",
+    "o": ["Algoritmo que divide um problema em subproblemas menores, resolve e combina resultados", "Algoritmo linear simples", "Programa gráfico", "Banco de dados"],
+    "a": 0
+  },
+  {
+    "q": "O que é algoritmo de backtracking?",
+    "o": ["Algoritmo que explora possibilidades e retrocede quando necessário", "Algoritmo de busca simples", "Programa de vídeo", "Rede social"],
+    "a": 0
+  },
+  {
+    "q": "O que é algoritmo de programação dinâmica?",
+    "o": ["Algoritmo que resolve problemas dividindo em subproblemas e armazenando resultados", "Algoritmo linear simples", "Programa de edição", "Software de música"],
+    "a": 0
+  },
+  {
+    "q": "O que é algoritmo determinístico?",
+    "o": ["Algoritmo que sempre produz o mesmo resultado para a mesma entrada", "Algoritmo aleatório", "Software gráfico", "Rede social"],
+    "a": 0
+  },
+  {
+    "q": "O que é algoritmo não determinístico?",
+    "o": ["Algoritmo que pode produzir resultados diferentes para a mesma entrada", "Algoritmo determinístico", "Programa de edição", "Software de música"],
+    "a": 0
+  },
+  {
+    "q": "O que é um algoritmo de classificação (classification)?",
+    "o": ["Algoritmo que atribui categorias a dados", "Algoritmo que ordena números", "Software gráfico", "Rede social"],
+    "a": 0
+  },
+  {
+    "q": "O que é um algoritmo de regressão?",
+    "o": ["Algoritmo que estima valores contínuos com base em dados", "Algoritmo de busca", "Programa gráfico", "Software musical"],
+    "a": 0
+  },
+  {
+    "q": "O que é algoritmo de busca binária?",
+    "o": ["Algoritmo eficiente que busca elementos em lista ordenada dividindo ao meio repetidamente", "Busca linear simples", "Algoritmo de rede social", "Programa gráfico"],
+    "a": 0
+  },
+  {
+    "q": "O que é algoritmo de ordenação por bolha (bubble sort)?",
+    "o": ["Algoritmo simples que compara pares adjacentes e troca se necessário", "Busca binária", "Algoritmo guloso", "Programa gráfico"],
+    "a": 0
+  },
+  {
+    "q": "O que é algoritmo de Dijkstra?",
+    "o": ["Algoritmo que encontra o caminho mais curto em um grafo", "Algoritmo de busca linear", "Programa gráfico", "Software musical"],
+    "a": 0
+  },
+  {
+    "q": "O que é algoritmo de Kruskal?",
+    "o": ["Algoritmo que encontra a árvore geradora mínima em grafos", "Busca linear simples", "Algoritmo de regressão", "Rede social"],
+    "a": 0
+  },
+  {
+    "q": "O que é algoritmo de Floyd-Warshall?",
+    "o": ["Algoritmo que encontra caminhos mínimos entre todos os pares de vértices em um grafo", "Busca linear simples", "Algoritmo bubble sort", "Software musical"],
+    "a": 0
+  }
+]

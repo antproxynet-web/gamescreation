@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que é um exoplaneta?",
+    "o": ["Um planeta que orbita uma estrela fora do Sistema Solar", "Um planeta do Sistema Solar", "Uma estrela jovem", "Uma lua gigante"],
+    "a": 0
+  },
+  {
+    "q": "Qual foi o primeiro exoplaneta confirmado em torno de uma estrela semelhante ao Sol?",
+    "o": ["51 Pegasi b", "Kepler-22b", "Proxima Centauri b", "HD 209458 b"],
+    "a": 0
+  },
+  {
+    "q": "Qual método de detecção de exoplanetas mede a diminuição do brilho de uma estrela?",
+    "o": ["Trânsito", "Velocidade radial", "Astrometria", "Microlente gravitacional"],
+    "a": 0
+  },
+  {
+    "q": "Qual método mede a oscilação da estrela devido à gravidade do exoplaneta?",
+    "o": ["Velocidade radial", "Trânsito", "Astrometria", "Imagem direta"],
+    "a": 0
+  },
+  {
+    "q": "Qual missão espacial da NASA é famosa por descobrir milhares de exoplanetas?",
+    "o": ["Kepler", "Hubble", "James Webb", "TESS"],
+    "a": 0
+  },
+  {
+    "q": "O que significa um exoplaneta em zona habitável?",
+    "o": ["Planeta que pode ter água líquida na superfície", "Planeta muito quente", "Planeta gasoso gigante", "Planeta sem atmosfera"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o exoplaneta mais próximo da Terra?",
+    "o": ["Proxima Centauri b", "Kepler-22b", "51 Pegasi b", "TRAPPIST-1e"],
+    "a": 0
+  },
+  {
+    "q": "O que é a missão TESS da NASA?",
+    "o": ["Telescópio que monitora estrelas próximas para descobrir exoplanetas por trânsito", "Telescópio que observa buracos negros", "Sonda que visita planetas", "Telescópio terrestre para asteroides"],
+    "a": 0
+  },
+  {
+    "q": "Qual método pode capturar imagens diretas de exoplanetas?",
+    "o": ["Imagem direta", "Trânsito", "Velocidade radial", "Microlente gravitacional"],
+    "a": 0
+  },
+  {
+    "q": "Qual sistema planetário tem sete exoplanetas na zona habitável?",
+    "o": ["TRAPPIST-1", "Kepler-22", "Proxima Centauri", "51 Pegasi"],
+    "a": 0
+  },
+  {
+    "q": "O que é um exoplaneta gasoso gigante?",
+    "o": ["Planeta grande composto principalmente por gás, como Júpiter", "Planeta rochoso pequeno", "Planeta sem atmosfera", "Lua gigante"],
+    "a": 0
+  },
+  {
+    "q": "O que é um exoplaneta rochoso?",
+    "o": ["Planeta com superfície sólida, como a Terra ou Marte", "Planeta gasoso", "Planeta sem órbita definida", "Lua de Saturno"],
+    "a": 0
+  },
+  {
+    "q": "Qual exoplaneta foi o primeiro a ter sua atmosfera estudada diretamente?",
+    "o": ["HD 209458 b", "51 Pegasi b", "Kepler-22b", "Proxima Centauri b"],
+    "a": 0
+  },
+  {
+    "q": "O que significa exoplaneta 'super-Terra'?",
+    "o": ["Planeta mais massivo que a Terra, mas menor que Netuno", "Planeta gasoso gigante", "Lua grande", "Planeta sem atmosfera"],
+    "a": 0
+  },
+  {
+    "q": "Qual estrela abriga o exoplaneta mais próximo da Terra?",
+    "o": ["Proxima Centauri", "Kepler-22", "TRAPPIST-1", "51 Pegasi"],
+    "a": 0
+  },
+  {
+    "q": "O que é um exoplaneta 'pulsar'?",
+    "o": ["Planeta que orbita um pulsar, estrela de nêutrons", "Planeta gasoso gigante", "Planeta rochoso na zona habitável", "Planeta sem atmosfera"],
+    "a": 0
+  },
+  {
+    "q": "Qual telescópio espacial é usado para estudar atmosferas de exoplanetas?",
+    "o": ["James Webb", "Kepler", "Hubble", "TESS"],
+    "a": 0
+  },
+  {
+    "q": "O que é uma descoberta por microlente gravitacional?",
+    "o": ["Exoplaneta detectado pelo desvio da luz de uma estrela distante", "Planeta visto diretamente", "Planeta orbitando a Terra", "Lua em órbita de Júpiter"],
+    "a": 0
+  },
+  {
+    "q": "O que significa que um exoplaneta tem órbita inclinada?",
+    "o": ["O plano de sua órbita não está alinhado com o plano de visão da Terra", "O planeta é muito grande", "O planeta é gasoso", "O planeta está em zona habitável"],
+    "a": 0
+  },
+  {
+    "q": "Qual exoplaneta foi descoberto por efeito Doppler em 1995?",
+    "o": ["51 Pegasi b", "Kepler-22b", "Proxima Centauri b", "TRAPPIST-1e"],
+    "a": 0
+  }
+]

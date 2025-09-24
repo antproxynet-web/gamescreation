@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que é uma rede de computadores?",
+    "o": ["Conjunto de computadores interligados que compartilham recursos e informações", "Programa de edição", "Aplicativo móvel", "Banco de dados isolado"],
+    "a": 0
+  },
+  {
+    "q": "O que é IP (Internet Protocol)?",
+    "o": ["Endereço único que identifica um dispositivo em uma rede", "Programa de rede", "Dispositivo físico", "Senha de acesso"],
+    "a": 0
+  },
+  {
+    "q": "O que é um roteador?",
+    "o": ["Dispositivo que direciona pacotes de dados entre redes diferentes", "Computador servidor", "Cabo de rede", "Firewall apenas"],
+    "a": 0
+  },
+  {
+    "q": "O que é um switch?",
+    "o": ["Dispositivo que conecta dispositivos em uma rede local e encaminha dados corretamente", "Roteador sem fio", "Computador servidor", "Firewall"],
+    "a": 0
+  },
+  {
+    "q": "O que é LAN (Local Area Network)?",
+    "o": ["Rede local limitada a uma área física pequena, como casa ou escritório", "Rede mundial", "Rede sem fio global", "Rede de satélites"],
+    "a": 0
+  },
+  {
+    "q": "O que é WAN (Wide Area Network)?",
+    "o": ["Rede que cobre grandes áreas geográficas, como cidades ou países", "Rede doméstica", "Rede Bluetooth", "Rede local de escritório"],
+    "a": 0
+  },
+  {
+    "q": "O que é protocolo de rede?",
+    "o": ["Conjunto de regras que define como dados são transmitidos e recebidos na rede", "Dispositivo de conexão", "Programa de edição", "Cabo físico apenas"],
+    "a": 0
+  },
+  {
+    "q": "O que é TCP/IP?",
+    "o": ["Conjunto de protocolos fundamentais para comunicação na Internet", "Tipo de roteador", "Programa de firewall", "Rede local apenas"],
+    "a": 0
+  },
+  {
+    "q": "O que é DHCP?",
+    "o": ["Protocolo que atribui endereços IP automaticamente aos dispositivos", "Protocolo de segurança", "Cabo de rede", "Servidor de arquivos"],
+    "a": 0
+  },
+  {
+    "q": "O que é DNS?",
+    "o": ["Sistema que traduz nomes de domínio em endereços IP", "Protocolo de email", "Roteador doméstico", "Rede privada apenas"],
+    "a": 0
+  },
+  {
+    "q": "O que é firewall?",
+    "o": ["Dispositivo ou software que protege a rede contra acessos não autorizados", "Switch de alta velocidade", "Roteador doméstico", "Servidor web"],
+    "a": 0
+  },
+  {
+    "q": "O que é VPN (Virtual Private Network)?",
+    "o": ["Rede privada que utiliza a Internet para conectar usuários de forma segura", "Rede local doméstica", "Rede pública sem proteção", "Serviço de hospedagem"],
+    "a": 0
+  },
+  {
+    "q": "O que é Wi-Fi?",
+    "o": ["Tecnologia que permite conectar dispositivos a uma rede sem fio", "Protocolo de cabo", "Servidor de internet", "Firewall"],
+    "a": 0
+  },
+  {
+    "q": "O que é Ethernet?",
+    "o": ["Tecnologia de rede com fio para LANs", "Protocolo sem fio", "Tipo de firewall", "Servidor de arquivos"],
+    "a": 0
+  },
+  {
+    "q": "O que é topologia de rede?",
+    "o": ["Disposição física ou lógica dos dispositivos em uma rede", "Protocolo de comunicação", "Tipo de roteador", "Endereço IP"],
+    "a": 0
+  },
+  {
+    "q": "O que é ping?",
+    "o": ["Comando usado para testar a conectividade entre dispositivos na rede", "Servidor DNS", "Protocolo de email", "Tipo de switch"],
+    "a": 0
+  },
+  {
+    "q": "O que é latência em redes?",
+    "o": ["Tempo que um pacote de dados leva para ir de um ponto a outro", "Velocidade do processador", "Tamanho do arquivo", "Quantidade de memória RAM"],
+    "a": 0
+  },
+  {
+    "q": "O que é banda larga?",
+    "o": ["Capacidade de transmitir grandes quantidades de dados por segundo em uma rede", "Tipo de firewall", "Servidor web", "Protocolo de IP"],
+    "a": 0
+  },
+  {
+    "q": "O que é NAT (Network Address Translation)?",
+    "o": ["Técnica que permite que múltiplos dispositivos compartilhem um único endereço IP público", "Servidor DNS", "Protocolo de email", "Switch de alta velocidade"],
+    "a": 0
+  },
+  {
+    "q": "O que é endereço MAC?",
+    "o": ["Identificador único de hardware de uma interface de rede", "Endereço IP", "Nome do roteador", "Servidor DNS"],
+    "a": 0
+  }
+]

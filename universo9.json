@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quem foi o primeiro humano a viajar para o espaço?",
+    "o": ["Iuri Gagarin", "Neil Armstrong", "Buzz Aldrin", "Yuri Milner"],
+    "a": 0
+  },
+  {
+    "q": "Qual foi a primeira missão a pousar um humano na Lua?",
+    "o": ["Apollo 11", "Apollo 13", "Sputnik 1", "Gemini 4"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o primeiro homem a pisar na Lua?",
+    "o": ["Neil Armstrong", "Buzz Aldrin", "Michael Collins", "Yuri Gagarin"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a estação espacial atualmente habitada permanentemente?",
+    "o": ["ISS (Estação Espacial Internacional)", "Mir", "Skylab", "Tiangong"],
+    "a": 0
+  },
+  {
+    "q": "Qual país lançou o primeiro satélite artificial, o Sputnik 1?",
+    "o": ["União Soviética", "Estados Unidos", "China", "França"],
+    "a": 0
+  },
+  {
+    "q": "Qual foi o primeiro veículo a levar humanos para órbita terrestre?",
+    "o": ["Vostok 1", "Mercury-Redstone 3", "Apollo 7", "Soyuz 1"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o segundo homem a pisar na Lua?",
+    "o": ["Buzz Aldrin", "Neil Armstrong", "Michael Collins", "Pete Conrad"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome do programa espacial dos Estados Unidos que enviou humanos à Lua?",
+    "o": ["Apollo", "Gemini", "Mercury", "Space Shuttle"],
+    "a": 0
+  },
+  {
+    "q": "Qual país enviou o primeiro módulo a pousar em Marte?",
+    "o": ["Estados Unidos", "União Soviética", "China", "Índia"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi a primeira mulher no espaço?",
+    "o": ["Valentina Tereshkova", "Sally Ride", "Mae Jemison", "Peggy Whitson"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome da nave reutilizável que os EUA usaram para levar astronautas após o programa Apollo?",
+    "o": ["Space Shuttle (Ônibus Espacial)", "Mercury", "Gemini", "Dragon"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a missão da NASA responsável por estudar planetas e enviar sondas robóticas?",
+    "o": ["Programa Robótico Planetário", "Apollo", "Gemini", "Mercury"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o primeiro astronauta americano a viajar para o espaço?",
+    "o": ["Alan Shepard", "John Glenn", "Neil Armstrong", "Buzz Aldrin"],
+    "a": 0
+  },
+  {
+    "q": "Qual país lançou a primeira estação espacial, chamada Mir?",
+    "o": ["União Soviética", "Estados Unidos", "China", "Japão"],
+    "a": 0
+  },
+  {
+    "q": "Qual empresa privada levou humanos à órbita em 2020?",
+    "o": ["SpaceX", "Blue Origin", "Virgin Galactic", "Boeing"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome da nave que levou astronautas para a Lua na missão Apollo 11?",
+    "o": ["Eagle (Módulo Lunar)", "Columbia", "Atlantis", "Soyuz"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o maior foguete já construído para levar humanos à Lua?",
+    "o": ["Saturno V", "Falcon Heavy", "Ariane 5", "Soyuz-FG"],
+    "a": 0
+  },
+  {
+    "q": "Qual país lançou o primeiro rover em Marte?",
+    "o": ["Estados Unidos", "União Soviética", "China", "Índia"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o primeiro turista espacial pago a ir ao espaço?",
+    "o": ["Dennis Tito", "Yuri Gagarin", "Alan Shepard", "Buzz Aldrin"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a agência espacial responsável pelo envio de humanos e sondas ao espaço na Rússia?",
+    "o": ["Roscosmos", "NASA", "ESA", "CNSA"],
+    "a": 0
+  }
+]

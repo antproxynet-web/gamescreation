@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual é o satélite natural da Terra?",
+    "o": ["Lua", "Fobos", "Deimos", "Europa"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o planeta vermelho do Sistema Solar?",
+    "o": ["Marte", "Vênus", "Júpiter", "Saturno"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a maior cratera da Lua visível da Terra?",
+    "o": ["Mare Imbrium", "Tycho", "Copernicus", "Aristarchus"],
+    "a": 0
+  },
+  {
+    "q": "Qual são as duas luas de Marte?",
+    "o": ["Fobos e Deimos", "Europa e Ganimedes", "Titan e Enceladus", "Io e Callisto"],
+    "a": 0
+  },
+  {
+    "q": "Qual missão levou humanos à Lua pela primeira vez?",
+    "o": ["Apollo 11", "Apollo 13", "Apollo 10", "Viking 1"],
+    "a": 0
+  },
+  {
+    "q": "Quem foi o primeiro homem a pisar na Lua?",
+    "o": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "Michael Collins"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o maior vulcão de Marte?",
+    "o": ["Olympus Mons", "Elysium Mons", "Arsia Mons", "Ascraeus Mons"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a característica mais famosa da Lua visível da Terra?",
+    "o": ["Crateras e mares lunares", "Montanhas altas", "Atmosfera densa", "Oceano lunar"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o dia mais longo em Marte?",
+    "o": ["24 horas e 37 minutos", "24 horas", "12 horas", "48 horas"],
+    "a": 0
+  },
+  {
+    "q": "O que é a calota polar de Marte?",
+    "o": ["Região coberta de gelo de água e dióxido de carbono", "Área desértica", "Cavernas subterrâneas", "Montanhas altas"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a missão que explorou Marte com um rover chamado Curiosity?",
+    "o": ["Mars Science Laboratory", "Viking 1", "Apollo 11", "Spirit"],
+    "a": 0
+  },
+  {
+    "q": "Qual fenômeno lunar ocorre quando a Terra fica entre o Sol e a Lua?",
+    "o": ["Eclipse lunar", "Superlua", "Maré alta", "Lua nova"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a missão que trouxe amostras da Lua para a Terra?",
+    "o": ["Apollo 11", "Apollo 17", "Apollo 15", "Todas as anteriores"],
+    "a": 3
+  },
+  {
+    "q": "O que são mares lunares?",
+    "o": ["Regiões escuras de lava solidificada na Lua", "Oceanos de água", "Montanhas de gelo", "Crateras de impacto"],
+    "a": 0
+  },
+  {
+    "q": "Qual rover explorou Marte e é famoso por estudar sinais de água passada?",
+    "o": ["Curiosity", "Viking 2", "Spirit", "Opportunity"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a principal atmosfera de Marte?",
+    "o": ["Dióxido de carbono", "Oxigênio", "Nitrogênio", "Hélio"],
+    "a": 0
+  },
+  {
+    "q": "O que é a lua Deimos?",
+    "o": ["Uma das pequenas luas de Marte", "Uma cratera da Lua", "Um vulcão em Marte", "Uma estação espacial"],
+    "a": 0
+  },
+  {
+    "q": "O que é a lua Fobos?",
+    "o": ["A maior lua de Marte", "Um satélite da Terra", "Uma cratera lunar", "Um rover em Marte"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o fenômeno chamado 'superlua'?",
+    "o": ["Lua cheia mais próxima da Terra", "Lua nova", "Eclipse solar", "Aurora lunar"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a cor predominante da superfície de Marte?",
+    "o": ["Vermelha", "Azul", "Verde", "Branca"],
+    "a": 0
+  }
+]

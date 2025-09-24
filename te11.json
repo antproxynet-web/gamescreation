@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que é realidade virtual (VR)?",
+    "o": ["Tecnologia que cria ambientes digitais imersivos para o usuário", "Rede social online", "Software de edição de fotos", "Computador pessoal"],
+    "a": 0
+  },
+  {
+    "q": "Qual dispositivo é essencial para vivenciar realidade virtual?",
+    "o": ["Óculos ou headset VR", "Mouse", "Teclado", "Monitor comum"],
+    "a": 0
+  },
+  {
+    "q": "O que são controladores de movimento em VR?",
+    "o": ["Dispositivos que permitem interação com o ambiente virtual", "Teclados convencionais", "Placas de vídeo", "Sensores de temperatura"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a diferença entre realidade virtual e realidade aumentada?",
+    "o": ["VR cria ambientes totalmente digitais; AR sobrepõe elementos digitais ao mundo real", "VR usa internet; AR não", "VR é software; AR é hardware", "Não há diferença"],
+    "a": 0
+  },
+  {
+    "q": "O que é tracking em VR?",
+    "o": ["Rastreamento dos movimentos do usuário para interação com o ambiente virtual", "Processamento de áudio", "Controle de rede", "Criação de gráficos 2D"],
+    "a": 0
+  },
+  {
+    "q": "O que é FOV (Field of View) em VR?",
+    "o": ["Campo de visão do usuário dentro do ambiente virtual", "Volume de áudio", "Quantidade de pixels da tela", "Velocidade de conexão"],
+    "a": 0
+  },
+  {
+    "q": "O que são ambientes 360° em VR?",
+    "o": ["Cenários que permitem visão completa em todas as direções", "Mapas de jogos 2D", "Arquivos de áudio surround", "Softwares de planilha"],
+    "a": 0
+  },
+  {
+    "q": "O que é latência em VR?",
+    "o": ["Atraso entre a ação do usuário e a resposta do sistema virtual", "Velocidade da internet", "Resolução da tela", "Capacidade do processador"],
+    "a": 0
+  },
+  {
+    "q": "Qual empresa é pioneira em headsets VR populares?",
+    "o": ["Oculus (Facebook/Meta)", "Apple", "Google", "Microsoft"],
+    "a": 0
+  },
+  {
+    "q": "O que é VR para treinamento profissional?",
+    "o": ["Uso de ambientes virtuais para simular situações de trabalho com segurança", "Jogos de computador", "Aplicativos de redes sociais", "Planilhas de dados"],
+    "a": 0
+  },
+  {
+    "q": "O que é imersão em VR?",
+    "o": ["Sensação de estar fisicamente presente dentro do ambiente virtual", "Qualidade de som", "Velocidade de download", "Tamanho da tela"],
+    "a": 0
+  },
+  {
+    "q": "O que é realidade mista (MR)?",
+    "o": ["Combinação de VR e AR, integrando objetos digitais ao mundo real de forma interativa", "Som 3D", "Simulação de hardware", "Software de planilhas"],
+    "a": 0
+  },
+  {
+    "q": "O que é VR standalone?",
+    "o": ["Headset VR que funciona sem precisar de PC ou console externo", "Aplicativo de smartphone", "Monitor comum", "Tablet"],
+    "a": 0
+  },
+  {
+    "q": "O que é VR multiplayer?",
+    "o": ["Experiência virtual em que múltiplos usuários interagem simultaneamente", "Simulação de um único usuário", "Software de escritório", "Treinamento offline"],
+    "a": 0
+  },
+  {
+    "q": "O que é feedback háptico em VR?",
+    "o": ["Sensação tátil que simula toque ou vibração no ambiente virtual", "Som surround", "Iluminação de tela", "Conexão de rede"],
+    "a": 0
+  },
+  {
+    "q": "O que são ambientes virtuais para educação?",
+    "o": ["Espaços digitais usados para ensino interativo e simulação de experiências", "Redes sociais", "Softwares de edição de texto", "Jogos offline"],
+    "a": 0
+  },
+  {
+    "q": "O que é VR 360° vídeo?",
+    "o": ["Vídeo gravado em todas as direções, permitindo visualização imersiva", "Vídeo comum em 2D", "GIF animado", "Animação 3D offline"],
+    "a": 0
+  },
+  {
+    "q": "O que é motion sickness em VR?",
+    "o": ["Mal-estar causado pelo atraso ou conflito entre movimentos reais e virtuais", "Erro de software", "Problema de hardware", "Falta de resolução da tela"],
+    "a": 0
+  },
+  {
+    "q": "O que é room-scale VR?",
+    "o": ["Experiência em VR que permite ao usuário se mover fisicamente em um espaço definido", "VR portátil", "Simulação 2D", "Treinamento remoto"],
+    "a": 0
+  },
+  {
+    "q": "O que é VR social?",
+    "o": ["Plataformas virtuais que permitem interação e comunicação entre pessoas em ambientes digitais", "Jogos offline", "Software de edição de vídeo", "Rede doméstica"],
+    "a": 0
+  }
+]

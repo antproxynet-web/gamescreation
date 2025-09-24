@@ -1,0 +1,102 @@
+[
+  {
+    "q": "O que é um exoplaneta?",
+    "o": ["Um planeta que orbita uma estrela fora do Sistema Solar", "Um planeta do Sistema Solar", "Uma estrela pequena", "Uma lua gigante"],
+    "a": 0
+  },
+  {
+    "q": "Qual foi o primeiro exoplaneta confirmado em 1992?",
+    "o": ["PSR B1257+12 b", "Kepler-22b", "51 Pegasi b", "Proxima b"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o exoplaneta mais próximo da Terra?",
+    "o": ["Proxima Centauri b", "Kepler-452b", "HD 209458 b", "TrES-2b"],
+    "a": 0
+  },
+  {
+    "q": "O que significa 'planeta gasoso quente' ou 'Hot Jupiter'?",
+    "o": ["Um exoplaneta gigante gasoso muito próximo de sua estrela", "Um planeta rochoso quente", "Um planeta pequeno e frio", "Uma estrela em colapso"],
+    "a": 0
+  },
+  {
+    "q": "Qual missão da NASA descobriu milhares de exoplanetas?",
+    "o": ["Kepler", "Hubble", "Galileo", "Voyager"],
+    "a": 0
+  },
+  {
+    "q": "O que é a 'zona habitável' de um planeta?",
+    "o": ["Região ao redor de uma estrela onde pode existir água líquida", "Região com alta radiação", "Área de tempestades de gás", "Zona de meteoros"],
+    "a": 0
+  },
+  {
+    "q": "Qual exoplaneta é famoso por ser rochoso e potencialmente habitável?",
+    "o": ["Proxima b", "Kepler-16b", "TrES-2b", "HD 189733 b"],
+    "a": 0
+  },
+  {
+    "q": "O que é um 'Super-Terra'?",
+    "o": ["Exoplaneta maior que a Terra mas menor que Netuno", "Um planeta gigante gasoso", "Uma lua gigante", "Uma estrela anã"],
+    "a": 0
+  },
+  {
+    "q": "Qual técnica é usada para detectar exoplanetas observando a diminuição do brilho da estrela?",
+    "o": ["Trânsito", "Microlente gravitacional", "Astrometria", "Espectroscopia"],
+    "a": 0
+  },
+  {
+    "q": "Qual técnica detecta exoplanetas medindo o movimento da estrela causado pela gravidade do planeta?",
+    "o": ["Velocidade radial", "Trânsito", "Imagem direta", "Microlente gravitacional"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome do exoplaneta em órbita de 51 Pegasi?",
+    "o": ["51 Pegasi b", "Kepler-22b", "Proxima b", "HD 209458 b"],
+    "a": 0
+  },
+  {
+    "q": "Qual exoplaneta é conhecido por ter uma cor extremamente escura, quase absorvendo toda a luz?",
+    "o": ["TrES-2b", "HD 189733 b", "Kepler-16b", "Proxima b"],
+    "a": 0
+  },
+  {
+    "q": "O que é a 'imagem direta' na detecção de exoplanetas?",
+    "o": ["Captura visual do planeta ao redor de uma estrela", "Detecção via ondas gravitacionais", "Detecção pelo trânsito", "Detecção via velocidade radial"],
+    "a": 0
+  },
+  {
+    "q": "Qual exoplaneta orbita a estrela Kepler-452?",
+    "o": ["Kepler-452b", "Proxima b", "51 Pegasi b", "TrES-2b"],
+    "a": 0
+  },
+  {
+    "q": "Qual é a estrela mais próxima que possui um exoplaneta?",
+    "o": ["Proxima Centauri", "Alpha Centauri A", "Sirius", "Barnard's Star"],
+    "a": 0
+  },
+  {
+    "q": "O que significa 'Júpiter frio'?",
+    "o": ["Exoplaneta gigante gasoso distante de sua estrela", "Planeta rochoso frio", "Exoplaneta quente e pequeno", "Estrela pequena fria"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o tipo de exoplaneta mais fácil de detectar atualmente?",
+    "o": ["Grandes planetas próximos à estrela", "Pequenos planetas distantes", "Planetas rochosos frios", "Cometas"],
+    "a": 0
+  },
+  {
+    "q": "Qual exoplaneta foi detectado por microlente gravitacional em 2006?",
+    "o": ["OGLE-2005-BLG-390Lb", "Proxima b", "Kepler-22b", "51 Pegasi b"],
+    "a": 0
+  },
+  {
+    "q": "Qual exoplaneta orbita duas estrelas, formando um sistema circumbinário?",
+    "o": ["Kepler-16b", "Proxima b", "HD 209458 b", "TrES-2b"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o maior desafio na busca por exoplanetas habitáveis?",
+    "o": ["Detecção de planetas pequenos e rochosos na zona habitável", "Detectar planetas gasosos gigantes", "Medir a gravidade do Sol", "Contar estrelas próximas"],
+    "a": 0
+  }
+]

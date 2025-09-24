@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Qual é o objetivo principal em GTA?",
+    "o": ["Completar missões e explorar o mundo", "Construir bases", "Coletar moedas", "Resolver enigmas"],
+    "a": 0
+  },
+  {
+    "q": "Qual cidade é o cenário principal de GTA: San Andreas?",
+    "o": ["Los Santos", "Liberty City", "Vice City", "San Fierro"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem é protagonista de GTA V?",
+    "o": ["Michael, Franklin e Trevor", "CJ", "Tommy Vercetti", "Niko Bellic"],
+    "a": 0
+  },
+  {
+    "q": "Qual versão introduziu GTA Online?",
+    "o": ["GTA V", "GTA IV", "GTA San Andreas", "GTA Vice City"],
+    "a": 0
+  },
+  {
+    "q": "Qual veículo é famoso por voar em GTA V com mods?",
+    "o": ["Buzzard", "Sanchez", "Infernus", "Cheetah"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome do irmão de CJ em GTA: San Andreas?",
+    "o": ["Sweet", "Ryder", "Big Smoke", "OG Loc"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o veículo mais rápido em GTA V sem mods?",
+    "o": ["Ocelot Pariah", "Infernus", "Adder", "Comet"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome do chefe da família mafiosa em GTA: Vice City?",
+    "o": ["Tommy Vercetti", "Ken Rosenberg", "Lance Vance", "Ricardo Diaz"],
+    "a": 3
+  },
+  {
+    "q": "Qual arma é famosa por causar explosões em GTA?",
+    "o": ["RPG", "Pistol", "SMG", "Knife"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem de GTA V é conhecido por suas habilidades em dirigir carros de corrida?",
+    "o": ["Franklin", "Michael", "Trevor", "CJ"],
+    "a": 0
+  },
+  {
+    "q": "Qual missão de GTA: San Andreas envolve dançar no clube de dança?",
+    "o": ["Burning Desire", "Wear Flowers in Your Hair", "Against All Odds", "End of the Line"],
+    "a": 0
+  },
+  {
+    "q": "Qual jogo da série GTA se passa em Liberty City?",
+    "o": ["GTA III e GTA IV", "GTA V", "GTA San Andreas", "GTA Vice City"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem é famoso pelo bordão 'Wasted' quando morre?",
+    "o": ["Qualquer personagem jogador", "Trevor", "CJ", "Tommy Vercetti"],
+    "a": 0
+  },
+  {
+    "q": "Qual veículo permite decolar do chão e voar em GTA V?",
+    "o": ["Hydra", "Buzzard", "Cargobob", "Dodo"],
+    "a": 0
+  },
+  {
+    "q": "Qual gangue CJ lidera em GTA: San Andreas?",
+    "o": ["Grove Street Families", "Ballas", "Vagos", "Los Santos Triads"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem de GTA V é imprevisível e violento?",
+    "o": ["Trevor", "Michael", "Franklin", "CJ"],
+    "a": 0
+  },
+  {
+    "q": "Qual versão de GTA trouxe o recurso de multiplayer online massivo?",
+    "o": ["GTA V", "GTA IV", "GTA: San Andreas", "GTA: Vice City"],
+    "a": 0
+  },
+  {
+    "q": "Qual é o nome do banco que você pode roubar em GTA V?",
+    "o": ["Fleeca Bank", "Bank of Liberty", "Pacific Bank", "Maze Bank"],
+    "a": 3
+  },
+  {
+    "q": "Qual é o modo de transporte mais rápido em GTA V sem veículos especiais?",
+    "o": ["Carro esportivo", "Moto", "Helicóptero", "Bicicleta"],
+    "a": 0
+  },
+  {
+    "q": "Qual personagem de GTA: Vice City é associado à máfia cubana?",
+    "o": ["Ricardo Diaz", "Tommy Vercetti", "Ken Rosenberg", "Lance Vance"],
+    "a": 3
+  }
+]

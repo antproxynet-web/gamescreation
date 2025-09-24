@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Quem é conhecido como o pai da física moderna?",
+    "o": ["Isaac Newton", "Albert Einstein", "Galileu Galilei", "Nikola Tesla"],
+    "a": 0
+  },
+  {
+    "q": "Quem desenvolveu a teoria da relatividade?",
+    "o": ["Albert Einstein", "Isaac Newton", "Galileu Galilei", "James Clerk Maxwell"],
+    "a": 0
+  },
+  {
+    "q": "Quem inventou a lâmpada incandescente?",
+    "o": ["Thomas Edison", "Nikola Tesla", "Benjamin Franklin", "Alexander Graham Bell"],
+    "a": 0
+  },
+  {
+    "q": "Quem inventou o telefone?",
+    "o": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "Guglielmo Marconi"],
+    "a": 0
+  },
+  {
+    "q": "Quem desenvolveu a primeira máquina a vapor eficiente?",
+    "o": ["James Watt", "Isaac Newton", "Thomas Edison", "Benjamin Franklin"],
+    "a": 0
+  },
+  {
+    "q": "Quem é conhecido por desenvolver o avião moderno?",
+    "o": ["Irmãos Wright", "Leonardo da Vinci", "Alberto Santos Dumont", "Samuel Morse"],
+    "a": 0
+  },
+  {
+    "q": "Quem criou o código Morse?",
+    "o": ["Samuel Morse", "Alexander Graham Bell", "Nikola Tesla", "Thomas Edison"],
+    "a": 0
+  },
+  {
+    "q": "Quem é considerado o pai da química moderna?",
+    "o": ["Antoine Lavoisier", "Dmitri Mendeleev", "Marie Curie", "Robert Boyle"],
+    "a": 0
+  },
+  {
+    "q": "Quem desenvolveu a tabela periódica dos elementos?",
+    "o": ["Dmitri Mendeleev", "Isaac Newton", "Albert Einstein", "Marie Curie"],
+    "a": 0
+  },
+  {
+    "q": "Quem descobriu a penicilina?",
+    "o": ["Alexander Fleming", "Louis Pasteur", "Marie Curie", "Gregor Mendel"],
+    "a": 0
+  },
+  {
+    "q": "Quem é considerado o pai da genética moderna?",
+    "o": ["Gregor Mendel", "Charles Darwin", "Louis Pasteur", "Alexander Fleming"],
+    "a": 0
+  },
+  {
+    "q": "Quem desenvolveu a teoria da evolução das espécies?",
+    "o": ["Charles Darwin", "Gregor Mendel", "Isaac Newton", "Albert Einstein"],
+    "a": 0
+  },
+  {
+    "q": "Quem inventou o rádio?",
+    "o": ["Guglielmo Marconi", "Nikola Tesla", "Alexander Graham Bell", "Thomas Edison"],
+    "a": 0
+  },
+  {
+    "q": "Quem inventou o motor elétrico?",
+    "o": ["Nikola Tesla", "Thomas Edison", "James Watt", "Alexander Graham Bell"],
+    "a": 0
+  },
+  {
+    "q": "Quem desenvolveu a lâmpada fluorescente?",
+    "o": ["Georges Claude", "Thomas Edison", "Nikola Tesla", "Benjamin Franklin"],
+    "a": 0
+  },
+  {
+    "q": "Quem é conhecido por estudar a eletricidade e o para-raios?",
+    "o": ["Benjamin Franklin", "Thomas Edison", "Nikola Tesla", "Michael Faraday"],
+    "a": 0
+  },
+  {
+    "q": "Quem desenvolveu o telescópio moderno?",
+    "o": ["Galileu Galilei", "Isaac Newton", "Albert Einstein", "Johannes Kepler"],
+    "a": 0
+  },
+  {
+    "q": "Quem descobriu os raios X?",
+    "o": ["Wilhelm Röntgen", "Marie Curie", "Albert Einstein", "Alexander Fleming"],
+    "a": 0
+  },
+  {
+    "q": "Quem contribuiu para a teoria do eletromagnetismo?",
+    "o": ["James Clerk Maxwell", "Nikola Tesla", "Benjamin Franklin", "Isaac Newton"],
+    "a": 0
+  },
+  {
+    "q": "Quem descobriu a radioatividade?",
+    "o": ["Marie Curie", "Albert Einstein", "Louis Pasteur", "Wilhelm Röntgen"],
+    "a": 0
+  }
+]
